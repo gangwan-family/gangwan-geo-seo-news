@@ -2,7 +2,7 @@
 title: "Scientific computing in the age of agentic AI"
 source: "OpenAI News"
 published: 2026-07-28T17:00:00+00:00
-fetched_at: 2026-08-01T13:06:18.701296+00:00
+fetched_at: 2026-08-01T13:15:30.820649+00:00
 url: "https://openai.com/index/scientific-computing-agentic-ai"
 guid: "https://openai.com/index/scientific-computing-agentic-ai"
 categories:

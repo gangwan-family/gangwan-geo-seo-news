@@ -2,7 +2,7 @@
 title: "Accelerating scientific discovery with ChatGPT for Academic Researchers"
 source: "OpenAI News"
 published: 2026-07-29T10:00:00+00:00
-fetched_at: 2026-08-01T13:06:18.701296+00:00
+fetched_at: 2026-08-01T13:15:30.820649+00:00
 url: "https://openai.com/index/chatgpt-for-academic-researchers"
 guid: "https://openai.com/index/chatgpt-for-academic-researchers"
 categories:

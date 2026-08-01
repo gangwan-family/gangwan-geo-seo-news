@@ -1,4 +1,4 @@
-# gangwan-geo-seo-news.github.io
+# gangwan-geo-seo-news
 
 基于 Jekyll 的 GEO / SEO / AI Search 资讯站点，部署到 GitHub Pages。
 
@@ -56,7 +56,7 @@ GitHub Pages 配置
 
 站点地址
 
-- 生产地址：`https://gangwan-family.github.io/gangwan-geo-seo-news.github.io/`
+- 生产地址：`https://gangwan-family.github.io/gangwan-geo-seo-news/`
 
 本地使用
 

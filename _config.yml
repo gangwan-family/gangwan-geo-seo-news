@@ -1,8 +1,8 @@
 # Jekyll configuration for GEO-SEO News site
 title: GEO-SEO News
 description: GEO、SEO、AI Search 相关博客资源汇总
-# Project Pages repository, published under https://gangwan-family.github.io/gangwan-geo-seo-news.github.io/
-baseurl: "/gangwan-geo-seo-news.github.io"
+# Project Pages repository, published under https://gangwan-family.github.io/gangwan-geo-seo-news/
+baseurl: "/gangwan-geo-seo-news"
 url: "https://gangwan-family.github.io"
 timezone: Asia/Shanghai
 

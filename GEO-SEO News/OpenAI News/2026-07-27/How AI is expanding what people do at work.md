@@ -2,7 +2,7 @@
 title: "How AI is expanding what people do at work"
 source: "OpenAI News"
 published: 2026-07-27T03:30:00+00:00
-fetched_at: 2026-08-01T13:15:30.820649+00:00
+fetched_at: 2026-08-01T22:26:28.225215+00:00
 url: "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
 guid: "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
 categories:

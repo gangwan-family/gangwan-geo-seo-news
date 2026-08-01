@@ -2,7 +2,7 @@
 title: "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark"
 source: "OpenAI News"
 published: 2026-07-29T15:00:00+00:00
-fetched_at: 2026-08-01T13:15:30.820649+00:00
+fetched_at: 2026-08-01T22:26:28.225215+00:00
 url: "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
 guid: "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
 categories:

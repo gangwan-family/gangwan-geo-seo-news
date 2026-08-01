@@ -2,7 +2,7 @@
 title: "Disrupting a Criminal Scam Operation"
 source: "OpenAI News"
 published: 2026-07-31T00:00:00+00:00
-fetched_at: 2026-07-31T22:32:16.940991+00:00
+fetched_at: 2026-08-01T07:31:36.192656+00:00
 url: "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
 guid: "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
 ---

@@ -1,0 +1,39 @@
+{
+  "sources": [
+    {
+      "name": "Google Search Central Blog",
+      "slug": "google-search-central-blog",
+      "url": "https://feeds.feedburner.com/blogspot/amDG",
+      "homepage": "https://developers.google.com/search/blog/",
+      "save_full_text": true
+    },
+    {
+      "name": "OpenAI News",
+      "slug": "openai-news",
+      "url": "https://openai.com/news/rss.xml",
+      "homepage": "https://openai.com/news",
+      "save_full_text": true
+    },
+    {
+      "name": "Search Engine Journal",
+      "slug": "search-engine-journal",
+      "url": "https://www.searchenginejournal.com/feed/",
+      "homepage": "https://www.searchenginejournal.com/",
+      "save_full_text": true
+    },
+    {
+      "name": "Google AI Blog",
+      "slug": "google-ai-blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "homepage": "https://blog.google/innovation-and-ai/technology/ai/",
+      "save_full_text": true
+    },
+    {
+      "name": "Semrush Blog",
+      "slug": "semrush-blog",
+      "url": "https://www.semrush.com/blog/feed/",
+      "homepage": "https://www.semrush.com/blog/",
+      "save_full_text": true
+    }
+  ]
+}

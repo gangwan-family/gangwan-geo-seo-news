@@ -1,0 +1,61 @@
+# Jekyll configuration for GEO-SEO News site
+title: GEO-SEO News
+description: GEO、SEO、AI Search 相关博客资源汇总
+# Project Pages repository, published under https://gangwan-family.github.io/gangwan-geo-seo-news.github.io/
+baseurl: "/gangwan-geo-seo-news.github.io"
+url: "https://gangwan-family.github.io"
+timezone: Asia/Shanghai
+
+# Author
+author:
+  name: Gang Wan
+  email: 
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude files
+exclude:
+  - .DS_Store
+  - .git
+  - .github
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - scripts/
+  - _state/
+  - sources.json
+  - vendor/
+  - .bundle/
+
+# Keep original directory structure
+keep_files:
+  - GEO-SEO\ News
+
+# Collections for blog sources
+collections:
+  posts:
+    output: true
+    permalink: /posts/:path/
+
+# Default layout
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: "post"
+      categories: []
+
+# Feed settings
+feed:
+  path: feed.xml

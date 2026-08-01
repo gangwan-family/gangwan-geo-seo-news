@@ -1,0 +1,170 @@
+---
+layout: post
+title: "Google Explains SEO Connection Of Site Quality To Non-Indexed Pages via @sejournal, @martinibuster"
+date: 2026-07-17T11:16:20+00:00
+source: "Search Engine Journal"
+generated_from: "GEO-SEO News/Search Engine Journal/2026-07-17/Google Explains SEO Connection Of Site Quality To Non-Indexed Pages via @sejournal, @martinibuster.md"
+original_url: "https://www.searchenginejournal.com/google-explains-seo-connection-of-site-quality-to-non-indexed-pages/582683/"
+author: "Roger Montti"
+categories:
+  - "News"
+  - "SEO"
+---
+
+# Google Explains SEO Connection Of Site Quality To Non-Indexed Pages via @sejournal, @martinibuster
+
+- Source: Search Engine Journal
+- Published: 2026-07-17
+- URL: https://www.searchenginejournal.com/google-explains-seo-connection-of-site-quality-to-non-indexed-pages/582683/
+- Author: Roger Montti
+- Categories: News, SEO
+
+## RSS 摘要
+
+Google's John Mueller says that overall site quality is more than just text. How users experience the page can define quality, too. The post Google Explains SEO Connection Of Site Quality To Non-Indexed Pages appeared first on Search Engine Journal .
+
+## 原文正文
+
+Google Explains SEO Connection Of Site Quality To Non-Indexed Pages Skip to content
+
+- SEJ
+
+- ⋅
+
+- SEO
+
+## Google Explains SEO Connection Of Site Quality To Non-Indexed Pages
+
+Google's John Mueller and Martin Splitt discuss how quality is more than just text, that the user experience can have something to do with it.
+
+Google’s Martin Splitt and John Mueller discussed the Page Indexing Report and how it could be used to identify indexing issues. Of interest is how they tied quality to indexing, saying that quality isn’t just about the text on a web page.
+
+### Indexing Happens In Stages
+
+Splitt and Mueller were discussing issues that could temporarily affect indexing such as a server not responding, that computers fail, DNS lookups sometimes fail, many reasons for why Google might not be able to crawl a site, then following up with the advice that not everything needs to be investigated.
+
+Then they mentioned that when a site is new, the Page Indexing Report can show you the various stages of indexing that a page goes through.
+
+Splitt explained how this works:
+
+“And also, if you add or change your site, or if your site is very new, then you can actually also use this report to see a little bit how your site goes through the different stages.
+
+Because at some point, you’re going to see pages in discovered currently not indexed, which tells you we know they exist, but we haven’t actually visited them. And if we haven’t visited them, we can’t put them in the index versus crawled currently not indexed, which means we visited them and we didn’t put them in the index. And that can have all sorts of different reasons.”
+
+### Lack Of Indexing Not Always A Quality Issue
+
+At this point, the conversation turned to quality issues in the context of indexing and how that might have an impact. Mueller confirmed that this is not always about quality.
+
+Splitt asked Mueller about the not indexed status in the Page Indexing Report:
+
+“Would you say that that is often or only sometimes a sign of a quality issue?”
+
+Mueller answered:
+
+“Sometimes.”
+
+### Strong Concerns About Quality
+
+Mueller explained that the not indexed status can be triggered if Google’s systems are “seriously worried” about quality. That sounds kind of strange for a system to be in a state of worry. What he probably meant is that if quality scores or some other indicator crosses a threshold, this can mean there’s a “concern” about quality related to the site.
+
+Mueller continued his answer:
+
+“So, it’s definitely the case if our systems are seriously worried about the quality of the website that they will reduce the number of pages at the index. Because if we have strong concerns about the overall quality, then it doesn’t make much sense for our systems to spend a lot of time on the website.
+
+So we’ll probably crawl a lot less. We’ll index a lot less. And then you’ll see things like crawled not indexed or discovered not indexed, which from our point of view, is basically our system saying, we know about this and once we’re happy, we will take another look and see if we can index it.”
+
+### Page Not Indexed Not Always Because Of A Technical Reason
+
+It’s not uncommon for a site owner to consider that there’s nothing wrong with their site, which leads to an inability to diagnose a page quality issue. Nobody knows a site as well as the site owner or the SEO, and they have put the time in to make it as perfect as possible. So it’s understandable that a person is unable to see that there are actual quality issues affecting a site.
+
+So what happens is that people try to find a technical issue to explain why a site is not getting indexed. When that fails, some people believe they’re victims of negative SEO and begin a cycle of constantly disavowing “bad” links, usually with no improvement.
+
+If this sounds like your situation, you may need to seriously consider that there is a quality issue affecting the site, which can seem inconceivable because the site is “perfect.”
+
+Mueller addresses this quality blind-spot that can affect any site owner.
+
+Mueller continued his answer:
+
+“It’s not so much that I would say you should take these situations and try to fix them. From a technical point of view, it’s not that you need to fix this technical issue that Google is not indexing this page at the moment. But rather, you almost need to… when you recognize a bigger pattern like this, like Google is not indexing a lot of your pages, and there’s no technical reason, you almost need to take a step back and think about the quality overall.
+
+And thinking about quality is really challenging because a lot of times, it’s your website, and it’s your baby. And of course, it’s the best baby ever.”
+
+### Site Visitors And Overall Quality
+
+At this point, Mueller adds something unexpected to the discussion. He mentions how site visitors might take a look at the site and quickly determine that it lacks quality factors like uniqueness. He didn’t say that Google’s systems determined that the site lacks quality; he said that people might be making that determination.
+
+He didn’t explicitly say that Google was picking up on user signals that are indicative of site quality issues. But it sure sounds like he’s implying it.
+
+Mueller continued his answer:
+
+“But taking a step back and trying to look at it with the eyes of someone who is not directly involved with your website, sometimes that opens up some ideas for areas where you can improve, where maybe if most of your website is AI generated and it worked for a while, it might be that people look at this AI generated site and they’re like, well, I can tell this is AI generated, there’s nothing unique or valuable that is available here for me.
+
+That’s not to say that all AI-generated content is bad, but sometimes you just run across websites where you’re like, anyone could have written this. This tells me nothing.”
+
+Martin Splitt commented on how hard it is to recognize that your best effort may not be as perfect as it seems.
+
+Splitt said:
+
+“Yeah, that’s true.
+
+And I think what makes this difficult is not only the fact that obviously the way you wrote it is the way you thought is best, and that’s why you think it’s high quality, of course. So that’s really, really hard to kind of step out of your own perspective.
+
+But sometimes it’s also there’s so much other stuff that is just as good. So why would we add it to the index?
+
+And then that can tell you like, maybe this content isn’t as valuable as I thought, it is because other people are covering the same thing. And then what’s the value of this version of it being in the index?”
+
+### Overall Quality Is Not Just About Text
+
+Mueller responded to Splitt by mentioning that quality is not always about text.
+
+“I feel we could have a whole podcast about quality. I think maybe one other thing that is worth mentioning with regards to quality is it’s not just the text. So a lot of times people will say like, well, my text is unique or my articles are good.
+
+And they’re packaged in a page that is terrible to access where anyone who, when they try to load it, like their computer fan spins up and they’re like, oh my gosh, I have to run away to make sure my computer doesn’t explode. So maybe that’s an extreme case.”
+
+If you only have one takeaway from this podcast, this should be it: Mueller says that quality is more than just text. He said that how a user experiences a web page can also be a part of quality.
+
+### User Experience And Quality Issues
+
+Mueller offered examples of the kinds of non-text quality issues that can negatively impact the user experience. He did not say that these issues can cause a person to abandon the site, but the examples he shared are the kinds of things that may cause a site visitor to hit their back button to get away from the web page.
+
+This is interesting because this is the kind of thing that can be detected, a user behavior signal. He used the example of a recipe site that frustrates its site visitors by making it difficult to find the recipe. That’s an example of a poor user experience as evidence of a quality issue.
+
+Mueller in fact calls out user experience by name, saying that they almost have to take the “full experience” into consideration for quality.
+
+He continued:
+
+“But you’ve all seen these pages where basically the text is there, but it’s almost hidden away, hidden behind ads, hidden behind interstitials, hidden behind other things that are moving and coming and going, maybe hidden below a bunch of filler content, which we sometimes see, for example, with recipes where there’s this really long story on top that maybe most people don’t really care about, and then the recipe comes.
+
+These are all the kind of things where the overall quality is much more than just that piece of text that you say, like, this is my main content, this is what Google should be counting for my site.
+
+And from our point of view, we almost have to take into account the full experience on a page because that’s what users see.
+
+It’s not that users go to a web page and turn on some magic mode that just pulls out the text but rather they have the full experience of this website with all of the 3D, 4D animations and everything.”
+
+### Takeaways
+
+- Google may reduce crawling and indexing when its systems have strong concerns about a website’s overall quality.
+
+- Site owners and SEOs should investigate quality issues when pages are unindexed and there are no technical issues to blame.
+
+- Quality is partly about whether pages offer unique and useful information. In my opinion, unique doesn’t mean that the words are literally different from another site. Unique means the topic, the coverage, all elements of the content and how it is presented to the user.
+
+- Slop content, both AI-generated and human-generated slop, may trigger a quality problem which manifests in the form of site visitors abandoning the page.
+
+- Google considers the full page experience, including accessibility, performance, ads, interstitials, filler content, and how easily users can reach the information they need.
+
+Google’s John Mueller explained that widespread indexing problems can reflect concerns about a site’s overall quality. He implied that the user experience is a factor that can influence indexing. The point to be considered is that technical issues may not be the reason why a site is not indexed and that text is not always the reason either, which ties into the user experience.
+
+Featured Image by Shutterstock/JHVEPhoto
+
+Category News SEO
+
+Read Full Bio
+
+SEJ STAFF Roger Montti Owner - Martinibuster.com at Martinibuster.com
+
+I have 25 years hands-on experience in SEO, evolving along with the search engines by keeping up with the latest ...
+
+## 原文链接
+
+[Read original](https://www.searchenginejournal.com/google-explains-seo-connection-of-site-quality-to-non-indexed-pages/582683/)

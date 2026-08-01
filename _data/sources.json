@@ -1,0 +1,29 @@
+{
+  "sources": [
+    {
+      "name": "Google Search Central Blog",
+      "homepage": "https://developers.google.com/search/blog/",
+      "slug": "google-search-central-blog"
+    },
+    {
+      "name": "OpenAI News",
+      "homepage": "https://openai.com/news",
+      "slug": "openai-news"
+    },
+    {
+      "name": "Search Engine Journal",
+      "homepage": "https://www.searchenginejournal.com/",
+      "slug": "search-engine-journal"
+    },
+    {
+      "name": "Google AI Blog",
+      "homepage": "https://blog.google/innovation-and-ai/technology/ai/",
+      "slug": "google-ai-blog"
+    },
+    {
+      "name": "Semrush Blog",
+      "homepage": "https://www.semrush.com/blog/",
+      "slug": "semrush-blog"
+    }
+  ]
+}

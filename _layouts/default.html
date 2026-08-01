@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% feed_meta %}
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="{{ '/' | relative_url }}" class="logo">{{ site.title }}</a>
+      <div class="nav-links">
+        <a href="{{ '/' | relative_url }}">首页</a>
+        <a href="{{ '/sources' | relative_url }}">来源</a>
+        <a href="{{ '/GEO-SEO News/' | relative_url }}">原始数据</a>
+      </div>
+    </nav>
+  </header>
+  
+  <main>
+    {{ content }}
+  </main>
+  
+  <footer>
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. 数据来源：Google AI Blog, OpenAI News, Search Engine Journal, Semrush Blog</p>
+  </footer>
+</body>
+</html>

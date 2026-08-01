@@ -1,0 +1,44 @@
+name: Fetch GEO SEO News
+
+on:
+  schedule:
+    # GitHub Actions cron uses UTC. 21:30 UTC = 05:30 Asia/Shanghai next day.
+    - cron: "30 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-geo-seo-news
+  cancel-in-progress: false
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Fetch news
+        run: python scripts/fetch_geo_seo_news.py
+
+      - name: Build Jekyll posts
+        run: python scripts/build_jekyll_posts.py
+
+      - name: Commit news updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "GEO-SEO News" "_posts"
+          if git diff --cached --quiet; then
+            echo "No GEO SEO news updates."
+          else
+            git commit -m "Update GEO SEO news"
+            git push
+          fi

@@ -2,7 +2,7 @@
 title: "Advancing the price-performance frontier with GPT-5.6"
 source: "OpenAI News"
 published: 2026-07-30T10:00:00+00:00
-fetched_at: 2026-08-01T07:31:36.192656+00:00
+fetched_at: 2026-08-01T13:06:18.701296+00:00
 url: "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
 guid: "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
 categories:

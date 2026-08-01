@@ -2,7 +2,7 @@
 title: "Advancing responsible AI across Europe"
 source: "OpenAI News"
 published: 2026-07-31T15:00:00+00:00
-fetched_at: 2026-08-01T07:31:36.192656+00:00
+fetched_at: 2026-08-01T13:06:18.701296+00:00
 url: "https://openai.com/index/advancing-responsible-ai-across-europe"
 guid: "https://openai.com/index/advancing-responsible-ai-across-europe"
 categories:

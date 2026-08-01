@@ -2,7 +2,7 @@
 title: "How avatarin built a 24/7 retail agent with GPT-Realtime"
 source: "OpenAI News"
 published: 2026-07-30T00:00:00+00:00
-fetched_at: 2026-08-01T07:31:36.192656+00:00
+fetched_at: 2026-08-01T13:06:18.701296+00:00
 url: "https://openai.com/index/avatarin"
 guid: "https://openai.com/index/avatarin"
 ---

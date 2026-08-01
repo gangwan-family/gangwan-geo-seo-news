@@ -120,6 +120,14 @@
       "title": "Univé builds an AI-ready workforce",
       "url": "https://openai.com/index/unive"
     },
+    "openai-news:6d58997b466ca59f729e755e523db112666f9bfc": {
+      "first_seen": "2026-08-01T13:06:18.701296+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-01/Ten advances in mathematics and theoretical computer science.md",
+      "published": "2026-08-01T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics"
+    },
     "openai-news:6d964f10c3337bbc89e99f2ce7545a297b7b9cec": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-29/How GPT-5.6 fuses frontier intelligence with frontier efficiency.md",
@@ -800,6 +808,14 @@
       "title": "Google Ads’ Target-Based Bidding Update For Ecommerce via @sejournal, @tonyadam",
       "url": "https://www.searchenginejournal.com/google-ads-target-based-bidding-update-for-ecommerce/581801/"
     },
+    "search-engine-journal:ced1a15f42f56d32d5d724bc06c5c20f3b00266d": {
+      "first_seen": "2026-08-01T13:06:18.701296+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-01/What Opting Out Of Google’s AI Search Features Means Now via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-01T12:00:39+00:00",
+      "source": "Search Engine Journal",
+      "title": "What Opting Out Of Google’s AI Search Features Means Now via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/what-opting-out-of-googles-ai-search-features-means-now/584321/"
+    },
     "search-engine-journal:d0bc04c78844ff41f3e2a479e40349f6a94c459c": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-29/Q3 AI Visibility AI Citations, Brand Mentions & Content Refreshes That Work via @sejournal, @AirOpsHQ.md",
@@ -1129,6 +1145,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-01T07:31:36.192656+00:00",
+  "last_run_at": "2026-08-01T13:06:18.701296+00:00",
   "version": 1
 }

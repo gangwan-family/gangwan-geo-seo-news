@@ -2,7 +2,7 @@
 title: "How GPT-5.6 fuses frontier intelligence with frontier efficiency"
 source: "OpenAI News"
 published: 2026-07-29T00:00:00+00:00
-fetched_at: 2026-08-01T07:31:36.192656+00:00
+fetched_at: 2026-08-01T13:06:18.701296+00:00
 url: "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
 guid: "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
 categories:

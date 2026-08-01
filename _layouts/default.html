@@ -14,6 +14,7 @@
       <a href="{{ '/' | relative_url }}" class="logo">{{ site.title }}</a>
       <div class="nav-links">
         <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>首页</a>
+        <a href="{{ '/calendar/' | relative_url }}"{% if page.url == '/calendar.html' or page.url == '/calendar/' %} aria-current="page"{% endif %}>日历</a>
         <a href="{{ '/sources' | relative_url }}"{% if page.url == '/sources.html' or page.url == '/sources/' %} aria-current="page"{% endif %}>来源</a>
         <a href="{{ '/GEO-SEO News/' | relative_url }}"{% if page.url contains '/GEO-SEO%20News/' or page.url contains '/GEO-SEO News/' %} aria-current="page"{% endif %}>原始数据</a>
       </div>

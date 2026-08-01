@@ -1,0 +1,75 @@
+---
+layout: default
+title: "日历"
+description: "按日历浏览 GEO-SEO News 已收录的日期归档"
+permalink: /calendar/
+---
+
+<div class="container page-shell">
+  {% assign calendar_data = site.data.calendar %}
+  {% assign calendar_months = calendar_data.months %}
+
+  <section class="page-intro">
+    <p class="page-eyebrow">Calendar archive</p>
+    <h1>日历</h1>
+    <p class="page-summary">按月浏览所有已收录日期。有文章的日期会高亮显示，点击后可进入当天归档页。</p>
+    <div class="page-stats">
+      <span>{{ site.posts | group_by_exp: "post", "post.date | date: '%Y-%m-%d'" | size }} 个有效日期</span>
+      <span>{{ calendar_months | size }} 个月份</span>
+      <span>{{ site.posts | size }} 篇文章</span>
+    </div>
+  </section>
+
+  {% if calendar_months and calendar_months.size > 0 %}
+  <nav class="calendar-month-nav" aria-label="月份导航">
+    {% for month in calendar_months %}
+    <a class="calendar-month-chip" href="#{{ month.anchor }}">{{ month.label }}</a>
+    {% endfor %}
+  </nav>
+
+  <section class="calendar-stack">
+    {% for month in calendar_months %}
+    <article id="{{ month.anchor }}" class="calendar-month">
+      <div class="calendar-month-head">
+        <h2>{{ month.label }}</h2>
+        <p>{{ month.days | size }} 个更新日期</p>
+      </div>
+
+      <div class="calendar-grid-wrap">
+        <div class="calendar-weekdays">
+          {% for weekday in calendar_data.weekdays %}
+          <span>{{ weekday }}</span>
+          {% endfor %}
+        </div>
+        <div class="calendar-grid">
+          {% for week in month.weeks %}
+            {% for day in week %}
+              {% assign day_class = "calendar-day" %}
+              {% unless day.in_month %}
+                {% assign day_class = day_class | append: " is-outside" %}
+              {% endunless %}
+              {% if day.has_posts %}
+                {% assign day_class = day_class | append: " has-posts" %}
+              {% endif %}
+
+              {% if day.has_posts %}
+              <a class="{{ day_class }}" href="{{ day.url | relative_url }}">
+                <span class="calendar-day-number">{{ day.day }}</span>
+                <span class="calendar-day-count">{{ day.count }} 篇</span>
+              </a>
+              {% else %}
+              <div class="{{ day_class }}">
+                <span class="calendar-day-number">{{ day.day }}</span>
+              </div>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        </div>
+      </div>
+    </article>
+    {% endfor %}
+  </section>
+  {% else %}
+  <p style="color:var(--muted); text-align:center; padding:40px 0;">暂无日期归档，请先同步新闻数据。</p>
+  {% endif %}
+</div>

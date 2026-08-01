@@ -1,0 +1,55 @@
+---
+layout: default
+---
+<div class="container page-shell">
+  <section class="page-intro">
+    <p class="page-eyebrow">Date archive</p>
+    <h1>{{ page.date_label }}</h1>
+    <p class="page-summary">查看这一天收录的全部文章，适合沿着具体日期回看更新节奏。</p>
+    <div class="page-stats">
+      <span>{{ page.post_count }} 篇文章</span>
+      <span>{{ page.sources | size }} 个来源</span>
+      <span><a class="source-link" href="{{ '/calendar/' | relative_url }}">返回日历 →</a></span>
+    </div>
+  </section>
+
+  <section class="archive-summary">
+    <h2>来源概览</h2>
+    <div class="post-tags archive-tag-list">
+      {% for source in page.sources %}
+      <span class="source-badge">{{ source }}</span>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="post-list">
+    <div class="date-group-heading archive-date-heading">
+      <span class="date-group-day">{{ page.date_value | slice: 5, 5 }}</span>
+      <div class="date-group-meta">
+        <h2>{{ page.date_label }}</h2>
+        <p>{{ page.post_count }} 篇更新</p>
+      </div>
+    </div>
+
+    {% for entry in page.entries %}
+    <div class="post-card">
+      <div class="content-col">
+        <h3><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></h3>
+        <div class="post-meta-inline">
+          <span class="source-badge">{{ entry.source }}</span>
+        </div>
+        {% if entry.excerpt %}
+        <p class="excerpt">{{ entry.excerpt }}</p>
+        {% endif %}
+        {% if entry.categories %}
+        <div class="post-tags">
+          {% for cat in entry.categories %}
+          <span class="topic-tag">{{ cat }}</span>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </section>
+</div>

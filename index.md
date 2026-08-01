@@ -22,6 +22,14 @@ description: "GEO、SEO、AI Search 相关博客资源汇总"
         <option value="{{ group.name }}">{{ group.name }} ({{ group.items | size }})</option>
         {% endfor %}
       </select>
+      <label for="source-filter">筛选来源</label>
+      <select id="source-filter">
+        <option value="all">全部来源</option>
+        {% assign grouped_sources = sorted_posts | group_by: "source" | sort_natural: "name" %}
+        {% for group in grouped_sources %}
+        <option value="{{ group.name }}">{{ group.name }} ({{ group.items | size }})</option>
+        {% endfor %}
+      </select>
       <button type="button" id="date-filter-reset" class="filter-reset">清除筛选</button>
     </div>
     <p class="filter-summary">共 {{ sorted_posts | size }} 篇文章，{{ grouped_dates | size }} 个日期目录。</p>
@@ -31,7 +39,7 @@ description: "GEO、SEO、AI Search 相关博客资源汇总"
     {% for post in sorted_posts %}
     <div class="post-card">
       <div class="date-col">{{ post.date | date: "%m-%d" }}</div>
-      <div class="content-col" data-post-date="{{ post.date | date: '%Y-%m-%d' }}">
+      <div class="content-col" data-post-date="{{ post.date | date: '%Y-%m-%d' }}" data-post-source="{{ post.source }}">
         <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
         <div class="post-meta-inline">
           <span class="tag">{{ post.source }}</span>
@@ -61,33 +69,40 @@ description: "GEO、SEO、AI Search 相关博客资源汇总"
 
 <script>
   (function () {
-    var select = document.getElementById('date-filter');
+    var dateSelect = document.getElementById('date-filter');
+    var sourceSelect = document.getElementById('source-filter');
     var reset = document.getElementById('date-filter-reset');
     var emptyState = document.getElementById('post-empty-state');
-    if (!select || !reset) return;
+    if (!dateSelect || !sourceSelect || !reset) return;
 
     var cards = Array.prototype.slice.call(document.querySelectorAll('.post-card'));
 
     function applyFilter() {
-      var selected = select.value;
+      var selectedDate = dateSelect.value;
+      var selectedSource = sourceSelect.value;
       var visibleCount = 0;
 
       cards.forEach(function (card) {
         var content = card.querySelector('[data-post-date]');
         var postDate = content ? content.getAttribute('data-post-date') : '';
-        var visible = selected === 'all' || postDate === selected;
+        var postSource = content ? content.getAttribute('data-post-source') : '';
+        var dateMatch = selectedDate === 'all' || postDate === selectedDate;
+        var sourceMatch = selectedSource === 'all' || postSource === selectedSource;
+        var visible = dateMatch && sourceMatch;
         card.hidden = !visible;
         if (visible) visibleCount += 1;
       });
 
       if (emptyState) {
-        emptyState.hidden = visibleCount !== 0 || selected === 'all';
+        emptyState.hidden = visibleCount !== 0;
       }
     }
 
-    select.addEventListener('change', applyFilter);
+    dateSelect.addEventListener('change', applyFilter);
+    sourceSelect.addEventListener('change', applyFilter);
     reset.addEventListener('click', function () {
-      select.value = 'all';
+      dateSelect.value = 'all';
+      sourceSelect.value = 'all';
       applyFilter();
     });
   })();

@@ -1,0 +1,107 @@
+---
+layout: post
+title: "AI Video After Sora: 3 Updates You Should Make Before You Publish via @sejournal, @gregjarboe"
+date: 2026-07-27T14:30:27+00:00
+source: "Search Engine Journal"
+source_slug: "search-engine-journal"
+generated_from: "GEO-SEO News/Search Engine Journal/2026-07-27/AI Video After Sora 3 Updates You Should Make Before You Publish via @sejournal, @gregjarboe.md"
+original_url: "https://www.searchenginejournal.com/ai-video-after-sora-3-updates-you-should-make-before-you-publish/583123/"
+author: "Greg Jarboe"
+categories:
+  - "SEO"
+  - "_src_search-engine-journal"
+---
+
+# AI Video After Sora: 3 Updates You Should Make Before You Publish via @sejournal, @gregjarboe
+
+- Source: Search Engine Journal
+- Published: 2026-07-27
+- URL: https://www.searchenginejournal.com/ai-video-after-sora-3-updates-you-should-make-before-you-publish/583123/
+- Author: Greg Jarboe
+- Categories: SEO
+
+## RSS 摘要
+
+Before your next AI video goes live: Audit disclosure against YouTube's actual policy, produce below the ceiling, and name the human decision-maker. The post AI Video After Sora: 3 Updates You Should Make Before You Publish appeared first on Search Engine Journal .
+
+## 原文正文
+
+AI Video After Sora: 3 Updates You Should Make Before You Publish Skip to content
+
+- SEJ
+
+- ⋅
+
+- SEO
+
+## AI Video After Sora: 3 Updates You Should Make Before You Publish
+
+I built my five-pillar framework in April. Four months later, Sora's shutdown and YouTube's purge proved Pillar 5 right.
+
+OpenAI shut down the Sora app in a two-sentence social media post in late March, but the reason it collapsed had nothing to do with video quality. The company wrote that it was “saying goodbye to the Sora app,” according to the Associated Press , after months of pressure over deepfakes of Michael Jackson, Martin Luther King Jr., and Mister Rogers that forced OpenAI into reactive takedowns before family estates and an actors’ union intervened. Sora didn’t fail because the model couldn’t generate convincing video. It failed because nobody had built the trust infrastructure around it before letting the public loose on the prompt box.
+
+The same week, YouTube’s enforcement data told a related story from the opposite direction. In January, the platform permanently deleted 16 channels under what it now calls its inauthentic content policy, a July 2025 rename of the old repetitious content rule. Those channels had a combined 35 million subscribers and 4.7 billion lifetime views, and they were producing mass-generated, templated video with no human editorial input behind it, according to reporting in The Hollywood Reporter .
+
+Both stories are about the same failure. Neither is really about AI video getting better or worse. They’re about what happens when scale outruns the human judgment that’s supposed to sit on top of it, and that gap is exactly what I built my 5-Pillar Framework for AI content to close back in April. Four months later, it doesn’t need much of an update.
+
+### The Cost Of Scale Just Dropped Again, Which Raises The Stakes
+
+Two days before Sora’s shutdown made headlines, Google published a blog post announcing Veo 3.1 Lite , its most cost-effective video generation model, priced at less than half of Veo 3.1 Fast for the same speed. Developers can now generate four-, six-, or eight-second clips in landscape or portrait at up to 1080p, built explicitly for high-volume applications.
+
+That’s not a criticism of the tool. It’s a fact worth ground truthing. The cost of producing video at scale keeps falling, which means the pressure my framework’s Pillar 1 was built to manage – the temptation to treat AI as a shortcut instead of infrastructure – is only going to grow. Cheaper generation makes strategy-first discipline more necessary, not less.
+
+### The Human Face Became A Trust Signal, Not Just A Style Choice
+
+Craig Billings runs a science channel called Doctor NOS with 1.7 million subscribers, and he told The Hollywood Reporter that faceless channels covering his same territory are getting hit hard by the crackdown. Most of them are getting demonetized, he said, while creators who never touched AI but also never showed their face are getting caught in the same net.
+
+That’s a real cost of imperfect enforcement, and it’s worth naming honestly, but it also confirms something my framework already argued in Pillar 5. YouTube’s own policy page, “ How Creators Use AI for Content Creation ,” states plainly that the platform requires creators to disclose when AI was used to edit or generate realistic content , and that labels can appear on the video player for Shorts or below long-form videos. If a creator skips disclosure and YouTube’s systems detect AI anyway, the label gets applied automatically, and creators cannot remove it once there’s high confidence it was AI-made.
+
+Four months ago, I wrote that hiding AI use reads as weakness to sophisticated audiences and that disclosure reads as competence. That’s no longer just a trust strategy. It’s now baked into the platform’s actual infrastructure, and treating it as optional PR polish is a strategic mistake, not just a missed opportunity.
+
+### What Working AI Video Actually Looks Like
+
+Contrast the slop channels with what Think with Google’s new Creativity Edition guide documents. Google Creative Lab’s Matthew Carey described building the AI-assisted short film ANCESTRA by deliberately avoiding generic prompts, prompting shots of the cosmos using descriptions of specific microscopes and lights rather than the word cosmos itself, because the obvious prompt produces the visual average every model defaults to. Monks co-founder Wesley Haar, ter told the same publication that the brands succeeding with AI have done the unglamorous work of codifying exactly what their brand is before ever generating a frame.
+
+Neither example treats AI as a volume machine. Both treat it as execution capacity sitting underneath a specific human decision about what belongs on screen and what doesn’t. That’s Pillar 1 and Pillar 5 working together, and it’s the difference between the channels YouTube terminated and the case studies Google is now showcasing as the industry standard.
+
+### The Trust Gap Is Wider In The USA Than In The UAE
+
+There’s a market dimension to this that American marketers tend to underweight. In a 19-market YouGov survey I covered in July , the US had the lowest rate of AI-assisted search of any country tested, at 48%, compared to 89% in India, Indonesia, and the UAE, and only 28% of U.S. searchers said they trust an AI assistant’s answer at all.
+
+I teach a module called “Engaging Audiences through Content in the AI Era” at the New Media Academy in the UAE, in a region where AI-assisted discovery is already the norm rather than the exception. The lesson isn’t that Americans are wrong to be skeptical. It’s that the disclosure and human-judgment requirements built into Pillar 5 aren’t regional nice-to-haves. They’re the baseline a skeptical American audience needs and a receptive Emirati audience will expect anyway once enforcement catches up to adoption.
+
+### 3 Updates To Make Before Your Next AI Video Goes Live
+
+First, audit whether your disclosure practices meet the platform’s actual policy language , not your internal comfort level. YouTube’s own guidance says labels apply to photorealistic or meaningfully altered content, and creators lose the ability to remove that label once the system flags it with high confidence.
+
+Second, price your production plan against what tools like Veo 3.1 Lite now make possible at scale, then deliberately choose to produce less than the ceiling allows. The technical ability to generate a thousand variants doesn’t obligate you to publish a thousand variants.
+
+Third, name the human decision-maker on every AI-assisted piece before it ships, the way Carey’s team did on Ancestra and ter Haar’s team does with Monks’ brand knowledge bases. If no one can answer who decided this was the right cut, the piece isn’t ready.
+
+### My Take
+
+The AI slop conversation in this industry keeps getting framed as a content quality problem, and I think that framing is wrong. It’s a trust infrastructure problem, and Sora, YouTube’s purge, and the falling cost of Veo all point at the same gap from three different angles.
+
+What I argued in April holds. The only thing that changed is the platforms stopped arguing back. Meaning cannot be automated, and the tools that scale fastest are the ones that make skipping the human checkpoint most tempting. My framework didn’t need a rewrite this fall. It just needed the industry to catch up to Pillar 5.
+
+More Resources:
+
+- YouTube Explains What Can Stop A Channel Getting Paid
+
+- Google Brings AI Content Verification To Search
+
+- YouTube’s AI Slop Problem And How Marketers Can Compete
+
+Featured Image: Gorodenkoff/Shutterstock
+
+Category SEO
+
+Read Full Bio
+
+VIP CONTRIBUTOR Greg Jarboe President and co-founder at SEO-PR
+
+Before Greg Jarboe retired, he was the president of SEO-PR, which he co-founded with Jamie O’Donnell, from 2003 to 2025. ...
+
+## 原文链接
+
+[Read original](https://www.searchenginejournal.com/ai-video-after-sora-3-updates-you-should-make-before-you-publish/583123/)

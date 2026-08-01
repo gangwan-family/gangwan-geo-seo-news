@@ -112,6 +112,7 @@ def build_post(path: Path) -> tuple[Path, str]:
 
     title = str(front_matter.get("title") or path.stem).strip()
     source = str(front_matter.get("source") or source_name).strip()
+    source_slug = slugify(source_name, "source")
     original_url = str(front_matter.get("original_url") or front_matter.get("url") or "").strip()
     author = str(front_matter.get("author") or "").strip()
     date_value = normalize_date(str(front_matter.get("published") or front_matter.get("date") or ""), date_dir)
@@ -119,10 +120,14 @@ def build_post(path: Path) -> tuple[Path, str]:
     if not isinstance(categories, list):
         categories = [str(categories)]
     categories = [str(item).strip() for item in categories if str(item).strip()]
+    source_category = f"_src_{source_slug}"
+    if source_category not in categories:
+        categories.append(source_category)
 
     fingerprint = hashlib.sha1(str(relative_source).encode("utf-8")).hexdigest()[:8]
     slug = slugify(path.stem, fingerprint)
-    destination = POSTS_ROOT / f"{date_dir}-{slug}.md"
+    year, month, _day = date_dir.split("-", 2)
+    destination = POSTS_ROOT / year / month / f"{date_dir}-{slug}.md"
 
     lines = [
         "---",
@@ -130,6 +135,7 @@ def build_post(path: Path) -> tuple[Path, str]:
         f"title: {yaml_quote(title)}",
         f"date: {date_value}",
         f"source: {yaml_quote(source)}",
+        f"source_slug: {yaml_quote(source_slug)}",
         f"{GENERATED_MARKER}: {yaml_quote(str(relative_path))}",
     ]
     if original_url:
@@ -145,7 +151,7 @@ def build_post(path: Path) -> tuple[Path, str]:
 
 def cleanup_stale_posts(desired_paths: set[Path], dry_run: bool) -> int:
     removed = 0
-    for path in POSTS_ROOT.glob("*.md"):
+    for path in POSTS_ROOT.rglob("*.md"):
         if path in desired_paths:
             continue
         try:
@@ -177,6 +183,7 @@ def run(dry_run: bool) -> int:
             continue
         written += 1
         if not dry_run:
+            destination.parent.mkdir(parents=True, exist_ok=True)
             destination.write_text(rendered, encoding="utf-8")
 
     removed = cleanup_stale_posts(desired_paths, dry_run=dry_run)

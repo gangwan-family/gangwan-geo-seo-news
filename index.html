@@ -1,0 +1,67 @@
+---
+layout: default
+title: "GEO-SEO News"
+description: "GEO、SEO、AI Search 相关博客资源汇总"
+pagination:
+  enabled: true
+---
+
+<div class="container page-shell">
+  {% assign paginated_posts = paginator.posts %}
+  {% assign grouped_dates = paginated_posts | group_by_exp: "post", "post.date | date: '%Y-%m-%d'" %}
+  {% assign grouped_sources = site.posts | group_by: "source" | sort_natural: "name" %}
+
+  <section class="page-intro">
+    <p class="page-eyebrow">News index</p>
+    <h1>GEO-SEO News</h1>
+    <p class="page-summary">按日期整理 GEO、SEO、AI Search 相关文章，适合持续浏览、翻页回看和按来源继续深入。</p>
+    <div class="page-stats">
+      <span>{{ site.posts | size }} 篇文章</span>
+      <span>{{ site.posts | group_by_exp: "post", "post.date | date: '%Y-%m-%d'" | size }} 个日期目录</span>
+      <span>{{ grouped_sources | size }} 个来源</span>
+    </div>
+  </section>
+
+  <section id="post-list" class="post-list">
+    {% assign current_date = "" %}
+    {% for post in paginated_posts %}
+    {% assign post_date = post.date | date: '%Y-%m-%d' %}
+    {% if post_date != current_date %}
+    <div class="date-group-heading" data-group-date="{{ post_date }}">
+      <span class="date-group-day">{{ post.date | date: "%m-%d" }}</span>
+      <div class="date-group-meta">
+        <h2>{{ post.date | date: "%Y年%m月%d日" }}</h2>
+        <p>{{ grouped_dates | where: "name", post_date | map: "items" | first | size }} 篇更新</p>
+      </div>
+    </div>
+    {% assign current_date = post_date %}
+    {% endif %}
+    <div class="post-card" data-group-date="{{ post_date }}">
+      <div class="content-col">
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <div class="post-meta-inline">
+          <span class="source-badge">{{ post.source }}</span>
+        </div>
+        {% if post.excerpt %}
+        <p class="excerpt">{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
+        {% endif %}
+        {% if post.categories %}
+        <div class="post-tags">
+          {% for cat in post.categories %}
+          {% unless cat contains '_src_' %}
+          <span class="topic-tag">{{ cat }}</span>
+          {% endunless %}
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </section>
+
+  {% include pagination-nav.html %}
+
+  {% if paginated_posts.size == 0 %}
+  <p style="color:var(--muted); text-align:center; padding:40px 0;">暂无文章，请先同步新闻数据。</p>
+  {% endif %}
+</div>

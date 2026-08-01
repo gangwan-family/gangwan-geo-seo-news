@@ -4,15 +4,21 @@ layout: default
 {% assign source_entry = site.data.sources.sources | where: "name", page.source | first %}
 <div class="container post-shell">
   <article class="post-article">
+    <div class="post-topbar">
+      <a href="{{ '/' | relative_url }}" class="back-link">← 返回首页</a>
+      <a href="{{ '/sources' | relative_url }}" class="back-link">查看来源</a>
+    </div>
+
     <header class="post-header">
+      <p class="page-eyebrow">Article</p>
       <div class="post-kicker">
         <span class="tag">{{ page.source }}</span>
         <span class="post-date-chip">{{ page.date | date: "%Y-%m-%d" }}</span>
       </div>
       <h1>{{ page.title }}</h1>
       <div class="post-meta">
-        <span class="date">{{ page.date | date: "%B %d, %Y" }}</span>
-        <span class="source">来源: <a href="{{ source_entry.homepage | default: page.original_url }}" target="_blank" rel="noopener noreferrer">{{ page.source }}</a></span>
+        <span class="date">发布于 {{ page.date | date: "%Y年%m月%d日" }}</span>
+        <span class="source">来源 <a href="{{ source_entry.homepage | default: page.original_url }}" target="_blank" rel="noopener noreferrer">{{ page.source }}</a></span>
         {% if page.author and page.author != "" %}
         <span class="author">作者: {{ page.author }}</span>
         {% endif %}
@@ -20,13 +26,20 @@ layout: default
       {% if page.categories %}
       <div class="post-tags post-tags-block">
         {% for category in page.categories %}
+        {% unless category contains '_src_' %}
         <span class="tag">{{ category }}</span>
+        {% endunless %}
         {% endfor %}
       </div>
       {% endif %}
-      {% if page.original_url %}
-      <p class="original-url"><a href="{{ page.original_url }}" target="_blank" rel="noopener noreferrer">阅读原文 →</a></p>
-      {% endif %}
+      <div class="post-actions">
+        {% if page.original_url %}
+        <a class="source-link" href="{{ page.original_url }}" target="_blank" rel="noopener noreferrer">阅读原文 →</a>
+        {% endif %}
+        {% if page.generated_from %}
+        <span class="post-origin">归档来源 {{ page.generated_from }}</span>
+        {% endif %}
+      </div>
     </header>
     
     <div class="content">
@@ -35,6 +48,7 @@ layout: default
     
     <nav class="post-navigation">
       <a href="{{ '/' | relative_url }}" class="back-link">← 返回首页</a>
+      <a href="{{ '/sources' | relative_url }}" class="back-link">查看来源</a>
     </nav>
   </article>
 </div>

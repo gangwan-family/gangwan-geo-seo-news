@@ -1,0 +1,55 @@
+---
+layout: default
+---
+<div class="container page-shell">
+  <section class="page-intro">
+    <p class="page-eyebrow">Source archive</p>
+    <h1>{{ page.source_name }}</h1>
+    <p class="page-summary">按发布时间浏览 {{ page.source_name }} 的已收录文章，并可继续访问该来源的官方站点。</p>
+    <div class="page-stats">
+      <span>{{ paginator.total_posts }} 篇文章</span>
+      <span>第 {{ paginator.page }} / {{ paginator.total_pages }} 页</span>
+      <span><a class="source-link" href="{{ page.source_homepage }}" target="_blank" rel="noopener noreferrer">访问官网 →</a></span>
+    </div>
+  </section>
+
+  <section class="post-list">
+    {% assign current_date = "" %}
+    {% assign grouped_dates = paginator.posts | group_by_exp: "post", "post.date | date: '%Y-%m-%d'" %}
+    {% for post in paginator.posts %}
+    {% assign post_date = post.date | date: '%Y-%m-%d' %}
+    {% if post_date != current_date %}
+    <div class="date-group-heading">
+      <span class="date-group-day">{{ post.date | date: "%m-%d" }}</span>
+      <div class="date-group-meta">
+        <h2>{{ post.date | date: "%Y年%m月%d日" }}</h2>
+        <p>{{ grouped_dates | where: "name", post_date | map: "items" | first | size }} 篇更新</p>
+      </div>
+    </div>
+    {% assign current_date = post_date %}
+    {% endif %}
+    <div class="post-card">
+      <div class="content-col">
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <div class="post-meta-inline">
+          <span class="source-badge">{{ page.source_name }}</span>
+        </div>
+        {% if post.excerpt %}
+        <p class="excerpt">{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
+        {% endif %}
+        {% if post.categories %}
+        <div class="post-tags">
+          {% for cat in post.categories %}
+          {% unless cat contains '_src_' %}
+          <span class="topic-tag">{{ cat }}</span>
+          {% endunless %}
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </section>
+
+  {% include pagination-nav.html %}
+</div>

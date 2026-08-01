@@ -1,0 +1,85 @@
+{% if paginator and paginator.total_pages > 1 %}
+<nav class="pagination-nav" aria-label="分页导航">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <a class="pagination-link pagination-prev" href="{{ paginator.first_page_path | relative_url }}">上一页</a>
+    {% else %}
+    <a class="pagination-link pagination-prev" href="{{ paginator.previous_page_path | relative_url }}">上一页</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-link pagination-prev is-disabled">上一页</span>
+  {% endif %}
+
+  <div class="pagination-pages">
+    {% assign first_page_path = paginator.first_page_path | default: page.url %}
+    {% assign page_prefix = first_page_path | append: 'page/' %}
+    {% assign current_page = paginator.page %}
+    {% assign total_pages = paginator.total_pages %}
+    {% assign window_start = current_page | minus: 1 %}
+    {% assign window_end = current_page | plus: 1 %}
+
+    {% if window_start < 2 %}
+      {% assign window_start = 2 %}
+    {% endif %}
+    {% if window_end > total_pages | minus: 1 %}
+      {% assign window_end = total_pages | minus: 1 %}
+    {% endif %}
+
+    {% if current_page <= 2 %}
+      {% assign window_end = 4 %}
+      {% if window_end > total_pages | minus: 1 %}
+        {% assign window_end = total_pages | minus: 1 %}
+      {% endif %}
+    {% endif %}
+
+    {% if current_page >= total_pages | minus: 1 %}
+      {% assign window_start = total_pages | minus: 3 %}
+      {% if window_start < 2 %}
+        {% assign window_start = 2 %}
+      {% endif %}
+    {% endif %}
+
+    {% if current_page == 1 %}
+    <span class="pagination-link is-current">1</span>
+    {% else %}
+    <a class="pagination-link" href="{{ first_page_path | relative_url }}">1</a>
+    {% endif %}
+
+    {% if window_start > 2 %}
+    <span class="pagination-ellipsis">…</span>
+    {% endif %}
+
+    {% for page_number in (2..total_pages) %}
+      {% if page_number >= window_start and page_number <= window_end and page_number < total_pages %}
+        {% if page_number == current_page %}
+        <span class="pagination-link is-current">{{ page_number }}</span>
+        {% else %}
+        <a class="pagination-link" href="{{ page_prefix | append: page_number | append: '/' | relative_url }}">{{ page_number }}</a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% if window_end < total_pages | minus: 1 %}
+    <span class="pagination-ellipsis">…</span>
+    {% endif %}
+
+    {% if total_pages > 1 %}
+      {% if current_page == total_pages %}
+      <span class="pagination-link is-current">{{ total_pages }}</span>
+      {% else %}
+      <a class="pagination-link" href="{{ page_prefix | append: total_pages | append: '/' | relative_url }}">{{ total_pages }}</a>
+      {% endif %}
+    {% endif %}
+  </div>
+
+  <div class="pagination-mobile-status">
+    <span>{{ paginator.page }} / {{ paginator.total_pages }}</span>
+  </div>
+
+  {% if paginator.next_page %}
+    <a class="pagination-link pagination-next" href="{{ paginator.next_page_path | relative_url }}">下一页</a>
+  {% else %}
+    <span class="pagination-link pagination-next is-disabled">下一页</span>
+  {% endif %}
+</nav>
+{% endif %}

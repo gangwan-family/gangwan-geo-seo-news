@@ -28,10 +28,25 @@ USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 )
+# Modern browser request headers. OpenAI (and other Cloudflare-fronted sites)
+# reject requests that lack the Sec-Fetch-* / Sec-CH-UA hints with HTTP 403 +
+# a bot "challenge" interstitial, which makes article extraction fail. These
+# headers are sent by every real browser, so they are safe for all sources.
+SEC_FETCH_HEADERS = {
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Sec-CH-UA": '"Chromium";v="126", "Not)A;Brand";v="99"',
+    "Sec-CH-UA-Mobile": "?0",
+    "Sec-CH-UA-Platform": '"macOS"',
+}
 REQUEST_HEADERS = {
     "User-Agent": USER_AGENT,
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
+    **SEC_FETCH_HEADERS,
 }
 ARTICLE_MARKER = "## 原文正文"
 SKIP_TAGS = {"script", "style", "svg", "noscript", "template", "form", "button", "nav", "footer", "aside"}
@@ -296,8 +311,10 @@ def fetch_bytes_with_curl(url: str, timeout: int = 20) -> tuple[bytes, str]:
         f"Accept: {REQUEST_HEADERS['Accept']}",
         "-H",
         f"Accept-Language: {REQUEST_HEADERS['Accept-Language']}",
-        url,
     ]
+    for name, value in SEC_FETCH_HEADERS.items():
+        command.extend(["-H", f"{name}: {value}"])
+    command.append(url)
     result = subprocess.run(command, capture_output=True, check=False)
     if result.returncode != 0:
         stderr = result.stderr.decode("utf-8", errors="replace").strip()

@@ -9,8 +9,8 @@
   {% feed_meta %}
 </head>
 <body>
-  <header>
-    <nav>
+  <header class="site-header">
+    <nav class="site-nav" aria-label="站点导航">
       <a href="{{ '/' | relative_url }}" class="logo">{{ site.title }}</a>
       <div class="nav-links">
         <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>首页</a>
@@ -25,7 +25,7 @@
     {{ content }}
   </main>
   
-  <footer>
+  <footer class="site-footer">
     <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
     {% assign source_names = site.data.sources.sources | map: "name" %}
     <p>数据来源：{{ source_names | join: ", " }}</p>

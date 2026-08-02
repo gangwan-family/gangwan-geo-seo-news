@@ -65,6 +65,13 @@ defaults:
     values:
       layout: "post"
       categories: []
+      # 新闻正文无需 Liquid 渲染；关闭后正文里的 {% %}/{{ }}（如抓来的 Shopify 模板示例）不会被当模板解析，消除 Liquid Warning
+      render_with_liquid: false
+  - scope:
+      path: "GEO-SEO News"
+    values:
+      # 原始数据目录同样按纯内容处理，关闭正文 Liquid 渲染
+      render_with_liquid: false
 
 # Feed settings
 feed:

@@ -21,54 +21,68 @@ permalink: /calendar/
   </section>
 
   {% if calendar_months and calendar_months.size > 0 %}
-  <nav class="calendar-month-nav" aria-label="月份导航">
-    {% for month in calendar_months %}
-    <a class="calendar-month-chip" href="#{{ month.anchor }}">{{ month.label }}</a>
-    {% endfor %}
-  </nav>
+  <div class="calendar-nav" aria-label="月份切换">
+    <button class="calendar-nav-btn" id="prev-month" aria-label="上个月" {% if calendar_months | last == calendar_months.first %}disabled{% endif %}>&#8249;</button>
+    <span class="calendar-current-month" id="current-month-label">{{ calendar_months.first.label }}</span>
+    <button class="calendar-nav-btn" id="next-month" aria-label="下个月" {% if calendar_months.first == calendar_months.last %}disabled{% endif %}>&#8250;</button>
+  </div>
 
-  <section class="calendar-stack">
-    {% for month in calendar_months %}
-    <article id="{{ month.anchor }}" class="calendar-month">
-      <div class="calendar-month-head">
-        <h2>{{ month.label }}</h2>
-        <p>{{ month.days | size }} 个更新日期</p>
-      </div>
+  <div class="calendar-view" id="calendar-view">
+    <!-- 月份数据通过 JS 注入 -->
+  </div>
 
-      <div class="calendar-grid-wrap">
-        <div class="calendar-weekdays">
-          {% for weekday in calendar_data.weekdays %}
-          <span>{{ weekday }}</span>
-          {% endfor %}
-        </div>
-        <div class="calendar-grid">
-          {% for week in month.weeks %}
-            {% for day in week %}
-              {% assign day_class = "calendar-day" %}
-              {% unless day.in_month %}
-                {% assign day_class = day_class | append: " is-outside" %}
-              {% endunless %}
-              {% if day.has_posts %}
-                {% assign day_class = day_class | append: " has-posts" %}
-              {% endif %}
+  <script>
+  (function(){
+    var months = {{ calendar_months | jsonify }};
+    var weekdays = {{ calendar_data.weekdays | jsonify }};
+    var container = document.getElementById('calendar-view');
+    var label = document.getElementById('current-month-label');
+    var prevBtn = document.getElementById('prev-month');
+    var nextBtn = document.getElementById('next-month');
+    // months 数组按降序排列，index 0 是最新月份（默认展示）
+    var currentIndex = 0;
 
-              {% if day.has_posts %}
-              <a class="{{ day_class }}" href="{{ day.url | relative_url }}">
-                <span class="calendar-day-number">{{ day.day }}</span>
-                <span class="calendar-day-count">{{ day.count }} 篇</span>
-              </a>
-              {% else %}
-              <div class="{{ day_class }}">
-                <span class="calendar-day-number">{{ day.day }}</span>
-              </div>
-              {% endif %}
-            {% endfor %}
-          {% endfor %}
-        </div>
-      </div>
-    </article>
-    {% endfor %}
-  </section>
+    function renderMonth(idx) {
+      var m = months[idx];
+      label.textContent = m.label;
+      prevBtn.disabled = (idx >= months.length - 1);
+      nextBtn.disabled = (idx <= 0);
+
+      var html = '<article class="calendar-month">';
+      html += '<div class="calendar-grid-wrap">';
+      html += '<div class="calendar-weekdays">';
+      weekdays.forEach(function(w){ html += '<span>' + w + '</span>'; });
+      html += '</div><div class="calendar-grid">';
+
+      m.weeks.forEach(function(week){
+        week.forEach(function(day){
+          var cls = 'calendar-day';
+          if (!day.in_month) cls += ' is-outside';
+          if (day.has_posts) cls += ' has-posts';
+          if (day.has_posts) {
+            html += '<a class="' + cls + '" href="' + day.url + '">'
+                  + '<span class="calendar-day-number">' + day.day + '</span>'
+                  + '<span class="calendar-day-count">' + day.count + ' 篇</span>'
+                  + '</a>';
+          } else {
+            html += '<div class="' + cls + '"><span class="calendar-day-number">' + day.day + '</span></div>';
+          }
+        });
+      });
+
+      html += '</div></div></article>';
+      container.innerHTML = html;
+    }
+
+    // 左按钮 = 上个月（index 增大，往更老的月份）
+    prevBtn.addEventListener('click', function(){ if (currentIndex < months.length - 1) { currentIndex++; renderMonth(currentIndex); } });
+    // 右按钮 = 下个月（index 减小，往更新的月份）
+    nextBtn.addEventListener('click', function(){ if (currentIndex > 0) { currentIndex--; renderMonth(currentIndex); } });
+
+    renderMonth(currentIndex);
+  })();
+  </script>
+
   {% else %}
   <p style="color:var(--muted); text-align:center; padding:40px 0;">暂无日期归档，请先同步新闻数据。</p>
   {% endif %}

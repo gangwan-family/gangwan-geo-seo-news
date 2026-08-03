@@ -232,6 +232,14 @@
       "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
       "url": "https://openai.com/index/ntt-data"
     },
+    "openai-news:d04cc35bd3ccb8a5aedf1fe70e1ec06b58d1bfcf": {
+      "first_seen": "2026-08-03T22:32:31.168973+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-03/How we built a realtime system for responsive voice AI in six months.md",
+      "published": "2026-08-03T07:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+    },
     "openai-news:d42362617c6408798d23184364284f73d4984cb3": {
       "first_seen": "2026-07-22T05:14:35.177504+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-21/Introducing the ChatGPT for small business program.md",
@@ -328,6 +336,14 @@
       "title": "Google NotebookLM Rebrand May Expose Your Site To More AI Scraping via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-notebooklm-rebrand-may-expose-your-site-to-more-ai-scraping/582775/"
     },
+    "search-engine-journal:103d32225dd099d5d4f937583760159ee8efe7b7": {
+      "first_seen": "2026-08-03T22:32:31.168973+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-03/Google’s Documentation Refresh Offers Ideas For SEO Content Updates via @sejournal, @martinibuster.md",
+      "published": "2026-08-03T09:17:27+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google’s Documentation Refresh Offers Ideas For SEO Content Updates via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/googles-documentation-refresh-offers-seo-lessons-on-content-updates/584464/"
+    },
     "search-engine-journal:10b84475cf330fed8ed0b66c306ad9b0f7652a9d": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-18/Google Claims AI Search Sends Quality Clicks, Without Sharing Data via @sejournal, @MattGSouthern.md",
@@ -335,6 +351,14 @@
       "source": "Search Engine Journal",
       "title": "Google Claims AI Search Sends Quality Clicks, Without Sharing Data via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-puts-a-number-on-ai-search-clicks-without-the-data/582755/"
+    },
+    "search-engine-journal:124327c83594607bd6f5cd0a951fae663aafc2c5": {
+      "first_seen": "2026-08-03T22:32:31.168973+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-03/Google’s AI Image Generation In Google Earth Literally Became Disastrous via @sejournal, @martinibuster.md",
+      "published": "2026-08-03T12:01:02+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google’s AI Image Generation In Google Earth Literally Became Disastrous via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/googles-ai-image-generation-in-google-earth-literally-became-disastrous/584536/"
     },
     "search-engine-journal:138a21873e564f1dcfee79ac4781e24ed5adc8de": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
@@ -351,6 +375,14 @@
       "source": "Search Engine Journal",
       "title": "Google Downplays Search Console “Error” Reports. Says Many Aren’t Real Problems via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-downplays-search-console-error-reports-says-many-arent-real-problems/582890/"
+    },
+    "search-engine-journal:155376cc1a4435dd8aba9d628088fd380fda8b18": {
+      "first_seen": "2026-08-03T22:32:31.168973+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-03/Snapchat Clamps Down On AI-Generated Videos via @sejournal, @martinibuster.md",
+      "published": "2026-08-03T22:23:57+00:00",
+      "source": "Search Engine Journal",
+      "title": "Snapchat Clamps Down On AI-Generated Videos via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/snapchat-clamps-down-on-ai-generated-spotlight-videos/584594/"
     },
     "search-engine-journal:15a43223b51ae4606e542dcbc685ec18a6074d46": {
       "first_seen": "2026-07-27T22:33:28.881080+00:00",
@@ -384,6 +416,14 @@
       "title": "AI Browsers Are Backward Because Agents Never Needed The Visual Layer via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/ai-browsers-are-backward-because-agents-never-needed-the-visual-layer/583056/"
     },
+    "search-engine-journal:21a76508e5a4eb61e6e09af07c4181bbe8808c2f": {
+      "first_seen": "2026-08-03T22:32:31.168973+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-03/Open Knowledge Format v0.2 Adds A Trust Layer – No AI Agent Reads It Yet via @sejournal, @slobodanmanic.md",
+      "published": "2026-08-03T19:00:01+00:00",
+      "source": "Search Engine Journal",
+      "title": "Open Knowledge Format v0.2 Adds A Trust Layer – No AI Agent Reads It Yet via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/open-knowledge-format-v0-2-adds-a-trust-layer-no-ai-agent-reads-it-yet/583661/"
+    },
     "search-engine-journal:21f06dbf2772da8a34419eb854bb6a4dc5584bd2": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-28/Why Data Integrity Is The New Technical SEO From Crawling To Trust via @sejournal, @alexmoss.md",
@@ -407,6 +447,14 @@
       "source": "Search Engine Journal",
       "title": "Google’s AI Search Data Is Growing, But The Gaps Remain via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/googles-ai-search-data-is-growing-but-the-gaps-remain/582558/"
+    },
+    "search-engine-journal:270ab4782ff57c8aee76ad8f5ced1c6afc5563a8": {
+      "first_seen": "2026-08-03T22:32:31.168973+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-03/Free Advanced Link Training Lessons via @sejournal, @martinibuster.md",
+      "published": "2026-08-03T13:17:55+00:00",
+      "source": "Search Engine Journal",
+      "title": "Free Advanced Link Training Lessons via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/free-advanced-link-training-lessons/584551/"
     },
     "search-engine-journal:27386ffdda5d047869f56718ef32569504e091bc": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
@@ -736,6 +784,14 @@
       "title": "Why Your Pages Are Stuck In Crawled-Currently Not Indexed & What To Do About It via @sejournal, @marie_haynes",
       "url": "https://www.searchenginejournal.com/why-your-pages-are-stuck-in-crawled-currently-not-indexed-what-to-do-about-it/582585/"
     },
+    "search-engine-journal:9d1570cb6bed2b5fbdf5c72c2ff46605bf1dbb74": {
+      "first_seen": "2026-08-03T22:32:31.168973+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-03/Why AI Recommends Your Competitor & What To Do About It via @sejournal, @lorenbaker.md",
+      "published": "2026-08-03T17:30:55+00:00",
+      "source": "Search Engine Journal",
+      "title": "Why AI Recommends Your Competitor & What To Do About It via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/why-ai-recommends-your-competitor-what-to-do-about-it/584488/"
+    },
     "search-engine-journal:a854a012d72752e2bda410f6879750ec30a76870": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-19/How To Measure AI Search Visibility via @sejournal, @slobodanmanic.md",
@@ -759,6 +815,14 @@
       "source": "Search Engine Journal",
       "title": "Head Of Anthropic’s Claude Code Says Prompt Engineering Not That Important via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/head-of-anthropics-claude-code-says-prompt-engineering-not-that-important/584286/"
+    },
+    "search-engine-journal:b1df692a845b2a2330e12e47f14b275c6285faa2": {
+      "first_seen": "2026-08-03T22:32:31.168973+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-03/Reviews, Reputation & Listings The Local Signals AI Now Reads via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-03T12:00:26+00:00",
+      "source": "Search Engine Journal",
+      "title": "Reviews, Reputation & Listings: The Local Signals AI Now Reads via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/reviews-reputation-listings-the-local-signals-ai-now-reads/583795/"
     },
     "search-engine-journal:b3bd7d529bd4a8e8387385619dad7b568a2da005": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -831,6 +895,14 @@
       "source": "Search Engine Journal",
       "title": "How Publishers Can Monetize AI Visibility",
       "url": "https://www.searchenginejournal.com/how-publishers-can-monetise-ai-visibility/583345/"
+    },
+    "search-engine-journal:d2a9cbb78a0b821f33e0d752b2403731b3fc4253": {
+      "first_seen": "2026-08-03T22:32:31.168973+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-03/Google Recommends Using 304 Status Code To Conserve Crawl Budget via @sejournal, @martinibuster.md",
+      "published": "2026-08-03T12:55:15+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Recommends Using 304 Status Code To Conserve Crawl Budget via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-recommends-using-304-status-code-to-conserve-crawl-budget/584543/"
     },
     "search-engine-journal:d2db2d8200de5ed3eb1eb9252f375609f8221b24": {
       "first_seen": "2026-07-23T22:31:00.448317+00:00",
@@ -960,6 +1032,14 @@
       "title": "How Perplexity Actually Picks Sources (I Read The Stream, Not The Answers) via @sejournal, @suganthan",
       "url": "https://www.searchenginejournal.com/how-perplexity-actually-picks-sources-i-read-the-stream-not-the-answers/583769/"
     },
+    "search-engine-journal:f845662c9aed1826d8bb2a7b2ab246dd4a0e11e0": {
+      "first_seen": "2026-08-03T22:32:31.168973+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-03/EU Commission Article 50 AI Transparency Law Has Four Exemptions via @sejournal, @martinibuster.md",
+      "published": "2026-08-03T11:27:15+00:00",
+      "source": "Search Engine Journal",
+      "title": "EU Commission Article 50 AI Transparency Law Has Four Exemptions via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/eu-commission-article-50-ai-transparency-law-has-four-exemptions/584528/"
+    },
     "search-engine-journal:fb8f447fd5fddf8147e34aac34d3d172e065650a": {
       "first_seen": "2026-07-21T09:02:00.061153+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-21/AI Overviews Visibility A Reliable Way To Track What Spot-Checks Miss via @sejournal, @hethr_campbell.md",
@@ -975,6 +1055,14 @@
       "source": "Search Engine Journal",
       "title": "Anthropic’s Claude Can Now Watch A Video And Learn Your Job via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/anthropics-claude-can-now-watch-a-video-and-learn-your-job/583053/"
+    },
+    "semrush-blog:1ae5b2dd849aad4db979e42aa9fd657f8bf55066": {
+      "first_seen": "2026-08-03T22:32:31.168973+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-08-03/How topical authority spreads (and where it doesn’t) in ChatGPT [Study].md",
+      "published": "2026-08-03T13:00:00+00:00",
+      "source": "Semrush Blog",
+      "title": "How topical authority spreads (and where it doesn’t) in ChatGPT [Study]",
+      "url": "https://www.semrush.com/blog/chatgpt-topical-focus-study/"
     },
     "semrush-blog:2406e511a33fd87312ac724ed091a8d3f0ee56ef": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -1145,6 +1233,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-01T22:26:28.225215+00:00",
+  "last_run_at": "2026-08-03T22:32:31.168973+00:00",
   "version": 1
 }

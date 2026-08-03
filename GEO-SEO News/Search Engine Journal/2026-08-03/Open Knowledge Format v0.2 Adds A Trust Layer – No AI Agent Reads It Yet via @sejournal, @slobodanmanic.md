@@ -1,0 +1,105 @@
+---
+title: "Open Knowledge Format v0.2 Adds A Trust Layer – No AI Agent Reads It Yet via @sejournal, @slobodanmanic"
+source: "Search Engine Journal"
+published: 2026-08-03T19:00:01+00:00
+fetched_at: 2026-08-03T22:32:31.168973+00:00
+url: "https://www.searchenginejournal.com/open-knowledge-format-v0-2-adds-a-trust-layer-no-ai-agent-reads-it-yet/583661/"
+guid: "https://www.searchenginejournal.com/open-knowledge-format-v0-2-adds-a-trust-layer-no-ai-agent-reads-it-yet/583661/"
+author: "Slobodan Manic"
+categories:
+  - "SEO"
+  - "Technical SEO"
+  - "Web Dev SEO"
+---
+
+# Open Knowledge Format v0.2 Adds A Trust Layer – No AI Agent Reads It Yet via @sejournal, @slobodanmanic
+
+- Source: Search Engine Journal
+- Published: 2026-08-03
+- URL: https://www.searchenginejournal.com/open-knowledge-format-v0-2-adds-a-trust-layer-no-ai-agent-reads-it-yet/583661/
+- Author: Slobodan Manic
+- Categories: SEO, Technical SEO, Web Dev SEO
+
+## RSS 摘要
+
+No agent reads your OKF bundle. Write one anyway: v0.2's provenance and staleness fields expose every claim your website cannot defend. The post Open Knowledge Format v0.2 Adds A Trust Layer – No AI Agent Reads It Yet appeared first on Search Engine Journal .
+
+## 原文正文
+
+Open Knowledge Format v0.2 Adds A Trust Layer – No AI Agent Reads It Yet Skip to content
+
+🔥 SEJ Pro Course: Own Your Brand’s Promo Code & Coupon Search Results Before Parasites Do
+
+REGISTER NOW
+
+- SEJ
+
+- ⋅
+
+- SEO
+
+## Open Knowledge Format v0.2 Adds A Trust Layer – No AI Agent Reads It Yet
+
+Three questions from OKF v0.2 test any page: where the claim came from, when it expires, and who stands behind it.
+
+A website made of pages hands a machine half of what it needs. It can read each page on its own, but nothing on the website tells it how the pages relate, and nothing tells it whether what it is reading is still true. Those are two separate gaps. For a while I only had my eye on the first one.
+
+Google’s Open Knowledge Format is the closest thing I have found to a way of looking at both. In June, I built an OKF bundle for this website , eight linked markdown files, one concept each. I said at the time it was a bet on a reader that does not exist yet, because no AI agent reads a website’s OKF bundle today, and maybe none ever will. That is still true. What I did not say plainly enough is that the reader was never the point.
+
+The page itself was never a given. We took it from print, the website as a rack of magazine spreads, a homepage, sections, a stack of neat little bundles, and got so used to it that we stopped seeing it was ever a choice. When technical SEO specialist Jono Alderson came on the podcast , he tied the shape we all copy to Google’s imprint of what a website should be, and called most of what is left a brochure, a husk that used to be a source . A machine never agreed to any of that. It does not want your homepage; it wants the meaning and how the pieces connect. The page was always half for us, and maybe, all along, a little silly.
+
+### The Value Right Now Is The Mirror, Not The Reader
+
+Right now, OKF’s value has nothing to do with a machine reading your bundle. It might be worth more later, and if agents ever do read published bundles, a website that already has one is ahead. But today the value is a different thing: building one forces you to look at your website, and your business, the way a machine has to.
+
+That sounds soft until you try it. To write a bundle, you have to say what you actually know, which concepts matter, and how each connects to the others. Most websites have never declared any of that. They have pages, and the relationships between them live only in someone’s head. The moment you write them down as a graph a machine can follow, you find the parts you were vague about.
+
+I found mine in June. Writing the bundle made me state, in a form a machine could follow, that WebMCP sits underneath Machine-First Architecture and that llms.txt is the same kind of bet as the rest of the identity work. Those relationships were real, and they were nowhere on the website. They lived in my head, and a machine reading my pages one at a time would never have recovered them. Declaring them was not busywork. It was the first time the shape of what No Hacks knows existed outside of me.
+
+So, first thing straight: Anyone treating OKF as “implement this and get cited” has it backwards. Nothing cites it. It is a self-audit wearing an export format’s clothes. Judge it as a description of what a machine needs from you, not a product you deploy.
+
+### What v0.2 Added Is The Second Gap
+
+The June bundle handled the first gap: structure. Each concept linked to the others, so a machine could see the relations a flat copy of the pages never states out loud.
+
+v0.2, released on July 25 , adds the second gap: trust. It puts a small set of fields on every concept: where the content came from, who produced it and when, who verified it and whether that was a human or a machine, when it should be treated as stale , and its lifecycle status. None of it is exciting. It is the metadata that should have been there all along, the part that lets a machine ask not only what you said but whether it can trust it.
+
+The design choice worth noting is the one Google left out. It records the signals and does not compute a trust score. Its reasoning, in its own words: a score “is subjective, doesn’t port across consumers, and goes stale the moment it’s written.” The consumer reads the raw signals and decides for itself. That is the right call, and it is the opposite of the move the rest of the industry keeps making, handing you a single number it produced about its own work and asking you to trust it. A recorded signal you can inspect beats a score you are told to believe.
+
+### The Fields You Can’t Fill In Are The Point
+
+I upgraded my own bundle to v0.2 to see what it takes. Adding the fields is quick. Filling them in honestly is not, and that is where the mirror gets sharp.
+
+The field that made me stop was the staleness date, the point a machine should stop trusting a concept without a fresh check. It forces a decision you can otherwise dodge: how fast does this actually age. My llms.txt concept got three months, because the story around it changes constantly. My Machine-First Architecture concept got a year, because the framework does not move much. v0.1 let me pretend every concept was equally current. v0.2 made me say out loud which ones rot.
+
+The one part of v0.2 I could not use is worth admitting, because it tells you what the format is really for. v0.2 adds a way to publish a number along with the sanctioned way to recompute it. My bundle is concepts, not metrics, so there was nothing to attest. That is fine. It is built for data pipelines, not a knowledge map, and pretending otherwise would be the box-ticking the whole exercise is meant to expose.
+
+OKF does nothing today. No agent reads it, kind of like llms.txt, no ranking depends on it, no visitor shows up because of it. It is a promising direction and, right now, an empty one. Jono’s darker point from that same episode still holds: Most websites are already husks for a human audience that is leaving , and nobody, not Google, not OpenAI, has a working answer. OKF shows you the problem with a clarity nothing else does. Solving it is a different job, and no one has done it.
+
+So, here is the move, and it does not require touching OKF at all: Take your most important page and ask the three questions v0.2 asks of every concept. Where did this claim come from. When does it stop being true. Who stands behind it, a person or a process. A page that says “here is the best way to do X” and cannot answer any of the three is a page a machine has no reason to trust, and honestly, neither does a careful person. The fields you cannot fill in are the map of what your content cannot defend.
+
+Right now, the reason to care about OKF has nothing to do with a machine reading your bundle. The format is the clearest mirror anyone has built of what a website made of pages leaves out. Do not implement it. Let it show you what you cannot yet defend, and start there.
+
+More Resources:
+
+- Google Cloud Announces The Open Knowledge Format
+
+- What Is The Agentic Web?
+
+- The Technical SEO Audit Needs A New Layer
+
+This post was originally published on No Hacks .
+
+Featured Image: Roman Samborskyi/Shutterstock
+
+Category SEO Technical SEO Web Dev SEO
+
+Read Full Bio
+
+Slobodan Manic Host of the No Hacks Podcast and machine-first web optimization consultant at No Hacks
+
+Slobodan “Sani” Manić is a website optimisation consultant with over 15 years of experience helping businesses make their sites faster, ...
+
+## 原文链接
+
+[Read original](https://www.searchenginejournal.com/open-knowledge-format-v0-2-adds-a-trust-layer-no-ai-agent-reads-it-yet/583661/)

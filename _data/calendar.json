@@ -80,9 +80,9 @@
             "date": "2026-08-03",
             "day": 3,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 11,
+            "url": "/date/2026-08-03/"
           },
           {
             "date": "2026-08-04",
@@ -367,6 +367,17 @@
         ]
       ],
       "days": [
+        {
+          "date": "2026-08-03",
+          "day": 3,
+          "count": 11,
+          "url": "/date/2026-08-03/",
+          "sources": [
+            "OpenAI News",
+            "Search Engine Journal",
+            "Semrush Blog"
+          ]
+        },
         {
           "date": "2026-08-01",
           "day": 1,

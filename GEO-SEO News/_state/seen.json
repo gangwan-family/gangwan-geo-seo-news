@@ -16,6 +16,14 @@
       "title": "3 Google updates from Galaxy Unpacked 2026",
       "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
     },
+    "google-ai-blog:2a0a276054536ae62f3ea519d53c4c9477c0217b": {
+      "first_seen": "2026-08-04T22:33:41.749245+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-08-04/The latest AI news we announced in July 2026.md",
+      "published": "2026-08-04T13:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "The latest AI news we announced in July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+    },
     "google-ai-blog:4a94e64db0fdd119f9dd1abbae7ddcfc6351311e": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-07-14/Celebrating 25 years of visual search innovation.md",
@@ -39,6 +47,14 @@
       "source": "Google AI Blog",
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/"
+    },
+    "google-ai-blog:928c08785b292a8ecd7d202678538c3af74e07a2": {
+      "first_seen": "2026-08-04T22:33:41.749245+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-08-03/Inside our 353,000-person vibe coding course.md",
+      "published": "2026-08-03T15:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
     },
     "google-ai-blog:a564401bb829d4c0b46bf72c97d7d8c4d0686ccd": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -96,6 +112,14 @@
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
     },
+    "openai-news:2163b413300de52f6504ca8a20340312de3f7571": {
+      "first_seen": "2026-08-04T22:33:41.749245+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-03/Apple is getting this wrong.md",
+      "published": "2026-08-03T22:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong"
+    },
     "openai-news:3ebda52fc80ebe33165f5f415dd9c032d4c031d4": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-17/A scorecard for the AI age.md",
@@ -119,6 +143,14 @@
       "source": "OpenAI News",
       "title": "Univé builds an AI-ready workforce",
       "url": "https://openai.com/index/unive"
+    },
+    "openai-news:54e616a32e5ede38b908269b87c96f01d007be0c": {
+      "first_seen": "2026-08-04T22:33:41.749245+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-03/Circles powers telco personalization with OpenAI technology.md",
+      "published": "2026-08-03T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles"
     },
     "openai-news:6d58997b466ca59f729e755e523db112666f9bfc": {
       "first_seen": "2026-08-01T13:06:18.701296+00:00",
@@ -183,6 +215,22 @@
       "source": "OpenAI News",
       "title": "How to manage AI investments in the agentic era",
       "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+    },
+    "openai-news:977f60f7e5e3c697f2eead0cf35e429742ba811c": {
+      "first_seen": "2026-08-04T22:33:41.749245+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-04/Third-party cyber evaluations involving OpenAI models.md",
+      "published": "2026-08-04T19:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
+    },
+    "openai-news:b274d6785ee9abb7902c6d66edf9f8661ee29cd4": {
+      "first_seen": "2026-08-04T22:33:41.749245+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-04/New ways to learn and teach with ChatGPT Work and Codex.md",
+      "published": "2026-08-04T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex"
     },
     "openai-news:b86dc435d64acf26bfa3904c5715410b2249b34e": {
       "first_seen": "2026-07-31T22:32:16.940991+00:00",
@@ -327,6 +375,14 @@
       "source": "Search Engine Journal",
       "title": "Google Data Compares Gemini & AI Mode Use Against Daily Life via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-data-compares-gemini-ai-mode-use-against-daily-life/583533/"
+    },
+    "search-engine-journal:0fe00919b45737a7091413453f98ebfd436f91e7": {
+      "first_seen": "2026-08-04T22:33:41.749245+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-04/What Top Stories Inside AI Overviews Means For Publishers And Brands In 2026 And Beyond via @sejournal, @gregjarboe.md",
+      "published": "2026-08-04T19:00:12+00:00",
+      "source": "Search Engine Journal",
+      "title": "What Top Stories Inside AI Overviews Means For Publishers And Brands In 2026 And Beyond via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/what-top-stories-inside-ai-overviews-means-for-publishers-and-brands-in-2026-and-beyond/584175/"
     },
     "search-engine-journal:0ff6b133295d6cc0b6ef144782b1a1191960c57e": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -576,6 +632,14 @@
       "title": "Google Ads Bidding Strategies: Where To Spend Your Time In 2026 via @sejournal, @LisaRocksSEM",
       "url": "https://www.searchenginejournal.com/google-ads-bidding-strategies-where-to-spend-your-time-in-2026/581479/"
     },
+    "search-engine-journal:5fef11773e356b0ca424e33494430f2efbfb9498": {
+      "first_seen": "2026-08-04T22:33:41.749245+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-04/Paid Search Absorbed Organic’s Collapse – Then Q2 Slowed Down via @sejournal, @brookeosmundson.md",
+      "published": "2026-08-04T12:00:50+00:00",
+      "source": "Search Engine Journal",
+      "title": "Paid Search Absorbed Organic’s Collapse – Then Q2 Slowed Down via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/paid-search-absorbed-organics-collapse-then-q2-slowed-down/583560/"
+    },
     "search-engine-journal:63b0954caa62b03a07cf20753a0e10ed2e48a41d": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-17/Google Explains SEO Connection Of Site Quality To Non-Indexed Pages via @sejournal, @martinibuster.md",
@@ -695,6 +759,14 @@
       "source": "Search Engine Journal",
       "title": "X Live-Tweets Its Fight Against Chatbot Spam In Real-Time via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/x-live-tweets-its-fight-against-chatbot-spam-in-real-time/583572/"
+    },
+    "search-engine-journal:88688bb492c75f1d961f43948749412eff6f53c5": {
+      "first_seen": "2026-08-04T22:33:41.749245+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-04/Google Now Reports AI Search Impressions. Here’s How To Read Them via @sejournal, @cshel.md",
+      "published": "2026-08-04T14:30:39+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Now Reports AI Search Impressions. Here’s How To Read Them via @sejournal, @cshel",
+      "url": "https://www.searchenginejournal.com/google-reports-ai-search-impressions-how-to-read-them/582824/"
     },
     "search-engine-journal:8b08c392b8e85836605d1fc28a35b22e6944da89": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
@@ -823,6 +895,14 @@
       "source": "Search Engine Journal",
       "title": "Reviews, Reputation & Listings: The Local Signals AI Now Reads via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/reviews-reputation-listings-the-local-signals-ai-now-reads/583795/"
+    },
+    "search-engine-journal:b2fadb9d0ca242f0b18ebde93c9780ba3c6979fe": {
+      "first_seen": "2026-08-04T22:33:41.749245+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-04/Report That Cloudflare AI Bot Blocking Prevents Googlebot From Indexing Sites via @sejournal, @martinibuster.md",
+      "published": "2026-08-04T15:18:58+00:00",
+      "source": "Search Engine Journal",
+      "title": "Report That Cloudflare AI Bot Blocking Prevents Googlebot From Indexing Sites via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/report-that-cloudflare-ai-bot-blocking-prevents-googlebot-from-indexing-sites/584673/"
     },
     "search-engine-journal:b3bd7d529bd4a8e8387385619dad7b568a2da005": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -1056,6 +1136,14 @@
       "title": "Anthropic’s Claude Can Now Watch A Video And Learn Your Job via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/anthropics-claude-can-now-watch-a-video-and-learn-your-job/583053/"
     },
+    "search-engine-journal:ff00c295d7fa61b9e54ba2fd12f4f1c6030f080a": {
+      "first_seen": "2026-08-04T22:33:41.749245+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-03/WooCommerce Social Login WordPress Plugin Enables Full Site Takeover via @sejournal, @martinibuster.md",
+      "published": "2026-08-03T23:26:39+00:00",
+      "source": "Search Engine Journal",
+      "title": "WooCommerce Social Login WordPress Plugin Enables Full Site Takeover via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/woocommerce-social-login-wordpress-plugin-enables-full-site-takeover/584601/"
+    },
     "semrush-blog:1ae5b2dd849aad4db979e42aa9fd657f8bf55066": {
       "first_seen": "2026-08-03T22:32:31.168973+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-08-03/How topical authority spreads (and where it doesn’t) in ChatGPT [Study].md",
@@ -1233,6 +1321,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-03T22:32:31.168973+00:00",
+  "last_run_at": "2026-08-04T22:33:41.749245+00:00",
   "version": 1
 }

@@ -2,7 +2,7 @@
 title: "Circles powers telco personalization with OpenAI technology"
 source: "OpenAI News"
 published: 2026-08-03T00:00:00+00:00
-fetched_at: 2026-08-04T22:33:41.749245+00:00
+fetched_at: 2026-08-05T22:33:14.053208+00:00
 url: "https://openai.com/index/circles"
 guid: "https://openai.com/index/circles"
 ---

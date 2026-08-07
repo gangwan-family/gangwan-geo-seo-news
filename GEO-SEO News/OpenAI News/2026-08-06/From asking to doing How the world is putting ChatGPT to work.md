@@ -2,7 +2,7 @@
 title: "From asking to doing: How the world is putting ChatGPT to work"
 source: "OpenAI News"
 published: 2026-08-06T00:00:00+00:00
-fetched_at: 2026-08-07T01:03:13.764774+00:00
+fetched_at: 2026-08-07T22:03:28.633300+00:00
 url: "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
 guid: "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
 categories:

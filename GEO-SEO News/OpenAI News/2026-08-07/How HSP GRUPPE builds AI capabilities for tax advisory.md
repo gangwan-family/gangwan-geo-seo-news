@@ -2,7 +2,7 @@
 title: "How HSP GRUPPE builds AI capabilities for tax advisory"
 source: "OpenAI News"
 published: 2026-08-07T09:00:00+00:00
-fetched_at: 2026-08-07T22:03:28.633300+00:00
+fetched_at: 2026-08-08T21:53:02.235456+00:00
 url: "https://openai.com/index/hsp-gruppe"
 guid: "https://openai.com/index/hsp-gruppe"
 ---

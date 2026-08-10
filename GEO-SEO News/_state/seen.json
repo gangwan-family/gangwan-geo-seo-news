@@ -64,6 +64,14 @@
       "title": "Connect more of your apps to Search",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps/"
     },
+    "google-ai-blog:ae2292bf453d4eb7832c2331f644cb200c98c2c1": {
+      "first_seen": "2026-08-10T22:04:56.121490+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-08-10/Evolve your marketing with new AI tools.md",
+      "published": "2026-08-10T14:30:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Evolve your marketing with new AI tools",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
+    },
     "google-ai-blog:be3ca53745f60ae727293fd8fdeb249c9b9f260b": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-07-28/Gemini API Managed Agents 3.6 Flash, hooks, and more.md",
@@ -136,6 +144,14 @@
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "url": "https://openai.com/index/hsp-gruppe"
     },
+    "openai-news:3a8585570cab21df194c4115cce4c90cdf272f31": {
+      "first_seen": "2026-08-10T22:04:56.121490+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-10/Expanding Daybreak as the Cyber Defense Window Narrows.md",
+      "published": "2026-08-10T10:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
+    },
     "openai-news:3ebda52fc80ebe33165f5f415dd9c032d4c031d4": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-17/A scorecard for the AI age.md",
@@ -167,6 +183,14 @@
       "source": "OpenAI News",
       "title": "Circles powers telco personalization with OpenAI technology",
       "url": "https://openai.com/index/circles"
+    },
+    "openai-news:61282b7420ed067525c1f91d92b2480700145654": {
+      "first_seen": "2026-08-10T22:04:56.121490+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-10/OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas.md",
+      "published": "2026-08-10T14:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
     },
     "openai-news:6d58997b466ca59f729e755e523db112666f9bfc": {
       "first_seen": "2026-08-01T13:06:18.701296+00:00",
@@ -215,6 +239,22 @@
       "source": "OpenAI News",
       "title": "Launching Health in ChatGPT",
       "url": "https://openai.com/index/health-in-chatgpt"
+    },
+    "openai-news:7a678e9a26d7e264e59b07c8d89347737c8a5e1c": {
+      "first_seen": "2026-08-10T22:04:56.121490+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-10/What building an AI-native finance function taught me.md",
+      "published": "2026-08-10T17:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function"
+    },
+    "openai-news:7f776d7829d07edef8a9ed148664107425911d12": {
+      "first_seen": "2026-08-10T22:04:56.121490+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-10/Putting frontier cyber models in more trusted hands.md",
+      "published": "2026-08-10T10:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
     },
     "openai-news:833934ee3b25f4a5a86f48ec49864f551bf31930": {
       "first_seen": "2026-08-07T22:03:28.633300+00:00",
@@ -296,6 +336,14 @@
       "title": "Disrupting a Criminal Scam Operation",
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
     },
+    "openai-news:c7b962b1d9efaa2a9e74cd90c9ed8a5b0f0b1e1b": {
+      "first_seen": "2026-08-10T22:04:56.121490+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-10/Model ML completes finance work more efficiently with GPT-5.6 Sol.md",
+      "published": "2026-08-10T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml"
+    },
     "openai-news:cc8e132c619995d199d338076bd693d216fb9d56": {
       "first_seen": "2026-07-30T22:35:14.611250+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-29/How enabling two settings tripled our scores on the ARC-AGI-3 benchmark.md",
@@ -351,6 +399,14 @@
       "source": "OpenAI News",
       "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
       "url": "https://openai.com/index/unlocking-self-improvement-gpt-red"
+    },
+    "openai-news:ee449db47d8dff1954b2914888b612d67e7116d2": {
+      "first_seen": "2026-08-10T22:04:56.121490+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-10/Premium seats are coming to ChatGPT Business.md",
+      "published": "2026-08-10T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business"
     },
     "openai-news:f143efbfe201f0407b0e218865c812c1de07681a": {
       "first_seen": "2026-07-27T22:33:28.881080+00:00",
@@ -415,6 +471,14 @@
       "source": "Search Engine Journal",
       "title": "Search Growth Slows, Publishers Weigh Leaving Google – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-search-growth-slows-publishers-weigh-leaving-google/583329/"
+    },
+    "search-engine-journal:07041ab36de47117a242116c8bca5c53885d1591": {
+      "first_seen": "2026-08-10T22:04:56.121490+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-10/Microsoft Clarity Now Separates Branded And Non-Branded AI Citations via @sejournal, @slobodanmanic.md",
+      "published": "2026-08-10T13:06:54+00:00",
+      "source": "Search Engine Journal",
+      "title": "Microsoft Clarity Now Separates Branded And Non-Branded AI Citations via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/clarity-branded-non-branded-ai-citations/584654/"
     },
     "search-engine-journal:07d75f7a59cf2ff294c2480da0107bd9cb0ba0b8": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
@@ -719,6 +783,14 @@
       "source": "Search Engine Journal",
       "title": "YouTube Explains What Can Stop A Channel Getting Paid via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/youtube-explains-what-can-stop-a-channel-getting-paid/583096/"
+    },
+    "search-engine-journal:5efaa50777e5f519c144c964e7ef7667b31c950b": {
+      "first_seen": "2026-08-10T22:04:56.121490+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-10/How To Remove Negative Content From Google Before AI Answers Cite It via @sejournal, @EraseDotCom.md",
+      "published": "2026-08-10T05:00:33+00:00",
+      "source": "Search Engine Journal",
+      "title": "How To Remove Negative Content From Google Before AI Answers Cite It via @sejournal, @EraseDotCom",
+      "url": "https://www.searchenginejournal.com/how-to-remove-negative-content-from-google-before-ai-answers-cite-it-spa/582989/"
     },
     "search-engine-journal:5f9991e1ec55d2f989b54b351d6e59f5af5f59b5": {
       "first_seen": "2026-08-07T22:03:28.633300+00:00",
@@ -1136,6 +1208,14 @@
       "title": "Google Ads’ Target-Based Bidding Update For Ecommerce via @sejournal, @tonyadam",
       "url": "https://www.searchenginejournal.com/google-ads-target-based-bidding-update-for-ecommerce/581801/"
     },
+    "search-engine-journal:cbec1d4ceb0fcef343ae4c0036bd60e4489b72e8": {
+      "first_seen": "2026-08-10T22:04:56.121490+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-10/Common Crawl Published A Manual For Being Visible To AI, I Automated It via @sejournal, @suganthan.md",
+      "published": "2026-08-10T12:00:21+00:00",
+      "source": "Search Engine Journal",
+      "title": "Common Crawl Published A Manual For Being Visible To AI, I Automated It via @sejournal, @suganthan",
+      "url": "https://www.searchenginejournal.com/common-crawl-published-a-manual-for-being-visible-to-ai-i-automated-it/584466/"
+    },
     "search-engine-journal:ced1a15f42f56d32d5d724bc06c5c20f3b00266d": {
       "first_seen": "2026-08-01T13:06:18.701296+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-01/What Opting Out Of Google’s AI Search Features Means Now via @sejournal, @MattGSouthern.md",
@@ -1184,6 +1264,14 @@
       "title": "Pichai Says Google Needs Gemini 4 To Compete At The Frontier via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/pichai-says-google-needs-gemini-4-to-compete-at-the-frontier/583214/"
     },
+    "search-engine-journal:d3c067d4cb721a47e8a85c583a2284f1e3d21569": {
+      "first_seen": "2026-08-10T22:04:56.121490+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-10/Google Announces Campaign Benchmarking In Google Analytics via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-10T14:30:42+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Announces Campaign Benchmarking In Google Analytics via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-analytics-will-benchmark-campaigns-through-ask-advisor/585213/"
+    },
     "search-engine-journal:dac15a6924bea5989613f9b3766f552cbc683cc0": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-29/YouTube Views Rose While Long-Form Ad Revenue Fell, Data Shows via @sejournal, @MattGSouthern.md",
@@ -1215,6 +1303,14 @@
       "source": "Search Engine Journal",
       "title": "Charging AI Bots Decides Which Agents Can Still Cite You via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/charging-ai-bots-decides-which-agents-can-still-cite-you/580050/"
+    },
+    "search-engine-journal:e12ab664f2509f5b58784320b047bf25f8abd2a6": {
+      "first_seen": "2026-08-10T22:04:56.121490+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-10/The Scenic Route To ROI Mastering Non-Linear Targeting In Google Ads.md",
+      "published": "2026-08-10T19:02:53+00:00",
+      "source": "Search Engine Journal",
+      "title": "The Scenic Route To ROI: Mastering Non-Linear Targeting In Google Ads",
+      "url": "https://www.searchenginejournal.com/the-scenic-route-to-roi-mastering-non-linear-targeting-in-google-ads/581784/"
     },
     "search-engine-journal:e2fcf59ac33aa3a23c6e48bd65981313e72de941": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
@@ -1400,6 +1496,14 @@
       "title": "AI visibility is a topic-level game: A study of 50,000 brands in ChatGPT [Study]",
       "url": "https://www.semrush.com/blog/chatgpt-topic-authority-study/"
     },
+    "semrush-blog:4deae74ccd1f3fb205875237bc787072ee71dfe0": {
+      "first_seen": "2026-08-10T22:04:56.121490+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-08-10/Traffic Is Down—Now What Marketing Success In the Age of AI.md",
+      "published": "2026-08-10T09:52:00+00:00",
+      "source": "Semrush Blog",
+      "title": "Traffic Is Down—Now What? Marketing Success In the Age of AI",
+      "url": "https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/"
+    },
     "semrush-blog:55e01baa9a38fbe1736b0c0e178264259bb8d696": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-07-15/Why Brand Positioning Is Now an AI Search Variable.md",
@@ -1407,6 +1511,14 @@
       "source": "Semrush Blog",
       "title": "Why Brand Positioning Is Now an AI Search Variable",
       "url": "https://www.semrush.com/blog/brand-positioning-is-an-ai-search-variable/"
+    },
+    "semrush-blog:6058891fc2aae09760149e7d73deee94bc9fe8a5": {
+      "first_seen": "2026-08-10T22:04:56.121490+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-08-10/What is organic traffic (And how to increase it).md",
+      "published": "2026-08-10T08:58:00+00:00",
+      "source": "Semrush Blog",
+      "title": "What is organic traffic? (And how to increase it)",
+      "url": "https://www.semrush.com/blog/organic-traffic/"
     },
     "semrush-blog:6249e88af11097953422c26180df7d26ec4c877d": {
       "first_seen": "2026-07-23T22:31:00.448317+00:00",
@@ -1512,6 +1624,14 @@
       "title": "The 9 Best Generative Engine Optimization (GEO) Tools of 2026",
       "url": "https://www.semrush.com/blog/best-generative-engine-optimization-tools/"
     },
+    "semrush-blog:f295347421e9106378e6b3ad34be76f1789a9b87": {
+      "first_seen": "2026-08-10T22:04:56.121490+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-08-10/Local SEO keyword research A step-by-step guide.md",
+      "published": "2026-08-10T08:41:00+00:00",
+      "source": "Semrush Blog",
+      "title": "Local SEO keyword research: A step-by-step guide",
+      "url": "https://www.semrush.com/blog/local-keyword-research/"
+    },
     "semrush-blog:fa4278b3a3d7e899b37f19779b88816770c70031": {
       "first_seen": "2026-07-27T22:33:28.881080+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-07-27/13 Advanced SEO techniques & strategies for 2026.md",
@@ -1521,6 +1641,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-09T21:55:43.334481+00:00",
+  "last_run_at": "2026-08-10T22:04:56.121490+00:00",
   "version": 1
 }

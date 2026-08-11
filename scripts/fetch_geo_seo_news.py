@@ -689,29 +689,48 @@ def run(dry_run: bool, lookback_days: int, max_per_source: int) -> int:
     failures: list[str] = []
 
     for source in sources:
+        source_name = source.get("name", source.get("slug", "source"))
         try:
             if source.get("fetch_mode") == "page":
                 entries = fetch_page_source_entries(source, fetched_at, seen_keys, cutoff)
             else:
                 raw = fetch_feed(source["url"])
                 items = parse_feed(raw)
+                raw_item_count = len(items)
                 entries = [extract_entry(source, item, fetched_at) for item in items]
+                extracted_count = len(entries)
+                cutoff_filtered_count = 0
                 if cutoff is not None:
+                    before_cutoff_count = len(entries)
                     entries = [entry for entry in entries if entry["published_at"] >= cutoff]
+                    cutoff_filtered_count = before_cutoff_count - len(entries)
                 entries.sort(key=lambda entry: entry["published_at"])
+                trimmed_count = 0
                 if max_per_source > 0 and len(entries) > max_per_source:
+                    trimmed_count = len(entries) - max_per_source
                     entries = entries[-max_per_source:]
+                print(
+                    f"[feed-fetch] {source_name}: "
+                    f"items={raw_item_count} extracted={extracted_count} "
+                    f"cutoff_filtered={cutoff_filtered_count} trimmed={trimmed_count} "
+                    f"ready={len(entries)}"
+                )
             success_count += 1
         except Exception as exc:  # noqa: BLE001 - keep scheduled job resilient.
             failures.append(f"{source['name']}: {exc}")
             continue
+        source_saved_count = 0
+        source_seen_count = 0
+        source_updated_count = 0
         for entry in entries:
             if entry["key"] in seen:
+                source_seen_count += 1
                 existing_rel_path = seen[entry["key"]].get("path", "")
                 if existing_rel_path:
                     existing_path = REPO_ROOT / existing_rel_path
                     if update_existing_entry(entry, source, existing_path, dry_run):
                         updated_count += 1
+                        source_updated_count += 1
                         action = "would update" if dry_run else "updated"
                         print(f"{action}: {existing_path.relative_to(REPO_ROOT)}")
                 continue
@@ -726,7 +745,12 @@ def run(dry_run: bool, lookback_days: int, max_per_source: int) -> int:
             }
             seen_keys.add(entry["key"])
             saved_count += 1
+            source_saved_count += 1
             print(f"saved: {path.relative_to(REPO_ROOT)}")
+        print(
+            f"[source-summary] {source_name}: "
+            f"seen={source_seen_count} saved={source_saved_count} updated={source_updated_count}"
+        )
 
     state["last_run_at"] = fetched_at.isoformat()
     if not dry_run and (saved_count or updated_count):

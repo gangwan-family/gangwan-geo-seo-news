@@ -27,16 +27,36 @@ jobs:
 
       - name: Fetch news
         run: |
-          python scripts/fetch_geo_seo_news.py | tee fetch-geo-seo-news.log
+          python scripts/fetch_geo_seo_news.py 2>&1 | tee fetch-geo-seo-news.log
 
       - name: Write workflow summary
         run: |
+          new_entries_line="$(grep -E '^new_entries=' fetch-geo-seo-news.log | tail -n 1 || true)"
+          updated_entries_line="$(grep -E '^updated_entries=' fetch-geo-seo-news.log | tail -n 1 || true)"
+          failure_lines="$(grep -E '^Feed failures:|^- ' fetch-geo-seo-news.log || true)"
+          source_lines="$(grep -E '^(\[feed-fetch\]|\[page-fetch\]|\[source-summary\])' fetch-geo-seo-news.log || true)"
+
           {
             echo "## GEO SEO News fetch summary"
             echo
+            echo "### Totals"
+            echo
+            echo "- ${new_entries_line:-new_entries=0}"
+            echo "- ${updated_entries_line:-updated_entries=0}"
+            echo
+            echo "### Sources"
+            echo
             echo '```text'
-            grep -E '^(\[feed-fetch\]|\[page-fetch\]|\[source-summary\]|new_entries=|updated_entries=)' fetch-geo-seo-news.log || true
+            printf '%s\n' "$source_lines"
             echo '```'
+            if [ -n "$failure_lines" ]; then
+              echo
+              echo "### Failures"
+              echo
+              echo '```text'
+              printf '%s\n' "$failure_lines"
+              echo '```'
+            fi
           } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Build Jekyll posts

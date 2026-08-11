@@ -139,7 +139,7 @@
             "day": 10,
             "in_month": true,
             "has_posts": true,
-            "count": 15,
+            "count": 17,
             "url": "/date/2026-08-10/"
           },
           {
@@ -370,7 +370,7 @@
         {
           "date": "2026-08-10",
           "day": 10,
-          "count": 15,
+          "count": 17,
           "url": "/date/2026-08-10/",
           "sources": [
             "Google AI Blog",

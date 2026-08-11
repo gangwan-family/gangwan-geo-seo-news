@@ -2,3 +2,6 @@
 .bundle/
 vendor/
 _site/
+.codex_write_check
+.workbuddy/
+scripts/__pycache__/

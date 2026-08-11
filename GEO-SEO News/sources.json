@@ -31,9 +31,11 @@
     {
       "name": "Semrush Blog",
       "slug": "semrush-blog",
-      "url": "https://www.semrush.com/blog/feed/",
+      "url": "https://www.semrush.com/blog/",
       "homepage": "https://www.semrush.com/blog/",
-      "save_full_text": true
+      "save_full_text": true,
+      "fetch_mode": "page",
+      "max_pages": 5
     }
   ]
 }

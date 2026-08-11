@@ -18,6 +18,7 @@ from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
+from urllib.parse import urljoin
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -68,6 +69,10 @@ BLOCK_TAGS = {
     "th",
     "tr",
 }
+NEXT_DATA_PATTERN = re.compile(
+    r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>',
+    flags=re.DOTALL,
+)
 
 
 class TextExtractor(HTMLParser):
@@ -327,6 +332,11 @@ def fetch_feed(url: str) -> bytes:
     return raw
 
 
+def fetch_page_html(url: str) -> str:
+    raw, content_type = fetch_bytes(url)
+    return decode_response(raw, content_type)
+
+
 def decode_response(raw: bytes, content_type: str) -> str:
     charset_match = re.search(r"charset=([^\s;]+)", content_type or "", re.IGNORECASE)
     encodings = [charset_match.group(1)] if charset_match else []
@@ -345,6 +355,143 @@ def parse_feed(raw: bytes) -> list[ET.Element]:
     if items:
         return items
     return [element for element in root.iter() if local_name(element.tag) == "entry"]
+
+
+def parse_next_data(html_text: str) -> dict[str, Any]:
+    match = NEXT_DATA_PATTERN.search(html_text)
+    if not match:
+        raise ValueError("Semrush page missing __NEXT_DATA__ payload")
+    return json.loads(match.group(1))
+
+
+def semrush_card_to_entry(source: dict[str, Any], card: dict[str, Any], fetched_at: datetime) -> dict[str, Any]:
+    relative_url = str(card.get("url") or "").strip()
+    if not relative_url:
+        raise ValueError("Semrush card missing url")
+    link = urljoin(source["homepage"], relative_url.rstrip("/") + "/")
+    published_raw = card.get("publishedAt")
+    if isinstance(published_raw, (int, float)):
+        published_at = datetime.fromtimestamp(published_raw / 1000, tz=timezone.utc)
+    else:
+        published_at = fetched_at
+
+    category_name = normalize_space(str((card.get("category") or {}).get("name") or ""))
+    categories = [category_name] if category_name else []
+    author_name = normalize_space(str((card.get("author") or {}).get("name") or ""))
+    title = html.unescape(str(card.get("title") or "Untitled")).strip() or "Untitled"
+    summary = truncate(strip_html(str(card.get("preview") or "")))
+    entry_hash = hashlib.sha1(link.encode("utf-8")).hexdigest()
+    return {
+        "key": f"{source['slug']}:{entry_hash}",
+        "hash": entry_hash[:10],
+        "source": source["name"],
+        "source_slug": source["slug"],
+        "title": title,
+        "url": link,
+        "guid": link,
+        "published_at": published_at,
+        "published_date": published_at.date().isoformat(),
+        "fetched_at": fetched_at,
+        "categories": categories,
+        "author": author_name,
+        "summary": summary,
+        "full_text": "",
+        "full_text_error": "",
+    }
+
+
+def extract_semrush_page_entries(source: dict[str, Any], html_text: str, fetched_at: datetime) -> list[dict[str, Any]]:
+    next_data = parse_next_data(html_text)
+    page_props = next_data.get("props", {}).get("pageProps", {})
+    cards: list[dict[str, Any]] = []
+
+    preview_card = page_props.get("previewCard")
+    if isinstance(preview_card, dict) and preview_card.get("url"):
+        cards.append(preview_card)
+
+    big_cards = page_props.get("bigCards")
+    if isinstance(big_cards, list):
+        cards.extend(card for card in big_cards if isinstance(card, dict) and card.get("url"))
+
+    articles = page_props.get("articles")
+    if isinstance(articles, list):
+        cards.extend(card for card in articles if isinstance(card, dict) and card.get("url"))
+
+    entries: list[dict[str, Any]] = []
+    seen_urls: set[str] = set()
+    for card in cards:
+        entry = semrush_card_to_entry(source, card, fetched_at)
+        if entry["url"] in seen_urls:
+            continue
+        seen_urls.add(entry["url"])
+        entries.append(entry)
+    return entries
+
+
+def semrush_page_url(source: dict[str, Any], page_num: int) -> str:
+    homepage = str(source["homepage"]).rstrip("/") + "/"
+    if page_num <= 1:
+        return homepage
+    return f"{homepage}?page={page_num}"
+
+
+def fetch_semrush_page_entries(source: dict[str, Any], page_num: int, fetched_at: datetime) -> list[dict[str, Any]]:
+    html_text = fetch_page_html(semrush_page_url(source, page_num))
+    return extract_semrush_page_entries(source, html_text, fetched_at)
+
+
+def fetch_page_source_entries(
+    source: dict[str, Any],
+    fetched_at: datetime,
+    seen_keys: set[str],
+    cutoff: datetime | None,
+) -> list[dict[str, Any]]:
+    max_pages = int(source.get("max_pages", 5) or 5)
+    new_entries: list[dict[str, Any]] = []
+    pending_keys: set[str] = set()
+    source_name = source.get("name", source.get("slug", "page-source"))
+
+    print(f"[page-fetch] {source_name}: start max_pages={max_pages}")
+
+    for page_num in range(1, max_pages + 1):
+        entries = fetch_semrush_page_entries(source, page_num, fetched_at)
+        if not entries:
+            print(f"[page-fetch] {source_name}: page={page_num} entries=0 stop=empty-page")
+            break
+
+        page_added_new = False
+        seen_count = 0
+        duplicate_count = 0
+        cutoff_count = 0
+        added_count = 0
+        for entry in entries:
+            if entry["key"] in seen_keys:
+                seen_count += 1
+                continue
+            if entry["key"] in pending_keys:
+                duplicate_count += 1
+                continue
+            if cutoff is not None and entry["published_at"] < cutoff:
+                cutoff_count += 1
+                continue
+            pending_keys.add(entry["key"])
+            new_entries.append(entry)
+            page_added_new = True
+            added_count += 1
+
+        stop_reason = "continue" if page_added_new else "no-new-entries"
+        print(
+            f"[page-fetch] {source_name}: "
+            f"page={page_num} entries={len(entries)} added={added_count} "
+            f"seen={seen_count} duplicate={duplicate_count} cutoff={cutoff_count} "
+            f"total_new={len(new_entries)} next={stop_reason}"
+        )
+
+        if not page_added_new:
+            break
+
+    print(f"[page-fetch] {source_name}: done total_new={len(new_entries)}")
+    return new_entries
 
 
 def candidate_article_fragments(html_text: str) -> list[str]:
@@ -533,6 +680,7 @@ def run(dry_run: bool, lookback_days: int, max_per_source: int) -> int:
     sources = load_sources()
     state = load_state()
     seen = state["entries"]
+    seen_keys = set(seen.keys())
     fetched_at = datetime.now(timezone.utc)
     cutoff = fetched_at - timedelta(days=lookback_days) if lookback_days > 0 else None
     saved_count = 0
@@ -542,19 +690,21 @@ def run(dry_run: bool, lookback_days: int, max_per_source: int) -> int:
 
     for source in sources:
         try:
-            raw = fetch_feed(source["url"])
-            items = parse_feed(raw)
+            if source.get("fetch_mode") == "page":
+                entries = fetch_page_source_entries(source, fetched_at, seen_keys, cutoff)
+            else:
+                raw = fetch_feed(source["url"])
+                items = parse_feed(raw)
+                entries = [extract_entry(source, item, fetched_at) for item in items]
+                if cutoff is not None:
+                    entries = [entry for entry in entries if entry["published_at"] >= cutoff]
+                entries.sort(key=lambda entry: entry["published_at"])
+                if max_per_source > 0 and len(entries) > max_per_source:
+                    entries = entries[-max_per_source:]
             success_count += 1
         except Exception as exc:  # noqa: BLE001 - keep scheduled job resilient.
             failures.append(f"{source['name']}: {exc}")
             continue
-
-        entries = [extract_entry(source, item, fetched_at) for item in items]
-        if cutoff is not None:
-            entries = [entry for entry in entries if entry["published_at"] >= cutoff]
-        entries.sort(key=lambda entry: entry["published_at"])
-        if max_per_source > 0 and len(entries) > max_per_source:
-            entries = entries[-max_per_source:]
         for entry in entries:
             if entry["key"] in seen:
                 existing_rel_path = seen[entry["key"]].get("path", "")
@@ -574,6 +724,7 @@ def run(dry_run: bool, lookback_days: int, max_per_source: int) -> int:
                 "path": str(path.relative_to(REPO_ROOT)),
                 "first_seen": fetched_at.isoformat(),
             }
+            seen_keys.add(entry["key"])
             saved_count += 1
             print(f"saved: {path.relative_to(REPO_ROOT)}")
 

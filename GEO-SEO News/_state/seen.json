@@ -80,6 +80,14 @@
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
     },
+    "google-ai-blog:dbc30e861442f93d6f8e9a44ec2cbacb4a0868c6": {
+      "first_seen": "2026-08-11T22:10:16.282913+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-08-11/AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.md",
+      "published": "2026-08-11T17:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
+    },
     "google-search-central-blog:be555cb543adbbd76251ae51c23a5492a13d7c9f": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
       "path": "GEO-SEO News/Google Search Central Blog/2026-07-29/Platform properties roll out globally, plus a new social and video performance guide.md",
@@ -320,6 +328,14 @@
       "title": "New ways to learn and teach with ChatGPT Work and Codex",
       "url": "https://openai.com/index/learn-teach-chatgpt-work-codex"
     },
+    "openai-news:b274e00978a8c0306df3d120c050bf97ed5f1983": {
+      "first_seen": "2026-08-11T22:10:16.282913+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-11/Daybreak models are now available on AWS.md",
+      "published": "2026-08-11T10:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+    },
     "openai-news:b86dc435d64acf26bfa3904c5715410b2249b34e": {
       "first_seen": "2026-07-31T22:32:16.940991+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-31/Advancing responsible AI across Europe.md",
@@ -399,6 +415,14 @@
       "source": "OpenAI News",
       "title": "Safety and alignment in an era of long-horizon models",
       "url": "https://openai.com/index/safety-alignment-long-horizon-models"
+    },
+    "openai-news:de2ca3d7578dd51cbe196bf098f482b58becc321": {
+      "first_seen": "2026-08-11T22:10:16.282913+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-11/Testing ads in ChatGPT.md",
+      "published": "2026-08-11T10:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt"
     },
     "openai-news:df22037e3e0ff3eac5f159ecccf3538b3b9b51a5": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
@@ -632,6 +656,14 @@
       "title": "Why Data Integrity Is The New Technical SEO: From Crawling To Trust via @sejournal, @alexmoss",
       "url": "https://www.searchenginejournal.com/why-data-integrity-is-the-new-technical-seo-from-crawling-to-trust/582189/"
     },
+    "search-engine-journal:232ef7ce625ee9bbeae707f7f2e8376604a1f1b6": {
+      "first_seen": "2026-08-11T22:10:16.282913+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-11/Anthropic To Mark Claude Text & Files Under EU AI Act Code via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-11T16:03:35+00:00",
+      "source": "Search Engine Journal",
+      "title": "Anthropic To Mark Claude Text & Files Under EU AI Act Code via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/anthropic-claude-watermarks-eu-ai-act-code/585355/"
+    },
     "search-engine-journal:2444d93260f9cdfb4c1ba2555c31f399a1e7c16c": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-22/AI Overviews Now Answer Most Local Searches – How To Get Your Business Cited via @sejournal, @AdamHeitzman.md",
@@ -832,6 +864,14 @@
       "title": "Paid Search Absorbed Organic’s Collapse – Then Q2 Slowed Down via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/paid-search-absorbed-organics-collapse-then-q2-slowed-down/583560/"
     },
+    "search-engine-journal:614327e6f716457f3c10bea34c99970da476d9c0": {
+      "first_seen": "2026-08-11T22:10:16.282913+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-11/Organic Traffic Dropped What to Tell Clients & the AI Visibility Metrics to Report Instead.md",
+      "published": "2026-08-11T18:59:11+00:00",
+      "source": "Search Engine Journal",
+      "title": "Organic Traffic Dropped? What to Tell Clients & the AI Visibility Metrics to Report Instead",
+      "url": "https://www.searchenginejournal.com/organic-traffic-dropped-what-to-tell-clients-the-ai-visibility-metrics-to-report-instead-spa/584388/"
+    },
     "search-engine-journal:63b0954caa62b03a07cf20753a0e10ed2e48a41d": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-17/Google Explains SEO Connection Of Site Quality To Non-Indexed Pages via @sejournal, @martinibuster.md",
@@ -839,6 +879,14 @@
       "source": "Search Engine Journal",
       "title": "Google Explains SEO Connection Of Site Quality To Non-Indexed Pages via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-explains-seo-connection-of-site-quality-to-non-indexed-pages/582683/"
+    },
+    "search-engine-journal:671a5eb22385f5aa3e05280f4d8572663c19179e": {
+      "first_seen": "2026-08-11T22:10:16.282913+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-11/YouTube Updates Partner Program Terms & Shorts Payout Rules via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-11T12:13:24+00:00",
+      "source": "Search Engine Journal",
+      "title": "YouTube Updates Partner Program Terms & Shorts Payout Rules via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/youtube-updates-partner-program-terms-shorts-payout-rules/585331/"
     },
     "search-engine-journal:677b02d63a0c327395b14875f888ae87662b58bb": {
       "first_seen": "2026-07-30T22:35:14.611250+00:00",
@@ -871,6 +919,14 @@
       "source": "Search Engine Journal",
       "title": "AI Recognizes 96% Of Brands But Mentions Almost None, New Study Finds",
       "url": "https://www.searchenginejournal.com/ai-brand-mention-study-victorious-spa/582765/"
+    },
+    "search-engine-journal:6aaaf4ed4de61a5d74621f54a428b8b2123875fa": {
+      "first_seen": "2026-08-11T22:10:16.282913+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-11/The AI Detection False Economy Fueling FOW (Fear of Writing) via @sejournal, @andybetts1.md",
+      "published": "2026-08-11T12:00:08+00:00",
+      "source": "Search Engine Journal",
+      "title": "The AI Detection False Economy: Fueling FOW (Fear of Writing) via @sejournal, @andybetts1",
+      "url": "https://www.searchenginejournal.com/the-ai-detection-false-economy-fueling-fear-of-writing/584967/"
     },
     "search-engine-journal:6acc8541e54052e81b5e1ff2d8664b2339f6099b": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
@@ -927,6 +983,14 @@
       "source": "Search Engine Journal",
       "title": "Google Went ‘Not Provided’ In 2011 And Blinded Us, ChatGPT Just Shipped Its Version via @sejournal, @DuaneForrester",
       "url": "https://www.searchenginejournal.com/google-went-not-provided-in-2011-and-blinded-us-chatgpt-just-shipped-its-version/582839/"
+    },
+    "search-engine-journal:776dab6c43b552bd92a1cbb002d4b296cc63c5d2": {
+      "first_seen": "2026-08-11T22:10:16.282913+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-11/WPForms Lite Accused Of Adding Backdoor. I Tested It And Was Surprised via @sejournal, @martinibuster.md",
+      "published": "2026-08-11T09:03:14+00:00",
+      "source": "Search Engine Journal",
+      "title": "WPForms Lite Accused Of Adding Backdoor. I Tested It And Was Surprised via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/wpforms-lite-accused-of-adding-backdoor-i-tested-it-and-was-surprised/585273/"
     },
     "search-engine-journal:77a490d324c60f48b849e88699e3fea833f759c0": {
       "first_seen": "2026-07-23T22:31:00.448317+00:00",
@@ -991,6 +1055,14 @@
       "source": "Search Engine Journal",
       "title": "Microsoft Advertising Adds AI Visibility Insights, PMax Testing, And Creative Preview Updates via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/microsoft-advertising-adds-ai-visibility-insights-pmax-testing-and-creative-preview-updates/584760/"
+    },
+    "search-engine-journal:83fe46fb519f5cdb45059f3d833b40358ec9fb8a": {
+      "first_seen": "2026-08-11T22:10:16.282913+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-11/The Metric Most SEOs Are Still Not Measuring In The Age Of AI via @sejournal, @SequinsNsearch.md",
+      "published": "2026-08-11T19:00:19+00:00",
+      "source": "Search Engine Journal",
+      "title": "The Metric Most SEOs Are Still Not Measuring In The Age Of AI via @sejournal, @SequinsNsearch",
+      "url": "https://www.searchenginejournal.com/the-metric-most-seos-are-still-not-measuring-in-the-age-of-ai/584027/"
     },
     "search-engine-journal:84453cc07d29568289c9face7473d5c820f31c5d": {
       "first_seen": "2026-08-07T01:03:13.764774+00:00",
@@ -1063,6 +1135,14 @@
       "source": "Search Engine Journal",
       "title": "Google’s ‘Generative AI’ Search Console Data Is A Trap For Marketers via @sejournal, @TaylorDanRW",
       "url": "https://www.searchenginejournal.com/googles-generative-ai-search-console-data-is-a-trap-for-marketers/584018/"
+    },
+    "search-engine-journal:9322b9b572e5229c72c9e38bcfc6f7f0634ec80e": {
+      "first_seen": "2026-08-11T22:10:16.282913+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-11/ChatGPT’s Search Index Serves Small Sites Too, Data Shows via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-11T19:11:46+00:00",
+      "source": "Search Engine Journal",
+      "title": "ChatGPT’s Search Index Serves Small Sites Too, Data Shows via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpts-search-index-serves-small-sites-too-data-shows/585388/"
     },
     "search-engine-journal:95dbdef301524accb9d0dc8d86b5e2ce31283ffd": {
       "first_seen": "2026-07-23T22:31:00.448317+00:00",
@@ -1215,6 +1295,14 @@
       "source": "Search Engine Journal",
       "title": "Amazon Left US Google Shopping A Year Ago & Never Came Back via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/amazon-left-us-google-shopping-a-year-ago-never-came-back/583307/"
+    },
+    "search-engine-journal:c4574af1e368f412bd9a49fb25212ba374f0ebaa": {
+      "first_seen": "2026-08-11T22:10:16.282913+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-11/How TransUnion’s AI Findings Should Change the Way SEOs Pitch GEO via @sejournal, @gregjarboe.md",
+      "published": "2026-08-11T14:30:56+00:00",
+      "source": "Search Engine Journal",
+      "title": "How TransUnion’s AI Findings Should Change the Way SEOs Pitch GEO via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/how-transunions-ai-findings-should-change-the-way-seos-pitch-geo/584922/"
     },
     "search-engine-journal:c81e5b6e322a797ef4f13306c954af3df008bf8e": {
       "first_seen": "2026-07-27T22:33:28.881080+00:00",
@@ -1472,6 +1560,14 @@
       "title": "Link building for SEO: What works in 2026",
       "url": "https://www.semrush.com/blog/link-building/"
     },
+    "semrush-blog:3328adb0649e4590f8886b43e7ab304a3aa38b74": {
+      "first_seen": "2026-08-11T22:10:16.282913+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-08-11/Topical Gravity Why topics are the new unit of your search strategy.md",
+      "published": "2026-08-11T13:00:00+00:00",
+      "source": "Semrush Blog",
+      "title": "Topical Gravity: Why topics are the new unit of your search strategy",
+      "url": "https://www.semrush.com/blog/topical-gravity/"
+    },
     "semrush-blog:38f6ad325eefdb332b751a15205208f3992fe46d": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-07-22/Website marketing A guide for the AI search era.md",
@@ -1657,6 +1753,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-11T05:20:00.131368+00:00",
+  "last_run_at": "2026-08-11T22:10:16.282913+00:00",
   "version": 1
 }

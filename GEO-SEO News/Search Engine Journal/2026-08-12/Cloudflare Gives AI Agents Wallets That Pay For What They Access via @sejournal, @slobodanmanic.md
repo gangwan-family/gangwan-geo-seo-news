@@ -1,0 +1,151 @@
+---
+title: "Cloudflare Gives AI Agents Wallets That Pay For What They Access via @sejournal, @slobodanmanic"
+source: "Search Engine Journal"
+published: 2026-08-12T14:30:08+00:00
+fetched_at: 2026-08-12T22:08:28.212173+00:00
+url: "https://www.searchenginejournal.com/cloudflare-gives-ai-agents-wallets-that-pay-for-what-they-access/584959/"
+guid: "https://www.searchenginejournal.com/cloudflare-gives-ai-agents-wallets-that-pay-for-what-they-access/584959/"
+author: "Slobodan Manic"
+categories:
+  - "AI Search"
+  - "News"
+  - "Web Dev SEO"
+---
+
+# Cloudflare Gives AI Agents Wallets That Pay For What They Access via @sejournal, @slobodanmanic
+
+- Source: Search Engine Journal
+- Published: 2026-08-12
+- URL: https://www.searchenginejournal.com/cloudflare-gives-ai-agents-wallets-that-pay-for-what-they-access/584959/
+- Author: Slobodan Manic
+- Categories: AI Search, News, Web Dev SEO
+
+## RSS 摘要
+
+Cloudflare announced wallets and optional identity handles for AI agents on August 4, extending paid access past crawlers to any caller and any resource. The post Cloudflare Gives AI Agents Wallets That Pay For What They Access appeared first on Search Engine Journal .
+
+## 原文正文
+
+Cloudflare Gives AI Agents Wallets That Pay For What They Access Skip to content
+
+🔥[Live 8/12 with Loren Baker] Ecommerce SEO : Own your "brand +promo code" search.
+
+Register Now
+
+- SEJ
+
+- ⋅
+
+- AI Search
+
+## Cloudflare Gives AI Agents Wallets That Pay For What They Access
+
+- Cloudflare announced Wallets and cloudflare.pay identity handles on August 4, 2026. Handle reservation opened that day; funding, spending and merchant support are future tense in Cloudflare’s own copy.
+
+- Paid access is not new. Pay per crawl launched in private beta on July 1, 2025 with three options per crawler: allow, charge, block. What changed is that charging extends beyond crawlers to any caller and any resource.
+
+- An Account Wallet held by a human delegates capped spend to agent-operated Virtual Wallets, with an allowance, an allow list and a maximum transaction size.
+
+- Declaring identity is optional for the agent. Cloudflare says merchants can enforce identification requirements, so declaration can still be made a condition of service.
+
+- Settlement is peer-to-peer into the seller’s wallet. Cloudflare has named no custodian for wallet balances.
+
+Cloudflare announced wallets and optional identity for AI agents on August 4. Paid access is not new, but now extends past crawlers to any caller and resource.
+
+Cloudflare announced two products on August 4, 2026, during its Agents Week: Cloudflare Wallets , which will let AI agents hold stablecoins and pay for what they use, and cloudflare.pay , an optional identity handle that tells a merchant which account an agent acts for. Handle reservation opened the same day, and the payment features are future tense in Cloudflare’s own copy.
+
+Charging for access is not the new part. Cloudflare launched pay per crawl , still in private beta, on July 1, 2025, and opened the Monetization Gateway waitlist on July 1, 2026 to extend charging past crawlers to any caller and any resource. What Wallets add is the side that pays.
+
+### What Cloudflare Announced
+
+Wallets come in two kinds. An Account Wallet belongs to a human and holds the funds. It delegates capped spending to Virtual Wallets, which agents operate through API keys.
+
+The balance is held in stablecoins, not card credit. Cloudflare says it will start with onramps and offramps in supported geographies, with self-funding via stablecoins as an alternative for eligible users. It has not named the supported stablecoins, the networks, or a custody partner.
+
+Cloudflare gives the limits as examples rather than a fixed set: “an allowance, an allow list, and a maximum transaction size.” Its worked example is a company giving every employee a $100 per week budget for AI inference. That structure is what makes identity answerable, because every agent traces back to an account.
+
+The selling side is the Monetization Gateway, waitlisted since July 1, 2026. It will charge for “any asset protected by Cloudflare: web pages, datasets, APIs, or MCP tools.” Payment clears at Cloudflare’s edge before a request reaches the origin server.
+
+Compare that with pay per crawl , which in July 2025 offered three choices per crawler: “Allow: Grant the crawler free access to content. Charge: Require payment at the configured, domain-wide price. Block: Deny access entirely, with no option to pay.” The mechanism is the same HTTP status code, but the scope is wider.
+
+Payments settle over x402 , which uses status 402, Payment Required. x402 now sits under a Linux Foundation body whose members include Visa, Mastercard, American Express, Google, Shopify and Stripe.
+
+Almost none of the new capability works yet. “Soon, you will be able to set up and use your Cloudflare Wallet to pay for APIs and content,” is what the announcement says. The press release puts full access in “coming months.”
+
+### How Agent Identity Works
+
+An agent that declares itself gets a readable name. A research agent might run at research.example.cloudflare.pay , which shows a merchant the organization behind it.
+
+The name sits on top of Web Bot Auth , which “already allows agents to register their identity via a keypair.” Cloudflare presents the readable layer as a proposal rather than a settled standard, and says it is “not trying to define a particular schema or other verification system.”
+
+Declaring is the agent’s choice, in Cloudflare’s words:
+
+“It will be completely optional for agents to choose to declare their identity or not, and it will be up to businesses to decide whether they want to prioritize transacting with known agents.”
+
+That optionality sits on the agent’s side. It does not remove a site’s ability to make declaration a condition of service. Cloudflare says identity will let merchants “communicate with buyers who identify themselves or enforce identification requirements.”
+
+Cloudflare’s model for agents that decline is VPN traffic: “If someone is unidentified, they are not inherently untrustworthy, but they need to prove themselves more.”
+
+### What It Means For Businesses
+
+Most requests for webpages are already automated. Cloudflare Radar put bots at 60.6% of requests to HTML content over the seven days to August 10, 2026, against 39.4% human. The category counts search crawlers and scanners alongside agents, so it is an outer bound rather than a count of agent traffic, and Radar is live, so the number moves.
+
+Optional declaration decides how much of that majority a site can put a name to. The consequences show up first in promotions, and Cloudflare even names the problem itself:
+
+“This lack of attribution challenges many traditional web business models. It’s easy to give a one-week free trial or sign-up credits to a human or an organization. It’s hard to give these same perks to an agent that lacks a stable identity and when one human can spin up dozens of agents under their control.”
+
+Each of those mechanics assumes one human per account. Free trials and signup credits are the obvious cases. Referral bonuses, first-order discounts and usage tiers rest on the same assumption.
+
+The design goes further than that. “Stablecoin micropayments via x402 will make it simple to try an API without an account, allowing agents to test new options with little friction,” the announcement says. No account means no signup, and no signup means no record of which company evaluated the product.
+
+Existing rules about who gets served were written for crawlers that identify themselves by convention, and for people who arrive one at a time. An agent that declines to declare fits neither category. Because a declaration cannot be assumed, a rule about these agents has to rest on what they do rather than what they say they are, which puts it in a site’s terms of service and leaves its bot controls to enforce it.
+
+That leaves four cases to cover:
+
+An agent that…
+
+A defensible response today
+
+Declares who it acts for and behaves like a user
+
+Serve it, and prefer it once declaration is available
+
+Declares nothing but behaves like one person browsing
+
+Serve it under existing limits
+
+Declines to declare and requests at machine scale
+
+Throttle it with existing bot controls
+
+Claims a trial, credit, or discount
+
+Require the same identity a person would need, and say so in the terms
+
+The last row is the one with money attached, because that is where an undeclared agent costs a business something rather than merely consuming bandwidth.
+
+### What It Does Not Cover
+
+Settlement happens peer-to-peer, directly into the seller’s wallet. Under pay per crawl Cloudflare was Merchant of Record. Under the Monetization Gateway, it is not in the settlement path at all, though it still runs the wallet, the handle, and the onramp.
+
+Beyond a waitlist, there is no general availability, no published pricing, and no AI company named as a paying counterparty.
+
+### What To Do Now
+
+Audit the terms of service for the identity gap on trials and credits. The mechanics that assume one human per account are the ones an undeclared agent reaches first, and that audit depends on no vendor releasing anything.
+
+Hold off on making any AI crawler block permanent . Paid access already exists for crawlers and is extending to everything else behind Cloudflare, so a block written into a contract or a content policy now is one that may need unpicking.
+
+Featured Image: Golden Dayz/Shutterstock
+
+Category News AI Search Web Dev SEO
+
+Read Full Bio
+
+Slobodan Manic Founder of No Hacks and machine-first website optimisation consultant at No Hacks
+
+Slobodan “Sani” Manić is a website optimisation consultant with over 15 years of experience helping businesses make their websites faster, ...
+
+## 原文链接
+
+[Read original](https://www.searchenginejournal.com/cloudflare-gives-ai-agents-wallets-that-pay-for-what-they-access/584959/)

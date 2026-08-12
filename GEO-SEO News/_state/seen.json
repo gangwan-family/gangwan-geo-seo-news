@@ -376,6 +376,14 @@
       "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "url": "https://openai.com/index/model-ml"
     },
+    "openai-news:cad35e6294feba2f66b3de50e2b5067385b0737a": {
+      "first_seen": "2026-08-12T22:08:28.212173+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-12/How RingCentral builds AI-native work from engineering to ops.md",
+      "published": "2026-08-12T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral"
+    },
     "openai-news:cc8e132c619995d199d338076bd693d216fb9d56": {
       "first_seen": "2026-07-30T22:35:14.611250+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-29/How enabling two settings tripled our scores on the ARC-AGI-3 benchmark.md",
@@ -456,6 +464,14 @@
       "title": "How AI is expanding what people do at work",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
     },
+    "openai-news:fb21820d806b1b78d97fc2960a75ac211fb61114": {
+      "first_seen": "2026-08-12T22:08:28.212173+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-12/From assistance to execution How enterprises put AI to work.md",
+      "published": "2026-08-12T06:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
+    },
     "openai-news:fc3528d001b5387ae21e7c472c8bfa84d5042ee8": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-22/Advancing the next era of national science.md",
@@ -495,6 +511,14 @@
       "source": "Search Engine Journal",
       "title": "Google’s Mueller: Fix Conflicting Metadata, Don’t Test It via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/googles-mueller-fix-conflicting-metadata-dont-test-it/584055/"
+    },
+    "search-engine-journal:03b5d9bcc87a824fe971b0098965eaa342f4a9ce": {
+      "first_seen": "2026-08-12T22:08:28.212173+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-12/OpenAI Allows Some Health & Finance Ads In ChatGPT via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-12T15:14:23+00:00",
+      "source": "Search Engine Journal",
+      "title": "OpenAI Allows Some Health & Finance Ads In ChatGPT via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/openai-allows-some-health-finance-ads-in-chatgpt/585516/"
     },
     "search-engine-journal:0460e4e19b5c0ab4f4404389fe217b26727f7762": {
       "first_seen": "2026-08-05T22:33:14.053208+00:00",
@@ -640,6 +664,14 @@
       "title": "AI Browsers Are Backward Because Agents Never Needed The Visual Layer via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/ai-browsers-are-backward-because-agents-never-needed-the-visual-layer/583056/"
     },
+    "search-engine-journal:20d8a0dff01eebf95488296efafe192797f078e5": {
+      "first_seen": "2026-08-12T22:08:28.212173+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-12/Cloudflare Gives AI Agents Wallets That Pay For What They Access via @sejournal, @slobodanmanic.md",
+      "published": "2026-08-12T14:30:08+00:00",
+      "source": "Search Engine Journal",
+      "title": "Cloudflare Gives AI Agents Wallets That Pay For What They Access via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/cloudflare-gives-ai-agents-wallets-that-pay-for-what-they-access/584959/"
+    },
     "search-engine-journal:21a76508e5a4eb61e6e09af07c4181bbe8808c2f": {
       "first_seen": "2026-08-03T22:32:31.168973+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-03/Open Knowledge Format v0.2 Adds A Trust Layer – No AI Agent Reads It Yet via @sejournal, @slobodanmanic.md",
@@ -744,6 +776,14 @@
       "title": "Why Part Of Your AI Authority Takes Years, Not Campaigns & Why It Comes From Other People via @sejournal, @DuaneForrester",
       "url": "https://www.searchenginejournal.com/why-part-of-your-ai-authority-takes-years-not-campaigns-why-it-comes-from-other-people/584467/"
     },
+    "search-engine-journal:31c76999717ed5edf0d77a9b4fb7d896f7530057": {
+      "first_seen": "2026-08-12T22:08:28.212173+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-12/Google Is Ending Target Overperformance – What to Fix Before August 17 via @sejournal, @brookeosmundson.md",
+      "published": "2026-08-12T12:00:33+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Is Ending Target Overperformance – What to Fix Before August 17 via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-is-ending-target-overperformance-what-to-fix-before-august-17/584875/"
+    },
     "search-engine-journal:3568f8ac61b89d83aae35ceb07f6cf1cbc95025b": {
       "first_seen": "2026-07-21T09:02:00.061153+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-21/Google AI Mode Shows Ads On 1 In 3 Commercial Keywords via @sejournal, @MattGSouthern.md",
@@ -751,6 +791,14 @@
       "source": "Search Engine Journal",
       "title": "Google AI Mode Shows Ads On 1 In 3 Commercial Keywords via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-ai-mode-shows-ads-on-1-in-3-commercial-keywords/582976/"
+    },
+    "search-engine-journal:3575fcca4dc78d630c0855e3ef96fa124a1f65bb": {
+      "first_seen": "2026-08-12T22:08:28.212173+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-12/How to Create Health & YMYL Content That Performs in AI Search.md",
+      "published": "2026-08-12T19:00:47+00:00",
+      "source": "Search Engine Journal",
+      "title": "How to Create Health & YMYL Content That Performs in AI Search",
+      "url": "https://www.searchenginejournal.com/how-to-create-health-ymyl-content-that-performs-in-ai-search/584431/"
     },
     "search-engine-journal:39cd57a88529c1e34e4621c738504066183c110e": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
@@ -871,6 +919,14 @@
       "source": "Search Engine Journal",
       "title": "Organic Traffic Dropped? What to Tell Clients & the AI Visibility Metrics to Report Instead",
       "url": "https://www.searchenginejournal.com/organic-traffic-dropped-what-to-tell-clients-the-ai-visibility-metrics-to-report-instead-spa/584388/"
+    },
+    "search-engine-journal:627c8ca818e5a7191c001ee136b8851649b4a5d7": {
+      "first_seen": "2026-08-12T22:08:28.212173+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-12/Automattic Fires Back At WP Engine’s Motion For Sanctions via @sejournal, @martinibuster.md",
+      "published": "2026-08-12T10:33:17+00:00",
+      "source": "Search Engine Journal",
+      "title": "Automattic Fires Back At WP Engine’s Motion For Sanctions via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/automattic-fires-back-at-wp-engines-motion-for-sanctions/585472/"
     },
     "search-engine-journal:63b0954caa62b03a07cf20753a0e10ed2e48a41d": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -1207,6 +1263,14 @@
       "source": "Search Engine Journal",
       "title": "WordPress Security Release 7.0.3 Fixes High Severity XSS Vulnerability via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/wordpress-security-release-7-0-3-fixes-high-severity-xss-vulnerability/584927/"
+    },
+    "search-engine-journal:a81e8de80cc2c5d82d0da6a8c286820a540d40db": {
+      "first_seen": "2026-08-12T22:08:28.212173+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-12/Google Amends SerpApi Suit With Content Licensing Terms via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-12T18:02:14+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Amends SerpApi Suit With Content Licensing Terms via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-amends-serpapi-suit-with-content-licensing-terms/585505/"
     },
     "search-engine-journal:a854a012d72752e2bda410f6879750ec30a76870": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -1753,6 +1817,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-11T22:10:16.282913+00:00",
+  "last_run_at": "2026-08-12T22:08:28.212173+00:00",
   "version": 1
 }

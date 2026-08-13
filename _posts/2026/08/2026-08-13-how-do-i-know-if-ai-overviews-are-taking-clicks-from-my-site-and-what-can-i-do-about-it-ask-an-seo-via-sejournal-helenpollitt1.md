@@ -1,0 +1,250 @@
+---
+layout: post
+title: "How Do I Know If AI Overviews Are Taking Clicks From My Site And What Can I Do About It? – Ask An SEO via @sejournal, @HelenPollitt1"
+date: 2026-08-13T12:00:20+00:00
+source: "Search Engine Journal"
+source_slug: "search-engine-journal"
+generated_from: "GEO-SEO News/Search Engine Journal/2026-08-13/How Do I Know If AI Overviews Are Taking Clicks From My Site And What Can I Do About It – Ask An SEO via @sejournal, @HelenPollitt1.md"
+original_url: "https://www.searchenginejournal.com/how-do-i-know-if-ai-overviews-are-taking-clicks-from-my-site-and-what-can-i-do-about-it-ask-an-seo/583417/"
+author: "Helen Pollitt"
+categories:
+  - "Ask an SEO"
+  - "SEO"
+  - "_src_search-engine-journal"
+---
+
+# How Do I Know If AI Overviews Are Taking Clicks From My Site And What Can I Do About It? – Ask An SEO via @sejournal, @HelenPollitt1
+
+- Source: Search Engine Journal
+- Published: 2026-08-13
+- URL: https://www.searchenginejournal.com/how-do-i-know-if-ai-overviews-are-taking-clicks-from-my-site-and-what-can-i-do-about-it-ask-an-seo/583417/
+- Author: Helen Pollitt
+- Categories: Ask an SEO, SEO
+
+## RSS 摘要
+
+Stable rankings, stable impressions, falling CTR: the signature of AI Overview click loss. Learn to spot it and decide what's worth recovering. The post How Do I Know If AI Overviews Are Taking Clicks From My Site And What Can I Do About It? – Ask An SEO appeared first on Search Engine Journal .
+
+## 原文正文
+
+How Do I Know If AI Overviews Are Taking Clicks From My Site And What Can I Do About It? – Ask An SEO Skip to content
+
+SEJ Live: AI Search Visibility for Local Business
+
+Register Now
+
+- SEJ
+
+- ⋅
+
+- Ask an SEO
+
+## How Do I Know If AI Overviews Are Taking Clicks From My Site And What Can I Do About It? – Ask An SEO
+
+AI Overviews may be quietly eating your clicks. Here's how to prove it in Search Console, and which keywords are worth fighting for.
+
+There are a lot of assumptions being made about the impact of AI platforms on SEO traffic and conversions. However, how much Google AI Overviews do affect your website’s performance is going to depend on individual factors, like the type of content on your site, the keywords you are targeting, and your audience.
+
+Although Google has recently introduced a Generative AI features performance report in Google Search Console, it does not give the level of detail needed to identify where AI Overviews are replacing a user’s need to click through to a webpage. In fact, there is currently no simple reporting functionality, either supplied by Google or a third party, that determines exactly how much traffic has been lost as users get the information they need directly from the search engine results pages.
+
+A recent study by researchers at the Indian School of Business and Carnegie Mellon University suggests AI Overviews could be reducing clicks out to webpages by as much as 38%.
+
+### How to Identify How Much of a Site’s Traffic Is Being Lost Due to AI Overviews
+
+Given the impact that a reduction in clicks could have on SEO performance, it is critical that we develop a way to identify how much of a site’s traffic is being lost due to the presence on Google’s AI Overviews.
+
+#### Identify Which Keywords Trigger AIOs
+
+The first step in identifying how much of your website’s traffic is lost due to the presence of AI Overviews is seeing which of your previously high-traffic-generating keywords are now triggering AIOs to appear.
+
+There are a couple of ways you can do this.
+
+You can manually search some of your keywords, using a VPN to determine what the SERPs look like in your target geographies.
+
+Or you can use your keyword tracking software – many of which provide detail on the types of SERP features that are triggered for a particular keyword.
+
+The key is to identify a group of keywords that are of a similar topic and search interest that do and don’t trigger AI Overviews.
+
+For example:
+
+AI Overview Triggered (UK)
+
+No AI Overview Triggered (UK)
+
+best cat food bowls for wet food
+
+cat food bowls
+
+raised cat bowls benefits
+
+cat food bowls for older cats
+
+elevated cat bowls good or bad
+
+stands for cat bowls
+
+best cat food bowls for slow feeding
+
+raised cat bowls
+
+#### Determine What the Key Click Metrics Were Before and After the AIO Started Appearing
+
+Once you have your list of keywords that trigger AI Overviews you should look to see what the click-through rate, impressions volume and average rankings were both before and after the AI Overview began appearing.
+
+If you haven’t been continuously tracking the SERP features triggered for your target keywords, you may need to enlist your keyword tracking tool again to determine when the AIOs began appearing. Many of the keyword trackers allow you to view snapshots of the SERPs over set periods in time. This will help you get an idea of when the AIOs first showed up for your keywords.
+
+From there, use Google Search Console to identify the average click-through rate for each of those keywords before and after the AIOs began. You will only be able to go back 16 months in Google Search Console, so consider a shorter time period of comparison – perhaps a month before and after the AIOs first began being triggered for that keyword. [Note: Google confirmed Search Console over-reported impressions from May 2025 through April 2026 and this needs to be considered when reviewing impression differences.]
+
+Keyword
+
+Period
+
+Impressions
+
+Avg. Position
+
+CTR
+
+best cat food bowls for wet food
+
+30 days before AIO
+
+12,500
+
+2.8
+
+3.2%
+
+30 days after AIO
+
+13,000
+
+2.8
+
+1.8%
+
+#### If You Can’t Determine When the AIOs Started Appearing
+
+If you do not have access to software that can show you when the AI Overviews began being triggered for your keywords, you can instead compare the average CTR of the keywords you’ve gathered that do trigger AI Overviews, and the similarly-themed ones that don’t. From there, you can compare the two cohorts’ key metrics, ideally between keywords that have similar impression levels and average ranking positions.
+
+Keyword
+
+AIO Present?
+
+Period
+
+Impressions
+
+Avg. Position
+
+CTR
+
+Raised cat bowls
+
+June 2026
+
+13,000
+
+1.5
+
+4.2%
+
+Benefits of raised cat bowls
+
+Yes
+
+June 2026
+
+12,000
+
+1.6
+
+1.8%
+
+### Look for the Telltale Signs of AIO Click-Loss
+
+Once you have got data either comparing the same keywords’ metrics before and after AIOs began appearing, or a similar cohort of keywords that do and don’t trigger AI Overviews, you can look for signs of click-loss.
+
+Essentially, the sign that your website is losing clicks due to the presence of AI Overviews is that rankings and impressions are stable , but click-through rate has declined.
+
+If you are comparing the two cohorts of keywords, you will be able to identify click-loss when measuring the CTR of keywords with similar average impressions and positions over the period, but the keywords that trigger AIOs have a lower click-through rate.
+
+### What You Can Do About It
+
+If you are seeing signs of click-loss due to AI Overviews, all (including the traffic!) is not lost.
+
+You may be able to recover some of the clicks from those keywords, and indeed, you may discover that you don’t actually want to recover the traffic from some of them.
+
+#### Categorize the Keywords
+
+The first step to determine what to do about click loss is to split your keywords affected by the AIOs into three groups.
+
+##### Keywords to Defend
+
+These are any keywords that led to commercially important pages. These are historically your conversion-driving or aiding clicks. Only put keywords in this bucket if there are still clicks to be had – that is, the AIOs are linking to webpages similar to yours. For example, the AIO for “best cat food bowls for wet food” mentions products and cites webpages where they can be purchased from, giving direct access to conversion pages from the SERPs.
+
+##### Keywords to Adapt
+
+These are the keywords that might not be able to recover clicks, but are still commercially important to the business. These keywords are triggering AIOs which no longer cite sources like your content, or indeed send much traffic to webpages at all. The answers are very much provided in the AIOs with little reason or opportunity for users to click away to a webpage for more information. They may still provide mentions that aid in brand discovery. For example, “what type of food for elderly cats” triggers an AIO which details types of foods, and even mentions some brands but links out very infrequently to those brands.
+
+##### Keywords to Depreciate
+
+These are keywords which trigger answers that can be easily answered by AIOs with no need to click anywhere else. They are keywords that were driving very top-of-the-funnel, information-seeking traffic. There really isn’t much need for the AI Overviews to cite or compare brands. For example, “best way to feed an elderly cat.” This keyword triggers an AI Overview response that contains helpful information, recommendations, and suggestions but few links or brand mentions. This traffic, before AIOs, was unlikely to convert quickly due to being so far at the exploration, answer-seeking stage and not necessarily looking for products or services.
+
+#### Strategies for Each Keyword Type
+
+Once you have sorted your keywords that are experiencing click loss due to AIOs into those three categories, you can create strategies for each group.
+
+##### Keywords to Defend
+
+For the most commercially important keywords, the strategy is about reclaiming clicks where possible. This is because these keywords have been identified as high-converting, high-risk keywords. It isn’t enough to just be mentioned in an AI Overview; these are the keywords you were previously seeing customers convert from.
+
+You will likely want to still aim for inclusion of your brand or products within the AI overviews themselves. There are still opportunities for clicks out to be had for this keyword group. If your website already appears in the AIOs but you have still noticed a drop in clicks, the core aim is to provide reasons for the searchers to want to click to your site .
+
+Giving users a reason to leave Google includes offering them content that cannot be replicated on the SERPs. This includes tools, calculators, downloads. Essentially, there needs to be something on your webpage that cannot be replaced by the information provided in the AI Overview. For the cat-food example earlier, you may want to provide a tool that calculates the optimal amount of food to feed your cat based on their age, weight, sex, and eating habits. You could then offer them the exact feeding bowls needed for their pet’s feeding requirements. This goes beyond the more standard information Google will provide in the AI Overviews, and links personalized recommendations to your products.
+
+Increasingly important in our AI-focused environment is improving brand loyalty. This means working holistically on your brand so that rather than relying on an AI Overview to provide answers, searchers may specifically look to your brand mentions, or visit the citations for that information. This can be as simple as gating unique content behind membership logins, so the AI overviews can’t possibly scrape and present it themselves. It could be more sophisticated, in the form of loyalty programs and financial incentives for visiting your brand over stockists or affiliates.
+
+Essentially, the goal is to work with the AI Overviews, getting your brand citations and mentions in them where possible, but also to entice users directly to your website for the conversions.
+
+##### Keywords to Adapt
+
+These keywords offer an opportunity for greater visibility in the SERPs, but don’t necessarily need to recover the lost traffic.
+
+The aim for this keyword group is to improve your chances of being cited or mentioned . This means providing content that is unique to your site, and ideally underpinned by first-party data – essentially giving Google the reason to cite your website.
+
+Look to develop content that answers the next question, beyond the one which the AIO answers. This means that although you may not get the click from the initial keyword or question, as the user continues in their conversation with the AI Overview, your brand has another chance to be cited.
+
+##### Keywords to Depreciate
+
+These keywords aren’t that commercially important to your business, and may not warrant time or resources invested to regain the clicks lost.
+
+One key aspect of these keywords is that you will want to quantify how valuable, or not, the traffic that used to arrive on your site from them actually was. It would be prudent to look at the typical user journeys from users landing on the pages these keywords used to drive traffic to. The likelihood is that they were often arriving on the site for information, and not engaging further with it.
+
+### Think Holistically
+
+In essence, identifying whether your website is losing clicks to AI Overviews is just one part of the equation. The key is identifying whether that lost traffic was actually that important to your business. If it was, then regaining it might be possible, and should be the focus. If it was but the clicks are unlikely to be recovered, then focus more on utilizing the AI Overview to your advantage – gaining visibility through mentions .
+
+Finally, not all lost traffic was valuable to your business. Make sure to quantify this, as it may be the key to allaying the fears of worried stakeholders when you next send round a report showing a drop in traffic.
+
+More Resources:
+
+- Google AI Overviews Impact On Publishers & How To Adapt Into 2026
+
+- What Top Stories Inside AI Overviews Means For Publishers And Brands In 2026 And Beyond
+
+- When AI Takes The Click, Click Worthiness Should Guide Your Strategy
+
+Featured Image: Paulo Bobita/Search Engine Journal
+
+Category SEO Ask an SEO
+
+Read Full Bio
+
+VIP CONTRIBUTOR Helen Pollitt Head of SEO at Getty Images
+
+Helen manages the SEO team at Getty Images. She has a passion for equipping teams and training individuals in SEO ...
+
+## 原文链接
+
+[Read original](https://www.searchenginejournal.com/how-do-i-know-if-ai-overviews-are-taking-clicks-from-my-site-and-what-can-i-do-about-it-ask-an-seo/583417/)

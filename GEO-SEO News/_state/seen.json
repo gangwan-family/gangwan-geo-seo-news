@@ -32,6 +32,14 @@
       "title": "Celebrating 25 years of visual search innovation",
       "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/"
     },
+    "google-ai-blog:4cbb438f4fdf5c0b131d016c43c11b069ea158c7": {
+      "first_seen": "2026-08-13T22:08:47.953145+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-08-13/Bring your spreadsheet data to life with Sheets canvas.md",
+      "published": "2026-08-13T16:45:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
+    },
     "google-ai-blog:61b149676fcbb9137b2a7ce087badfa9de11afbd": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-07-28/5 ways to host the ultimate dinner party with Google Search.md",
@@ -208,6 +216,14 @@
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
       "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
     },
+    "openai-news:6357d7795d215a7fa7069a167c9d8af0af3afc8a": {
+      "first_seen": "2026-08-13T22:08:47.953145+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-13/Previewing Ultrafast mode GPT-5.6 Sol at up to 14X the speed.md",
+      "published": "2026-08-13T10:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast"
+    },
     "openai-news:6d58997b466ca59f729e755e523db112666f9bfc": {
       "first_seen": "2026-08-01T13:06:18.701296+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-01/Ten advances in mathematics and theoretical computer science.md",
@@ -280,6 +296,14 @@
       "title": "Responding to the next frontier of critical cyber capabilities",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
     },
+    "openai-news:855fa77e93e122bb47dc41016310a1f3bc5ec67d": {
+      "first_seen": "2026-08-13T22:08:47.953145+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-13/The builder’s guide to GPT‑5.6.md",
+      "published": "2026-08-13T11:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
+    },
     "openai-news:8f3f7b571773b5e822ac48589fc48ca4468daa35": {
       "first_seen": "2026-08-11T01:13:17.264348+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-10/Virgin Atlantic sharpens customer journeys with ChatGPT Work.md",
@@ -319,6 +343,14 @@
       "source": "OpenAI News",
       "title": "Third-party cyber evaluations involving OpenAI models",
       "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
+    },
+    "openai-news:9e022b7caa78cba45b7169b8166de7df4a2b0d6e": {
+      "first_seen": "2026-08-13T22:08:47.953145+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-13/OpenAI appoints Dali Rajic as Chief Revenue Officer.md",
+      "published": "2026-08-13T09:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
     },
     "openai-news:b274d6785ee9abb7902c6d66edf9f8661ee29cd4": {
       "first_seen": "2026-08-04T22:33:41.749245+00:00",
@@ -696,6 +728,14 @@
       "title": "Anthropic To Mark Claude Text & Files Under EU AI Act Code via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/anthropic-claude-watermarks-eu-ai-act-code/585355/"
     },
+    "search-engine-journal:23d57c9067cf0e98d63eb6e908f9a536eade6fa3": {
+      "first_seen": "2026-08-13T22:08:47.953145+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-13/Google Gemini Passes 1B Monthly Users, 63% Now Use Voice via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-13T01:00:07+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Gemini Passes 1B Monthly Users, 63% Now Use Voice via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-gemini-passes-1b-monthly-users-63-now-use-voice/585624/"
+    },
     "search-engine-journal:2444d93260f9cdfb4c1ba2555c31f399a1e7c16c": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-22/AI Overviews Now Answer Most Local Searches – How To Get Your Business Cited via @sejournal, @AdamHeitzman.md",
@@ -759,6 +799,14 @@
       "source": "Search Engine Journal",
       "title": "AI Search Isn’t Replacing Google, It’s Layering On Top – Similarweb Data via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/ai-search-isnt-replacing-google-its-layering-on-top-similarweb-data/583378/"
+    },
+    "search-engine-journal:2f895498c0a08eed7920aedab2c8c09c7454e0da": {
+      "first_seen": "2026-08-13T22:08:47.953145+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-13/The GEO Trust Gap SEOs Want The Data, But Not The Platforms Selling It via @sejournal, @DuaneForrester.md",
+      "published": "2026-08-13T19:00:43+00:00",
+      "source": "Search Engine Journal",
+      "title": "The GEO Trust Gap: SEOs Want The Data, But Not The Platforms Selling It via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/the-geo-trust-gap-seos-want-the-data-but-not-the-platforms-selling-it/585161/"
     },
     "search-engine-journal:30dbc07e9410a8fd6ae0008ae07a2127e58165b3": {
       "first_seen": "2026-07-24T22:34:10.160757+00:00",
@@ -920,6 +968,14 @@
       "title": "Organic Traffic Dropped? What to Tell Clients & the AI Visibility Metrics to Report Instead",
       "url": "https://www.searchenginejournal.com/organic-traffic-dropped-what-to-tell-clients-the-ai-visibility-metrics-to-report-instead-spa/584388/"
     },
+    "search-engine-journal:61b7551436918293b54ebe5186339572bc216425": {
+      "first_seen": "2026-08-13T22:08:47.953145+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-13/The PPC Clean-Up How to Audit and Fix ‘Value Inflation’ in Google Ads.md",
+      "published": "2026-08-13T17:30:31+00:00",
+      "source": "Search Engine Journal",
+      "title": "The PPC Clean-Up: How to Audit and Fix ‘Value Inflation’ in Google Ads",
+      "url": "https://www.searchenginejournal.com/the-ppc-clean-up-how-to-audit-and-fix-value-inflation-in-google-ads/583009/"
+    },
     "search-engine-journal:627c8ca818e5a7191c001ee136b8851649b4a5d7": {
       "first_seen": "2026-08-12T22:08:28.212173+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-12/Automattic Fires Back At WP Engine’s Motion For Sanctions via @sejournal, @martinibuster.md",
@@ -1023,6 +1079,14 @@
       "source": "Search Engine Journal",
       "title": "Alphabet Q2 Earnings Show $5.85 Billion Negative Free Cash Flow via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-q2-earnings-show-5-85-billion-negative-free-cash-flow/583259/"
+    },
+    "search-engine-journal:73364f466e46e70868a676e765a7b3598872cc3b": {
+      "first_seen": "2026-08-13T22:08:47.953145+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-13/Reddit Preserved The Part Of The Internet We Broke via @sejournal, @brentcsutoras.md",
+      "published": "2026-08-13T14:30:44+00:00",
+      "source": "Search Engine Journal",
+      "title": "Reddit Preserved The Part Of The Internet We Broke via @sejournal, @brentcsutoras",
+      "url": "https://www.searchenginejournal.com/reddit-preserved-the-part-of-the-internet-we-broke/585485/"
     },
     "search-engine-journal:74e7930d5529c22e4c9f857401ae2e33c6312ab9": {
       "first_seen": "2026-07-31T22:32:16.940991+00:00",
@@ -1192,6 +1256,14 @@
       "title": "Google’s ‘Generative AI’ Search Console Data Is A Trap For Marketers via @sejournal, @TaylorDanRW",
       "url": "https://www.searchenginejournal.com/googles-generative-ai-search-console-data-is-a-trap-for-marketers/584018/"
     },
+    "search-engine-journal:8e8fd68a7f49fe447e6242534d52edd0b2e85bf5": {
+      "first_seen": "2026-08-13T22:08:47.953145+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-13/How Do I Know If AI Overviews Are Taking Clicks From My Site And What Can I Do About It – Ask An SEO via @sejournal, @HelenPollitt1.md",
+      "published": "2026-08-13T12:00:20+00:00",
+      "source": "Search Engine Journal",
+      "title": "How Do I Know If AI Overviews Are Taking Clicks From My Site And What Can I Do About It? – Ask An SEO via @sejournal, @HelenPollitt1",
+      "url": "https://www.searchenginejournal.com/how-do-i-know-if-ai-overviews-are-taking-clicks-from-my-site-and-what-can-i-do-about-it-ask-an-seo/583417/"
+    },
     "search-engine-journal:9322b9b572e5229c72c9e38bcfc6f7f0634ec80e": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-11/ChatGPT’s Search Index Serves Small Sites Too, Data Shows via @sejournal, @MattGSouthern.md",
@@ -1304,6 +1376,22 @@
       "title": "Head Of Anthropic’s Claude Code Says Prompt Engineering Not That Important via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/head-of-anthropics-claude-code-says-prompt-engineering-not-that-important/584286/"
     },
+    "search-engine-journal:ae4455f2ef0fd550f3bab58d52ce1263d80d535b": {
+      "first_seen": "2026-08-13T22:08:47.953145+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-13/AI Overviews How Freshpet Stands Out in SEO & GEO [Webinar] via @sejournal, @hethr_campbell.md",
+      "published": "2026-08-13T11:06:50+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Overviews: How Freshpet Stands Out in SEO & GEO [Webinar] via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/ai-overviews-how-freshpet-stands-out-seo-geo/584796/"
+    },
+    "search-engine-journal:ae711d6a4e87f9b6857c152c31446300dbf7569a": {
+      "first_seen": "2026-08-13T22:08:47.953145+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-13/Why Anthropic’s Claude Watermark May Be A New Text-Marking Method via @sejournal, @martinibuster.md",
+      "published": "2026-08-13T15:23:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "Why Anthropic’s Claude Watermark May Be A New Text-Marking Method via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/why-anthropics-claude-watermark-may-be-a-new-text-marking-method/585703/"
+    },
     "search-engine-journal:b1df692a845b2a2330e12e47f14b275c6285faa2": {
       "first_seen": "2026-08-03T22:32:31.168973+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-03/Reviews, Reputation & Listings The Local Signals AI Now Reads via @sejournal, @MattGSouthern.md",
@@ -1327,6 +1415,14 @@
       "source": "Search Engine Journal",
       "title": "Google Faces Class Action Over Books Used To Train Gemini via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-faces-class-action-over-books-used-to-train-gemini/582708/"
+    },
+    "search-engine-journal:b43ce547b474570c488328c611baf9a3d2f070b2": {
+      "first_seen": "2026-08-13T22:08:47.953145+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-13/Google Is Removing Language Targeting From Search Campaigns via @sejournal, @brookeosmundson.md",
+      "published": "2026-08-13T21:30:33+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Is Removing Language Targeting From Search Campaigns via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-is-removing-language-targeting-from-search-campaigns/585592/"
     },
     "search-engine-journal:b74b2569c3fe555e299dd973ed89bc983fa08c69": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -1688,6 +1784,14 @@
       "title": "Why Brand Positioning Is Now an AI Search Variable",
       "url": "https://www.semrush.com/blog/brand-positioning-is-an-ai-search-variable/"
     },
+    "semrush-blog:57148c1afc82deef40970972518c126631027c62": {
+      "first_seen": "2026-08-13T22:08:47.953145+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-08-13/Claude watermarks its output what content teams should know.md",
+      "published": "2026-08-13T14:56:00+00:00",
+      "source": "Semrush Blog",
+      "title": "Claude watermarks its output: what content teams should know",
+      "url": "https://www.semrush.com/blog/claude-ai-watermarks/"
+    },
     "semrush-blog:6058891fc2aae09760149e7d73deee94bc9fe8a5": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-08-10/What is organic traffic (And how to increase it).md",
@@ -1817,6 +1921,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-12T22:08:28.212173+00:00",
+  "last_run_at": "2026-08-13T22:08:47.953145+00:00",
   "version": 1
 }

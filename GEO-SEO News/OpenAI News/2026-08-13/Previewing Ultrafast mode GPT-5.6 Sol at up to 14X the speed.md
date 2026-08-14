@@ -2,7 +2,7 @@
 title: "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed"
 source: "OpenAI News"
 published: 2026-08-13T10:00:00+00:00
-fetched_at: 2026-08-13T22:08:47.953145+00:00
+fetched_at: 2026-08-14T21:46:44.097946+00:00
 url: "https://openai.com/index/previewing-ultrafast"
 guid: "https://openai.com/index/previewing-ultrafast"
 categories:

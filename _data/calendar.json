@@ -171,16 +171,16 @@
             "day": 14,
             "in_month": true,
             "has_posts": true,
-            "count": 5,
+            "count": 6,
             "url": "/date/2026-08-14/"
           },
           {
             "date": "2026-08-15",
             "day": 15,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 2,
+            "url": "/date/2026-08-15/"
           },
           {
             "date": "2026-08-16",
@@ -368,9 +368,18 @@
       ],
       "days": [
         {
+          "date": "2026-08-15",
+          "day": 15,
+          "count": 2,
+          "url": "/date/2026-08-15/",
+          "sources": [
+            "Search Engine Journal"
+          ]
+        },
+        {
           "date": "2026-08-14",
           "day": 14,
-          "count": 5,
+          "count": 6,
           "url": "/date/2026-08-14/",
           "sources": [
             "Search Engine Journal"

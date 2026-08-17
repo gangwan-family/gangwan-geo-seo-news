@@ -196,9 +196,9 @@
             "date": "2026-08-17",
             "day": 17,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 11,
+            "url": "/date/2026-08-17/"
           },
           {
             "date": "2026-08-18",
@@ -367,6 +367,17 @@
         ]
       ],
       "days": [
+        {
+          "date": "2026-08-17",
+          "day": 17,
+          "count": 11,
+          "url": "/date/2026-08-17/",
+          "sources": [
+            "Google AI Blog",
+            "OpenAI News",
+            "Search Engine Journal"
+          ]
+        },
         {
           "date": "2026-08-15",
           "day": 15,

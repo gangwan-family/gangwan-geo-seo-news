@@ -112,6 +112,14 @@
       "title": "Platform properties roll out globally, plus a new social and video performance guide",
       "url": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide"
     },
+    "openai-news:01003c6680bc2ecc56a2f52dd87efa12aca00da7": {
+      "first_seen": "2026-08-18T21:44:32.657208+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-18/Introducing ChatGPT for Teens Built for learning, backed by protections.md",
+      "published": "2026-08-18T11:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens"
+    },
     "openai-news:0f0c1961f93e8e0cb939472e2748171375e397e8": {
       "first_seen": "2026-08-07T01:03:13.764774+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-06/Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users.md",
@@ -232,6 +240,22 @@
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
       "url": "https://openai.com/index/previewing-ultrafast"
     },
+    "openai-news:67f37d861d340b85b022037b65b3e9a60f1c90a5": {
+      "first_seen": "2026-08-18T21:44:32.657208+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-18/Strengthening democratic oversight in national security.md",
+      "published": "2026-08-18T19:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Strengthening democratic oversight in national security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
+    },
+    "openai-news:68c52c81310f1d0ec0abcd09b33a42cea3d6cc87": {
+      "first_seen": "2026-08-18T21:44:32.657208+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-18/Pacing model development in an era of cyber-critical capabilities.md",
+      "published": "2026-08-18T11:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
+    },
     "openai-news:6d58997b466ca59f729e755e523db112666f9bfc": {
       "first_seen": "2026-08-01T13:06:18.701296+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-01/Ten advances in mathematics and theoretical computer science.md",
@@ -287,6 +311,14 @@
       "source": "OpenAI News",
       "title": "What building an AI-native finance function taught me",
       "url": "https://openai.com/index/building-an-ai-native-finance-function"
+    },
+    "openai-news:7d7eacff40aa330cc400a4c439db24d8cf9fbfbf": {
+      "first_seen": "2026-08-18T21:44:32.657208+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-18/Asana cleared 5 years of engineering work in 2 weeks with Codex.md",
+      "published": "2026-08-18T07:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana"
     },
     "openai-news:7f776d7829d07edef8a9ed148664107425911d12": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
@@ -351,6 +383,14 @@
       "source": "OpenAI News",
       "title": "New policy ideas for the Intelligence Age",
       "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+    },
+    "openai-news:9765648ad527edb666ee1df6ba69a5bb92d8a9c9": {
+      "first_seen": "2026-08-18T21:44:32.657208+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-18/Partnering with CodeAI to prepare the first AI generation.md",
+      "published": "2026-08-18T11:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai"
     },
     "openai-news:977f60f7e5e3c697f2eead0cf35e429742ba811c": {
       "first_seen": "2026-08-04T22:33:41.749245+00:00",
@@ -703,6 +743,14 @@
       "source": "Search Engine Journal",
       "title": "How AI Search Trends Are Changing PPC Campaign Structures – Ask A PPC via @sejournal, @navahf",
       "url": "https://www.searchenginejournal.com/how-ai-search-trends-are-changing-ppc-campaign-structures-ask-a-ppc/584004/"
+    },
+    "search-engine-journal:1a488163f230023e69e8c19eb5781e5339c69c22": {
+      "first_seen": "2026-08-18T21:44:32.657208+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-18/Get Your Business Found & Chosen In AI Search [Free SEJ Live Event].md",
+      "published": "2026-08-18T12:00:54+00:00",
+      "source": "Search Engine Journal",
+      "title": "Get Your Business Found & Chosen In AI Search [Free SEJ Live Event]",
+      "url": "https://www.searchenginejournal.com/get-your-business-found-chosen-in-ai-search-free-sej-live-event/584710/"
     },
     "search-engine-journal:1a6b6f6e88abd7e7aa2ed1812872addcd313ca5b": {
       "first_seen": "2026-07-27T22:33:28.881080+00:00",
@@ -1360,6 +1408,14 @@
       "title": "How Do I Know If AI Overviews Are Taking Clicks From My Site And What Can I Do About It? – Ask An SEO via @sejournal, @HelenPollitt1",
       "url": "https://www.searchenginejournal.com/how-do-i-know-if-ai-overviews-are-taking-clicks-from-my-site-and-what-can-i-do-about-it-ask-an-seo/583417/"
     },
+    "search-engine-journal:9034b766f8111cb8f8d510d7ba8c16de0f172afd": {
+      "first_seen": "2026-08-18T21:44:32.657208+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-18/What We Can Learn From Evolving ChatGPT Fan-Out Queries via @sejournal, @lilyraynyc.md",
+      "published": "2026-08-18T13:01:30+00:00",
+      "source": "Search Engine Journal",
+      "title": "What We Can Learn From Evolving ChatGPT Fan-Out Queries via @sejournal, @lilyraynyc",
+      "url": "https://www.searchenginejournal.com/what-we-can-learn-from-evolving-chatgpt-fan-out-queries/586254/"
+    },
     "search-engine-journal:9322b9b572e5229c72c9e38bcfc6f7f0634ec80e": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-11/ChatGPT’s Search Index Serves Small Sites Too, Data Shows via @sejournal, @MattGSouthern.md",
@@ -1464,6 +1520,14 @@
       "title": "AI Referrals Are Recreating The Oldest Mistake In Conversion Optimization via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/ai-referrals-are-recreating-the-oldest-mistake-in-conversion-optimization/584331/"
     },
+    "search-engine-journal:acc41d7f64a00ebdd98dbce9df9d60dcbd6c5264": {
+      "first_seen": "2026-08-18T21:44:32.657208+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-18/9 AI Search Myths, Debunked by 15 Million Data Points via @sejournal, @ahrefs.md",
+      "published": "2026-08-18T14:26:59+00:00",
+      "source": "Search Engine Journal",
+      "title": "9 AI Search Myths, Debunked by 15 Million Data Points via @sejournal, @ahrefs",
+      "url": "https://www.searchenginejournal.com/ai-search-myths-debunked-ahrefs-spa/584393/"
+    },
     "search-engine-journal:ad2a1e6a3dad2c0a888fced69c0094d356906f2e": {
       "first_seen": "2026-08-17T21:47:12.415274+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-17/The AI Conversations Leaking Into Your Search Console via @sejournal, @suganthan.md",
@@ -1503,6 +1567,14 @@
       "source": "Search Engine Journal",
       "title": "Why Anthropic’s Claude Watermark May Be A New Text-Marking Method via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/why-anthropics-claude-watermark-may-be-a-new-text-marking-method/585703/"
+    },
+    "search-engine-journal:afca59161f7a5b288b6a579c598ee1b461a80688": {
+      "first_seen": "2026-08-18T21:44:32.657208+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-18/Google Begins Rolling Out The August 2026 Spam Update via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-18T17:10:40+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Begins Rolling Out The August 2026 Spam Update via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-begins-rolling-out-the-august-2026-spam-update/586301/"
     },
     "search-engine-journal:b1df692a845b2a2330e12e47f14b275c6285faa2": {
       "first_seen": "2026-08-03T22:32:31.168973+00:00",
@@ -1664,6 +1736,14 @@
       "title": "Pichai Says Google Needs Gemini 4 To Compete At The Frontier via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/pichai-says-google-needs-gemini-4-to-compete-at-the-frontier/583214/"
     },
+    "search-engine-journal:d3581b54720e58f9dbb8f63a1c02600feb51ab36": {
+      "first_seen": "2026-08-18T21:44:32.657208+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-18/Why Search Volume Is Screening Out Your Best Content Opportunities.md",
+      "published": "2026-08-18T14:30:48+00:00",
+      "source": "Search Engine Journal",
+      "title": "Why Search Volume Is Screening Out Your Best Content Opportunities",
+      "url": "https://www.searchenginejournal.com/why-search-volume-is-screening-out-your-best-content-opportunities/585048/"
+    },
     "search-engine-journal:d3c067d4cb721a47e8a85c583a2284f1e3d21569": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-10/Google Announces Campaign Benchmarking In Google Analytics via @sejournal, @MattGSouthern.md",
@@ -1671,6 +1751,14 @@
       "source": "Search Engine Journal",
       "title": "Google Announces Campaign Benchmarking In Google Analytics via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-analytics-will-benchmark-campaigns-through-ask-advisor/585213/"
+    },
+    "search-engine-journal:d5de6791943840ae73dbaf5744b6f46a25bf3939": {
+      "first_seen": "2026-08-18T21:44:32.657208+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-18/Everyone Is Negotiating With Google While Meta Reads The Web For Free via @sejournal, @slobodanmanic.md",
+      "published": "2026-08-18T17:30:31+00:00",
+      "source": "Search Engine Journal",
+      "title": "Everyone Is Negotiating With Google While Meta Reads The Web For Free via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/everyone-is-negotiating-with-google-while-meta-reads-the-web-for-free/584465/"
     },
     "search-engine-journal:dac15a6924bea5989613f9b3766f552cbc683cc0": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
@@ -1823,6 +1911,14 @@
       "source": "Search Engine Journal",
       "title": "AI Overviews Visibility: A Reliable Way To Track What Spot-Checks Miss via @sejournal, @hethr_campbell",
       "url": "https://www.searchenginejournal.com/ai-overviews-visibility-a-reliable-way-to-track-what-spot-checks-miss-webinar/582955/"
+    },
+    "search-engine-journal:fbff576adc6f4f2ef4fbbee6d5d2176333b861c6": {
+      "first_seen": "2026-08-18T21:44:32.657208+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-18/How Google AIOs Use Facebook, Instagram & TikTok From 300 Million US Searches.md",
+      "published": "2026-08-18T19:00:48+00:00",
+      "source": "Search Engine Journal",
+      "title": "How Google AIOs Use Facebook, Instagram & TikTok From 300 Million US Searches",
+      "url": "https://www.searchenginejournal.com/how-google-aios-use-facebook-instagram-tiktok-from-300-million-us-searches/585244/"
     },
     "search-engine-journal:fd7a9d7a8de15d6f888750e169001bf0ce2d86ef": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
@@ -2073,6 +2169,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-17T21:47:12.415274+00:00",
+  "last_run_at": "2026-08-18T21:44:32.657208+00:00",
   "version": 1
 }

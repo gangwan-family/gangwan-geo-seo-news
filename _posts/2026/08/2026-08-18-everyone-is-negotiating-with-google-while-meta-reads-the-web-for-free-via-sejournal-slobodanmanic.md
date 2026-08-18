@@ -1,0 +1,93 @@
+---
+layout: post
+title: "Everyone Is Negotiating With Google While Meta Reads The Web For Free via @sejournal, @slobodanmanic"
+date: 2026-08-18T17:30:31+00:00
+source: "Search Engine Journal"
+source_slug: "search-engine-journal"
+generated_from: "GEO-SEO News/Search Engine Journal/2026-08-18/Everyone Is Negotiating With Google While Meta Reads The Web For Free via @sejournal, @slobodanmanic.md"
+original_url: "https://www.searchenginejournal.com/everyone-is-negotiating-with-google-while-meta-reads-the-web-for-free/584465/"
+author: "Slobodan Manic"
+categories:
+  - "SEO"
+  - "_src_search-engine-journal"
+---
+
+# Everyone Is Negotiating With Google While Meta Reads The Web For Free via @sejournal, @slobodanmanic
+
+- Source: Search Engine Journal
+- Published: 2026-08-18
+- URL: https://www.searchenginejournal.com/everyone-is-negotiating-with-google-while-meta-reads-the-web-for-free/584465/
+- Author: Slobodan Manic
+- Categories: SEO
+
+## RSS 摘要
+
+The machine-access fight is aimed at Google. Meta reads more, returns almost nothing, and no one is asking it to stop. The post Everyone Is Negotiating With Google While Meta Reads The Web For Free appeared first on Search Engine Journal .
+
+## 原文正文
+
+Everyone Is Negotiating With Google While Meta Reads The Web For Free Skip to content
+
+SEJ Live : Boost Your Local Business Visibility Across AI Search
+
+Register Now
+
+- SEJ
+
+- ⋅
+
+- SEO
+
+## Everyone Is Negotiating With Google While Meta Reads The Web For Free
+
+Meta's crawlers now read more of the web than the AI bots everyone blocks. Nobody is negotiating with them. Here's why that matters.
+
+I think we’re aiming the machine-access fight at the wrong company. Publishers are deciding whether to block Google’s AI or license to it. Reddit spent part of its July 30 earnings call on exactly that question, and every move at that table gets covered like a summit. Meanwhile, the biggest machine reader of the web belongs to Meta. It reads more than the bots everyone blocks, it sends almost nothing back, and nobody seems to be discussing whether Zuckrawlers should be blocked.
+
+### Meta’s Crawlers Became The Majority While GPTBot Stayed The Most Blocked
+
+DataDome, a bot-defense vendor, reports 17.7 billion AI agent requests across its network in the second quarter of 2026, up 45% from the first. The growth did not come from Google or OpenAI. Meta-ExternalAgent grew 74% quarter over quarter, Meta-WebIndexer grew 163%, and together Meta’s two agents now carry the majority of the AI agent traffic DataDome is seeing, with close to nothing returned in referrals. There is something worth saying out loud before you read the rest of the article: DataDome sells bot protection, so its telemetry arrives with an interest attached; treat the exact numbers as one network’s view. The direction is harder to dismiss, especially when you look at robots.txt files : By the same company’s count, GPTBot remains the most-blocked AI crawler on the web. The bot the web organized its defenses around is not the bot doing the reading.
+
+### Google Earned The Meeting By Paying In Traffic, Meta Never Owed Anyone A Visit
+
+I think this gap exists because of what Google and Meta have been historically. Google was the one driving traffic. For 20 years, the deal was clear: Google reads your website, Google sends you visitors. When Google’s AI summaries started keeping those visitors, publishers experienced it as a broken promise, which is why the response looks like a renegotiation, with blocking, licensing , and lawsuits as the levers.
+
+Meta has always been about keeping the user inside, something Google is trying to evolve to now. Nobody ever expected a visit from Meta, so when Meta’s crawlers became the heaviest readers of the open web, there was no promise to break. It simply does not register as a loss. And yet: T he company that perfected the keep-the-user model is now the biggest consumer of everyone else’s work , and the company being renegotiated with is busy copying that model.
+
+### If Platforms Keep The User, There Is Nothing Left To Negotiate For
+
+Publishers have nothing to negotiate for if the platforms are trying to keep the user for themselves. The traffic that made the old deal work is the thing being phased out, so the bargaining chip shrinks to getting paid for the content that trains and feeds the AI. That is a losing position for almost everyone, unless you are already huge. Meta does write those checks, but only at the very top: in March 2026 it signed a licensing deal with News Corp worth up to $50 million a year , covering both Meta AI answers and model training, alongside similar arrangements with CNN, Fox News, USA Today, and a handful of others. That table seats a few dozen of the biggest brands in media while Meta’s crawlers read everyone. Reddit can put a licensing deal and a public maybe-we-walk on an earnings call. A store, a blog, a trade publication cannot do this in 2026.
+
+Which leaves one honest way for publishers to win: “Fine, we can do this without you,” and then actually creating that reality. A stronger direct connection with the audience, owned channels the platforms cannot dilute , maybe something that looks like a step back toward the decentralized web and away from the platform-centered one. None of that is quick, and none of it runs through the meeting rooms where the Google negotiation is happening.
+
+### Meta’s Reading Costs You Almost Nothing, But That Is Not The Point
+
+Meta never sent websites traffic and never promised any, so its crawlers reading billions of pages take nothing you ever had, it costs you almost nothing. But this is Meta building its business on the back of people who are doing real work, without compensating them. That is wrong, and it stays wrong whether or not any single website can feel the cost.
+
+And what DataDome reported is only the first behavior of this visitor class . The same machines that read your website today are the ones that will pay to read it or buy from it tomorrow, and the access terms the web sets by brand recognition now are the terms it will be living with then.
+
+So what does someone with an ordinary website actually do about Meta? My honest answer is “nothing today, but keep an eye on it.” Keeping an eye on it means knowing who actually reads your website rather than which AI company is in the headlines, because the two are splitting. The negotiation everyone can see is with Google. The reader almost no one seems to be watching is Meta’s. Your log files know the difference, even if the headlines do not. So pay attention to them, not the headlines.
+
+More Resources:
+
+- The Technical SEO Audit Needs A New Layer
+
+- Google Gives Sites AI Search Opt-Out, But Not The Data To Use It
+
+- The Accessibility Tree Is How AI Agents Read Your Site & It’s Breaking
+
+This post was originally published on No Hacks .
+
+Featured Image: Roman Samborskyi/Shutterstock
+
+Category SEO
+
+Read Full Bio
+
+Slobodan Manic Founder of No Hacks and machine-first website optimisation consultant at No Hacks
+
+Slobodan “Sani” Manić is a website optimisation consultant with over 15 years of experience helping businesses make their websites faster, ...
+
+## 原文链接
+
+[Read original](https://www.searchenginejournal.com/everyone-is-negotiating-with-google-while-meta-reads-the-web-for-free/584465/)

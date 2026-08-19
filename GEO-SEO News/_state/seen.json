@@ -72,6 +72,14 @@
       "title": "Connect more of your apps to Search",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps/"
     },
+    "google-ai-blog:a874149274891c9d7927acbd5ea9d39a058a42d8": {
+      "first_seen": "2026-08-19T21:47:32.784799+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-08-19/5 new ways to level up your learning with Search.md",
+      "published": "2026-08-19T19:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/"
+    },
     "google-ai-blog:ae2292bf453d4eb7832c2331f644cb200c98c2c1": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-08-10/Evolve your marketing with new AI tools.md",
@@ -400,6 +408,14 @@
       "title": "Third-party cyber evaluations involving OpenAI models",
       "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
     },
+    "openai-news:9ac0643f24279d0897e7405abdd55cab96f6b9c7": {
+      "first_seen": "2026-08-19T21:47:32.784799+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-19/Replit expands access to software creation with GPT-5.6 Luna.md",
+      "published": "2026-08-19T07:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit"
+    },
     "openai-news:9e022b7caa78cba45b7169b8166de7df4a2b0d6e": {
       "first_seen": "2026-08-13T22:08:47.953145+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-13/OpenAI appoints Dali Rajic as Chief Revenue Officer.md",
@@ -536,6 +552,22 @@
       "title": "Scientific computing in the age of agentic AI",
       "url": "https://openai.com/index/scientific-computing-agentic-ai"
     },
+    "openai-news:dfcf73efa3a68602d747c819272e31d3809524e1": {
+      "first_seen": "2026-08-19T21:47:32.784799+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-18/How NVIDIA scales expertise with ChatGPT Work.md",
+      "published": "2026-08-18T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "url": "https://openai.com/index/nvidia/chatgpt-work"
+    },
+    "openai-news:e4563871866d3a635b91bc2e29178f947db9e1c3": {
+      "first_seen": "2026-08-19T21:47:32.784799+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-18/ChatGPT Ads expands across Europe.md",
+      "published": "2026-08-18T22:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
+    },
     "openai-news:ee230258f27f8a0de48925de53f81261735fd525": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-15/GPT-Red Unlocking Self-Improvement for Robustness.md",
@@ -551,6 +583,14 @@
       "source": "OpenAI News",
       "title": "Premium seats are coming to ChatGPT Business",
       "url": "https://openai.com/index/premium-seats-chatgpt-business"
+    },
+    "openai-news:ef913e9fdabc01a874a34c945cc71d8f36dedf16": {
+      "first_seen": "2026-08-19T21:47:32.784799+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-19/Offering Zero Data Retention for frontier models.md",
+      "published": "2026-08-19T19:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
     },
     "openai-news:f137d9ea2f9f034dccd0bfc189f81096ee6a010f": {
       "first_seen": "2026-08-17T21:47:12.415274+00:00",
@@ -664,6 +704,14 @@
       "title": "Google Data Compares Gemini & AI Mode Use Against Daily Life via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-data-compares-gemini-ai-mode-use-against-daily-life/583533/"
     },
+    "search-engine-journal:0b488487c11c6ff12e198d1f86d50738115e1613": {
+      "first_seen": "2026-08-19T21:47:32.784799+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-19/InMotion Hosting Launches Tiered Agency Partner Program via @sejournal, @inmotionhosting.md",
+      "published": "2026-08-19T14:29:43+00:00",
+      "source": "Search Engine Journal",
+      "title": "InMotion Hosting Launches Tiered Agency Partner Program via @sejournal, @inmotionhosting",
+      "url": "https://www.searchenginejournal.com/inmotion-hosting-launches-tiered-agency-partner-program-spn/586195/"
+    },
     "search-engine-journal:0fe00919b45737a7091413453f98ebfd436f91e7": {
       "first_seen": "2026-08-04T22:33:41.749245+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-04/What Top Stories Inside AI Overviews Means For Publishers And Brands In 2026 And Beyond via @sejournal, @gregjarboe.md",
@@ -759,6 +807,14 @@
       "source": "Search Engine Journal",
       "title": "ChatGPT Links Out Most On Travel Questions via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/chatgpt-links-out-most-on-travel-questions/583824/"
+    },
+    "search-engine-journal:1ce64a6f7b11c95bf7a3589eb9491a4749550bee": {
+      "first_seen": "2026-08-19T21:47:32.784799+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-19/Microsoft Advertising Rolls Out AI Max Globally via @sejournal, @brookeosmundson.md",
+      "published": "2026-08-19T19:41:53+00:00",
+      "source": "Search Engine Journal",
+      "title": "Microsoft Advertising Rolls Out AI Max Globally via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/microsoft-advertising-rolls-out-ai-max-globally/586459/"
     },
     "search-engine-journal:1d865515497fa8544223f61790142c2e18d142b1": {
       "first_seen": "2026-08-17T21:47:12.415274+00:00",
@@ -1248,6 +1304,14 @@
       "title": "Are We Repeating History & Risking Backlink Penalties Again? via @sejournal, @TaylorDanRW",
       "url": "https://www.searchenginejournal.com/are-we-repeating-history-risking-backlink-penalties-again/583070/"
     },
+    "search-engine-journal:7851409b89a9f7c44c8214e8f894f822d1de0c12": {
+      "first_seen": "2026-08-19T21:47:32.784799+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-19/Clicks Are Down 42%, LinkedIn Reach Down 47% But You’re Raging At The Wrong Target via @sejournal, @gregjarboe.md",
+      "published": "2026-08-19T14:30:55+00:00",
+      "source": "Search Engine Journal",
+      "title": "Clicks Are Down 42%, LinkedIn Reach Down 47% But You’re Raging At The Wrong Target via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/clicks-are-down-42-linkedin-reach-down-47-but-youre-raging-at-the-wrong-target/585862/"
+    },
     "search-engine-journal:79d0dd0c563c4b7e1fb6739ff3695b8a0cfc5778": {
       "first_seen": "2026-07-27T22:33:28.881080+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-27/Google May Be Penalizing AI-Generated Content As Thin Content via @sejournal, @martinibuster.md",
@@ -1359,6 +1423,14 @@
       "source": "Search Engine Journal",
       "title": "Llms.txt V2 Adds Formal Markdown Linking For AI Agents via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/llms-txt-v2-formal-markdown-linking-ai-agents/586119/"
+    },
+    "search-engine-journal:8ab2f2cece4ae2c8565bfc8f1f1d84126f33fd01": {
+      "first_seen": "2026-08-19T21:47:32.784799+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-19/Decision Coverage Why AI Recommends Some Brands And Not Others via @sejournal, @billhunt.md",
+      "published": "2026-08-19T19:00:10+00:00",
+      "source": "Search Engine Journal",
+      "title": "Decision Coverage: Why AI Recommends Some Brands And Not Others via @sejournal, @billhunt",
+      "url": "https://www.searchenginejournal.com/decision-coverage-why-ai-recommends-some-brands-and-not-others/583028/"
     },
     "search-engine-journal:8b08c392b8e85836605d1fc28a35b22e6944da89": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
@@ -1568,6 +1640,14 @@
       "title": "Why Anthropic’s Claude Watermark May Be A New Text-Marking Method via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/why-anthropics-claude-watermark-may-be-a-new-text-marking-method/585703/"
     },
+    "search-engine-journal:af0278c4d827547558b3f119cc3eca1ea9037daa": {
+      "first_seen": "2026-08-19T21:47:32.784799+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-19/Google Expands Generative UI Beyond AI Mode Into AI Overviews via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-19T19:00:27+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Expands Generative UI Beyond AI Mode Into AI Overviews via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-expands-generative-ui-beyond-ai-mode-into-ai-overviews/586452/"
+    },
     "search-engine-journal:afca59161f7a5b288b6a579c598ee1b461a80688": {
       "first_seen": "2026-08-18T21:44:32.657208+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-18/Google Begins Rolling Out The August 2026 Spam Update via @sejournal, @MattGSouthern.md",
@@ -1647,6 +1727,14 @@
       "source": "Search Engine Journal",
       "title": "Amazon Left US Google Shopping A Year Ago & Never Came Back via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/amazon-left-us-google-shopping-a-year-ago-never-came-back/583307/"
+    },
+    "search-engine-journal:bc15186f1bc443e65c1f9cd28c01bcdc287f799b": {
+      "first_seen": "2026-08-19T21:47:32.784799+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-19/How To Track Google AI Mode Traffic In Search Console via @sejournal, @suganthan.md",
+      "published": "2026-08-19T12:00:51+00:00",
+      "source": "Search Engine Journal",
+      "title": "How To Track Google AI Mode Traffic In Search Console via @sejournal, @suganthan",
+      "url": "https://www.searchenginejournal.com/how-to-track-google-ai-mode-traffic-in-search-console/586194/"
     },
     "search-engine-journal:bc63fd3be214355d2e37333a514f62f488ecf67e": {
       "first_seen": "2026-08-17T21:47:12.415274+00:00",
@@ -1880,6 +1968,14 @@
       "title": "How To Run A Winning YouTube Ad Campaign Without A 7-Figure Budget via @sejournal, @MenachemAni",
       "url": "https://www.searchenginejournal.com/how-to-run-a-winning-youtube-ad-campaign-without-a-7-figure-budget/581008/"
     },
+    "search-engine-journal:ede293dc8bb93714dc8d3d633142a314c2b43726": {
+      "first_seen": "2026-08-19T21:47:32.784799+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-19/Google Answers Why Spam Updates Need To Happen via @sejournal, @martinibuster.md",
+      "published": "2026-08-19T10:42:13+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Answers Why Spam Updates Need To Happen via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-answers-why-spam-updates-need-to-happen/586382/"
+    },
     "search-engine-journal:edf039aaa5d52d44a8820e0b2fa78abe6877a2a1": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-28/Google SEO Test Shows What Happens In 5-Second Rendering Window via @sejournal, @martinibuster.md",
@@ -1887,6 +1983,14 @@
       "source": "Search Engine Journal",
       "title": "Google SEO Test Shows What Happens In 5-Second Rendering Window via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-seo-test-shows-what-happens-in-5-second-rendering-window/583878/"
+    },
+    "search-engine-journal:f0e2a44e6b90c3a3d48d376f0f22916308cb6b54": {
+      "first_seen": "2026-08-19T21:47:32.784799+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-19/Google Answers Why Search Updates Aren’t Announced Right Away via @sejournal, @martinibuster.md",
+      "published": "2026-08-19T10:19:30+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Answers Why Search Updates Aren’t Announced Right Away via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-answers-why-search-updates-arent-announced-right-away/586370/"
     },
     "search-engine-journal:f811b7ba12d0c400796c3a808ade4995114ae779": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
@@ -2128,6 +2232,14 @@
       "title": "What are backlinks in SEO & how do I get them?",
       "url": "https://www.semrush.com/blog/what-are-backlinks/"
     },
+    "semrush-blog:dbe6345dd83aad7d507147a3c793e57da0f6816e": {
+      "first_seen": "2026-08-19T21:47:32.784799+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-08-19/Microsoft Clarity adds an AI Scrape-to-Referral Ratio.md",
+      "published": "2026-08-19T08:22:00+00:00",
+      "source": "Semrush Blog",
+      "title": "Microsoft Clarity adds an AI Scrape-to-Referral Ratio",
+      "url": "https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/"
+    },
     "semrush-blog:e11d97cc9e40fea16eb5c8352c50f1b7d2f166d1": {
       "first_seen": "2026-07-31T22:32:16.940991+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-07-31/7 best AI visibility tracking tools for agencies by need.md",
@@ -2169,6 +2281,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-18T21:44:32.657208+00:00",
+  "last_run_at": "2026-08-19T21:47:32.784799+00:00",
   "version": 1
 }

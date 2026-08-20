@@ -2,7 +2,7 @@
 title: "How NVIDIA scales expertise with ChatGPT Work"
 source: "OpenAI News"
 published: 2026-08-18T00:00:00+00:00
-fetched_at: 2026-08-19T21:47:32.784799+00:00
+fetched_at: 2026-08-20T21:50:44.537440+00:00
 url: "https://openai.com/index/nvidia/chatgpt-work"
 guid: "https://openai.com/index/nvidia/chatgpt-work"
 ---

@@ -2,7 +2,7 @@
 title: "Asana cleared 5 years of engineering work in 2 weeks with Codex"
 source: "OpenAI News"
 published: 2026-08-18T07:00:00+00:00
-fetched_at: 2026-08-19T21:47:32.784799+00:00
+fetched_at: 2026-08-20T21:50:44.537440+00:00
 url: "https://openai.com/index/asana"
 guid: "https://openai.com/index/asana"
 ---

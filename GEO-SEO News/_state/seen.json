@@ -920,6 +920,14 @@
       "title": "AI Overviews Now Answer Most Local Searches – How To Get Your Business Cited via @sejournal, @AdamHeitzman",
       "url": "https://www.searchenginejournal.com/ai-overviews-now-answer-most-local-searches-how-to-get-your-business-cited/580757/"
     },
+    "search-engine-journal:246c89d4de9d28602b043f36587e2806b1717d56": {
+      "first_seen": "2026-08-21T21:45:39.115559+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-21/The House Doesn’t Publish Its Tells via @sejournal, @pedrodias.md",
+      "published": "2026-08-21T14:30:45+00:00",
+      "source": "Search Engine Journal",
+      "title": "The House Doesn’t Publish Its Tells via @sejournal, @pedrodias",
+      "url": "https://www.searchenginejournal.com/the-house-doesnt-publish-its-tells/586359/"
+    },
     "search-engine-journal:2639fce02a0a7e5f8475205ceff75e4480855490": {
       "first_seen": "2026-07-22T05:14:35.177504+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-21/Google’s AI Search Data Is Growing, But The Gaps Remain via @sejournal, @MattGSouthern.md",
@@ -1031,6 +1039,14 @@
       "source": "Search Engine Journal",
       "title": "Google Brings Gemini 3.7 Flash To AI Mode In Search via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-brings-gemini-3-7-flash-to-ai-mode-in-search/585923/"
+    },
+    "search-engine-journal:3871bc56eac107ef640eb218a0b9632d7e65277d": {
+      "first_seen": "2026-08-21T21:45:39.115559+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-21/AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe.md",
+      "published": "2026-08-21T19:00:14+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/"
     },
     "search-engine-journal:39cd57a88529c1e34e4621c738504066183c110e": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
@@ -1391,6 +1407,14 @@
       "source": "Search Engine Journal",
       "title": "Emergency Brand Audit: What AI Says About Your Locations via @sejournal, @lorenbaker",
       "url": "https://www.searchenginejournal.com/emergency-brand-audit-what-ai-says-about-your-locations-recap/583422/"
+    },
+    "search-engine-journal:7c0bc475d65b9d528cdd31cb0d06cb54086a8e8b": {
+      "first_seen": "2026-08-21T21:45:39.115559+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-21/What AI Bot Data From Hundreds Of Sites Reveals About AI Search [Webinar] via @sejournal, @lorenbaker.md",
+      "published": "2026-08-21T07:45:38+00:00",
+      "source": "Search Engine Journal",
+      "title": "What AI Bot Data From Hundreds Of Sites Reveals About AI Search [Webinar] via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/what-ai-bot-data-from-hundreds-of-sites-reveals-about-ai-search-webinar/586556/"
     },
     "search-engine-journal:7c4aafb1b87fa807898f3b52bf8624f72deef89f": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -1839,6 +1863,14 @@
       "source": "Search Engine Journal",
       "title": "Common Crawl Published A Manual For Being Visible To AI, I Automated It via @sejournal, @suganthan",
       "url": "https://www.searchenginejournal.com/common-crawl-published-a-manual-for-being-visible-to-ai-i-automated-it/584466/"
+    },
+    "search-engine-journal:cdf09239b35438a38892b665383afbd87ab69608": {
+      "first_seen": "2026-08-21T21:45:39.115559+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-21/Google’s Generated Interfaces Could Compete With Tool Pages via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-21T12:00:32+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google’s Generated Interfaces Could Compete With Tool Pages via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/googles-generated-interfaces-could-compete-with-tool-pages/586589/"
     },
     "search-engine-journal:ced1a15f42f56d32d5d724bc06c5c20f3b00266d": {
       "first_seen": "2026-08-01T13:06:18.701296+00:00",
@@ -2353,6 +2385,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-20T21:50:44.537440+00:00",
+  "last_run_at": "2026-08-21T21:45:39.115559+00:00",
   "version": 1
 }

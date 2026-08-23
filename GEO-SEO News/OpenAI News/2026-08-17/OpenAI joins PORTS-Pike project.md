@@ -2,7 +2,7 @@
 title: "OpenAI joins PORTS-Pike project"
 source: "OpenAI News"
 published: 2026-08-17T05:00:00+00:00
-fetched_at: 2026-08-22T21:43:19.607238+00:00
+fetched_at: 2026-08-23T21:42:32.290665+00:00
 url: "https://openai.com/index/openai-joins-ports-pike-project"
 guid: "https://openai.com/index/openai-joins-ports-pike-project"
 categories:

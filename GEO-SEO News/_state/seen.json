@@ -560,6 +560,14 @@
       "title": "Testing ads in ChatGPT",
       "url": "https://openai.com/index/testing-ads-in-chatgpt"
     },
+    "openai-news:df015003760c1205d1ecb2a52df5318737a517cb": {
+      "first_seen": "2026-08-24T21:51:14.761050+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-24/Advancing price-performance for developers with GPT‑5.6 in Kiro.md",
+      "published": "2026-08-24T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro"
+    },
     "openai-news:df22037e3e0ff3eac5f159ecccf3538b3b9b51a5": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-28/Scientific computing in the age of agentic AI.md",
@@ -679,6 +687,14 @@
       "source": "Search Engine Journal",
       "title": "OpenAI Allows Some Health & Finance Ads In ChatGPT via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/openai-allows-some-health-finance-ads-in-chatgpt/585516/"
+    },
+    "search-engine-journal:04075a6032ff54d29c56534015008d325aab96bb": {
+      "first_seen": "2026-08-24T21:51:14.761050+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-24/Google Ads Launches New Search and AI Max Experimentation Tools via @sejournal, @brookeosmundson.md",
+      "published": "2026-08-24T14:50:16+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Ads Launches New Search and AI Max Experimentation Tools via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-ads-launches-new-search-and-ai-max-experimentation-tools/586549/"
     },
     "search-engine-journal:0460e4e19b5c0ab4f4404389fe217b26727f7762": {
       "first_seen": "2026-08-05T22:33:14.053208+00:00",
@@ -1096,6 +1112,22 @@
       "title": "Anthropic Reveals What The Watermark Is And How It Can Be Defeated via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/anthropic-reveals-what-the-watermark-is-and-how-it-can-be-defeated/585930/"
     },
+    "search-engine-journal:42e0f680314c5f56528457aa48cb731ab553466c": {
+      "first_seen": "2026-08-24T21:51:14.761050+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-24/SEOs Are Becoming The Tools Of Their Tools – The AI Slop Backlash via @sejournal, @gregjarboe.md",
+      "published": "2026-08-24T14:30:06+00:00",
+      "source": "Search Engine Journal",
+      "title": "SEOs Are Becoming The Tools Of Their Tools – The AI Slop Backlash via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/seos-are-becoming-the-tools-of-their-tools-the-ai-slop-backlash/586298/"
+    },
+    "search-engine-journal:472d544ed9608ed61de18bbf387706f351138b1b": {
+      "first_seen": "2026-08-24T21:51:14.761050+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-24/How To Audit Publisher Websites In 2026.md",
+      "published": "2026-08-24T12:00:14+00:00",
+      "source": "Search Engine Journal",
+      "title": "How To Audit Publisher Websites In 2026",
+      "url": "https://www.searchenginejournal.com/how-to-audit-publisher-websites-in-2026/586349/"
+    },
     "search-engine-journal:49c2a76225f07ed180f0080258f5f6f14bb2b2a5": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-18/Google Explains When To Use Search Console’s ‘Validate Fix via @sejournal, @MattGSouthern.md",
@@ -1312,6 +1344,14 @@
       "title": "Why Reddit’s ChatGPT Citation Drop Isn’t Fully Explained via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/why-reddits-chatgpt-citation-drop-isnt-fully-explained/586479/"
     },
+    "search-engine-journal:6d42e8d864635431e7e6cb8ed633700db9f34ff5": {
+      "first_seen": "2026-08-24T21:51:14.761050+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-24/Google Answers If Some Sites Can Ignore GEO And Just Focus On SEO via @sejournal, @martinibuster.md",
+      "published": "2026-08-24T10:52:48+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Answers If Some Sites Can Ignore GEO And Just Focus On SEO via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-answers-if-some-sites-can-ignore-geo-and-just-focus-on-seo/586737/"
+    },
     "search-engine-journal:6f2fc6d863e67d580329dc2b886cf7b229276113": {
       "first_seen": "2026-08-05T22:33:14.053208+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-05/AI Visibility Measurement What To Track & What To Ignore.md",
@@ -1407,6 +1447,14 @@
       "source": "Search Engine Journal",
       "title": "Prompt Injections Just Proved Something SEO Has Known For 25 Years via @sejournal, @theshelleywalsh",
       "url": "https://www.searchenginejournal.com/prompt-injection-just-proved-something-seo-has-known-for-25-years/586405/"
+    },
+    "search-engine-journal:7b31e2ed3db6af7d3662496c05f4cd08687b11b5": {
+      "first_seen": "2026-08-24T21:51:14.761050+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-24/1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-24T18:50:15+00:00",
+      "source": "Search Engine Journal",
+      "title": "1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/1-in-10-webpages-shows-signs-of-ai-authorship-pew-reports/586883/"
     },
     "search-engine-journal:7b40567fe86490afd09a510f3bb02203b1ff260a": {
       "first_seen": "2026-07-24T22:34:10.160757+00:00",
@@ -2393,6 +2441,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-23T21:42:32.290665+00:00",
+  "last_run_at": "2026-08-24T21:51:14.761050+00:00",
   "version": 1
 }

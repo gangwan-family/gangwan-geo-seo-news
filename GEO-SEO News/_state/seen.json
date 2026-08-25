@@ -40,6 +40,14 @@
       "title": "Bring your spreadsheet data to life with Sheets canvas",
       "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
     },
+    "google-ai-blog:5f0b03166bf1107409094bee9121240310fb091b": {
+      "first_seen": "2026-08-25T21:50:45.285434+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-08-25/5 ways to upgrade your home decor with Google Search.md",
+      "published": "2026-08-25T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/"
+    },
     "google-ai-blog:61b149676fcbb9137b2a7ce087badfa9de11afbd": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-07-28/5 ways to host the ultimate dinner party with Google Search.md",
@@ -344,6 +352,14 @@
       "title": "Putting frontier cyber models in more trusted hands",
       "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
     },
+    "openai-news:829e237a888dfb1db7a5721c66a265431ed0f320": {
+      "first_seen": "2026-08-25T21:50:45.285434+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-25/The full stack behind abundant intelligence.md",
+      "published": "2026-08-25T07:05:00+00:00",
+      "source": "OpenAI News",
+      "title": "The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+    },
     "openai-news:833934ee3b25f4a5a86f48ec49864f551bf31930": {
       "first_seen": "2026-08-07T22:03:28.633300+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-07/Responding to the next frontier of critical cyber capabilities.md",
@@ -423,6 +439,14 @@
       "source": "OpenAI News",
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
       "url": "https://openai.com/index/replit"
+    },
+    "openai-news:9ad99bb5f40a3110bd8575be9a0ebe1e31025100": {
+      "first_seen": "2026-08-25T21:50:45.285434+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-25/Jalapeño’s first results show industry-leading speed and efficiency in AI inference.md",
+      "published": "2026-08-25T07:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results"
     },
     "openai-news:9e022b7caa78cba45b7169b8166de7df4a2b0d6e": {
       "first_seen": "2026-08-13T22:08:47.953145+00:00",
@@ -528,6 +552,14 @@
       "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
       "url": "https://openai.com/index/ntt-data"
     },
+    "openai-news:cfc376addf8c822433f0700057e399bca195ee0e": {
+      "first_seen": "2026-08-25T21:50:45.285434+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-25/Introducing the Admin plugin for ChatGPT Work and Codex.md",
+      "published": "2026-08-25T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin"
+    },
     "openai-news:d04cc35bd3ccb8a5aedf1fe70e1ec06b58d1bfcf": {
       "first_seen": "2026-08-03T22:32:31.168973+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-03/How we built a realtime system for responsive voice AI in six months.md",
@@ -551,6 +583,14 @@
       "source": "OpenAI News",
       "title": "Safety and alignment in an era of long-horizon models",
       "url": "https://openai.com/index/safety-alignment-long-horizon-models"
+    },
+    "openai-news:da55f7d7bd9decaab106ee015dff29c37cee5a81": {
+      "first_seen": "2026-08-25T21:50:45.285434+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-25/Disrupting a new covert influence campaign from Russia.md",
+      "published": "2026-08-25T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
     },
     "openai-news:de2ca3d7578dd51cbe196bf098f482b58becc321": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
@@ -807,6 +847,14 @@
       "source": "Search Engine Journal",
       "title": "Google Downplays Search Console “Error” Reports. Says Many Aren’t Real Problems via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-downplays-search-console-error-reports-says-many-arent-real-problems/582890/"
+    },
+    "search-engine-journal:150015459bf3eee1a425fd7a774cff47619c684f": {
+      "first_seen": "2026-08-25T21:50:45.285434+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-25/Google Local Services Ads Are Moving To Performance Max What To Check First.md",
+      "published": "2026-08-25T07:45:03+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Local Services Ads Are Moving To Performance Max: What To Check First",
+      "url": "https://www.searchenginejournal.com/google-local-services-ads-performance-max-webinar/586879/"
     },
     "search-engine-journal:155376cc1a4435dd8aba9d628088fd380fda8b18": {
       "first_seen": "2026-08-03T22:32:31.168973+00:00",
@@ -1088,6 +1136,14 @@
       "title": "AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/"
     },
+    "search-engine-journal:3d8dbd5af58d8e3bd935328b4e6046bcc54feb36": {
+      "first_seen": "2026-08-25T21:50:45.285434+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-25/Why International SEO Needs Machine-Recognizable E-E-A-T via @sejournal, @motokohunt.md",
+      "published": "2026-08-25T14:30:30+00:00",
+      "source": "Search Engine Journal",
+      "title": "Why International SEO Needs Machine-Recognizable E-E-A-T via @sejournal, @motokohunt",
+      "url": "https://www.searchenginejournal.com/why-international-seo-needs-machine-recognizable-e-e-a-t/583439/"
+    },
     "search-engine-journal:3e072811e672dbde442c6e6a7ec1846dd91a9025": {
       "first_seen": "2026-08-05T22:33:14.053208+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-05/Reddit CEO Intends To Show More Reviews And Recommendations via @sejournal, @martinibuster.md",
@@ -1143,6 +1199,14 @@
       "source": "Search Engine Journal",
       "title": "Microsoft Ads Is Removing Max CPC From New Campaigns via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/"
+    },
+    "search-engine-journal:509fa969ee030daf8390e7c808f6898ad90ad4e1": {
+      "first_seen": "2026-08-25T21:50:45.285434+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-25/ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks via @sejournal, @suganthan.md",
+      "published": "2026-08-25T19:00:30+00:00",
+      "source": "Search Engine Journal",
+      "title": "ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks via @sejournal, @suganthan",
+      "url": "https://www.searchenginejournal.com/chatgpt-rebuilt-its-search-tool-i-read-the-new-language-it-speaks/586710/"
     },
     "search-engine-journal:5324ec0dc67258c366bdf35770994fb19946a89c": {
       "first_seen": "2026-08-07T01:03:13.764774+00:00",
@@ -1311,6 +1375,14 @@
       "source": "Search Engine Journal",
       "title": "AI Recognizes 96% Of Brands But Mentions Almost None, New Study Finds",
       "url": "https://www.searchenginejournal.com/ai-brand-mention-study-victorious-spa/582765/"
+    },
+    "search-engine-journal:6a33c2c62991e484cab7dd40949ccc6e9fa644de": {
+      "first_seen": "2026-08-25T21:50:45.285434+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-25/Reports Indicate Google’s Spam Update Focused On SEO AI Content via @sejournal, @martinibuster.md",
+      "published": "2026-08-25T11:20:31+00:00",
+      "source": "Search Engine Journal",
+      "title": "Reports Indicate Google’s Spam Update Focused On SEO AI Content via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/reports-indicate-googles-spam-update-focused-on-seo-ai-content/586978/"
     },
     "search-engine-journal:6a44407f3def8909e30e551f5f3c519a1f937b30": {
       "first_seen": "2026-08-14T21:46:44.097946+00:00",
@@ -1696,6 +1768,14 @@
       "title": "Why AI Recommends Your Competitor & What To Do About It via @sejournal, @lorenbaker",
       "url": "https://www.searchenginejournal.com/why-ai-recommends-your-competitor-what-to-do-about-it/584488/"
     },
+    "search-engine-journal:9d54fc0cc2b00829f3a2955ef2a07bdd42975129": {
+      "first_seen": "2026-08-25T21:50:45.285434+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-25/Your Promo Code Field May Be Sending Revenue To Affiliates via @sejournal, @lorenbaker.md",
+      "published": "2026-08-25T12:30:50+00:00",
+      "source": "Search Engine Journal",
+      "title": "Your Promo Code Field May Be Sending Revenue To Affiliates via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/promo-code-search-affiliate-revenue-leak/586554/"
+    },
     "search-engine-journal:a553e3d5b4b995b3989a8b140acd374ee7a94fb4": {
       "first_seen": "2026-08-07T01:03:13.764774+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-06/WordPress Security Release 7.0.3 Fixes High Severity XSS Vulnerability via @sejournal, @martinibuster.md",
@@ -1815,6 +1895,14 @@
       "source": "Search Engine Journal",
       "title": "Reviews, Reputation & Listings: The Local Signals AI Now Reads via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/reviews-reputation-listings-the-local-signals-ai-now-reads/583795/"
+    },
+    "search-engine-journal:b1ed4418f6e33c54693380304c2ae34b46211bb9": {
+      "first_seen": "2026-08-25T21:50:45.285434+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-25/Google Brings Developing-Topic Link Carousels To AI Mode via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-25T17:39:07+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Brings Developing-Topic Link Carousels To AI Mode via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-brings-developing-topic-link-carousels-to-ai-mode/587022/"
     },
     "search-engine-journal:b2fadb9d0ca242f0b18ebde93c9780ba3c6979fe": {
       "first_seen": "2026-08-04T22:33:41.749245+00:00",
@@ -2072,6 +2160,14 @@
       "title": "Court Dismisses Google’s DMCA Claims Against SerpApi via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/court-dismisses-googles-dmca-claims-against-serpapi/583033/"
     },
+    "search-engine-journal:e4b727ac40facb1506eb996f120d95a86e83381b": {
+      "first_seen": "2026-08-25T21:50:45.285434+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-25/Cloudflare Says EmDash Version 1.0 Is Releasing Soon via @sejournal, @martinibuster.md",
+      "published": "2026-08-25T10:14:19+00:00",
+      "source": "Search Engine Journal",
+      "title": "Cloudflare Says EmDash Version 1.0 Is Releasing Soon via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/cloudflare-says-emdash-version-1-0-is-releasing-soon/586951/"
+    },
     "search-engine-journal:e59a3785b36d1bea5c07c199fa10b5759f08c63a": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-19/“Are You A Bot” Screens Can Get Your Pages Dropped By Google via @sejournal, @MattGSouthern.md",
@@ -2143,6 +2239,14 @@
       "source": "Search Engine Journal",
       "title": "Google SEO Test Shows What Happens In 5-Second Rendering Window via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-seo-test-shows-what-happens-in-5-second-rendering-window/583878/"
+    },
+    "search-engine-journal:f086751ee5b7e669a2fec7a3bfd748910d2a9067": {
+      "first_seen": "2026-08-25T21:50:45.285434+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-25/Webflow’s New OpenAI Codex Integration Simplifies Site Management via @sejournal, @martinibuster.md",
+      "published": "2026-08-25T09:17:23+00:00",
+      "source": "Search Engine Journal",
+      "title": "Webflow’s New OpenAI Codex Integration Simplifies Site Management via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/webflows-new-openai-codex-integration-simplifies-site-management/586931/"
     },
     "search-engine-journal:f0e2a44e6b90c3a3d48d376f0f22916308cb6b54": {
       "first_seen": "2026-08-19T21:47:32.784799+00:00",
@@ -2441,6 +2545,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-24T21:51:14.761050+00:00",
+  "last_run_at": "2026-08-25T21:50:45.285434+00:00",
   "version": 1
 }

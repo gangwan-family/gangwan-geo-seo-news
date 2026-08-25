@@ -1,0 +1,128 @@
+---
+title: "Reports Indicate Google’s Spam Update Focused On SEO AI Content via @sejournal, @martinibuster"
+source: "Search Engine Journal"
+published: 2026-08-25T11:20:31+00:00
+fetched_at: 2026-08-25T21:50:45.285434+00:00
+url: "https://www.searchenginejournal.com/reports-indicate-googles-spam-update-focused-on-seo-ai-content/586978/"
+guid: "https://www.searchenginejournal.com/reports-indicate-googles-spam-update-focused-on-seo-ai-content/586978/"
+author: "Roger Montti"
+categories:
+  - "News"
+  - "SEO"
+---
+
+# Reports Indicate Google’s Spam Update Focused On SEO AI Content via @sejournal, @martinibuster
+
+- Source: Search Engine Journal
+- Published: 2026-08-25
+- URL: https://www.searchenginejournal.com/reports-indicate-googles-spam-update-focused-on-seo-ai-content/586978/
+- Author: Roger Montti
+- Categories: News, SEO
+
+## RSS 摘要
+
+Google's recent Spam Update may have partially focused on catching mass-generated SEO AI content. The post Reports Indicate Google’s Spam Update Focused On SEO AI Content appeared first on Search Engine Journal .
+
+## 原文正文
+
+Reports Indicate Google's Spam Update Focused On SEO AI Content Skip to content
+
+- SEJ
+
+- ⋅
+
+- SEO
+
+## Reports Indicate Google’s Spam Update Focused On SEO AI Content
+
+Reports indicate that Google's recent spam update focused on catching mass-generated SEO AI content.
+
+Reports online suggest that at least a part of Google’s August Spam Update was about removing AI-generated SEO content that was expressly created for ranking for search engines. Google recently published a research paper about catching this kind of spam, so that’s another clue.
+
+### Google’s Scalable Cluster Termination System
+
+It’s well-known that just because content was created with AI does not make it spammy. Maybe less understood is that any content that’s created in a way that’s meant to rank for keywords tends to go up to the line between normal content and spam, if not actually cross over that line.
+
+Reports online seem to indicate that Google has implemented something new to catch AI-generated content that crosses that line. Something that’s not well known is that Google recently published a research paper called Scalable Cluster Termination System (S-CTS) that is designed to “terminate” networks of mass-generated AI spam.
+
+That doesn’t mean that Google’s August Spam Update was all about AI generated content. But if the reports are correct, this kind of AI content may be the reason why many sites lost rankings.
+
+@OkaTakuma1 tweeted the following :
+
+“Regarding this Google spam update, it seems that sites automatically posting with Claude Code, codec, etc., are being filtered and dropped across the board.
+
+It’s possible they’re automatically detecting it by attaching some kind of AI credit, similar to generated images or videos.
+
+However, sites that initially had a vibe of manually posting bit by bit—like the attached image—and then switched to LLM automation afterward appear to be surviving in some cases.
+
+Sites created entirely with full automation from the start have zero “trust signals” from Google, whereas sites that were manually operated early on have accumulated domain trust (trust savings) and past engagement data.
+
+As a result, even if they switch to LLM automated posting later, the existing domain evaluation acts as a buffer, making it harder for them to immediately receive spam judgments (or automatic penalties)…
+
+The sample size is small, so this is by no means definitive—just a trend—but in this day and age when you don’t even need to open the WordPress editor screen anymore, there’s a good chance they’re using AI credits for text too to determine manual penalties or automatic penalties, right?”
+
+#### Users Trust Websites. It’s Not A Trust Signal. It’s a User Signal.
+
+Google doesn’t use “trust signals” exactly but Google does use user generated signals that can show that a site is trusted by users. I think it’s helpful to make the distinction between user generated signals and an abstract “trust signal” which doesn’t tell you anything about what it is.
+
+That same person followed up with another tweet saying that a Japanese journal that publishes AI-generated content has not been caught in the recent spam update but they also noted that all content is hand-checked by humans before publishing.
+
+They explained:
+
+“…but so far it hasn’t received any penalties (naturally, we do manual visual checks by humans before publishing articles).
+
+In the initial stage, leveraging SNS and press releases to spread awareness, improve crawlability, and attract impressions might be what’s working.”
+
+Of course, not everyone agreed with that post because it’s anecdotal.
+
+### It’s Not AI. It’s Mass-Generated AI.
+
+@seiichi_satoweb suggested that it’s not that the content was AI-generated that may be problematic but rather that AI was used to generate content that manipulates the search results.
+
+They tweeted :
+
+“Companies operating media should check the rankings from August 18 to 21.
+
+…If it dropped, I think the first thing to suspect is not the quality of the articles, but the “method of mass production.”
+
+Google defines the malicious use of mass-generated content as generating a large number of pages primarily for manipulating search rankings, not for supporting users.
+
+It’s not about whether it was created with generative AI, but what it was created for that they’re looking at.
+
+Companies that are increasing their volume with AI should definitely check this once.”
+
+### AI Slop Is A Problem
+
+Even over on the Blackhat World Forums the members there were complaining about how frustrating it is to encounter AI slop that’s taking over the search results.
+
+One member wrote :
+
+“They’ve finally realized that AI slop is taking over.
+
+I did a search recently for a quick tutorial on how to change settings in an app and saw 4 back to back sites clearly spun up with AI to create articles answering that – all looked exactly the same, same AI slop formatting of subheadings and bullets, poor spacing between the sections, 3 sentences basically expanded into a 500 words.
+
+AI slop pages is the new doorway page and Google is struggling to reel it in.”
+
+Another member responded that they tend to add unique qualities to their AI-generated content so that it’s not a pure template-driven content.
+
+### Your Mileage May Vary
+
+Of course, there were others who remarked that their AI-generated content improved after the update, as noted in the private Google SEO Mastermind Facebook group .
+
+Nevertheless, a rule of thumb that everyone should follow, regardless of how the content was created, is that content that is strongly focused on keywords have been hurting for the past couple years. Auto-generating content to capitalize on SEO trends might have been one of the targets of the recent spam update.
+
+Google recently published a research paper about a new system called S-CTS, which stands for Scalable Cluster Termination System . It’s a system for identifying and terminating networks of AI-generated spam.
+
+Featured Image by Shutterstock/Piotr Swat
+
+Category News SEO
+
+Read Full Bio
+
+SEJ STAFF Roger Montti Owner - Martinibuster.com at Martinibuster.com
+
+I have 25 years hands-on experience in SEO, evolving along with the search engines by keeping up with the latest ...
+
+## 原文链接
+
+[Read original](https://www.searchenginejournal.com/reports-indicate-googles-spam-update-focused-on-seo-ai-content/586978/)

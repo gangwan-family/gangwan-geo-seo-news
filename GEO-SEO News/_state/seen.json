@@ -40,6 +40,14 @@
       "title": "Bring your spreadsheet data to life with Sheets canvas",
       "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
     },
+    "google-ai-blog:5a6b85529262921a7e71de80eb1b656c936344f4": {
+      "first_seen": "2026-08-28T05:30:34.018543+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-08-27/3 new ways to plan and book travel in Search.md",
+      "published": "2026-08-27T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "3 new ways to plan and book travel in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
+    },
     "google-ai-blog:5f0b03166bf1107409094bee9121240310fb091b": {
       "first_seen": "2026-08-25T21:50:45.285434+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-08-25/5 ways to upgrade your home decor with Google Search.md",
@@ -208,6 +216,14 @@
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "url": "https://openai.com/index/hsp-gruppe"
     },
+    "openai-news:3062d8cdad5fdcd904c8ee54664b2aa34880672b": {
+      "first_seen": "2026-08-28T05:30:34.018543+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-27/Better answers, broader thinking What students gain from ChatGPT and critical-thinking training.md",
+      "published": "2026-08-27T09:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+    },
     "openai-news:3a8585570cab21df194c4115cce4c90cdf272f31": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-10/Expanding Daybreak as the Cyber Defense Window Narrows.md",
@@ -255,6 +271,14 @@
       "source": "OpenAI News",
       "title": "Circles powers telco personalization with OpenAI technology",
       "url": "https://openai.com/index/circles"
+    },
+    "openai-news:57e276283c193e59268986f47b5c41859b0e7301": {
+      "first_seen": "2026-08-28T05:30:34.018543+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-27/Expanding OpenAI’s presence in Brazil.md",
+      "published": "2026-08-27T03:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil"
     },
     "openai-news:61282b7420ed067525c1f91d92b2480700145654": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
@@ -792,6 +816,14 @@
       "title": "Search Growth Slows, Publishers Weigh Leaving Google – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-search-growth-slows-publishers-weigh-leaving-google/583329/"
     },
+    "search-engine-journal:05c816e22c58298e6c3988ce22531c2d4bf6001e": {
+      "first_seen": "2026-08-28T05:30:34.018543+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-27/ChatGPT Searches Individual Subreddits By Name via @sejournal, @suganthan.md",
+      "published": "2026-08-27T12:00:30+00:00",
+      "source": "Search Engine Journal",
+      "title": "ChatGPT Searches Individual Subreddits By Name via @sejournal, @suganthan",
+      "url": "https://www.searchenginejournal.com/chatgpt-searches-individual-subreddits-by-name/586925/"
+    },
     "search-engine-journal:07041ab36de47117a242116c8bca5c53885d1591": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-10/Microsoft Clarity Now Separates Branded And Non-Branded AI Citations via @sejournal, @slobodanmanic.md",
@@ -1232,6 +1264,14 @@
       "title": "How To Advertise In Google AI Mode For Ecommerce via @sejournal, @tonyadam",
       "url": "https://www.searchenginejournal.com/how-to-advertise-in-google-ai-mode-for-ecommerce/582810/"
     },
+    "search-engine-journal:46ad0c838ffce250a3dddcc0c7eb803f47b9db75": {
+      "first_seen": "2026-08-28T05:30:34.018543+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-27/AI Search Didn’t Remove Cognitive Load, It Moved It via @sejournal, @DuaneForrester.md",
+      "published": "2026-08-27T19:00:52+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Search Didn’t Remove Cognitive Load, It Moved It via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/ai-search-didnt-remove-cognitive-load-it-moved-it/586700/"
+    },
     "search-engine-journal:472d544ed9608ed61de18bbf387706f351138b1b": {
       "first_seen": "2026-08-24T21:51:14.761050+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-24/How To Audit Publisher Websites In 2026.md",
@@ -1279,6 +1319,14 @@
       "source": "Search Engine Journal",
       "title": "Google Lets You Turn Off Visible Watermarks In Gemini via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-lets-you-turn-off-visible-watermarks-in-gemini/586145/"
+    },
+    "search-engine-journal:556332cfbeb793d1fe6f8305333ba61812792f5a": {
+      "first_seen": "2026-08-28T05:30:34.018543+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-27/OpenAI Adds WebMCP Site Tools To ChatGPT’s Browser via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-27T15:18:34+00:00",
+      "source": "Search Engine Journal",
+      "title": "OpenAI Adds WebMCP Site Tools To ChatGPT’s Browser via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-adds-webmcp-support/587237/"
     },
     "search-engine-journal:566c48701261e61106f7890c9444956b233f370a": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
@@ -1400,6 +1448,14 @@
       "title": "OpenAI Says Robots.txt May Not Apply To ChatGPT’s Fetch Bot via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/openai-says-robots-txt-may-not-apply-to-chatgpts-fetch-bot/585864/"
     },
+    "search-engine-journal:652a2088b7915760a4e19751248a8d5fca95049e": {
+      "first_seen": "2026-08-28T05:30:34.018543+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-27/We Analyzed 107 Million AI Answers. Here’s Where Each Industry’s Citations Actually Come From via @sejournal, @trendos_com.md",
+      "published": "2026-08-27T13:37:27+00:00",
+      "source": "Search Engine Journal",
+      "title": "We Analyzed 107 Million AI Answers. Here’s Where Each Industry’s Citations Actually Come From via @sejournal, @trendos_com",
+      "url": "https://www.searchenginejournal.com/ai-search-citation-sources-trendos-spa/586289/"
+    },
     "search-engine-journal:671a5eb22385f5aa3e05280f4d8572663c19179e": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-11/YouTube Updates Partner Program Terms & Shorts Payout Rules via @sejournal, @MattGSouthern.md",
@@ -1439,6 +1495,14 @@
       "source": "Search Engine Journal",
       "title": "Cloudflare’s PACT Is Not Live Yet – Decide Which Track Your Traffic Needs via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/cloudflares-pact-is-not-live-yet-decide-which-track-your-traffic-needs/580328/"
+    },
+    "search-engine-journal:69a32ded81ea4630dcc87af43380d17a8967a11c": {
+      "first_seen": "2026-08-28T05:30:34.018543+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-27/Google Starts Rolling Out Hotel Booking In AI Mode via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-27T16:00:35+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Starts Rolling Out Hotel Booking In AI Mode via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-starts-rolling-out-hotel-booking-in-ai-mode/587288/"
     },
     "search-engine-journal:6a2e936dc0f8f61b4b983055cbce2c2295b08e40": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
@@ -1671,6 +1735,14 @@
       "source": "Search Engine Journal",
       "title": "I Helped Scale Google Ads To Billions – Here’s How I’d Build An AI Search Strategy Today",
       "url": "https://www.searchenginejournal.com/i-helped-scale-google-ads-to-billions-heres-how-id-build-an-ai-search-strategy-today/582556/"
+    },
+    "search-engine-journal:845c5c545c3ed4dec69d6934fed3cbfa0db77d5c": {
+      "first_seen": "2026-08-28T05:30:34.018543+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-27/How To Become A Strategic Partner & Keep Clients Years Longer.md",
+      "published": "2026-08-27T14:30:58+00:00",
+      "source": "Search Engine Journal",
+      "title": "How To Become A Strategic Partner & Keep Clients Years Longer",
+      "url": "https://www.searchenginejournal.com/vendor-to-strategic-partner-client-lifetime-value/585254/"
     },
     "search-engine-journal:847ebb3bcd5d60e51d5c2729385c66eaafe5008b": {
       "first_seen": "2026-08-14T21:46:44.097946+00:00",
@@ -2657,6 +2729,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-27T00:55:07.763088+00:00",
+  "last_run_at": "2026-08-28T05:30:34.018543+00:00",
   "version": 1
 }

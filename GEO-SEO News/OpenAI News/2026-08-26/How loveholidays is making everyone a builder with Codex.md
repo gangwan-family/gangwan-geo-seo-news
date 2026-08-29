@@ -2,7 +2,7 @@
 title: "How loveholidays is making everyone a builder with Codex"
 source: "OpenAI News"
 published: 2026-08-26T00:00:00+00:00
-fetched_at: 2026-08-28T05:30:34.018543+00:00
+fetched_at: 2026-08-29T03:12:57.517440+00:00
 url: "https://openai.com/index/loveholidays"
 guid: "https://openai.com/index/loveholidays"
 ---

@@ -136,6 +136,14 @@
       "title": "Platform properties roll out globally, plus a new social and video performance guide",
       "url": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide"
     },
+    "google-search-central-blog:ece209ba23a89884da6ecbd8ae3eac5e0f89d41b": {
+      "first_seen": "2026-08-29T03:12:57.517440+00:00",
+      "path": "GEO-SEO News/Google Search Central Blog/2026-08-28/Update to the Site Reputation Policy.md",
+      "published": "2026-08-28T00:00:00+00:00",
+      "source": "Google Search Central Blog",
+      "title": "Update to the Site Reputation Policy",
+      "url": "https://developers.google.com/search/blog/2026/08/update-site-reputation-policy"
+    },
     "openai-news:01003c6680bc2ecc56a2f52dd87efa12aca00da7": {
       "first_seen": "2026-08-18T21:44:32.657208+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-18/Introducing ChatGPT for Teens Built for learning, backed by protections.md",
@@ -151,6 +159,22 @@
       "source": "OpenAI News",
       "title": "Introducing AI Futures",
       "url": "https://openai.com/index/introducing-ai-futures"
+    },
+    "openai-news:092c8de02e8b135ec330a69dfe0e592abd521d97": {
+      "first_seen": "2026-08-29T03:12:57.517440+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-28/Our decision on Cursor following its acquisition by SpaceX.md",
+      "published": "2026-08-28T06:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+    },
+    "openai-news:0b00c80d502cc3ab98e0f64ac864e5a386422b64": {
+      "first_seen": "2026-08-29T03:12:57.517440+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-28/Supporting Thailand’s next generation of AI startups.md",
+      "published": "2026-08-28T02:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
     },
     "openai-news:0f0c1961f93e8e0cb939472e2748171375e397e8": {
       "first_seen": "2026-08-07T01:03:13.764774+00:00",
@@ -824,6 +848,14 @@
       "title": "ChatGPT Searches Individual Subreddits By Name via @sejournal, @suganthan",
       "url": "https://www.searchenginejournal.com/chatgpt-searches-individual-subreddits-by-name/586925/"
     },
+    "search-engine-journal:064a06d081d6adedeb17bdf223d8195b74a5f6f9": {
+      "first_seen": "2026-08-29T03:12:57.517440+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-28/Google Updates Site Reputation Abuse (Parasite SEO) Policy via @sejournal, @martinibuster.md",
+      "published": "2026-08-28T11:18:58+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Updates Site Reputation Abuse (Parasite SEO) Policy via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-updates-site-reputation-abuse-policy-removes-penalties-in-eea/587423/"
+    },
     "search-engine-journal:07041ab36de47117a242116c8bca5c53885d1591": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-10/Microsoft Clarity Now Separates Branded And Non-Branded AI Citations via @sejournal, @slobodanmanic.md",
@@ -1047,6 +1079,14 @@
       "source": "Search Engine Journal",
       "title": "Why Data Integrity Is The New Technical SEO: From Crawling To Trust via @sejournal, @alexmoss",
       "url": "https://www.searchenginejournal.com/why-data-integrity-is-the-new-technical-seo-from-crawling-to-trust/582189/"
+    },
+    "search-engine-journal:22b9e909f19f3592f005f66447bad7596aacc406": {
+      "first_seen": "2026-08-29T03:12:57.517440+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-28/AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It via @sejournal, @gregjarboe.md",
+      "published": "2026-08-28T14:30:07+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/ai-isnt-killing-marketing-accountability-its-exposing-who-never-had-it/586486/"
     },
     "search-engine-journal:232ef7ce625ee9bbeae707f7f2e8376604a1f1b6": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
@@ -1368,6 +1408,14 @@
       "title": "YouTube Explains What Can Stop A Channel Getting Paid via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/youtube-explains-what-can-stop-a-channel-getting-paid/583096/"
     },
+    "search-engine-journal:5c72cbd25fed9e5b58e253d37a57eee370b51820": {
+      "first_seen": "2026-08-29T03:12:57.517440+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-28/WebMCP Connects AI Agents To Actions Inside Websites via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-28T12:00:10+00:00",
+      "source": "Search Engine Journal",
+      "title": "WebMCP Connects AI Agents To Actions Inside Websites via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/webmcp-connects-ai-agents-actions-inside-websites/587303/"
+    },
     "search-engine-journal:5efaa50777e5f519c144c964e7ef7667b31c950b": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-10/How To Remove Negative Content From Google Before AI Answers Cite It via @sejournal, @EraseDotCom.md",
@@ -1399,6 +1447,14 @@
       "source": "Search Engine Journal",
       "title": "Paid Search Absorbed Organic’s Collapse – Then Q2 Slowed Down via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/paid-search-absorbed-organics-collapse-then-q2-slowed-down/583560/"
+    },
+    "search-engine-journal:601e73ff2f112a1d14706de31130801f35a8eca5": {
+      "first_seen": "2026-08-29T03:12:57.517440+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-28/How To Add Google’s Preferred Sources Button To Your Website via @sejournal, @vahandev.md",
+      "published": "2026-08-28T19:00:53+00:00",
+      "source": "Search Engine Journal",
+      "title": "How To Add Google’s Preferred Sources Button To Your Website via @sejournal, @vahandev",
+      "url": "https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/"
     },
     "search-engine-journal:614327e6f716457f3c10bea34c99970da476d9c0": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
@@ -2256,6 +2312,14 @@
       "title": "Everyone Is Negotiating With Google While Meta Reads The Web For Free via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/everyone-is-negotiating-with-google-while-meta-reads-the-web-for-free/584465/"
     },
+    "search-engine-journal:d77e71821b4707b352b3bf488252d5164c5c771d": {
+      "first_seen": "2026-08-29T03:12:57.517440+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-28/Google Answers If Updates Come With Actionable SEO Signals via @sejournal, @martinibuster.md",
+      "published": "2026-08-28T11:45:08+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Answers If Updates Come With Actionable SEO Signals via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-answers-if-updates-come-with-actionable-seo-signals/587432/"
+    },
     "search-engine-journal:dac15a6924bea5989613f9b3766f552cbc683cc0": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-29/YouTube Views Rose While Long-Form Ad Revenue Fell, Data Shows via @sejournal, @MattGSouthern.md",
@@ -2415,6 +2479,14 @@
       "source": "Search Engine Journal",
       "title": "Google Answers Why Search Updates Aren’t Announced Right Away via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-answers-why-search-updates-arent-announced-right-away/586370/"
+    },
+    "search-engine-journal:f186e30a0c332a8a12a01abb084cc5b02163ad2c": {
+      "first_seen": "2026-08-29T03:12:57.517440+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-28/AI Is Changing Website Security. Here’s What SEO Teams Should Know via @sejournal, @vahandev.md",
+      "published": "2026-08-28T11:56:38+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Is Changing Website Security. Here’s What SEO Teams Should Know via @sejournal, @vahandev",
+      "url": "https://www.searchenginejournal.com/ai-changing-website-security-seo-teams-should-know/587352/"
     },
     "search-engine-journal:f7893ee7555d00399b8c3928b123440aaad0c585": {
       "first_seen": "2026-08-27T00:55:07.763088+00:00",
@@ -2729,6 +2801,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-28T05:30:34.018543+00:00",
+  "last_run_at": "2026-08-29T03:12:57.517440+00:00",
   "version": 1
 }

@@ -808,6 +808,14 @@
       "title": "Google’s Mueller: Fix Conflicting Metadata, Don’t Test It via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/googles-mueller-fix-conflicting-metadata-dont-test-it/584055/"
     },
+    "search-engine-journal:0388e68beeec68eb1adc9694d5fa37b48af3a413": {
+      "first_seen": "2026-08-30T23:38:25.082357+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-30/Rank Math WordPress Plugin Accused Of Secretly Taking Admin Access via @sejournal, @martinibuster.md",
+      "published": "2026-08-30T11:11:17+00:00",
+      "source": "Search Engine Journal",
+      "title": "Rank Math WordPress Plugin Accused Of Secretly Taking Admin Access via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/rank-math-wordpress-plugin-accused-of-secretly-taking-admin-access/587554/"
+    },
     "search-engine-journal:03b5d9bcc87a824fe971b0098965eaa342f4a9ce": {
       "first_seen": "2026-08-12T22:08:28.212173+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-12/OpenAI Allows Some Health & Finance Ads In ChatGPT via @sejournal, @MattGSouthern.md",
@@ -1343,6 +1351,14 @@
       "source": "Search Engine Journal",
       "title": "Microsoft Ads Is Removing Max CPC From New Campaigns via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/"
+    },
+    "search-engine-journal:4ee583a4b9a251cc6c0aac00af12acc7671f5605": {
+      "first_seen": "2026-08-30T23:38:25.082357+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-30/Anthropic Warns Hackers Are Stealing Claude Sessions To Hijack Accounts via @sejournal, @martinibuster.md",
+      "published": "2026-08-30T22:45:39+00:00",
+      "source": "Search Engine Journal",
+      "title": "Anthropic Warns Hackers Are Stealing Claude Sessions To Hijack Accounts via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/anthropic-warns-hackers-are-stealing-claude-sessions-to-hijack-accounts/587566/"
     },
     "search-engine-journal:509fa969ee030daf8390e7c808f6898ad90ad4e1": {
       "first_seen": "2026-08-25T21:50:45.285434+00:00",
@@ -2809,6 +2825,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-29T23:27:51.664304+00:00",
+  "last_run_at": "2026-08-30T23:38:25.082357+00:00",
   "version": 1
 }

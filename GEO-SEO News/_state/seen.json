@@ -272,6 +272,14 @@
       "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
       "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
     },
+    "openai-news:44f61163770f758b1f0f7a7a6d001be1ca835622": {
+      "first_seen": "2026-09-01T00:41:30.291545+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-31/A milestone in expanding access to AI.md",
+      "published": "2026-08-31T04:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+    },
     "openai-news:4879819590782b03bb41bffc1653e179d4a163a4": {
       "first_seen": "2026-07-31T22:32:16.940991+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-31/Univé builds an AI-ready workforce.md",
@@ -391,6 +399,14 @@
       "source": "OpenAI News",
       "title": "What building an AI-native finance function taught me",
       "url": "https://openai.com/index/building-an-ai-native-finance-function"
+    },
+    "openai-news:7bc34157143210082026cf6b4abadaaff713ea65": {
+      "first_seen": "2026-09-01T00:41:30.291545+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-31/Polimill builds Japan's next-generation public AI infrastructure.md",
+      "published": "2026-08-31T07:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill"
     },
     "openai-news:7d7eacff40aa330cc400a4c439db24d8cf9fbfbf": {
       "first_seen": "2026-08-18T21:44:32.657208+00:00",
@@ -904,6 +920,14 @@
       "title": "The Conversion Setup Errors That Break Smart Bidding",
       "url": "https://www.searchenginejournal.com/the-conversion-setup-errors-that-break-smart-bidding/584671/"
     },
+    "search-engine-journal:0df1de28f77c21a7277017a9615422780e47c4ef": {
+      "first_seen": "2026-09-01T00:41:30.291545+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-31/Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return via @sejournal, @martinibuster.md",
+      "published": "2026-08-31T21:40:45+00:00",
+      "source": "Search Engine Journal",
+      "title": "Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/rank-math-seo-plugin-pauses-controversial-feature-says-it-will-return/587853/"
+    },
     "search-engine-journal:0fe00919b45737a7091413453f98ebfd436f91e7": {
       "first_seen": "2026-08-04T22:33:41.749245+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-04/What Top Stories Inside AI Overviews Means For Publishers And Brands In 2026 And Beyond via @sejournal, @gregjarboe.md",
@@ -1344,6 +1368,14 @@
       "title": "Google Explains When To Use Search Console’s ‘Validate Fix via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/when-to-use-search-consoles-validate-fix-according-to-google/582791/"
     },
+    "search-engine-journal:4b3c825bbbbe9461ea31f60233006a40e09b5f17": {
+      "first_seen": "2026-09-01T00:41:30.291545+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-31/Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better via @sejournal, @brookeosmundson.md",
+      "published": "2026-08-31T12:00:36+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/"
+    },
     "search-engine-journal:4c426e72f54c5161cedc60883150c1a967272abb": {
       "first_seen": "2026-08-20T21:50:44.537440+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-20/Microsoft Ads Is Removing Max CPC From New Campaigns via @sejournal, @brookeosmundson.md",
@@ -1479,6 +1511,14 @@
       "source": "Search Engine Journal",
       "title": "How To Add Google’s Preferred Sources Button To Your Website via @sejournal, @vahandev",
       "url": "https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/"
+    },
+    "search-engine-journal:6120deefa7d822ac90ebb4aeacf5e38ce1e3f891": {
+      "first_seen": "2026-09-01T00:41:30.291545+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-31/FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme via @sejournal, @brookeosmundson.md",
+      "published": "2026-08-31T23:49:40+00:00",
+      "source": "Search Engine Journal",
+      "title": "FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/ftc-sues-amazon-over-alleged-20-billion-advertising-surcharge-scheme/587870/"
     },
     "search-engine-journal:614327e6f716457f3c10bea34c99970da476d9c0": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
@@ -1936,6 +1976,14 @@
       "title": "ChatGPT’s Search Index Serves Small Sites Too, Data Shows via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/chatgpts-search-index-serves-small-sites-too-data-shows/585388/"
     },
+    "search-engine-journal:95da4a5ee24fda41ef603618e751a13280e7cea2": {
+      "first_seen": "2026-09-01T00:41:30.291545+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-31/ChatGPT Is Now A “Very Large Online Search Engine” In The EU via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-31T18:31:32+00:00",
+      "source": "Search Engine Journal",
+      "title": "ChatGPT Is Now A “Very Large Online Search Engine” In The EU via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-is-now-a-very-large-online-search-engine-in-the-eu/587801/"
+    },
     "search-engine-journal:95dbdef301524accb9d0dc8d86b5e2ce31283ffd": {
       "first_seen": "2026-07-23T22:31:00.448317+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-23/Google Search Revenue Growth Eases After A Year Of Acceleration via @sejournal, @MattGSouthern.md",
@@ -1984,6 +2032,14 @@
       "title": "Why Your Pages Are Stuck In Crawled-Currently Not Indexed & What To Do About It via @sejournal, @marie_haynes",
       "url": "https://www.searchenginejournal.com/why-your-pages-are-stuck-in-crawled-currently-not-indexed-what-to-do-about-it/582585/"
     },
+    "search-engine-journal:9ac3207f9366adddc1a6cc8b5be51926b15e68e5": {
+      "first_seen": "2026-09-01T00:41:30.291545+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-31/Google’s Mueller Shares Their Experience With Markdown For AI SEO via @sejournal, @martinibuster.md",
+      "published": "2026-08-31T10:44:54+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google’s Mueller Shares Their Experience With Markdown For AI SEO via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/googles-mueller-shares-their-experience-with-markdown-for-ai-seo/587671/"
+    },
     "search-engine-journal:9d1570cb6bed2b5fbdf5c72c2ff46605bf1dbb74": {
       "first_seen": "2026-08-03T22:32:31.168973+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-03/Why AI Recommends Your Competitor & What To Do About It via @sejournal, @lorenbaker.md",
@@ -2000,6 +2056,14 @@
       "title": "Your Promo Code Field May Be Sending Revenue To Affiliates via @sejournal, @lorenbaker",
       "url": "https://www.searchenginejournal.com/promo-code-search-affiliate-revenue-leak/586554/"
     },
+    "search-engine-journal:9faecf0613e6109a470f108035ea2683bfb1e5b4": {
+      "first_seen": "2026-09-01T00:41:30.291545+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-31/UCP Releases Spec Update With Schema Changes via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-31T10:00:27+00:00",
+      "source": "Search Engine Journal",
+      "title": "UCP Releases Spec Update With Schema Changes via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/ucp-releases-spec-update-with-schema-changes/587590/"
+    },
     "search-engine-journal:a06863e0f7de879b9a3adaac150f8f0ce656999c": {
       "first_seen": "2026-08-27T00:55:07.763088+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-26/Why Running YouTube Ads Like Search Will Burn Your Budget.md",
@@ -2007,6 +2071,14 @@
       "source": "Search Engine Journal",
       "title": "Why Running YouTube Ads Like Search Will Burn Your Budget",
       "url": "https://www.searchenginejournal.com/why-running-youtube-ads-like-search-will-burn-your-budget/584794/"
+    },
+    "search-engine-journal:a0e85860e35516cf38eaade11c0b067d99b063d6": {
+      "first_seen": "2026-09-01T00:41:30.291545+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-31/Claude Searches Web Differently From Claude Code, Data Shows via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-31T08:30:36+00:00",
+      "source": "Search Engine Journal",
+      "title": "Claude Searches Web Differently From Claude Code, Data Shows via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/claude-code-rarely-searches-web-compared-claude-data/587584/"
     },
     "search-engine-journal:a553e3d5b4b995b3989a8b140acd374ee7a94fb4": {
       "first_seen": "2026-08-07T01:03:13.764774+00:00",
@@ -2135,6 +2207,14 @@
       "source": "Search Engine Journal",
       "title": "Google Brings Developing-Topic Link Carousels To AI Mode via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-brings-developing-topic-link-carousels-to-ai-mode/587022/"
+    },
+    "search-engine-journal:b26009ed26b0480a60559bed87b629b5e1fdd2cb": {
+      "first_seen": "2026-09-01T00:41:30.291545+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-31/Google Search Console AI Reports Rolled Out Worldwide via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-31T19:04:38+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Search Console AI Reports Rolled Out Worldwide via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-console-ai-reports-rolled-out-worldwide/587836/"
     },
     "search-engine-journal:b2fadb9d0ca242f0b18ebde93c9780ba3c6979fe": {
       "first_seen": "2026-08-04T22:33:41.749245+00:00",
@@ -2344,6 +2424,14 @@
       "title": "Google Answers If Updates Come With Actionable SEO Signals via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-answers-if-updates-come-with-actionable-seo-signals/587432/"
     },
+    "search-engine-journal:da1ef214270ba06412cd83793d7b77b0b92633f2": {
+      "first_seen": "2026-09-01T00:41:30.291545+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-31/Facebook Groups Are Google’s No. 2 Forum Source via @sejournal, @MattGSouthern.md",
+      "published": "2026-08-31T07:00:24+00:00",
+      "source": "Search Engine Journal",
+      "title": "Facebook Groups Are Google’s No. 2 Forum Source via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/facebook-groups-are-googles-no-2-forum-source/587545/"
+    },
     "search-engine-journal:dac15a6924bea5989613f9b3766f552cbc683cc0": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-29/YouTube Views Rose While Long-Form Ad Revenue Fell, Data Shows via @sejournal, @MattGSouthern.md",
@@ -2423,6 +2511,14 @@
       "source": "Search Engine Journal",
       "title": "“Are You A Bot” Screens Can Get Your Pages Dropped By Google via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/are-you-a-bot-screens-can-get-your-pages-dropped-by-google/582801/"
+    },
+    "search-engine-journal:e6ab44e59cc918682e8526dd46e69906dfc0767f": {
+      "first_seen": "2026-09-01T00:41:30.291545+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-08-31/How To Restructure Your Marketing Team & Budget For The AI-Search Era.md",
+      "published": "2026-08-31T14:30:03+00:00",
+      "source": "Search Engine Journal",
+      "title": "How To Restructure Your Marketing Team & Budget For The AI-Search Era",
+      "url": "https://www.searchenginejournal.com/how-to-restructure-your-marketing-team-budget-for-the-ai-search-era/586153/"
     },
     "search-engine-journal:e78ba2ce868ba6909ad4ebfbff87823987c4da26": {
       "first_seen": "2026-08-15T21:42:37.965691+00:00",
@@ -2728,6 +2824,14 @@
       "title": "Keyword mapping for SEO: Guide + free template",
       "url": "https://www.semrush.com/blog/keyword-mapping/"
     },
+    "semrush-blog:9a4a90853c479376244ffdd6bd0a72cced77440e": {
+      "first_seen": "2026-09-01T00:41:30.291545+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-08-31/How to use AI tools for competitor analysis in 2026.md",
+      "published": "2026-08-31T09:42:00+00:00",
+      "source": "Semrush Blog",
+      "title": "How to use AI tools for competitor analysis in 2026",
+      "url": "https://www.semrush.com/blog/ai-tools-for-competitor-analysis/"
+    },
     "semrush-blog:a62eb30fc1500ac878206f640da04021ea60ce51": {
       "first_seen": "2026-08-27T00:55:07.763088+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-08-26/Reddit's citations in ChatGPT fall from 3.8% to 0.5%.md",
@@ -2825,6 +2929,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-08-30T23:38:25.082357+00:00",
+  "last_run_at": "2026-09-01T00:41:30.291545+00:00",
   "version": 1
 }

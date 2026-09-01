@@ -64,6 +64,22 @@
       "title": "5 ways to host the ultimate dinner party with Google Search",
       "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/"
     },
+    "google-ai-blog:66eabab6976f3ac7c05cb437c4829db4a70dee7f": {
+      "first_seen": "2026-09-01T23:26:13.848773+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-09-01/The latest AI news we announced in August 2026.md",
+      "published": "2026-09-01T20:45:00+00:00",
+      "source": "Google AI Blog",
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/"
+    },
+    "google-ai-blog:77cd2a6a82f1c4f3f7d9e424ae1e3c91880aa47d": {
+      "first_seen": "2026-09-01T23:26:13.848773+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-09-01/Try Google Pics Easy image creation and editing in Google Workspace.md",
+      "published": "2026-09-01T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
+    },
     "google-ai-blog:7c8ae2784e8b94a112ffbc3e22327dcdab5a29dc": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-07-28/5 ways AI Mode in Search helps you enjoy the real world.md",
@@ -160,6 +176,14 @@
       "title": "Introducing AI Futures",
       "url": "https://openai.com/index/introducing-ai-futures"
     },
+    "openai-news:0703988e3a3319168a4bed769fe486164f0f87f1": {
+      "first_seen": "2026-09-01T23:26:13.848773+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-08-31/OpenAI supports California’s bill to advance youth AI safety.md",
+      "published": "2026-08-31T07:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
+    },
     "openai-news:092c8de02e8b135ec330a69dfe0e592abd521d97": {
       "first_seen": "2026-08-29T03:12:57.517440+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-28/Our decision on Cursor following its acquisition by SpaceX.md",
@@ -248,6 +272,14 @@
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
     },
+    "openai-news:309be27bdcfe3156d3369d0a4cf6b27fb7f7b99f": {
+      "first_seen": "2026-09-01T23:26:13.848773+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-01/Path to Astra critical capabilities and frontier safeguards.md",
+      "published": "2026-09-01T13:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra"
+    },
     "openai-news:3a8585570cab21df194c4115cce4c90cdf272f31": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-10/Expanding Daybreak as the Cyber Defense Window Narrows.md",
@@ -255,6 +287,14 @@
       "source": "OpenAI News",
       "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
       "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
+    },
+    "openai-news:3b5f2688fec1191a6e1065794360de4557d49aa5": {
+      "first_seen": "2026-09-01T23:26:13.848773+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-01/How AI-native companies turn workflows into operating capability.md",
+      "published": "2026-09-01T17:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows"
     },
     "openai-news:3ebda52fc80ebe33165f5f415dd9c032d4c031d4": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -295,6 +335,14 @@
       "source": "OpenAI News",
       "title": "The Hugging Face incident and the road ahead",
       "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
+    },
+    "openai-news:50e05f9b472e33e2adbbd0db85106a39a236152d": {
+      "first_seen": "2026-09-01T23:26:13.848773+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-01/Healthcare organizations can now connect EHR and additional industry data to ChatGPT.md",
+      "published": "2026-09-01T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
     },
     "openai-news:54e616a32e5ede38b908269b87c96f01d007be0c": {
       "first_seen": "2026-08-04T22:33:41.749245+00:00",
@@ -1576,6 +1624,14 @@
       "title": "We Analyzed 107 Million AI Answers. Here’s Where Each Industry’s Citations Actually Come From via @sejournal, @trendos_com",
       "url": "https://www.searchenginejournal.com/ai-search-citation-sources-trendos-spa/586289/"
     },
+    "search-engine-journal:667ea73bce06c3088b3857513de413ac0113a50c": {
+      "first_seen": "2026-09-01T23:26:13.848773+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-01/Google Details Who Can License Its Search Data In Europe via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-01T17:20:25+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Details Who Can License Its Search Data In Europe via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-details-who-can-license-its-search-data-in-europe/587995/"
+    },
     "search-engine-journal:671a5eb22385f5aa3e05280f4d8572663c19179e": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-11/YouTube Updates Partner Program Terms & Shorts Payout Rules via @sejournal, @MattGSouthern.md",
@@ -1807,6 +1863,14 @@
       "source": "Search Engine Journal",
       "title": "AI Search Cites Reddit: 5 Proven Plays To Boost Multi-Location Visibility via @sejournal, @lorenbaker",
       "url": "https://www.searchenginejournal.com/ai-search-cites-reddit-5-proven-plays-to-boost-multi-location-visibility-recap/582568/"
+    },
+    "search-engine-journal:7d9f2fa30d10b40588841bc3484e0c3008f932d9": {
+      "first_seen": "2026-09-01T23:26:13.848773+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-01/Schema For AI Citations How To Become A Trusted Source via @sejournal, @lorenbaker.md",
+      "published": "2026-09-01T12:00:02+00:00",
+      "source": "Search Engine Journal",
+      "title": "Schema For AI Citations: How To Become A Trusted Source via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/schema-ai-citations-trusted-source/586785/"
     },
     "search-engine-journal:7fac80367020b37072513d61be2c3c4afe881ee2": {
       "first_seen": "2026-08-07T22:03:28.633300+00:00",
@@ -2080,6 +2144,14 @@
       "title": "Claude Searches Web Differently From Claude Code, Data Shows via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/claude-code-rarely-searches-web-compared-claude-data/587584/"
     },
+    "search-engine-journal:a3a58b15442a806ea3b0f8869e033b5af14a7b6f": {
+      "first_seen": "2026-09-01T23:26:13.848773+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-01/The Technical Signals AI Search Uses That Most SEOs Still Aren’t Optimizing.md",
+      "published": "2026-09-01T19:00:47+00:00",
+      "source": "Search Engine Journal",
+      "title": "The Technical Signals AI Search Uses That Most SEOs Still Aren’t Optimizing",
+      "url": "https://www.searchenginejournal.com/the-technical-signals-ai-search-uses-that-most-seos-still-arent-optimizing/586381/"
+    },
     "search-engine-journal:a553e3d5b4b995b3989a8b140acd374ee7a94fb4": {
       "first_seen": "2026-08-07T01:03:13.764774+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-06/WordPress Security Release 7.0.3 Fixes High Severity XSS Vulnerability via @sejournal, @martinibuster.md",
@@ -2352,6 +2424,14 @@
       "title": "Q3 AI Visibility: AI Citations, Brand Mentions & Content Refreshes That Work via @sejournal, @AirOpsHQ",
       "url": "https://www.searchenginejournal.com/rundowns/q3-ai-visibility-ai-citations-brand-mentions-content-refreshes-that-work/"
     },
+    "search-engine-journal:d0e2c79d236e0334230247b59a8af9f11451d805": {
+      "first_seen": "2026-09-01T23:26:13.848773+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-01/How We Earned 1,000+ Links For GEO SEO via @sejournal, @hethr_campbell.md",
+      "published": "2026-09-01T07:45:17+00:00",
+      "source": "Search Engine Journal",
+      "title": "How We Earned 1,000+ Links For GEO/SEO via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/how-we-earned-1000-links-geo-seo-recap/587850/"
+    },
     "search-engine-journal:d1581fd528fc47a3b526422ffbb5b7a01e5e2feb": {
       "first_seen": "2026-07-27T22:33:28.881080+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-27/How Publishers Can Monetize AI Visibility.md",
@@ -2471,6 +2551,14 @@
       "source": "Search Engine Journal",
       "title": "The Scenic Route To ROI: Mastering Non-Linear Targeting In Google Ads",
       "url": "https://www.searchenginejournal.com/the-scenic-route-to-roi-mastering-non-linear-targeting-in-google-ads/581784/"
+    },
+    "search-engine-journal:e1ad6ecc558b4cdce6e6df996148f716b4ea5f09": {
+      "first_seen": "2026-09-01T23:26:13.848773+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-01/WordPress Announces A Proactive Security Initiative via @sejournal, @martinibuster.md",
+      "published": "2026-09-01T12:10:20+00:00",
+      "source": "Search Engine Journal",
+      "title": "WordPress Announces A Proactive Security Initiative via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/wordpress-announces-a-proactive-security-initiative/587942/"
     },
     "search-engine-journal:e2fcf59ac33aa3a23c6e48bd65981313e72de941": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
@@ -2792,6 +2880,14 @@
       "title": "How to find AI visibility gaps with Semrush",
       "url": "https://www.semrush.com/blog/find-ai-visibility-gaps-with-semrush/"
     },
+    "semrush-blog:7a5fc5e1fc323a78639935aa0e974f1d90ba3dea": {
+      "first_seen": "2026-09-01T23:26:13.848773+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-09-01/Where does AI get its information And how to get cited.md",
+      "published": "2026-09-01T07:52:00+00:00",
+      "source": "Semrush Blog",
+      "title": "Where does AI get its information? And how to get cited",
+      "url": "https://www.semrush.com/blog/where-does-ai-get-its-information/"
+    },
     "semrush-blog:7b8e41d3b01a66732f10cddfef71690803fc9e1a": {
       "first_seen": "2026-07-24T22:34:10.160757+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-07-24/Semrush reviews What people say about the platform.md",
@@ -2929,6 +3025,6 @@
       "url": "https://www.semrush.com/blog/advanced-seo/"
     }
   },
-  "last_run_at": "2026-09-01T00:41:30.291545+00:00",
+  "last_run_at": "2026-09-01T23:26:13.848773+00:00",
   "version": 1
 }

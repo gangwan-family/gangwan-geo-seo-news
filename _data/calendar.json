@@ -1,5 +1,5 @@
 {
-  "latest_month": "2026-08",
+  "latest_month": "2026-09",
   "weekdays": [
     "周一",
     "周二",
@@ -10,6 +10,319 @@
     "周日"
   ],
   "months": [
+    {
+      "month": "2026-09",
+      "year": 2026,
+      "month_num": 9,
+      "label": "2026年09月",
+      "anchor": "month-2026-09",
+      "weeks": [
+        [
+          {
+            "date": "2026-08-31",
+            "day": 31,
+            "in_month": false,
+            "has_posts": true,
+            "count": 14,
+            "url": "/date/2026-08-31/"
+          },
+          {
+            "date": "2026-09-01",
+            "day": 1,
+            "in_month": true,
+            "has_posts": true,
+            "count": 11,
+            "url": "/date/2026-09-01/"
+          },
+          {
+            "date": "2026-09-02",
+            "day": 2,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-03",
+            "day": 3,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-04",
+            "day": 4,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-05",
+            "day": 5,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-06",
+            "day": 6,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          }
+        ],
+        [
+          {
+            "date": "2026-09-07",
+            "day": 7,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-08",
+            "day": 8,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-09",
+            "day": 9,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-10",
+            "day": 10,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-11",
+            "day": 11,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-12",
+            "day": 12,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-13",
+            "day": 13,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          }
+        ],
+        [
+          {
+            "date": "2026-09-14",
+            "day": 14,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-15",
+            "day": 15,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-16",
+            "day": 16,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-17",
+            "day": 17,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-18",
+            "day": 18,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-19",
+            "day": 19,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-20",
+            "day": 20,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          }
+        ],
+        [
+          {
+            "date": "2026-09-21",
+            "day": 21,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-22",
+            "day": 22,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-23",
+            "day": 23,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-24",
+            "day": 24,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-25",
+            "day": 25,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-26",
+            "day": 26,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-27",
+            "day": 27,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          }
+        ],
+        [
+          {
+            "date": "2026-09-28",
+            "day": 28,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-29",
+            "day": 29,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-09-30",
+            "day": 30,
+            "in_month": true,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-10-01",
+            "day": 1,
+            "in_month": false,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-10-02",
+            "day": 2,
+            "in_month": false,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-10-03",
+            "day": 3,
+            "in_month": false,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          },
+          {
+            "date": "2026-10-04",
+            "day": 4,
+            "in_month": false,
+            "has_posts": false,
+            "count": 0,
+            "url": ""
+          }
+        ]
+      ],
+      "days": [
+        {
+          "date": "2026-09-01",
+          "day": 1,
+          "count": 11,
+          "url": "/date/2026-09-01/",
+          "sources": [
+            "Google AI Blog",
+            "OpenAI News",
+            "Search Engine Journal",
+            "Semrush Blog"
+          ]
+        }
+      ]
+    },
     {
       "month": "2026-08",
       "year": 2026,
@@ -313,16 +626,16 @@
             "day": 31,
             "in_month": true,
             "has_posts": true,
-            "count": 13,
+            "count": 14,
             "url": "/date/2026-08-31/"
           },
           {
             "date": "2026-09-01",
             "day": 1,
             "in_month": false,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 11,
+            "url": "/date/2026-09-01/"
           },
           {
             "date": "2026-09-02",
@@ -370,7 +683,7 @@
         {
           "date": "2026-08-31",
           "day": 31,
-          "count": 13,
+          "count": 14,
           "url": "/date/2026-08-31/",
           "sources": [
             "OpenAI News",

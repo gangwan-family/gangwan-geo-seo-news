@@ -16,6 +16,14 @@
       "title": "3 Google updates from Galaxy Unpacked 2026",
       "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
     },
+    "google-ai-blog:28b149c75e15ee1815b23c29af4239641c4d80f5": {
+      "first_seen": "2026-09-02T23:26:23.154190+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-09-02/Proactive cyber defense for governments and enterprises.md",
+      "published": "2026-09-02T15:40:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
+    },
     "google-ai-blog:2a0a276054536ae62f3ea519d53c4c9477c0217b": {
       "first_seen": "2026-08-04T22:33:41.749245+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-08-04/The latest AI news we announced in July 2026.md",
@@ -368,6 +376,14 @@
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
       "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
     },
+    "openai-news:631a857c7a24a6f9d6625557188024197f34a5d5": {
+      "first_seen": "2026-09-02T23:26:23.154190+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-01/How law firm Gilbert + Tobin governs and scales AI with OpenAI.md",
+      "published": "2026-09-01T01:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin"
+    },
     "openai-news:6357d7795d215a7fa7069a167c9d8af0af3afc8a": {
       "first_seen": "2026-08-13T22:08:47.953145+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-13/Previewing Ultrafast mode GPT-5.6 Sol at up to 14X the speed.md",
@@ -591,6 +607,14 @@
       "source": "OpenAI News",
       "title": "Introducing Intelligence Age",
       "url": "https://openai.com/index/introducing-intelligence-age"
+    },
+    "openai-news:b07b0b2b4d66deeda36a76840fc2bf5e800c8111": {
+      "first_seen": "2026-09-02T23:26:23.154190+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-02/ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT.md",
+      "published": "2026-09-02T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour"
     },
     "openai-news:b274d6785ee9abb7902c6d66edf9f8661ee29cd4": {
       "first_seen": "2026-08-04T22:33:41.749245+00:00",
@@ -1368,6 +1392,14 @@
       "title": "Anthropic Reveals What The Watermark Is And How It Can Be Defeated via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/anthropic-reveals-what-the-watermark-is-and-how-it-can-be-defeated/585930/"
     },
+    "search-engine-journal:421074c99a1715ee80dc98fc2a7966d980d07333": {
+      "first_seen": "2026-09-02T23:26:23.154190+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-02/Google To Bring New Video Understanding Tech To Ask YouTube via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-02T14:08:29+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google To Bring New Video Understanding Tech To Ask YouTube via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-video-understanding-ask-youtube/588123/"
+    },
     "search-engine-journal:42e0f680314c5f56528457aa48cb731ab553466c": {
       "first_seen": "2026-08-24T21:51:14.761050+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-24/SEOs Are Becoming The Tools Of Their Tools – The AI Slop Backlash via @sejournal, @gregjarboe.md",
@@ -1431,6 +1463,14 @@
       "source": "Search Engine Journal",
       "title": "Microsoft Ads Is Removing Max CPC From New Campaigns via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/"
+    },
+    "search-engine-journal:4d30c772f39b0daee222dee93a794b9db7d75940": {
+      "first_seen": "2026-09-02T23:26:23.154190+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-02/Entities Are The Foundation Of Modern SEO.md",
+      "published": "2026-09-02T14:31:43+00:00",
+      "source": "Search Engine Journal",
+      "title": "Entities Are The Foundation Of Modern SEO",
+      "url": "https://www.searchenginejournal.com/entities-are-the-foundation-of-modern-seo/587886/"
     },
     "search-engine-journal:4ee583a4b9a251cc6c0aac00af12acc7671f5605": {
       "first_seen": "2026-08-30T23:38:25.082357+00:00",
@@ -1816,6 +1856,14 @@
       "title": "Clicks Are Down 42%, LinkedIn Reach Down 47% But You’re Raging At The Wrong Target via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/clicks-are-down-42-linkedin-reach-down-47-but-youre-raging-at-the-wrong-target/585862/"
     },
+    "search-engine-journal:78cbe0cb744c53ad29a020b7d65edf46ebe8ce14": {
+      "first_seen": "2026-09-02T23:26:23.154190+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-02/Google Responds To Sitemap SEO Technique That Forces Daily Crawling via @sejournal, @martinibuster.md",
+      "published": "2026-09-02T22:09:39+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Responds To Sitemap SEO Technique That Forces Daily Crawling via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-responds-to-sitemap-seo-technique-that-forces-daily-crawling/588222/"
+    },
     "search-engine-journal:79d0dd0c563c4b7e1fb6739ff3695b8a0cfc5778": {
       "first_seen": "2026-07-27T22:33:28.881080+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-27/Google May Be Penalizing AI-Generated Content As Thin Content via @sejournal, @martinibuster.md",
@@ -1983,6 +2031,14 @@
       "source": "Search Engine Journal",
       "title": "The Future Of Search & AI: What I Learned From Google’s Latest Earnings Call via @sejournal, @marie_haynes",
       "url": "https://www.searchenginejournal.com/the-future-of-search-ai-what-i-learned-from-googles-latest-earnings-call/583662/"
+    },
+    "search-engine-journal:8b2d51b4c7095b22a63e9d1da65d25239b2937c0": {
+      "first_seen": "2026-09-02T23:26:23.154190+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-02/What Happens To PPC When You Stop Managing Google Ads Through Google Ads via @sejournal, @siliconvallaeys.md",
+      "published": "2026-09-02T12:00:10+00:00",
+      "source": "Search Engine Journal",
+      "title": "What Happens To PPC When You Stop Managing Google Ads Through Google Ads via @sejournal, @siliconvallaeys",
+      "url": "https://www.searchenginejournal.com/what-happens-to-ppc-when-you-stop-managing-google-ads-through-google-ads/586580/"
     },
     "search-engine-journal:8b4a2faed9f29162238a5a8b6f8ee2ca9adc6eaa": {
       "first_seen": "2026-07-25T22:26:25.373734+00:00",
@@ -2384,6 +2440,22 @@
       "title": "Google Ads’ Target-Based Bidding Update For Ecommerce via @sejournal, @tonyadam",
       "url": "https://www.searchenginejournal.com/google-ads-target-based-bidding-update-for-ecommerce/581801/"
     },
+    "search-engine-journal:c84e9c7f746a04b2d75c5abea3caacee867d3755": {
+      "first_seen": "2026-09-02T23:26:23.154190+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-02/Google Adds Gemini 3.8 Flash To AI Mode via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-02T19:41:19+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Adds Gemini 3.8 Flash To AI Mode via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-gemini-3-8-flash-ai-mode/588194/"
+    },
+    "search-engine-journal:c905618e727cfff76e5181003c4d5826a1adada0": {
+      "first_seen": "2026-09-02T23:26:23.154190+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-02/YouTube Says Bigger Thumbnails Drove More Long-Form Views via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-02T13:11:52+00:00",
+      "source": "Search Engine Journal",
+      "title": "YouTube Says Bigger Thumbnails Drove More Long-Form Views via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/youtube-bigger-thumbnails-long-form-engagement/588102/"
+    },
     "search-engine-journal:ca68c8dfe328b4bef8ced686900d4d36c9b1cc1c": {
       "first_seen": "2026-08-27T00:55:07.763088+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-25/Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com via @sejournal, @martinibuster.md",
@@ -2648,6 +2720,14 @@
       "title": "Google On Canonical Fixes, Mueller On Hidden Link Pitfalls – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-google-on-canonical-fixes-mueller-on-hidden-links/582671/"
     },
+    "search-engine-journal:ed5814f8ac783232fdeac9f3a00e7f3eb95da5a2": {
+      "first_seen": "2026-09-02T23:26:23.154190+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-02/Google DeepMind Says Gemini Is Evolving From Chatbot To AI Agent via @sejournal, @martinibuster.md",
+      "published": "2026-09-02T11:24:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google DeepMind Says Gemini Is Evolving From Chatbot To AI Agent via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-deepmind-says-gemini-is-evolving-from-chatbot-to-ai-agent/588077/"
+    },
     "search-engine-journal:eda00238cf0af22c6d20dc9a0e34a04dfc397b7c": {
       "first_seen": "2026-07-22T05:14:35.177504+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-21/How To Run A Winning YouTube Ad Campaign Without A 7-Figure Budget via @sejournal, @MenachemAni.md",
@@ -2719,6 +2799,14 @@
       "source": "Search Engine Journal",
       "title": "EU Commission Article 50 AI Transparency Law Has Four Exemptions via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/eu-commission-article-50-ai-transparency-law-has-four-exemptions/584528/"
+    },
+    "search-engine-journal:f935132455b6349ed05c4c85abb9e122d7613c26": {
+      "first_seen": "2026-09-02T23:26:23.154190+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-02/The Next AI Protocol Won’t Save Your SEO Strategy via @sejournal, @billhunt.md",
+      "published": "2026-09-02T19:00:07+00:00",
+      "source": "Search Engine Journal",
+      "title": "The Next AI Protocol Won’t Save Your SEO Strategy via @sejournal, @billhunt",
+      "url": "https://www.searchenginejournal.com/the-next-ai-protocol-wont-save-your-seo-strategy/585714/"
     },
     "search-engine-journal:fb8f447fd5fddf8147e34aac34d3d172e065650a": {
       "first_seen": "2026-07-21T09:02:00.061153+00:00",
@@ -3023,8 +3111,16 @@
       "source": "Semrush Blog",
       "title": "13 Advanced SEO techniques & strategies for 2026",
       "url": "https://www.semrush.com/blog/advanced-seo/"
+    },
+    "semrush-blog:faf945f9a33f9ceacdf034c9ae2e5ff01035387e": {
+      "first_seen": "2026-09-02T23:26:23.154190+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-09-02/How to prepare your site for AI agents.md",
+      "published": "2026-09-02T09:18:00+00:00",
+      "source": "Semrush Blog",
+      "title": "How to prepare your site for AI agents",
+      "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-01T23:26:13.848773+00:00",
+  "last_run_at": "2026-09-02T23:26:23.154190+00:00",
   "version": 1
 }

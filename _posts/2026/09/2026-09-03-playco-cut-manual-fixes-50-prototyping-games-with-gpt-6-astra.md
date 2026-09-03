@@ -1,0 +1,111 @@
+---
+layout: post
+title: "Playco cut manual fixes 50% prototyping games with GPT-6 Astra"
+date: 2026-09-03T12:00:00+00:00
+source: "OpenAI News"
+source_slug: "openai-news"
+generated_from: "GEO-SEO News/OpenAI News/2026-09-03/Playco cut manual fixes 50% prototyping games with GPT-6 Astra.md"
+original_url: "https://openai.com/index/playco-game-prototyping-with-astra"
+categories:
+  - "Startup"
+  - "_src_openai-news"
+---
+
+# Playco cut manual fixes 50% prototyping games with GPT-6 Astra
+
+- Source: OpenAI News
+- Published: 2026-09-03
+- URL: https://openai.com/index/playco-game-prototyping-with-astra
+- Categories: Startup
+
+## RSS 摘要
+
+Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.
+
+## 原文正文
+
+Playco cut manual fixes 50% prototyping games with GPT-6 Astra | OpenAI
+
+Try ChatGPT (opens in a new window)
+
+- Foundation (opens in a new window)
+
+Try ChatGPT (opens in a new window)
+
+OpenAI
+
+September 3, 2026
+
+Startup
+
+## Playco cut manual fixes 50% prototyping games with GPT‑6 Astra
+
+Using GPT‑6 Astra, Playco built three themed game prototypes from one grey box foundation, with most working on the first take.
+
+Start building with OpenAI
+
+Company size: Startup
+
+Region: North America
+
+Industry: Media, Entertainment & Sport
+
+Products: API
+
+Results
+
+50%
+
+Fewer manual fixes than with the previous model
+
+Results
+
+Themed game prototypes built from one grey box foundation
+
+Loading…
+
+Playco is using GPT‑6 Astra in building Playbot, an AI-powered IDE for professional game developers. It connects directly to engines such as Unity and Godot so AI models can edit scenes, play and test games, validate changes, and work in parallel inside the tools developers already use.
+
+In game development, a model needs to do more than write code. It must reason about space, visual references, responsive interfaces, game feel, and whether a change actually works when the game is played. Playbot makes that possible by letting the model build in the engine, run tests, find bugs, and improve what it created.
+
+“GPT-6 Astra is much better at reasoning about space and positioning elements in a way that makes sense. Also, its vision capabilities seem to be improved. We also saw improvements in UI responsiveness in game engines.”
+
+—Joao Vieira, Lead Product Engineer, Playco
+
+### Building three playable worlds from one grey box
+
+Using GPT‑6 Astra, the Playco team created an unthemed grey box prototype from simple primitives, and then made a few iterations on gameplay and creative details. From that shared foundation, the team developed three themed game prototypes. Playco says GPT‑6 Astra produced all three in one go.
+
+Most prototypes also worked on the first take. “With Astra, the first prototype was already strong. The only changes we needed to make were based on our gameplay preferences,” said Joao Vieira, Lead Product Engineer. One cyberpunk version needed a performance fix, but the rest came together without additional iteration.
+
+### Cutting manual fixes in half
+
+With the previous model, Playco’s initial grey box was less polished. Prompting the model to correct it eventually became counterproductive, so engineers had to step in and fix the game by hand. With GPT‑6 Astra, Playco reports 50% fewer manual fixes.
+
+The team also saw improvements in spatial reasoning, recreating reference images, responsive UI inside Unity, and game feel. Because Playbot can let a model play the game and validate its own changes, Playco says Astra also found bugs more easily and identified places to improve the player experience.
+
+For Playco, the biggest impact is being able to turn more ideas into something developers can play and compare. As lead product engineer Joao Vieira puts it, “If you have 10 ideas for a game, you can do all 10 and actually play them and see how they would feel rather than just imagine.”
+
+### OpenAI <3 startups
+
+Join the community Start building (opens in a new window)
+
+### Keep reading
+
+View all
+
+Legora reviewed 41 documents in minutes with GPT-6 Astra
+
+Startup Sep 3, 2026
+
+Replit expands access to software creation with GPT-5.6 Luna
+
+Startup Aug 19, 2026
+
+Model ML completes finance work more efficiently with GPT-5.6 Sol
+
+Startup Aug 10, 2026
+
+## 原文链接
+
+[Read original](https://openai.com/index/playco-game-prototyping-with-astra)

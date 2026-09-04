@@ -1488,6 +1488,14 @@
       "title": "Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/"
     },
+    "search-engine-journal:4bd64bf10612c31a0fe5d497cbc01c5ba7711a0f": {
+      "first_seen": "2026-09-04T23:07:22.055659+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-04/How To Win More Citations In AI Answers, Live With Ahrefs’ Constance Tan via @sejournal, @hethr_campbell.md",
+      "published": "2026-09-04T18:08:42+00:00",
+      "source": "Search Engine Journal",
+      "title": "How To Win More Citations In AI Answers, Live With Ahrefs’ Constance Tan via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/most-teams-can-measure-ai-visibility-few-can-move-it/588219/"
+    },
     "search-engine-journal:4c426e72f54c5161cedc60883150c1a967272abb": {
       "first_seen": "2026-08-20T21:50:44.537440+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-20/Microsoft Ads Is Removing Max CPC From New Campaigns via @sejournal, @brookeosmundson.md",
@@ -2088,6 +2096,14 @@
       "title": "Google Says Why It May Ignore Robots.txt And Negatively Impact SEO via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-says-why-it-may-ignore-robots-txt-and-negatively-impact-seo/583475/"
     },
+    "search-engine-journal:8b50c72c1bacf0c7c4d40e22d2393d58ca398ca9": {
+      "first_seen": "2026-09-04T23:07:22.055659+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-04/People Aren’t Leaving Google For AI. They’re Using Both via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-04T12:00:01+00:00",
+      "source": "Search Engine Journal",
+      "title": "People Aren’t Leaving Google For AI. They’re Using Both via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-chatgpt-audience-search-queries-clicks/588200/"
+    },
     "search-engine-journal:8ca551a7c9acca0ba3cc4763811888debb207f1e": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-28/Google Lost Its Scraping Case – Now You Have To Pick A Side On The Open Web via @sejournal, @slobodanmanic.md",
@@ -2128,6 +2144,14 @@
       "title": "What We Can Learn From Evolving ChatGPT Fan-Out Queries via @sejournal, @lilyraynyc",
       "url": "https://www.searchenginejournal.com/what-we-can-learn-from-evolving-chatgpt-fan-out-queries/586254/"
     },
+    "search-engine-journal:90397e928f905080e72ccaa2ed0ef5256c195b8b": {
+      "first_seen": "2026-09-04T23:07:22.055659+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-04/How To Measure Your Brand’s Visibility In AI Answers (And Fix What You Find).md",
+      "published": "2026-09-04T13:57:33+00:00",
+      "source": "Search Engine Journal",
+      "title": "How To Measure Your Brand’s Visibility In AI Answers (And Fix What You Find)",
+      "url": "https://www.searchenginejournal.com/measure-brand-ai-visibility-hubspot-spa/588040/"
+    },
     "search-engine-journal:9322b9b572e5229c72c9e38bcfc6f7f0634ec80e": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-11/ChatGPT’s Search Index Serves Small Sites Too, Data Shows via @sejournal, @MattGSouthern.md",
@@ -2135,6 +2159,14 @@
       "source": "Search Engine Journal",
       "title": "ChatGPT’s Search Index Serves Small Sites Too, Data Shows via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/chatgpts-search-index-serves-small-sites-too-data-shows/585388/"
+    },
+    "search-engine-journal:934a93afd41e8b3abaa4eae062429f685ff364b4": {
+      "first_seen": "2026-09-04T23:07:22.055659+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-04/Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe.md",
+      "published": "2026-09-04T14:30:02+00:00",
+      "source": "Search Engine Journal",
+      "title": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/"
     },
     "search-engine-journal:95da4a5ee24fda41ef603618e751a13280e7cea2": {
       "first_seen": "2026-09-01T00:41:30.291545+00:00",
@@ -3209,6 +3241,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-03T23:22:40.524144+00:00",
+  "last_run_at": "2026-09-04T23:07:22.055659+00:00",
   "version": 1
 }

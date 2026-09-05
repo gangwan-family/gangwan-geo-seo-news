@@ -216,6 +216,14 @@
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
     },
+    "openai-news:0f3b76bc480d3619c3aaf50d3bb915575c29f5aa": {
+      "first_seen": "2026-09-05T23:03:23.565432+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-03/GPT-6 Astra A new generation of intelligence.md",
+      "published": "2026-09-03T11:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra"
+    },
     "openai-news:130e23c4bd2f87cbb00eed71539e83ba22e3ccf1": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-22/How news organizations are using AI to advance their vital missions.md",
@@ -2896,6 +2904,14 @@
       "title": "AI Is Changing Website Security. Here’s What SEO Teams Should Know via @sejournal, @vahandev",
       "url": "https://www.searchenginejournal.com/ai-changing-website-security-seo-teams-should-know/587352/"
     },
+    "search-engine-journal:f57dc640df11923ed9314a23ebbc0d09717befdd": {
+      "first_seen": "2026-09-05T23:03:23.565432+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-05/Search Console AI Reports Go Global, Mueller On Recovery – SEO Pulse via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-05T12:30:53+00:00",
+      "source": "Search Engine Journal",
+      "title": "Search Console AI Reports Go Global, Mueller On Recovery – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-search-console-ai-reports-go-global-mueller-recovery/588443/"
+    },
     "search-engine-journal:f7893ee7555d00399b8c3928b123440aaad0c585": {
       "first_seen": "2026-08-27T00:55:07.763088+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-26/Judge In Penske Vs Google Says AI Situation “Seems Really Unfair” via @sejournal, @martinibuster.md",
@@ -3241,6 +3257,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-04T23:07:22.055659+00:00",
+  "last_run_at": "2026-09-05T23:03:23.565432+00:00",
   "version": 1
 }

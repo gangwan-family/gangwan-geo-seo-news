@@ -240,6 +240,14 @@
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
       "url": "https://openai.com/index/chatgpt-for-academic-researchers"
     },
+    "openai-news:19672c4832d4c9bc0fd35c9ad6b6596c81afa104": {
+      "first_seen": "2026-09-06T22:56:48.863030+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-06/Research acceleration The view inside OpenAI.md",
+      "published": "2026-09-06T08:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai"
+    },
     "openai-news:1e97faa490facd0c80775009cd29953c3036ce5c": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-15/The US is advancing AI safety through state and federal action.md",
@@ -623,6 +631,14 @@
       "source": "OpenAI News",
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+    },
+    "openai-news:a8e8f9dc895a026b51bbe8a83b4fa897c6604f10": {
+      "first_seen": "2026-09-06T22:56:48.863030+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-06/An Alien Mind.md",
+      "published": "2026-09-06T09:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind"
     },
     "openai-news:ad5623d5cc7091de096da3991d1163fefa52afdc": {
       "first_seen": "2026-08-17T21:47:12.415274+00:00",
@@ -3257,6 +3273,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-05T23:03:23.565432+00:00",
+  "last_run_at": "2026-09-06T22:56:48.863030+00:00",
   "version": 1
 }

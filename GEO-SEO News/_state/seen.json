@@ -856,6 +856,14 @@
       "title": "How NVIDIA scales expertise with ChatGPT Work",
       "url": "https://openai.com/index/nvidia/chatgpt-work"
     },
+    "openai-news:e02ae19def6b6f7c4df88746637a074f37e339ba": {
+      "first_seen": "2026-09-07T23:37:24.935237+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-07/Supporting independent journalism in Ukraine.md",
+      "published": "2026-09-07T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+    },
     "openai-news:e4563871866d3a635b91bc2e29178f947db9e1c3": {
       "first_seen": "2026-08-19T21:47:32.784799+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-18/ChatGPT Ads expands across Europe.md",
@@ -1240,6 +1248,14 @@
       "title": "Why Data Integrity Is The New Technical SEO: From Crawling To Trust via @sejournal, @alexmoss",
       "url": "https://www.searchenginejournal.com/why-data-integrity-is-the-new-technical-seo-from-crawling-to-trust/582189/"
     },
+    "search-engine-journal:22123cb6b19ca4c3c0cc6255cd4614ada12cd215": {
+      "first_seen": "2026-09-07T23:37:24.935237+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-07/Your Biggest AI Search Risk Is Conflicting Information About Your Brand via @sejournal, @cshel.md",
+      "published": "2026-09-07T12:00:11+00:00",
+      "source": "Search Engine Journal",
+      "title": "Your Biggest AI Search Risk Is Conflicting Information About Your Brand via @sejournal, @cshel",
+      "url": "https://www.searchenginejournal.com/biggest-ai-search-risk-is-conflicting-information/586904/"
+    },
     "search-engine-journal:22b9e909f19f3592f005f66447bad7596aacc406": {
       "first_seen": "2026-08-29T03:12:57.517440+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-28/AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It via @sejournal, @gregjarboe.md",
@@ -1367,6 +1383,14 @@
       "source": "Search Engine Journal",
       "title": "Google Is Ending Target Overperformance – What to Fix Before August 17 via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/google-is-ending-target-overperformance-what-to-fix-before-august-17/584875/"
+    },
+    "search-engine-journal:32dc162f5089285ed05af7f854414de2acd7c623": {
+      "first_seen": "2026-09-07T23:37:24.935237+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-07/Harvard Found The Public Has Little Objection To AI Taking Search Marketers’ Jobs via @sejournal, @gregjarboe.md",
+      "published": "2026-09-07T14:30:22+00:00",
+      "source": "Search Engine Journal",
+      "title": "Harvard Found The Public Has Little Objection To AI Taking Search Marketers’ Jobs via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/harvard-found-the-public-has-little-objection-to-ai-taking-search-marketers-jobs/587715/"
     },
     "search-engine-journal:3568f8ac61b89d83aae35ceb07f6cf1cbc95025b": {
       "first_seen": "2026-07-21T09:02:00.061153+00:00",
@@ -3080,6 +3104,14 @@
       "title": "Traffic Is Down—Now What? Marketing Success In the Age of AI",
       "url": "https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/"
     },
+    "semrush-blog:4f51fd631a6311ea0a4b97c7fb1b34a6a535d447": {
+      "first_seen": "2026-09-07T23:37:24.935237+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-09-07/AI chatbots talked 57.5% of AI users out of buying.md",
+      "published": "2026-09-07T08:48:00+00:00",
+      "source": "Semrush Blog",
+      "title": "AI chatbots talked 57.5% of AI users out of buying",
+      "url": "https://www.semrush.com/blog/ai-chatbots-talk-ai-users-out-of-buying/"
+    },
     "semrush-blog:55e01baa9a38fbe1736b0c0e178264259bb8d696": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-07-15/Why Brand Positioning Is Now an AI Search Variable.md",
@@ -3273,6 +3305,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-06T22:56:48.863030+00:00",
+  "last_run_at": "2026-09-07T23:37:24.935237+00:00",
   "version": 1
 }

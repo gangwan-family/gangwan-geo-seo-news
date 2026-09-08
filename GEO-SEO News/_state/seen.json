@@ -152,6 +152,14 @@
       "title": "Get closer to the game with Gemini and Pixel",
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
     },
+    "google-search-central-blog:17be6a53eeab99dcfc504ddce65fa8703b033b27": {
+      "first_seen": "2026-09-08T23:29:12.190870+00:00",
+      "path": "GEO-SEO News/Google Search Central Blog/2026-09-08/Search Central Live is coming to Bogota and Ciudad de México.md",
+      "published": "2026-09-08T00:00:00+00:00",
+      "source": "Google Search Central Blog",
+      "title": "Search Central Live is coming to Bogota and Ciudad de México",
+      "url": "https://developers.google.com/search/blog/2026/09/search-central-live-mexico-and-colombia"
+    },
     "google-search-central-blog:be555cb543adbbd76251ae51c23a5492a13d7c9f": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
       "path": "GEO-SEO News/Google Search Central Blog/2026-07-29/Platform properties roll out globally, plus a new social and video performance guide.md",
@@ -240,6 +248,14 @@
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
       "url": "https://openai.com/index/chatgpt-for-academic-researchers"
     },
+    "openai-news:167bce5d47e71e473f604d6ca9f1ef8ddcc2d4e1": {
+      "first_seen": "2026-09-08T23:29:12.190870+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-08/How GPT-5.6 Sol helps run quantum computing experiments.md",
+      "published": "2026-09-08T17:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments"
+    },
     "openai-news:19672c4832d4c9bc0fd35c9ad6b6596c81afa104": {
       "first_seen": "2026-09-06T22:56:48.863030+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-09-06/Research acceleration The view inside OpenAI.md",
@@ -295,6 +311,14 @@
       "source": "OpenAI News",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "url": "https://openai.com/index/hsp-gruppe"
+    },
+    "openai-news:305f03a4aa6aa16d7e1ec597ef4e03503e16523b": {
+      "first_seen": "2026-09-08T23:29:12.190870+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-08/Introducing ChatGPT Images 2.5.md",
+      "published": "2026-09-08T11:30:00+00:00",
+      "source": "OpenAI News",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
     },
     "openai-news:3062d8cdad5fdcd904c8ee54664b2aa34880672b": {
       "first_seen": "2026-08-28T05:30:34.018543+00:00",
@@ -423,6 +447,14 @@
       "source": "OpenAI News",
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
       "url": "https://openai.com/index/previewing-ultrafast"
+    },
+    "openai-news:671a9fed35e21548fec5a867dede918b4a923b1c": {
+      "first_seen": "2026-09-08T23:29:12.190870+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-08/OpenAI expands initiatives to support journalism from classrooms to newsrooms.md",
+      "published": "2026-09-08T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
     },
     "openai-news:67f37d861d340b85b022037b65b3e9a60f1c90a5": {
       "first_seen": "2026-08-18T21:44:32.657208+00:00",
@@ -608,6 +640,22 @@
       "title": "Third-party cyber evaluations involving OpenAI models",
       "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
     },
+    "openai-news:9816f5beea82e2635d1f94302b285d6d02230b96": {
+      "first_seen": "2026-09-08T23:29:12.190870+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-08/1Password increases engineering productivity 21% with Codex.md",
+      "published": "2026-09-08T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "url": "https://openai.com/index/1password"
+    },
+    "openai-news:99c22bc85dd5ff7ae84bbb4ff8bba4cae907fe27": {
+      "first_seen": "2026-09-08T23:29:12.190870+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-08/Funding grants for new research into AI and teen development.md",
+      "published": "2026-09-08T09:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants"
+    },
     "openai-news:9ac0643f24279d0897e7405abdd55cab96f6b9c7": {
       "first_seen": "2026-08-19T21:47:32.784799+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-19/Replit expands access to software creation with GPT-5.6 Luna.md",
@@ -639,6 +687,14 @@
       "source": "OpenAI News",
       "title": "An Alien Mind",
       "url": "https://openai.com/index/an-alien-mind"
+    },
+    "openai-news:aaada63e998e325497b3b41a194f46cc956a11a1": {
+      "first_seen": "2026-09-08T23:29:12.190870+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-08/The Work Now Within Reach.md",
+      "published": "2026-09-08T13:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach"
     },
     "openai-news:ad5623d5cc7091de096da3991d1163fefa52afdc": {
       "first_seen": "2026-08-17T21:47:12.415274+00:00",
@@ -919,6 +975,14 @@
       "source": "OpenAI News",
       "title": "From assistance to execution: How enterprises put AI to work",
       "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
+    },
+    "openai-news:fbb79928f7d9c05194cccec7498bcabed16824b6": {
+      "first_seen": "2026-09-08T23:29:12.190870+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-08/On the Navier–Stokes Millennium Prize Problem.md",
+      "published": "2026-09-08T10:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution"
     },
     "openai-news:fc3528d001b5387ae21e7c472c8bfa84d5042ee8": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
@@ -1328,6 +1392,14 @@
       "title": "Google Rankings Link Higher AI Scores To Lower Positions via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/heavily-ai-flagged-pages-still-rank-across-googles-top-10/583983/"
     },
+    "search-engine-journal:2926f23c5bcaf4dfc88983e26f4a5e828a6346e0": {
+      "first_seen": "2026-09-08T23:29:12.190870+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-08/When Attribution Looks More Precise Than The Data Behind It via @sejournal, @bngsrc.md",
+      "published": "2026-09-08T14:30:05+00:00",
+      "source": "Search Engine Journal",
+      "title": "When Attribution Looks More Precise Than The Data Behind It via @sejournal, @bngsrc",
+      "url": "https://www.searchenginejournal.com/when-attribution-looks-more-precise-than-the-data-behind-it/586762/"
+    },
     "search-engine-journal:2947754ee83bf24fcb8c02126bfe5473d12b5659": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-17/Apple Maps Ads Ban Home Services, Crypto ATMs, Bail Bonds via @sejournal, @brookeosmundson.md",
@@ -1575,6 +1647,14 @@
       "source": "Search Engine Journal",
       "title": "ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks via @sejournal, @suganthan",
       "url": "https://www.searchenginejournal.com/chatgpt-rebuilt-its-search-tool-i-read-the-new-language-it-speaks/586710/"
+    },
+    "search-engine-journal:50dbc2049c77f19dc521b96a7cf9cfa0fe01ed70": {
+      "first_seen": "2026-09-08T23:29:12.190870+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-08/UK Publisher Loses 98% Of News Search Visibility After .com Move via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-08T19:24:24+00:00",
+      "source": "Search Engine Journal",
+      "title": "UK Publisher Loses 98% Of News Search Visibility After .com Move via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/uk-publisher-news-search-visibility-com-move/588840/"
     },
     "search-engine-journal:5324ec0dc67258c366bdf35770994fb19946a89c": {
       "first_seen": "2026-08-07T01:03:13.764774+00:00",
@@ -2048,6 +2128,14 @@
       "title": "Microsoft Advertising Adds AI Visibility Insights, PMax Testing, And Creative Preview Updates via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/microsoft-advertising-adds-ai-visibility-insights-pmax-testing-and-creative-preview-updates/584760/"
     },
+    "search-engine-journal:82a79209748e9a4c0c0a7c6db2a1de29bccd8702": {
+      "first_seen": "2026-09-08T23:29:12.190870+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-08/InMotion Cloud Debuts Fixed-Price Managed Cloud via @sejournal, @inmotionhosting.md",
+      "published": "2026-09-08T17:05:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "InMotion Cloud Debuts Fixed-Price Managed Cloud via @sejournal, @inmotionhosting",
+      "url": "https://www.searchenginejournal.com/inmotion-cloud-debuts-fixed-price-managed-private-cloud-spn/587527/"
+    },
     "search-engine-journal:83fe46fb519f5cdb45059f3d833b40358ec9fb8a": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-11/The Metric Most SEOs Are Still Not Measuring In The Age Of AI via @sejournal, @SequinsNsearch.md",
@@ -2327,6 +2415,14 @@
       "source": "Search Engine Journal",
       "title": "Claude Searches Web Differently From Claude Code, Data Shows via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/claude-code-rarely-searches-web-compared-claude-data/587584/"
+    },
+    "search-engine-journal:a2faf5f5d9f64f39f848814e566e7710c53d57c0": {
+      "first_seen": "2026-09-08T23:29:12.190870+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-08/Google Says Old Low-Value Pages May Affect Site Recovery via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-08T18:42:36+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Says Old Low-Value Pages May Affect Site Recovery via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-says-old-low-value-pages-may-affect-site-recovery/588837/"
     },
     "search-engine-journal:a3a58b15442a806ea3b0f8869e033b5af14a7b6f": {
       "first_seen": "2026-09-01T23:26:13.848773+00:00",
@@ -2688,6 +2784,14 @@
       "title": "Cloudflare: Machine Traffic Could Hit 1,000x Human Traffic In 5 Years via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/the-biggest-ai-crawler-on-my-website-was-hunting-for-credentials/585159/"
     },
+    "search-engine-journal:d281a1f52987bc9a2bba7d495960b5fed0240441": {
+      "first_seen": "2026-09-08T23:29:12.190870+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-08/Some Sites Use llms.txt Like robots.txt, Common Crawl Finds via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-08T14:09:20+00:00",
+      "source": "Search Engine Journal",
+      "title": "Some Sites Use llms.txt Like robots.txt, Common Crawl Finds via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/common-crawl-llms-txt-robots-txt/588786/"
+    },
     "search-engine-journal:d2a9cbb78a0b821f33e0d752b2403731b3fc4253": {
       "first_seen": "2026-08-03T22:32:31.168973+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-03/Google Recommends Using 304 Status Code To Conserve Crawl Budget via @sejournal, @martinibuster.md",
@@ -2695,6 +2799,14 @@
       "source": "Search Engine Journal",
       "title": "Google Recommends Using 304 Status Code To Conserve Crawl Budget via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-recommends-using-304-status-code-to-conserve-crawl-budget/584543/"
+    },
+    "search-engine-journal:d2c693150420055ab82a7329fbeec14d51fb3d5d": {
+      "first_seen": "2026-09-08T23:29:12.190870+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-08/6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like via @sejournal, @brookeosmundson.md",
+      "published": "2026-09-08T12:00:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "6 Months Into ChatGPT Ads, Advertisers Still Don’t Know What ‘Good’ Looks Like via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/6-months-into-chatgpt-ads-advertisers-still-dont-know-what-good-looks-like/587583/"
     },
     "search-engine-journal:d2db2d8200de5ed3eb1eb9252f375609f8221b24": {
       "first_seen": "2026-07-23T22:31:00.448317+00:00",
@@ -3192,6 +3304,14 @@
       "title": "Keyword mapping for SEO: Guide + free template",
       "url": "https://www.semrush.com/blog/keyword-mapping/"
     },
+    "semrush-blog:9141fcc31601e255a1c4d2188d87c55ec69ef236": {
+      "first_seen": "2026-09-08T23:29:12.190870+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-09-08/AI search & manufacturing SEO What the data shows [Study].md",
+      "published": "2026-09-08T13:38:00+00:00",
+      "source": "Semrush Blog",
+      "title": "AI search & manufacturing SEO: What the data shows [Study]",
+      "url": "https://www.semrush.com/blog/manufacturing-seo-ai-search/"
+    },
     "semrush-blog:9a4a90853c479376244ffdd6bd0a72cced77440e": {
       "first_seen": "2026-09-01T00:41:30.291545+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-08-31/How to use AI tools for competitor analysis in 2026.md",
@@ -3305,6 +3425,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-07T23:37:24.935237+00:00",
+  "last_run_at": "2026-09-08T23:29:12.190870+00:00",
   "version": 1
 }

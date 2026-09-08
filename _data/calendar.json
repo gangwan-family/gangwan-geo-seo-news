@@ -88,9 +88,9 @@
             "date": "2026-09-08",
             "day": 8,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 15,
+            "url": "/date/2026-09-08/"
           },
           {
             "date": "2026-09-09",
@@ -309,6 +309,18 @@
         ]
       ],
       "days": [
+        {
+          "date": "2026-09-08",
+          "day": 8,
+          "count": 15,
+          "url": "/date/2026-09-08/",
+          "sources": [
+            "Google Search Central Blog",
+            "OpenAI News",
+            "Search Engine Journal",
+            "Semrush Blog"
+          ]
+        },
         {
           "date": "2026-09-07",
           "day": 7,

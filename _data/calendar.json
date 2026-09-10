@@ -97,16 +97,16 @@
             "day": 9,
             "in_month": true,
             "has_posts": true,
-            "count": 16,
+            "count": 17,
             "url": "/date/2026-09-09/"
           },
           {
             "date": "2026-09-10",
             "day": 10,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 20,
+            "url": "/date/2026-09-10/"
           },
           {
             "date": "2026-09-11",
@@ -310,9 +310,21 @@
       ],
       "days": [
         {
+          "date": "2026-09-10",
+          "day": 10,
+          "count": 20,
+          "url": "/date/2026-09-10/",
+          "sources": [
+            "Google AI Blog",
+            "OpenAI News",
+            "Search Engine Journal",
+            "Semrush Blog"
+          ]
+        },
+        {
           "date": "2026-09-09",
           "day": 9,
-          "count": 16,
+          "count": 17,
           "url": "/date/2026-09-09/",
           "sources": [
             "Google AI Blog",

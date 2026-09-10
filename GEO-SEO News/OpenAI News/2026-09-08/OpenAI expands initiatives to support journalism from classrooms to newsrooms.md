@@ -2,7 +2,7 @@
 title: "OpenAI expands initiatives to support journalism from classrooms to newsrooms"
 source: "OpenAI News"
 published: 2026-09-08T00:00:00+00:00
-fetched_at: 2026-09-09T23:23:40.610777+00:00
+fetched_at: 2026-09-10T23:17:04.219816+00:00
 url: "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
 guid: "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
 categories:

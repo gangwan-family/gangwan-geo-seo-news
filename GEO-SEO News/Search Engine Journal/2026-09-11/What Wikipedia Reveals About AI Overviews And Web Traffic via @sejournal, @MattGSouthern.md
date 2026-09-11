@@ -1,0 +1,136 @@
+---
+title: "What Wikipedia Reveals About AI Overviews And Web Traffic via @sejournal, @MattGSouthern"
+source: "Search Engine Journal"
+published: 2026-09-11T12:00:42+00:00
+fetched_at: 2026-09-11T23:24:12.565053+00:00
+url: "https://www.searchenginejournal.com/what-wikipedia-reveals-about-ai-overviews-and-web-traffic/589042/"
+guid: "https://www.searchenginejournal.com/what-wikipedia-reveals-about-ai-overviews-and-web-traffic/589042/"
+author: "Matt G. Southern"
+categories:
+  - "AI Search"
+  - "Analytics & Data"
+  - "News"
+  - "SEO"
+---
+
+# What Wikipedia Reveals About AI Overviews And Web Traffic via @sejournal, @MattGSouthern
+
+- Source: Search Engine Journal
+- Published: 2026-09-11
+- URL: https://www.searchenginejournal.com/what-wikipedia-reveals-about-ai-overviews-and-web-traffic/589042/
+- Author: Matt G. Southern
+- Categories: AI Search, Analytics & Data, News, SEO
+
+## RSS 摘要
+
+A University of Washington paper estimates AI Overviews reduced search referrals to Wikipedia by about 5%, a metric Google disputes. The post What Wikipedia Reveals About AI Overviews And Web Traffic appeared first on Search Engine Journal .
+
+## 原文正文
+
+What Wikipedia Reveals About AI Overviews And Web Traffic Skip to content
+
+Webinar: AI Cites Your Brand. Now What? Turn AI Visibility Data Into Actions
+
+Register Now
+
+- SEJ
+
+- ⋅
+
+- AI Search
+
+## What Wikipedia Reveals About AI Overviews And Web Traffic
+
+AI Overviews reduced search referrals to Wikipedia by about 5%, according to a University of Washington paper. Google disputes the referral metric.
+
+A University of Washington working paper now estimates that Google’s AI Overviews reduced monthly search referrals to English Wikipedia by roughly 5% after the feature became the U.S. default in 2024. The paper , by Mehrzad Khosravi and Hema Yoganarasimhan, was last updated on September 2 and hasn’t been peer reviewed.
+
+The newer estimate took the place of a larger one that the same authors published back in February, and this revision is all part of the story. Google disputes whether the combined referral metric can isolate its feature.
+
+Wikimedia says many people access its volunteers’ work through AI and search tools without visiting wikipedia.org. The revised paper explores a specific aspect of this, looking at how default AI Overview availability influenced referrals from external search engines.
+
+### Wikipedia Offers A Rare Traffic Test
+
+Wikimedia releases monthly clickstream data at the article level for various Wikipedia language editions, such as English, German, and French. These files categorize external search engines together and omit referrer-article pairs with low volume. The authors tested several values for the suppressed post-treatment counts and reported nearly identical estimates.
+
+Google switched AI Overviews on by default in the United States in May 2024. According to the paper, it hadn’t yet done so in Germany or France during the sample period. The authors see language editions as a way to represent different regions. During the sample period, about 40% of traffic to English Wikipedia came from the United States. Meanwhile, traffic for German and French editions mostly came from countries without default AI Overviews. If, after May 2024, English referrals fell compared to German and French referrals for the same articles, that difference is the estimate.
+
+The data covers the period from December 2023 to December 2024. The authors consider May 2024, when the U.S. rollout started, as the first post-treatment month. The panel includes 499,927 matched English-German article pairs and 530,873 English-French pairs. They used a Poisson pseudo-maximum likelihood difference-in-differences model, which helps estimate percentage changes in counts. The authors estimate that default AI Overview availability reduced monthly external-search referrals to English Wikipedia by 5.45% relative to German and 4.82% relative to French.
+
+For the English edition as a whole, the estimate works out to around 100.27 million fewer search referrals each month, totaling about 1.20 billion annually. The monthly number is model-based, and the yearly estimate assumes this effect stays consistent throughout the year. Both figures account only for direct referrals from search engines, not all traffic Wikipedia receives.
+
+Earlier versions used daily pageviews and reported a decline of about 15%. The paper then switched to monthly search referrals and added German and French controls in v5 on August 26, with more updates in v6 on September 2.
+
+An English-Japanese check in the current version shows a 16.53% decline, using a shorter time frame and a different comparison group. The authors note that this result is directional support only.
+
+### What The Estimate Does Not Prove
+
+Wikimedia’s public data lumps all external search engines together, a limitation the paper acknowledges. Google told UOL Tilt that this prevents the analysis from isolating Google, but Yoganarasimhan said other engines handle only a small portion of traffic, and the analysis uses the timing break created by the AI Overviews rollout.
+
+This estimate addresses a specific question. It measures what happened to referrals when English-language readers were in an environment where AI Overviews were on by default. The earlier experiment I discussed in April showed a bigger drop when AI Overviews appeared during searches. So, while related, they are different findings.
+
+It counts referrals from search engines made by human readers, so if someone arrives from Google and then reads three more articles, it counts as one visit. Most of English Wikipedia’s visitors come from outside the U.S., which waters down the measured effect. Plus, the design can’t completely rule out other 2024 events affecting English search but not German or French search.
+
+The revenue estimate should be viewed with care. The authors calculate that a comparable ad-supported website might lose somewhere between $10.82 million and $37.08 million each year at typical ad rates. Since Wikipedia itself doesn’t display ads, this figure is purely hypothetical and doesn’t represent Wikimedia’s real finances or any funds moved to Google.
+
+Lastly, the paper doesn’t look into long-term effects, so it doesn’t provide insights into editing activity, donations, or whether fewer visits might impact future content creation.
+
+### Wikimedia Sees A Wider Traffic Change
+
+The Wikimedia Foundation’s data offers a different perspective. In October 2025, product director Marshall Miller shared that overall human pageviews across all Wikipedia languages had decreased by about 8% compared to the same period in 2024. This information came after Wikimedia improved its bot detection and reclassified traffic from March through August 2025. Visits spiked and appeared to come from real users, mainly from Brazil, but much of that traffic was driven by bots designed to bypass detection.
+
+Miller attributed the decline to generative AI and social media platforms. However, he also pointed out that the relabeled data should be viewed with some caution because detection methods have changed over time. This is about overall human pageviews, not a causal estimate about AI Overviews, so it can’t be added to the paper’s 5% estimate.
+
+I discussed this update back in October. By April, the Foundation’s draft plan for the 2026-27 fiscal year highlighted that decreasing pageviews and fewer referrals from Google, along with bot traffic the plan calls unprecedented, are expected to continue rather than be short-term issues. The plan also notes that almost 90% of Wikipedia visitors have traditionally come from Google search.
+
+### Machine Demand Keeps Growing
+
+In April 2025, the Wikimedia Foundation’s engineers observed that the bandwidth for downloading images and media files went up by 50% since January 2024. Most of this increase came from bots scraping Wikimedia Commons for AI training rather than from regular readers. They also noted that bots accounted for at least 65% of the most expensive traffic, which reaches the core data centers, and about 35% of pageviews.
+
+A year later, the team mentioned they were blocking or limiting around 30% of these automated requests from crawlers that ignore their policies, and a chart note put blocked or throttled requests at about 1.5 billion a day. The report explains that some bots imitate regular browsers or use proxies via home internet connections. The aim is to guide large-scale reusers toward channels where they can identify themselves and receive higher limits, rather than to stop reuse.
+
+None of this activity appears in referral counts. Whether it’s a crawler copying an article for training, a search engine quoting it in an AI response, or a reader clicking through from that response, all these actions are considered separate events. Only the click-throughs are counted as human external-search referrals in the paper’s outcome.
+
+### Citation, Visits, And Enterprise Access
+
+Pew’s analysis found that people rarely clicked on sources within AI summaries. They looked at 68,879 Google searches from March 2025, which came from the browsing activity of 900 U.S. adults. They repeated the searches from April 7 to April 17 to capture the result pages, meaning the AI-summary classification is based on those later data. When visits included an AI summary, people clicked on traditional results 8% of the time, compared to 15% when no summary was there. Only 1% of visits to pages containing an AI summary led to a click on a source inside it. Wikipedia, YouTube, and Reddit together made up 15% of cited sources, although Pew didn’t specify Wikipedia’s exact share.
+
+Google’s own documents say that AI Overviews guide users to a broader range of websites. Liz Reid’s August 2025 blog post shared that the total organic click volume stayed “relatively stable” compared to the previous year, even though she didn’t provide exact numbers. She also mentioned this on Bloomberg’s Odd Lots podcast in April.
+
+In November 2025, the Foundation urged AI developers to properly credit Wikipedia in their outputs and asked them to access it through Wikimedia Enterprise. They believe giving credit encourages a cycle in which readers become editors and donors, but they also warn that fewer visits might lead to fewer volunteers and donors.
+
+Wikimedia Enterprise is the Foundation’s paid service that provides high-volume API access , including contracts, uptime guarantees, support, and structured data feeds. It charges for access, not the content itself, which stays freely available through public channels under open licenses, subject to its license terms. Lane Becker, who oversees the program, shared in July that this model is based on access rather than licensing. The income from Enterprise is capped at 30% of the Foundation’s annual revenue, he said, and the unit reported $8.3 million in revenue for the 2024-25 fiscal year.
+
+In January, Wikimedia Enterprise announced that Google is an existing customer, and for the first time, Amazon, Meta, Microsoft, Mistral AI, and Perplexity were introduced as partners. In July, Wikimedia Enterprise announced GNOMI as another partner. Wikimedia describes Enterprise as a paid service designed for high-volume access and support, rather than compensation tied to referral losses.
+
+### Why Wikipedia Is An Unusual Test
+
+The features that make Wikipedia measurable also limit how widely its findings can be used. Wikimedia shares data on articles in many languages, and the paper compares matching pages across different language editions. Most websites don’t have the ability to make these kinds of comparisons.
+
+The paper doesn’t establish whether news sites, retailers, or other types of websites would experience similar effects. Additionally, the sources don’t address whether other organizations could create a paid access service similar to Wikimedia Enterprise.
+
+### Looking Ahead
+
+This paper is still a working paper, rebuilt once and revised multiple times since February, so the figures are the latest estimates, not final numbers. We’ll update if new figures from the authors, Wikimedia, or Google change the picture.
+
+More Resources:
+
+- ChatGPT Access Tied To 9% Drop In Traditional Search
+
+- AI Search Isn’t Replacing Google, It’s Layering On Top – Similarweb Data
+
+- People Aren’t Leaving Google For AI. They’re Using Both.
+
+Featured Image: Kateryna Deineka/Shutterstock
+
+Category News SEO AI Search Analytics & Data
+
+Read Full Bio
+
+SEJ STAFF Matt G. Southern Senior News Writer at Search Engine Journal
+
+See short video versions of news stories on YouTube and TikTok. Matt G. Southern is the Senior News Writer at ...
+
+## 原文链接
+
+[Read original](https://www.searchenginejournal.com/what-wikipedia-reveals-about-ai-overviews-and-web-traffic/589042/)

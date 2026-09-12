@@ -272,6 +272,14 @@
       "title": "GPT-6 Astra: A new generation of intelligence",
       "url": "https://openai.com/index/gpt-6-astra"
     },
+    "openai-news:12e9dd6851803557bf5ad9fd2920e7fa2e644576": {
+      "first_seen": "2026-09-12T23:07:29.401235+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-14/Perplexity trusts GPT-6 Astra with end-to-end systems.md",
+      "published": "2026-09-14T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+    },
     "openai-news:130e23c4bd2f87cbb00eed71539e83ba22e3ccf1": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-22/How news organizations are using AI to advance their vital missions.md",
@@ -855,6 +863,14 @@
       "source": "OpenAI News",
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
+    },
+    "openai-news:c3aa33826442d0f0cc3fa5d142dd086e756ace1e": {
+      "first_seen": "2026-09-12T23:07:29.401235+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-11/Cognition helps Devin test its own work with GPT‑6 Astra.md",
+      "published": "2026-09-11T16:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra"
     },
     "openai-news:c54f46e53d48e3042d6e57aa12e7bc3272d032eb": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
@@ -3248,6 +3264,14 @@
       "title": "ChatGPT’s Index, GA Benchmarks, Google Refiles Complaint – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-chatgpts-index-ga-benchmarks-google-refiles-complaint/585748/"
     },
+    "search-engine-journal:e87293ea7d9f31f25714a8377a840a7ca9be48c3": {
+      "first_seen": "2026-09-12T23:07:29.401235+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-12/Google Search Redesign, Business Profile Post Views – SEO Pulse via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-12T12:30:38+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Search Redesign, Business Profile Post Views – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-redesign-business-profile-post-views-seo-pulse/589151/"
+    },
     "search-engine-journal:e877fc46d5927102f1fa8f9c28e326d489f4bc0f": {
       "first_seen": "2026-09-03T23:22:40.524144+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-03/Google AI Mode Prices Differ From Product Carousel For Same Items via @sejournal, @MattGSouthern.md",
@@ -3777,6 +3801,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-11T23:24:12.565053+00:00",
+  "last_run_at": "2026-09-12T23:07:29.401235+00:00",
   "version": 1
 }

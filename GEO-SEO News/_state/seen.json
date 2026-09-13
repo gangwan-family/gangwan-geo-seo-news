@@ -1656,6 +1656,14 @@
       "title": "AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/"
     },
+    "search-engine-journal:3cd844d176a05f0b5c692f5ef81517237e8c5ccb": {
+      "first_seen": "2026-09-13T23:16:23.434884+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-13/Google Admits Search Console Reporting For AI Search Is Inadequate via @sejournal, @martinibuster.md",
+      "published": "2026-09-13T12:17:31+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Admits Search Console Reporting For AI Search Is Inadequate via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-admits-search-console-reporting-for-ai-search-is-inadequate/589236/"
+    },
     "search-engine-journal:3d8dbd5af58d8e3bd935328b4e6046bcc54feb36": {
       "first_seen": "2026-08-25T21:50:45.285434+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-25/Why International SEO Needs Machine-Recognizable E-E-A-T via @sejournal, @motokohunt.md",
@@ -2391,6 +2399,14 @@
       "source": "Search Engine Journal",
       "title": "Google Now Reports AI Search Impressions. Here’s How To Read Them via @sejournal, @cshel",
       "url": "https://www.searchenginejournal.com/google-reports-ai-search-impressions-how-to-read-them/582824/"
+    },
+    "search-engine-journal:88e268f0c88026ec17b8e08c6b4e06de5688a1d2": {
+      "first_seen": "2026-09-13T23:16:23.434884+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-13/Matt Mullenweg Apparently Back In Charge At Automattic via @sejournal, @martinibuster.md",
+      "published": "2026-09-13T21:10:22+00:00",
+      "source": "Search Engine Journal",
+      "title": "Matt Mullenweg Apparently Back In Charge At Automattic via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/matt-mullenweg-apparently-back-in-charge-at-automattic/589251/"
     },
     "search-engine-journal:891643c8f5f2639bf47cb30ef00d9d9eb3f24a53": {
       "first_seen": "2026-08-07T22:03:28.633300+00:00",
@@ -3801,6 +3817,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-12T23:07:29.401235+00:00",
+  "last_run_at": "2026-09-13T23:16:23.434884+00:00",
   "version": 1
 }

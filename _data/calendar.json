@@ -128,9 +128,9 @@
             "date": "2026-09-13",
             "day": 13,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 2,
+            "url": "/date/2026-09-13/"
           }
         ],
         [
@@ -316,6 +316,15 @@
           "url": "/date/2026-09-14/",
           "sources": [
             "OpenAI News"
+          ]
+        },
+        {
+          "date": "2026-09-13",
+          "day": 13,
+          "count": 2,
+          "url": "/date/2026-09-13/",
+          "sources": [
+            "Search Engine Journal"
           ]
         },
         {

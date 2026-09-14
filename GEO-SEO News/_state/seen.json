@@ -144,6 +144,14 @@
       "title": "Get ready for the game with new football features in Search",
       "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/"
     },
+    "google-ai-blog:b49b47db0b359f67793abf4a6d38c78e0aa24425": {
+      "first_seen": "2026-09-14T23:55:09.799509+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-09-14/Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.md",
+      "published": "2026-09-14T19:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/"
+    },
     "google-ai-blog:be3ca53745f60ae727293fd8fdeb249c9b9f260b": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-07-28/Gemini API Managed Agents 3.6 Flash, hooks, and more.md",
@@ -151,6 +159,14 @@
       "source": "Google AI Blog",
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
+    },
+    "google-ai-blog:bf70dc826a65d37ea36176874111fbca19afa131": {
+      "first_seen": "2026-09-14T23:55:09.799509+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-09-14/DevFest is back.md",
+      "published": "2026-09-14T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
     },
     "google-ai-blog:dbc30e861442f93d6f8e9a44ec2cbacb4a0868c6": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
@@ -183,6 +199,14 @@
       "source": "Google Search Central Blog",
       "title": "Search Central Live is coming to Bogota and Ciudad de México",
       "url": "https://developers.google.com/search/blog/2026/09/search-central-live-mexico-and-colombia"
+    },
+    "google-search-central-blog:597fb6718696bdf35a54aa1dc041d61108780b31": {
+      "first_seen": "2026-09-14T23:55:09.799509+00:00",
+      "path": "GEO-SEO News/Google Search Central Blog/2026-09-14/Search Central Live India 2026 Bengaluru, We're Coming (For Real This Time).md",
+      "published": "2026-09-14T00:00:00+00:00",
+      "source": "Google Search Central Blog",
+      "title": "Search Central Live India 2026: Bengaluru, We're Coming (For Real This Time)",
+      "url": "https://developers.google.com/search/blog/2026/09/search-central-live-india-2026"
     },
     "google-search-central-blog:be555cb543adbbd76251ae51c23a5492a13d7c9f": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
@@ -351,6 +375,14 @@
       "source": "OpenAI News",
       "title": "Apple is getting this wrong",
       "url": "https://openai.com/index/apple-is-getting-this-wrong"
+    },
+    "openai-news:296d33defd03a1b2463973471461c0abc893e728": {
+      "first_seen": "2026-09-14T23:55:09.799509+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-14/How Fyxer built an AI executive assistant people trust.md",
+      "published": "2026-09-14T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer"
     },
     "openai-news:2b26a8066576cc984b3694eea8e3d3f95cde781c": {
       "first_seen": "2026-09-10T23:17:04.219816+00:00",
@@ -1160,6 +1192,14 @@
       "title": "OpenAI Allows Some Health & Finance Ads In ChatGPT via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/openai-allows-some-health-finance-ads-in-chatgpt/585516/"
     },
+    "search-engine-journal:03d8abef88171f37bf984715dcdca89015e68881": {
+      "first_seen": "2026-09-14T23:55:09.799509+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-14/AI Isn’t Delivering Marketing Efficiency, It’s Repeating Programmatic’s Broken Promise via @sejournal, @gregjarboe.md",
+      "published": "2026-09-14T14:30:08+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Isn’t Delivering Marketing Efficiency, It’s Repeating Programmatic’s Broken Promise via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/ai-isnt-delivering-marketing-efficiency-its-repeating-programmatics-broken-promise/588722/"
+    },
     "search-engine-journal:04075a6032ff54d29c56534015008d325aab96bb": {
       "first_seen": "2026-08-24T21:51:14.761050+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-24/Google Ads Launches New Search and AI Max Experimentation Tools via @sejournal, @brookeosmundson.md",
@@ -1368,6 +1408,14 @@
       "title": "ChatGPT Links Out Most On Travel Questions via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/chatgpt-links-out-most-on-travel-questions/583824/"
     },
+    "search-engine-journal:1c2ffd6ae15c3bc0a70290ebc283d00907580213": {
+      "first_seen": "2026-09-14T23:55:09.799509+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-14/Google Tests Paying Publishers For AI Answers Via Search Console via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-14T17:38:53+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Tests Paying Publishers For AI Answers Via Search Console via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-tests-paying-publishers-for-ai-answers-via-search-console/589414/"
+    },
     "search-engine-journal:1ce64a6f7b11c95bf7a3589eb9491a4749550bee": {
       "first_seen": "2026-08-19T21:47:32.784799+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-19/Microsoft Advertising Rolls Out AI Max Globally via @sejournal, @brookeosmundson.md",
@@ -1519,6 +1567,14 @@
       "source": "Search Engine Journal",
       "title": "Google Rankings Link Higher AI Scores To Lower Positions via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/heavily-ai-flagged-pages-still-rank-across-googles-top-10/583983/"
+    },
+    "search-engine-journal:291450ff8dd4f1761120f4f36274817ab609300e": {
+      "first_seen": "2026-09-14T23:55:09.799509+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-14/How To Connect AI Search Visibility To Local Leads via @sejournal, @lorenbaker.md",
+      "published": "2026-09-14T12:00:25+00:00",
+      "source": "Search Engine Journal",
+      "title": "How To Connect AI Search Visibility To Local Leads via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/how-to-connect-ai-search-visibility-to-local-leads/588096/"
     },
     "search-engine-journal:2926f23c5bcaf4dfc88983e26f4a5e828a6346e0": {
       "first_seen": "2026-09-08T23:29:12.190870+00:00",
@@ -3817,6 +3873,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-13T23:16:23.434884+00:00",
+  "last_run_at": "2026-09-14T23:55:09.799509+00:00",
   "version": 1
 }

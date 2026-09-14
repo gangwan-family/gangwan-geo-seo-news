@@ -139,7 +139,7 @@
             "day": 14,
             "in_month": true,
             "has_posts": true,
-            "count": 1,
+            "count": 8,
             "url": "/date/2026-09-14/"
           },
           {
@@ -312,10 +312,13 @@
         {
           "date": "2026-09-14",
           "day": 14,
-          "count": 1,
+          "count": 8,
           "url": "/date/2026-09-14/",
           "sources": [
-            "OpenAI News"
+            "Google AI Blog",
+            "Google Search Central Blog",
+            "OpenAI News",
+            "Search Engine Journal"
           ]
         },
         {

@@ -1,5 +1,13 @@
 {
   "entries": {
+    "google-ai-blog:00e29a681a6f5e3b92e548a1233e08a93d7830d6": {
+      "first_seen": "2026-09-15T23:33:47.182666+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-09-15/New insights from Google’s AI & Economy ATLAS.md",
+      "published": "2026-09-15T13:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/"
+    },
     "google-ai-blog:0199c9587e0b825a89fe7fd5ec0892ffe645222d": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-07-16/Create, edit and star in videos with two Google Vids updates.md",
@@ -15,6 +23,14 @@
       "source": "Google AI Blog",
       "title": "3 ways to prep for your next big race with Search",
       "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/"
+    },
+    "google-ai-blog:18592959ad29d5e254c8a6869b0312217ebbe0de": {
+      "first_seen": "2026-09-15T23:33:47.182666+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-09-15/AI for Societal Impact.md",
+      "published": "2026-09-15T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "AI for Societal Impact",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
     },
     "google-ai-blog:23fca7e7282563139d3420d9faf4a7e889aa9939": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
@@ -112,6 +128,14 @@
       "title": "Inside our 353,000-person vibe coding course",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
     },
+    "google-ai-blog:a243976a4aeffe7860e7187de6b5143672c61ef6": {
+      "first_seen": "2026-09-15T23:33:47.182666+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-09-15/AI for everyone in every language.md",
+      "published": "2026-09-15T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
+    },
     "google-ai-blog:a564401bb829d4c0b46bf72c97d7d8c4d0686ccd": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-07-16/Connect more of your apps to Search.md",
@@ -151,6 +175,14 @@
       "source": "Google AI Blog",
       "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/"
+    },
+    "google-ai-blog:b86d9a766fb72b730ea5e5f0b78d95f54686f42c": {
+      "first_seen": "2026-09-15T23:33:47.182666+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-09-15/Building AI to accelerate science and improve lives.md",
+      "published": "2026-09-15T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Building AI to accelerate science and improve lives",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
     },
     "google-ai-blog:be3ca53745f60ae727293fd8fdeb249c9b9f260b": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
@@ -1448,6 +1480,14 @@
       "title": "AI Browsers Are Backward Because Agents Never Needed The Visual Layer via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/ai-browsers-are-backward-because-agents-never-needed-the-visual-layer/583056/"
     },
+    "search-engine-journal:1f412834d3a3ae23dc5edead0a49105904b5e036": {
+      "first_seen": "2026-09-15T23:33:47.182666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-15/Local Services Ads To Performance Max What To Audit Before Migration via @sejournal, @hethr_campbell.md",
+      "published": "2026-09-15T07:45:08+00:00",
+      "source": "Search Engine Journal",
+      "title": "Local Services Ads To Performance Max: What To Audit Before Migration via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/local-services-ads-to-performance-max-what-to-audit-before-migration-recap/588906/"
+    },
     "search-engine-journal:2010f05196045daede045361267d83bca5b3c5e8": {
       "first_seen": "2026-08-22T21:43:19.607238+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-22/Spam Update, Generative UI In AIOs, Reddit Drop – SEO Pulse via @sejournal, @MattGSouthern.md",
@@ -1600,6 +1640,14 @@
       "title": "Google Adds Post View Counts To Business Profiles via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-business-profile-post-view-counts/589128/"
     },
+    "search-engine-journal:2988c489580723dde958c53d741f757b3ca819b2": {
+      "first_seen": "2026-09-15T23:33:47.182666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-15/Meta Published 2 Documents About Muse And Only One Mentions Attacks via @sejournal, @slobodanmanic.md",
+      "published": "2026-09-15T14:30:08+00:00",
+      "source": "Search Engine Journal",
+      "title": "Meta Published 2 Documents About Muse And Only One Mentions Attacks via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/meta-published-2-documents-about-muse-and-only-one-mentions-attacks/589071/"
+    },
     "search-engine-journal:2cc7131c3c10ed44e4132d48e0ae33597325306f": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-20/Google Must Share Anonymized Search Data With Rivals via @sejournal, @MattGSouthern.md",
@@ -1688,6 +1736,14 @@
       "title": "Google Brings Gemini 3.7 Flash To AI Mode In Search via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-brings-gemini-3-7-flash-to-ai-mode-in-search/585923/"
     },
+    "search-engine-journal:3865242f2012379a81ee208bc0612926f2a35d83": {
+      "first_seen": "2026-09-15T23:33:47.182666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-15/Google Adds New Ad Experience Metrics To CrUX Report via @sejournal, @martinibuster.md",
+      "published": "2026-09-15T21:46:09+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Adds New Ad Experience Metrics To CrUX Report via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-adds-new-ad-experience-metrics-to-crux-report/589569/"
+    },
     "search-engine-journal:3871bc56eac107ef640eb218a0b9632d7e65277d": {
       "first_seen": "2026-08-21T21:45:39.115559+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-21/AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe.md",
@@ -1759,6 +1815,14 @@
       "source": "Search Engine Journal",
       "title": "Google To Bring New Video Understanding Tech To Ask YouTube via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-video-understanding-ask-youtube/588123/"
+    },
+    "search-engine-journal:42a0ae7a09d8af3e674baed90a06e129f75e3cc6": {
+      "first_seen": "2026-09-15T23:33:47.182666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-15/Brand Protection In AI Search How To Audit And Defend Your Brand’s Identity.md",
+      "published": "2026-09-15T19:00:14+00:00",
+      "source": "Search Engine Journal",
+      "title": "Brand Protection In AI Search: How To Audit And Defend Your Brand’s Identity",
+      "url": "https://www.searchenginejournal.com/brand-protection-in-ai-search-how-to-audit-and-defend-your-brands-identity/587581/"
     },
     "search-engine-journal:42e0f680314c5f56528457aa48cb731ab553466c": {
       "first_seen": "2026-08-24T21:51:14.761050+00:00",
@@ -2808,6 +2872,14 @@
       "title": "Google Launches Meridian GeoX Globally via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/google-launches-meridian-geox-globally/589030/"
     },
+    "search-engine-journal:aa3e9b984da91460207554913c976d6cc33caa4b": {
+      "first_seen": "2026-09-15T23:33:47.182666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-15/ChatGPT Ads Aren’t Paid Search – 5 Questions To Answer Before You Shift Budget via @sejournal, @brookeosmundson.md",
+      "published": "2026-09-15T12:00:30+00:00",
+      "source": "Search Engine Journal",
+      "title": "ChatGPT Ads Aren’t Paid Search – 5 Questions To Answer Before You Shift Budget via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/chatgpt-ads-arent-paid-search-5-questions-to-answer-before-you-shift-budget/589256/"
+    },
     "search-engine-journal:aa78e3ff833a2d840ce72ca0c1886c5ebe521250": {
       "first_seen": "2026-08-05T22:33:14.053208+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-05/AI Referrals Are Recreating The Oldest Mistake In Conversion Optimization via @sejournal, @slobodanmanic.md",
@@ -3248,6 +3320,14 @@
       "title": "How Do I Keep Control As Platforms Automate My Account? – Ask A PPC via @sejournal, @navahf",
       "url": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-keep-control-as-platforms-automate-my-account/587340/"
     },
+    "search-engine-journal:dfa2ee62a7633433ec92c6601810c37f2050849f": {
+      "first_seen": "2026-09-15T23:33:47.182666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-15/Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-15T21:29:41+00:00",
+      "source": "Search Engine Journal",
+      "title": "Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/cloudflare-lets-sites-disallow-ai-training-without-blocking-googlebot/589559/"
+    },
     "search-engine-journal:dfb33af631130923eb51279e554e3fe614bb92c4": {
       "first_seen": "2026-09-10T23:17:04.219816+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-10/How Freshpet Earned AI’s Trust A GEO & AI Visibility Playbook via @sejournal, @hethr_campbell.md",
@@ -3351,6 +3431,14 @@
       "source": "Search Engine Journal",
       "title": "Google AI Mode Prices Differ From Product Carousel For Same Items via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-ai-mode-prices-differ-from-product-carousel-for-same-items/588227/"
+    },
+    "search-engine-journal:e8a89a88701a1120f74ba21e983d170986a34d22": {
+      "first_seen": "2026-09-15T23:33:47.182666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-15/Anthropic Shares Power Prompts That Improve AI Results via @sejournal, @martinibuster.md",
+      "published": "2026-09-15T10:14:18+00:00",
+      "source": "Search Engine Journal",
+      "title": "Anthropic Shares Power Prompts That Improve AI Results via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/anthropic-shares-power-prompts-that-improve-ai-results/589448/"
     },
     "search-engine-journal:e9197b447520d817a5201fcd49a7dd89202c2302": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -3463,6 +3551,14 @@
       "source": "Search Engine Journal",
       "title": "Search Console AI Reports Go Global, Mueller On Recovery – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-search-console-ai-reports-go-global-mueller-recovery/588443/"
+    },
+    "search-engine-journal:f774dea54f31a6ee43798368c5dc0855ec1cff54": {
+      "first_seen": "2026-09-15T23:33:47.182666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-15/Selling On ChatGPT How Brands Are Driving Revenue Through Ads & GEO [Webinar] via @sejournal, @lorenbaker.md",
+      "published": "2026-09-15T14:10:14+00:00",
+      "source": "Search Engine Journal",
+      "title": "Selling On ChatGPT: How Brands Are Driving Revenue Through Ads & GEO [Webinar] via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/selling-on-chatgpt-how-brands-are-driving-revenue-through-ads-geo-webinar/589430/"
     },
     "search-engine-journal:f7893ee7555d00399b8c3928b123440aaad0c585": {
       "first_seen": "2026-08-27T00:55:07.763088+00:00",
@@ -3873,6 +3969,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-14T23:55:09.799509+00:00",
+  "last_run_at": "2026-09-15T23:33:47.182666+00:00",
   "version": 1
 }

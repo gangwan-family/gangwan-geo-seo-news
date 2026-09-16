@@ -154,9 +154,9 @@
             "date": "2026-09-16",
             "day": 16,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 14,
+            "url": "/date/2026-09-16/"
           },
           {
             "date": "2026-09-17",
@@ -309,6 +309,17 @@
         ]
       ],
       "days": [
+        {
+          "date": "2026-09-16",
+          "day": 16,
+          "count": 14,
+          "url": "/date/2026-09-16/",
+          "sources": [
+            "Google Search Central Blog",
+            "OpenAI News",
+            "Search Engine Journal"
+          ]
+        },
         {
           "date": "2026-09-15",
           "day": 15,

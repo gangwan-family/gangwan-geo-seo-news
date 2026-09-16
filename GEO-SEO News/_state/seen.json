@@ -224,6 +224,14 @@
       "title": "Get closer to the game with Gemini and Pixel",
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
     },
+    "google-search-central-blog:028a78531d92bd61e38231107da412371f5b419e": {
+      "first_seen": "2026-09-16T23:41:51.317632+00:00",
+      "path": "GEO-SEO News/Google Search Central Blog/2026-09-16/Search Central Live Deep Dive Europe 2026 Meet the community speakers.md",
+      "published": "2026-09-16T00:00:00+00:00",
+      "source": "Google Search Central Blog",
+      "title": "Search Central Live Deep Dive Europe 2026: Meet the community speakers",
+      "url": "https://developers.google.com/search/blog/2026/09/scl-dd-europe-2026-community-speakers"
+    },
     "google-search-central-blog:17be6a53eeab99dcfc504ddce65fa8703b033b27": {
       "first_seen": "2026-09-08T23:29:12.190870+00:00",
       "path": "GEO-SEO News/Google Search Central Blog/2026-09-08/Search Central Live is coming to Bogota and Ciudad de México.md",
@@ -287,6 +295,14 @@
       "source": "OpenAI News",
       "title": "Introducing AI Futures",
       "url": "https://openai.com/index/introducing-ai-futures"
+    },
+    "openai-news:027811ca1632d0f58ec6aef4b1b0aab0357f132b": {
+      "first_seen": "2026-09-16T23:41:51.317632+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-16/Helping older adults use AI in everyday life.md",
+      "published": "2026-09-16T16:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
     },
     "openai-news:0703988e3a3319168a4bed769fe486164f0f87f1": {
       "first_seen": "2026-09-01T23:26:13.848773+00:00",
@@ -552,6 +568,14 @@
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
       "url": "https://openai.com/index/daybreak-for-frontline-defenders"
     },
+    "openai-news:52752974efc060afa422288cf05c3cab7e220271": {
+      "first_seen": "2026-09-16T23:41:51.317632+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-16/Reimagining advertising with AI.md",
+      "published": "2026-09-16T13:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai"
+    },
     "openai-news:534907e0d31e417161f7675d307d834241a713dd": {
       "first_seen": "2026-09-09T23:23:40.610777+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-09-09/Paul Christiano joins OpenAI Foundation Board.md",
@@ -583,6 +607,14 @@
       "source": "OpenAI News",
       "title": "GPT-6 Astra: The next generation in intelligence for work",
       "url": "https://openai.com/index/gpt-6-astra-next-generation-work"
+    },
+    "openai-news:5f7e182a53f2403bd5ecbae87163339c9ae49c2a": {
+      "first_seen": "2026-09-16T23:41:51.317632+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-16/How to connect AI usage to business value.md",
+      "published": "2026-09-16T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
     },
     "openai-news:61282b7420ed067525c1f91d92b2480700145654": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
@@ -671,6 +703,14 @@
       "source": "OpenAI News",
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
       "url": "https://openai.com/index/cars24"
+    },
+    "openai-news:71646fffd914b4964a5115ce29a926b304e95bf4": {
+      "first_seen": "2026-09-16T23:41:51.317632+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-16/How workers are unlocking new ways of working.md",
+      "published": "2026-09-16T09:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working"
     },
     "openai-news:7569338ee0d35289de5fa0da2edc1227182b6ccd": {
       "first_seen": "2026-07-23T22:31:00.448317+00:00",
@@ -911,6 +951,14 @@
       "source": "OpenAI News",
       "title": "Advancing responsible AI across Europe",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
+    },
+    "openai-news:bbe6c30a33c9c72e5780274d2c816d8c53a3bebe": {
+      "first_seen": "2026-09-16T23:41:51.317632+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-16/Our framework for reporting model misalignment.md",
+      "published": "2026-09-16T17:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework"
     },
     "openai-news:bd6ce42035f550014aca0a9800b9545ebfc3f46b": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
@@ -1287,6 +1335,14 @@
       "source": "Search Engine Journal",
       "title": "Indexed Claude Chats Show Why Disallow Is Not Noindex via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/indexed-claude-chats-show-why-disallow-is-not-noindex/583852/"
+    },
+    "search-engine-journal:0a22aa2cccf600f6a143788f56206ff2eb60d668": {
+      "first_seen": "2026-09-16T23:41:51.317632+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-16/Ex-Googler Jeff Dean Explains Design Choices Behind Gemini via @sejournal, @martinibuster.md",
+      "published": "2026-09-16T10:31:08+00:00",
+      "source": "Search Engine Journal",
+      "title": "Ex-Googler Jeff Dean Explains Design Choices Behind Gemini via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/ex-googler-jeff-dean-explains-what-users-should-understand-about-gemini/589593/"
     },
     "search-engine-journal:0aabf20ea3558efa47401a338bc5761493dd905e": {
       "first_seen": "2026-07-25T22:26:25.373734+00:00",
@@ -1936,6 +1992,14 @@
       "title": "Is Your Local SEO Strategy Ready For Google’s Next AI Updates? [Webinar] via @sejournal, @hethr_campbell",
       "url": "https://www.searchenginejournal.com/is-your-local-seo-strategy-ready-for-googles-next-ai-updates/589119/"
     },
+    "search-engine-journal:52d34eccea1ccee8f89db72cccc2d33ed3d1be70": {
+      "first_seen": "2026-09-16T23:41:51.317632+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-16/Google Search Profile Badges Expose The Publisher Traffic Crisis via @sejournal, @martinibuster.md",
+      "published": "2026-09-16T23:07:48+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Search Profile Badges Expose The Publisher Traffic Crisis via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-search-profile-badges-expose-the-publisher-traffic-crisis/589724/"
+    },
     "search-engine-journal:5324ec0dc67258c366bdf35770994fb19946a89c": {
       "first_seen": "2026-08-07T01:03:13.764774+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-06/The Trust Signals That Get Your Brand Cited By AI Overviews, Just Like Freshpet [Webinar] via @sejournal, @hethr_campbell.md",
@@ -2111,6 +2175,14 @@
       "source": "Search Engine Journal",
       "title": "Automattic Fires Back At WP Engine’s Motion For Sanctions via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/automattic-fires-back-at-wp-engines-motion-for-sanctions/585472/"
+    },
+    "search-engine-journal:62b748e69fbb48aa39b4bcc5ef4c9a51ad3a5e81": {
+      "first_seen": "2026-09-16T23:41:51.317632+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-16/Beyond Content Parity Building A Validated Content Workflow For AI Search via @sejournal, @billhunt.md",
+      "published": "2026-09-16T12:00:04+00:00",
+      "source": "Search Engine Journal",
+      "title": "Beyond Content Parity: Building A Validated Content Workflow For AI Search via @sejournal, @billhunt",
+      "url": "https://www.searchenginejournal.com/beyond-content-parity-building-a-validated-content-workflow-for-ai-search/586184/"
     },
     "search-engine-journal:63b0954caa62b03a07cf20753a0e10ed2e48a41d": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -2584,6 +2656,14 @@
       "title": "People Aren’t Leaving Google For AI. They’re Using Both via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-chatgpt-audience-search-queries-clicks/588200/"
     },
+    "search-engine-journal:8b9d7524041854728f03fb240df6b6616b17559e": {
+      "first_seen": "2026-09-16T23:41:51.317632+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-16/Google UCP Update Lets Merchants Enable Cart Transfer To Site via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-16T20:35:52+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google UCP Update Lets Merchants Enable Cart Transfer To Site via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ucp-update-lets-merchants-enable-cart-transfer-to-site/589713/"
+    },
     "search-engine-journal:8ca551a7c9acca0ba3cc4763811888debb207f1e": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-28/Google Lost Its Scraping Case – Now You Have To Pick A Side On The Open Web via @sejournal, @slobodanmanic.md",
@@ -2703,6 +2783,14 @@
       "source": "Search Engine Journal",
       "title": "Google’s Liz Reid Discusses Persistent Autonomous Search via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/googles-liz-reid-discusses-persistent-autonomous-search/582948/"
+    },
+    "search-engine-journal:97bb1a081ae262027a89b0fc28967071e108eab2": {
+      "first_seen": "2026-09-16T23:41:51.317632+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-16/It Was There A Minute Ago via @sejournal, @pedrodias.md",
+      "published": "2026-09-16T19:00:44+00:00",
+      "source": "Search Engine Journal",
+      "title": "It Was There A Minute Ago via @sejournal, @pedrodias",
+      "url": "https://www.searchenginejournal.com/it-was-there-a-minute-ago/589500/"
     },
     "search-engine-journal:982e085ce039040af48bdb27f85a345ecd534c3c": {
       "first_seen": "2026-07-28T22:33:30.404789+00:00",
@@ -3136,6 +3224,14 @@
       "title": ".Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/org-sites-are-34-likelier-to-generate-ecommerce-revenue-than-com/587082/"
     },
+    "search-engine-journal:cb7aaad6605045795d48582e4ef585589f03fb90": {
+      "first_seen": "2026-09-16T23:41:51.317632+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-16/Google Search Profiles Now Available At 10,000 Followers via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-16T16:00:15+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Search Profiles Now Available At 10,000 Followers via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-profiles-10000-followers/589635/"
+    },
     "search-engine-journal:cbec1d4ceb0fcef343ae4c0036bd60e4489b72e8": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-10/Common Crawl Published A Manual For Being Visible To AI, I Automated It via @sejournal, @suganthan.md",
@@ -3263,6 +3359,14 @@
       "source": "Search Engine Journal",
       "title": "Everyone Is Negotiating With Google While Meta Reads The Web For Free via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/everyone-is-negotiating-with-google-while-meta-reads-the-web-for-free/584465/"
+    },
+    "search-engine-journal:d74fdbd3908c38a2bd0b3cf824d583357d3cd803": {
+      "first_seen": "2026-09-16T23:41:51.317632+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-16/MIT, Anthropic & OpenAI Sent The Same Warning, Get Your Evidence House In Order Now via @sejournal, @gregjarboe.md",
+      "published": "2026-09-16T14:30:54+00:00",
+      "source": "Search Engine Journal",
+      "title": "MIT, Anthropic & OpenAI Sent The Same Warning, Get Your Evidence House In Order Now via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/mit-anthropic-openai-sent-the-same-warning-get-your-evidence-house-in-order-now/589249/"
     },
     "search-engine-journal:d77e71821b4707b352b3bf488252d5164c5c771d": {
       "first_seen": "2026-08-29T03:12:57.517440+00:00",
@@ -3447,6 +3551,14 @@
       "source": "Search Engine Journal",
       "title": "Google Is AI Mode’s No. 2 Cited Domain, Data Shows via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-is-ai-modes-no-2-cited-domain-data-shows/582941/"
+    },
+    "search-engine-journal:ea7f9c5c894709445d59de950ec9d811bb3ba721": {
+      "first_seen": "2026-09-16T23:41:51.317632+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-16/How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage.md",
+      "published": "2026-09-16T14:04:23+00:00",
+      "source": "Search Engine Journal",
+      "title": "How To Detect Affiliate Brand Bidding And Hidden Revenue Leakage",
+      "url": "https://www.searchenginejournal.com/how-to-detect-affiliate-brand-bidding-and-hidden-revenue-leakage-spa/589274/"
     },
     "search-engine-journal:eaf20b6a2f29b1d6caf69e7e8863796804ae0652": {
       "first_seen": "2026-07-31T22:32:16.940991+00:00",
@@ -3969,6 +4081,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-15T23:33:47.182666+00:00",
+  "last_run_at": "2026-09-16T23:41:51.317632+00:00",
   "version": 1
 }

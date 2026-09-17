@@ -208,6 +208,14 @@
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
     },
+    "google-ai-blog:e7b9d12d1b3a7eb0c954ae944fd103f155840241": {
+      "first_seen": "2026-09-17T23:35:21.610221+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-09-17/Making global data easier to explore.md",
+      "published": "2026-09-17T20:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/"
+    },
     "google-ai-blog:e8269fc9a10961e9d9fc9b9b60c989e652c7d1d6": {
       "first_seen": "2026-09-09T23:23:40.610777+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-09-09/Recreating a 70-year love story frame by frame.md",
@@ -479,6 +487,14 @@
       "source": "OpenAI News",
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "url": "https://openai.com/index/path-to-astra"
+    },
+    "openai-news:363bbead77de9f9f7dbfde1a4706ff9439e8bd8d": {
+      "first_seen": "2026-09-17T23:35:21.610221+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-17/Introducing Astra for Law.md",
+      "published": "2026-09-17T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law"
     },
     "openai-news:3a8585570cab21df194c4115cce4c90cdf272f31": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
@@ -1664,6 +1680,14 @@
       "title": "Google Rankings Link Higher AI Scores To Lower Positions via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/heavily-ai-flagged-pages-still-rank-across-googles-top-10/583983/"
     },
+    "search-engine-journal:274d709e9dbaa53125abd0ec61c8d6cee65d8255": {
+      "first_seen": "2026-09-17T23:35:21.610221+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-17/AI Citation Test Finds Source Order Matters Less Than It Looks via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-17T17:02:58+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Citation Test Finds Source Order Matters Less Than It Looks via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/ai-citation-test-finds-source-order-matters-less-than-it-looks/589806/"
+    },
     "search-engine-journal:291450ff8dd4f1761120f4f36274817ab609300e": {
       "first_seen": "2026-09-14T23:55:09.799509+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-14/How To Connect AI Search Visibility To Local Leads via @sejournal, @lorenbaker.md",
@@ -1888,6 +1912,14 @@
       "title": "SEOs Are Becoming The Tools Of Their Tools – The AI Slop Backlash via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/seos-are-becoming-the-tools-of-their-tools-the-ai-slop-backlash/586298/"
     },
+    "search-engine-journal:440e4257c442d183a97f284bf147531a2872a4c4": {
+      "first_seen": "2026-09-17T23:35:21.610221+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-17/Google Updates Mediapartners-Google Crawler Guidance Less About AdSense via @sejournal, @martinibuster.md",
+      "published": "2026-09-17T20:51:57+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Updates Mediapartners-Google Crawler Guidance: Less About AdSense via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-updates-mediapartners-google-crawler-guidance-less-about-adsense/589821/"
+    },
     "search-engine-journal:44b28750e54b118fd0969162bc6c96655153c6d0": {
       "first_seen": "2026-08-27T00:55:07.763088+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-26/How To Advertise In Google AI Mode For Ecommerce via @sejournal, @tonyadam.md",
@@ -1991,6 +2023,14 @@
       "source": "Search Engine Journal",
       "title": "Is Your Local SEO Strategy Ready For Google’s Next AI Updates? [Webinar] via @sejournal, @hethr_campbell",
       "url": "https://www.searchenginejournal.com/is-your-local-seo-strategy-ready-for-googles-next-ai-updates/589119/"
+    },
+    "search-engine-journal:5258fe18d32a10680ba1001f9af4458c4e575faa": {
+      "first_seen": "2026-09-17T23:35:21.610221+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-17/Reddit AI Search Picks Already-Popular Comments, Audit Finds via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-17T15:44:51+00:00",
+      "source": "Search Engine Journal",
+      "title": "Reddit AI Search Picks Already-Popular Comments, Audit Finds via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/reddit-ai-search-picks-already-popular-comments-audit-finds/589771/"
     },
     "search-engine-journal:52d34eccea1ccee8f89db72cccc2d33ed3d1be70": {
       "first_seen": "2026-09-16T23:41:51.317632+00:00",
@@ -2191,6 +2231,14 @@
       "source": "Search Engine Journal",
       "title": "Google Explains SEO Connection Of Site Quality To Non-Indexed Pages via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-explains-seo-connection-of-site-quality-to-non-indexed-pages/582683/"
+    },
+    "search-engine-journal:641e6b151f1860195c4b24b93ea96fe06637f9d0": {
+      "first_seen": "2026-09-17T23:35:21.610221+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-17/More People Expect AI To Cut Jobs Than Add Them, Pew Finds via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-17T21:44:38+00:00",
+      "source": "Search Engine Journal",
+      "title": "More People Expect AI To Cut Jobs Than Add Them, Pew Finds via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/pew-ai-job-loss-expectations-survey/589836/"
     },
     "search-engine-journal:64a6514d8917b8c149f78be507a6dd77385562dc": {
       "first_seen": "2026-08-14T21:46:44.097946+00:00",
@@ -2520,6 +2568,14 @@
       "title": "Google Is Bringing Local Services Ads Into Google Ads via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/google-is-bringing-local-services-ads-into-google-ads/582816/"
     },
+    "search-engine-journal:820441e23cce1410aa25f662511610a069bcc7b8": {
+      "first_seen": "2026-09-17T23:35:21.610221+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-17/3 Predictions For 2027, And Why You Won’t Be Able To Check Them via @sejournal, @DuaneForrester.md",
+      "published": "2026-09-17T12:00:01+00:00",
+      "source": "Search Engine Journal",
+      "title": "3 Predictions For 2027, And Why You Won’t Be Able To Check Them via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/3-predictions-for-2027-and-why-you-wont-be-able-to-check-them/589263/"
+    },
     "search-engine-journal:823ce98f7d0a08202f65270cbface28d08b1d18a": {
       "first_seen": "2026-08-05T22:33:14.053208+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-05/Microsoft Advertising Adds AI Visibility Insights, PMax Testing, And Creative Preview Updates via @sejournal, @brookeosmundson.md",
@@ -2543,6 +2599,14 @@
       "source": "Search Engine Journal",
       "title": "The Metric Most SEOs Are Still Not Measuring In The Age Of AI via @sejournal, @SequinsNsearch",
       "url": "https://www.searchenginejournal.com/the-metric-most-seos-are-still-not-measuring-in-the-age-of-ai/584027/"
+    },
+    "search-engine-journal:842a74e63437ad8e1d05da204987d14df0bcec30": {
+      "first_seen": "2026-09-17T23:35:21.610221+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-17/Does My Product Page Copy Still Matter If Agents Read Feeds And Schema – Ask An SEO via @sejournal, @rollerblader.md",
+      "published": "2026-09-17T14:30:32+00:00",
+      "source": "Search Engine Journal",
+      "title": "Does My Product Page Copy Still Matter If Agents Read Feeds And Schema? – Ask An SEO via @sejournal, @rollerblader",
+      "url": "https://www.searchenginejournal.com/ask-an-seo-does-product-page-copy-matter-since-agents-read-feeds/585090/"
     },
     "search-engine-journal:84453cc07d29568289c9face7473d5c820f31c5d": {
       "first_seen": "2026-08-07T01:03:13.764774+00:00",
@@ -3448,6 +3512,14 @@
       "title": "The Scenic Route To ROI: Mastering Non-Linear Targeting In Google Ads",
       "url": "https://www.searchenginejournal.com/the-scenic-route-to-roi-mastering-non-linear-targeting-in-google-ads/581784/"
     },
+    "search-engine-journal:e1aa98127bb68b023009e1319bbb0b190f3b369b": {
+      "first_seen": "2026-09-17T23:35:21.610221+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-17/I Made My Website Charge AI Agents A Penny Per Page, Then I Watched Claude Pay It via @sejournal, @suganthan.md",
+      "published": "2026-09-17T19:00:29+00:00",
+      "source": "Search Engine Journal",
+      "title": "I Made My Website Charge AI Agents A Penny Per Page, Then I Watched Claude Pay It via @sejournal, @suganthan",
+      "url": "https://www.searchenginejournal.com/i-made-my-website-charge-ai-agents-a-penny-per-page-then-i-watched-claude-pay-it/589447/"
+    },
     "search-engine-journal:e1ad6ecc558b4cdce6e6df996148f716b4ea5f09": {
       "first_seen": "2026-09-01T23:26:13.848773+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-01/WordPress Announces A Proactive Security Initiative via @sejournal, @martinibuster.md",
@@ -3888,6 +3960,14 @@
       "title": "What is organic traffic? (And how to increase it)",
       "url": "https://www.semrush.com/blog/organic-traffic/"
     },
+    "semrush-blog:61b515feba3acbe4c1207ecb9cb46ff5caa9f6b1": {
+      "first_seen": "2026-09-17T23:35:21.610221+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-09-17/I edit 115+ articles per year. Here are the 5 ways I edit drafts.md",
+      "published": "2026-09-17T13:34:00+00:00",
+      "source": "Semrush Blog",
+      "title": "I edit 115+ articles per year. Here are the 5 ways I edit drafts.",
+      "url": "https://www.semrush.com/blog/my-editing-approaches-framework/"
+    },
     "semrush-blog:6249e88af11097953422c26180df7d26ec4c877d": {
       "first_seen": "2026-07-23T22:31:00.448317+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-07-23/What is a landing page What to know + examples.md",
@@ -4081,6 +4161,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-16T23:41:51.317632+00:00",
+  "last_run_at": "2026-09-17T23:35:21.610221+00:00",
   "version": 1
 }

@@ -155,7 +155,7 @@
             "day": 16,
             "in_month": true,
             "has_posts": true,
-            "count": 14,
+            "count": 15,
             "url": "/date/2026-09-16/"
           },
           {
@@ -163,16 +163,16 @@
             "day": 17,
             "in_month": true,
             "has_posts": true,
-            "count": 10,
+            "count": 11,
             "url": "/date/2026-09-17/"
           },
           {
             "date": "2026-09-18",
             "day": 18,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 13,
+            "url": "/date/2026-09-18/"
           },
           {
             "date": "2026-09-19",
@@ -310,9 +310,20 @@
       ],
       "days": [
         {
+          "date": "2026-09-18",
+          "day": 18,
+          "count": 13,
+          "url": "/date/2026-09-18/",
+          "sources": [
+            "Google AI Blog",
+            "Search Engine Journal",
+            "Semrush Blog"
+          ]
+        },
+        {
           "date": "2026-09-17",
           "day": 17,
-          "count": 10,
+          "count": 11,
           "url": "/date/2026-09-17/",
           "sources": [
             "Google AI Blog",
@@ -324,7 +335,7 @@
         {
           "date": "2026-09-16",
           "day": 16,
-          "count": 14,
+          "count": 15,
           "url": "/date/2026-09-16/",
           "sources": [
             "Google Search Central Blog",

@@ -16,6 +16,22 @@
       "title": "Create, edit and star in videos with two Google Vids updates",
       "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"
     },
+    "google-ai-blog:079e661c04cec0b07e5ccaf438d6a8ce3e76a04c": {
+      "first_seen": "2026-09-18T23:25:06.353737+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-09-18/New experts join Google’s AI & Economy team.md",
+      "published": "2026-09-18T14:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
+    },
+    "google-ai-blog:13d62ca6fcfd55d7fb1a2f8a98bb483af9a7ad0d": {
+      "first_seen": "2026-09-18T23:25:06.353737+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-09-18/Co-creating the future of fashion with Google.md",
+      "published": "2026-09-18T13:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Co-creating the future of fashion with Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/"
+    },
     "google-ai-blog:1852061b5cf6950bdd513580924925feac3d6e96": {
       "first_seen": "2026-09-10T23:17:04.219816+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-09-10/3 ways to prep for your next big race with Search.md",
@@ -832,6 +848,14 @@
       "title": "How to manage AI investments in the agentic era",
       "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
     },
+    "openai-news:964ae1dd0facf551105fd30a5745d11e7b39c4c1": {
+      "first_seen": "2026-09-18T23:25:06.353737+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-17/How Cooley is accelerating IPO work with ChatGPT.md",
+      "published": "2026-09-17T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic"
+    },
     "openai-news:96670aeff66e996d93df8bc7b8714d065b6bbd15": {
       "first_seen": "2026-08-17T21:47:12.415274+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-17/New policy ideas for the Intelligence Age.md",
@@ -839,6 +863,14 @@
       "source": "OpenAI News",
       "title": "New policy ideas for the Intelligence Age",
       "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+    },
+    "openai-news:973a91148c502943f59fcd583aa0a6ef4561f570": {
+      "first_seen": "2026-09-18T23:25:06.353737+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-16/Hex turns complex analysis into visual reports with GPT‑6 Astra.md",
+      "published": "2026-09-16T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra"
     },
     "openai-news:9765648ad527edb666ee1df6ba69a5bb92d8a9c9": {
       "first_seen": "2026-08-18T21:44:32.657208+00:00",
@@ -1264,6 +1296,14 @@
       "title": "Google Loses Engineer Who Helped Build Search And Modern AI via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-loses-the-engineer-who-helped-build-search-and-modern-ai/584785/"
     },
+    "search-engine-journal:02cd904d90f498c0b779bbd8e31530a4eafde738": {
+      "first_seen": "2026-09-18T23:25:06.353737+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-18/Google Responds To Cross-Domain Canonical De-Indexing Report via @sejournal, @martinibuster.md",
+      "published": "2026-09-18T11:39:51+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Responds To Cross-Domain Canonical De-Indexing Report via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-responds-to-cross-domain-canonical-de-indexing-report/589917/"
+    },
     "search-engine-journal:02ce99f1922d31a3791d7338ff4e39dde120f8c1": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-29/Google’s Mueller Fix Conflicting Metadata, Don’t Test It via @sejournal, @MattGSouthern.md",
@@ -1495,6 +1535,14 @@
       "source": "Search Engine Journal",
       "title": "The Keyword Universe Was Always Smaller Than We Thought via @sejournal, @DuaneForrester",
       "url": "https://www.searchenginejournal.com/the-keyword-universe-was-always-smaller-than-we-thought/586065/"
+    },
+    "search-engine-journal:18e1c744a922d70165f45a05ae8063bc8081328a": {
+      "first_seen": "2026-09-18T23:25:06.353737+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-18/Google Adds Local Businesses To EEA Search Result Units via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-18T17:51:12+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Adds Local Businesses To EEA Search Result Units via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-adds-local-businesses-to-eea-search-result-units/589955/"
     },
     "search-engine-journal:1a488163f230023e69e8c19eb5781e5339c69c22": {
       "first_seen": "2026-08-18T21:44:32.657208+00:00",
@@ -1839,6 +1887,14 @@
       "source": "Search Engine Journal",
       "title": "Beyond Brand Sovereignty: How To Build An AI-Ready Source Of Truth via @sejournal, @billhunt",
       "url": "https://www.searchenginejournal.com/beyond-brand-sovereignty-how-to-build-an-ai-ready-source-of-truth/582266/"
+    },
+    "search-engine-journal:3b0b855ec02d4f3ebb611df6d05296d0decf6212": {
+      "first_seen": "2026-09-18T23:25:06.353737+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-18/Google’s AI Payment Pilot Vs. Cloudflare & Microsoft Models via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-18T12:00:41+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google’s AI Payment Pilot Vs. Cloudflare & Microsoft Models via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/googles-ai-payment-pilot-vs-cloudflare-and-microsoft-models/589636/"
     },
     "search-engine-journal:3b2286aa819e5acd8abd0e31fdc9e7db0856b121": {
       "first_seen": "2026-08-08T21:53:02.235456+00:00",
@@ -2375,6 +2431,14 @@
       "source": "Search Engine Journal",
       "title": "Google Answers If Some Sites Can Ignore GEO And Just Focus On SEO via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-answers-if-some-sites-can-ignore-geo-and-just-focus-on-seo/586737/"
+    },
+    "search-engine-journal:6f2ed26e5b414b66894db790dd41558ece862fd8": {
+      "first_seen": "2026-09-18T23:25:06.353737+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-18/Checking A Page Is Part Of A Retrieval Pipeline For AI via @sejournal, @chrisgreenseo.md",
+      "published": "2026-09-18T19:00:53+00:00",
+      "source": "Search Engine Journal",
+      "title": "Checking A Page Is Part Of A Retrieval Pipeline For AI via @sejournal, @chrisgreenseo",
+      "url": "https://www.searchenginejournal.com/checking-a-page-is-part-of-a-retrieval-pipeline-for-ai/589284/"
     },
     "search-engine-journal:6f2fc6d863e67d580329dc2b886cf7b229276113": {
       "first_seen": "2026-08-05T22:33:14.053208+00:00",
@@ -3560,6 +3624,14 @@
       "title": "Cloudflare Says EmDash Version 1.0 Is Releasing Soon via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/cloudflare-says-emdash-version-1-0-is-releasing-soon/586951/"
     },
+    "search-engine-journal:e4cf133330166ef3af487ab69c6704a3d24b3f8a": {
+      "first_seen": "2026-09-18T23:25:06.353737+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-18/Cloudflare Will Write Your Robots.txt, And It Has A Point via @sejournal, @slobodanmanic.md",
+      "published": "2026-09-18T14:30:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "Cloudflare Will Write Your Robots.txt, And It Has A Point via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/cloudflare-will-write-your-robots-txt-and-it-has-a-point/589262/"
+    },
     "search-engine-journal:e59a3785b36d1bea5c07c199fa10b5759f08c63a": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-19/“Are You A Bot” Screens Can Get Your Pages Dropped By Google via @sejournal, @MattGSouthern.md",
@@ -3720,6 +3792,14 @@
       "title": "AI Is Changing Website Security. Here’s What SEO Teams Should Know via @sejournal, @vahandev",
       "url": "https://www.searchenginejournal.com/ai-changing-website-security-seo-teams-should-know/587352/"
     },
+    "search-engine-journal:f2781ef91590595ca37bd96f29578736023948f8": {
+      "first_seen": "2026-09-18T23:25:06.353737+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-18/Your Brand Needs An AI Accountability Document, A School District Beat Big Tech To It via @sejournal, @gregjarboe.md",
+      "published": "2026-09-18T17:30:42+00:00",
+      "source": "Search Engine Journal",
+      "title": "Your Brand Needs An AI Accountability Document, A School District Beat Big Tech To It via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/your-brand-needs-an-ai-accountability-document-a-school-district-beat-big-tech-to-it/589240/"
+    },
     "search-engine-journal:f341a5ee8fc7cb1d6dbb04b3c6c0198a01f54043": {
       "first_seen": "2026-09-11T23:24:12.565053+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-11/New AI Search & SEO KPIs 4 Signals That Guide Real Decisions [Watch Now] via @sejournal, @lorenbaker.md",
@@ -3735,6 +3815,14 @@
       "source": "Search Engine Journal",
       "title": "Search Console AI Reports Go Global, Mueller On Recovery – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-search-console-ai-reports-go-global-mueller-recovery/588443/"
+    },
+    "search-engine-journal:f70ac1fcac13e4defba3551abbd99cc114b72405": {
+      "first_seen": "2026-09-18T23:25:06.353737+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-18/State Of Search 2027 What To Stop, Measure & Fund.md",
+      "published": "2026-09-18T14:15:43+00:00",
+      "source": "Search Engine Journal",
+      "title": "State Of Search 2027: What To Stop, Measure & Fund",
+      "url": "https://www.searchenginejournal.com/state-of-search-2027-what-to-stop-measure-fund/589617/"
     },
     "search-engine-journal:f774dea54f31a6ee43798368c5dc0855ec1cff54": {
       "first_seen": "2026-09-15T23:33:47.182666+00:00",
@@ -3783,6 +3871,14 @@
       "source": "Search Engine Journal",
       "title": "The Next AI Protocol Won’t Save Your SEO Strategy via @sejournal, @billhunt",
       "url": "https://www.searchenginejournal.com/the-next-ai-protocol-wont-save-your-seo-strategy/585714/"
+    },
+    "search-engine-journal:fa4eb4611b312785a054432cb855b59732d0d79f": {
+      "first_seen": "2026-09-18T23:25:06.353737+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-18/Google Discover Test Adds Topic Overviews, Starting With Videos via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-18T22:24:26+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Discover Test Adds Topic Overviews, Starting With Videos via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-discover-test-adds-topic-overviews-starting-with-videos/589963/"
     },
     "search-engine-journal:fb8f447fd5fddf8147e34aac34d3d172e065650a": {
       "first_seen": "2026-07-21T09:02:00.061153+00:00",
@@ -3864,6 +3960,14 @@
       "title": "Link building for SEO: What works in 2026",
       "url": "https://www.semrush.com/blog/link-building/"
     },
+    "semrush-blog:2bd7c6e8913f543defb10e9c0d739dddd7be6832": {
+      "first_seen": "2026-09-18T23:25:06.353737+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-09-18/What is agentic SEO 8 workflows run on a live site.md",
+      "published": "2026-09-18T14:37:00+00:00",
+      "source": "Semrush Blog",
+      "title": "What is agentic SEO? 8 workflows run on a live site",
+      "url": "https://www.semrush.com/blog/agentic-seo/"
+    },
     "semrush-blog:3328adb0649e4590f8886b43e7ab304a3aa38b74": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-08-11/Topical Gravity Why topics are the new unit of your search strategy.md",
@@ -3911,6 +4015,14 @@
       "source": "Semrush Blog",
       "title": "We rebuilt SEOquake, Semrush’s free SEO Chrome extension",
       "url": "https://www.semrush.com/blog/seoquake-relaunch/"
+    },
+    "semrush-blog:4a3942774a29f7a47d9f0527e84d7f4654f74e54": {
+      "first_seen": "2026-09-18T23:25:06.353737+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-09-18/Cloudflare's AI training block now spares Googlebot.md",
+      "published": "2026-09-18T14:04:00+00:00",
+      "source": "Semrush Blog",
+      "title": "Cloudflare's AI training block now spares Googlebot",
+      "url": "https://www.semrush.com/blog/cloudfare-blocks-ai-training/"
     },
     "semrush-blog:4b582aabb6441549695052960fd71802d9a2851d": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -4015,6 +4127,14 @@
       "source": "Semrush Blog",
       "title": "How to determine AI visibility ROI and revenue impact",
       "url": "https://www.semrush.com/blog/ai-visibility-roi/"
+    },
+    "semrush-blog:81fc928b0b4771a8106e36932939ffe63f6c01d7": {
+      "first_seen": "2026-09-18T23:25:06.353737+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-09-18/Semrush MCP use cases 16 prompts for Claude or ChatGPT.md",
+      "published": "2026-09-18T14:17:00+00:00",
+      "source": "Semrush Blog",
+      "title": "Semrush MCP use cases: 16 prompts for Claude or ChatGPT",
+      "url": "https://www.semrush.com/blog/semrush-mcp-use-case/"
     },
     "semrush-blog:889c3d938055e906808687219a116b310585901a": {
       "first_seen": "2026-07-30T22:35:14.611250+00:00",
@@ -4161,6 +4281,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-17T23:35:21.610221+00:00",
+  "last_run_at": "2026-09-18T23:25:06.353737+00:00",
   "version": 1
 }

@@ -536,6 +536,14 @@
       "title": "How AI-native companies turn workflows into operating capability",
       "url": "https://openai.com/index/ai-native-company-workflows"
     },
+    "openai-news:3d48e529ad7a20b189a9c01e1c4d34221cb0505e": {
+      "first_seen": "2026-09-22T23:40:24.283022+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-22/Introducing GPT-6 Sol and Luna.md",
+      "published": "2026-09-22T18:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+    },
     "openai-news:3ebda52fc80ebe33165f5f415dd9c032d4c031d4": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-17/A scorecard for the AI age.md",
@@ -1024,6 +1032,22 @@
       "title": "Daybreak models are now available on AWS",
       "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
     },
+    "openai-news:b4fb82cc1313a309dc9a822b7c40c5ff7131eb6d": {
+      "first_seen": "2026-09-22T23:40:24.283022+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-22/Priorities and principles for effective third party assessments.md",
+      "published": "2026-09-22T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments"
+    },
+    "openai-news:b6b1e4118cdbb52902a3c3f3fd0aba59eb85acae": {
+      "first_seen": "2026-09-22T23:40:24.283022+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-22/Better prompt caching for GPT-6.md",
+      "published": "2026-09-22T21:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+    },
     "openai-news:b86dc435d64acf26bfa3904c5715410b2249b34e": {
       "first_seen": "2026-07-31T22:32:16.940991+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-31/Advancing responsible AI across Europe.md",
@@ -1127,6 +1151,14 @@
       "source": "OpenAI News",
       "title": "Learning never stops: How AI makes learning continuous",
       "url": "https://openai.com/index/learning-never-stops"
+    },
+    "openai-news:ce45d8dc0f6c9cea266aaff8936a7c1d1f57c615": {
+      "first_seen": "2026-09-22T23:40:24.283022+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-22/Parallel cut research time and cost in half with GPT‑6 Astra.md",
+      "published": "2026-09-22T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
     },
     "openai-news:ce627deb992812dab28841a5cefd4963cd5314f8": {
       "first_seen": "2026-07-23T22:31:00.448317+00:00",
@@ -2616,6 +2648,14 @@
       "title": "Google Responds To Sitemap SEO Technique That Forces Daily Crawling via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-responds-to-sitemap-seo-technique-that-forces-daily-crawling/588222/"
     },
+    "search-engine-journal:792186ae8cea7602188b3f6dcaeb391cebac8f7e": {
+      "first_seen": "2026-09-22T23:40:24.283022+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-22/Which Data Sources Should You Care About For AI Search via @sejournal, @chrisgreenseo.md",
+      "published": "2026-09-22T19:00:31+00:00",
+      "source": "Search Engine Journal",
+      "title": "Which Data Sources Should You Care About For AI Search? via @sejournal, @chrisgreenseo",
+      "url": "https://www.searchenginejournal.com/which-data-sources-should-you-care-about-for-ai-search/590086/"
+    },
     "search-engine-journal:79d0dd0c563c4b7e1fb6739ff3695b8a0cfc5778": {
       "first_seen": "2026-07-27T22:33:28.881080+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-27/Google May Be Penalizing AI-Generated Content As Thin Content via @sejournal, @martinibuster.md",
@@ -3048,6 +3088,14 @@
       "title": "Google’s Mueller Shares Their Experience With Markdown For AI SEO via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/googles-mueller-shares-their-experience-with-markdown-for-ai-seo/587671/"
     },
+    "search-engine-journal:9c04bbf5e4c18e5f84d95fce61988fe3f5cb5d59": {
+      "first_seen": "2026-09-22T23:40:24.283022+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-22/GEO Requests Rise Among More Search Freelancers Than Google SEO via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-22T14:05:38+00:00",
+      "source": "Search Engine Journal",
+      "title": "GEO Requests Rise Among More Search Freelancers Than Google SEO via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/fiverr-survey-search-freelancers-geo-demand/590403/"
+    },
     "search-engine-journal:9c0e4941a90cb227533f366122c27804ef07016d": {
       "first_seen": "2026-09-03T23:22:40.524144+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-03/Product Pages Get 24% Of AI Citations, Reddit & YouTube 4% via @sejournal, @gregjarboe.md",
@@ -3440,6 +3488,14 @@
       "title": "How TransUnion’s AI Findings Should Change the Way SEOs Pitch GEO via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/how-transunions-ai-findings-should-change-the-way-seos-pitch-geo/584922/"
     },
+    "search-engine-journal:c5e39596099ff870bee791fa0378d67b8ca5101f": {
+      "first_seen": "2026-09-22T23:40:24.283022+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-22/Google Analytics Adds Include Filters For Hostnames via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-22T08:06:17+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Analytics Adds Include Filters For Hostnames via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-analytics-include-hostname-filters/590336/"
+    },
     "search-engine-journal:c81e5b6e322a797ef4f13306c954af3df008bf8e": {
       "first_seen": "2026-07-27T22:33:28.881080+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-27/Google Ads’ Target-Based Bidding Update For Ecommerce via @sejournal, @tonyadam.md",
@@ -3599,6 +3655,14 @@
       "source": "Search Engine Journal",
       "title": "Google Announces Campaign Benchmarking In Google Analytics via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-analytics-will-benchmark-campaigns-through-ask-advisor/585213/"
+    },
+    "search-engine-journal:d4ca3fa872b05125e8b95f8b5acd1b3b6e45d54e": {
+      "first_seen": "2026-09-22T23:40:24.283022+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-22/Customer Lifecycle Goals The Good, The Bad, The Ugly.md",
+      "published": "2026-09-22T14:30:28+00:00",
+      "source": "Search Engine Journal",
+      "title": "Customer Lifecycle Goals: The Good, The Bad, The Ugly",
+      "url": "https://www.searchenginejournal.com/customer-lifecycle-goals-the-good-the-bad-the-ugly/588192/"
     },
     "search-engine-journal:d5de6791943840ae73dbaf5744b6f46a25bf3939": {
       "first_seen": "2026-08-18T21:44:32.657208+00:00",
@@ -3960,6 +4024,14 @@
       "title": "Judge In Penske Vs Google Says AI Situation “Seems Really Unfair” via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/judge-in-penske-vs-google-says-ai-situation-seems-really-unfair/587216/"
     },
+    "search-engine-journal:f7b95beb37a5b2bde971a6e8e35b33a7ed27ef3f": {
+      "first_seen": "2026-09-22T23:40:24.283022+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-22/3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist via @sejournal, @alexanderkesler.md",
+      "published": "2026-09-22T12:00:42+00:00",
+      "source": "Search Engine Journal",
+      "title": "3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist via @sejournal, @alexanderkesler",
+      "url": "https://www.searchenginejournal.com/b2b-brand-consideration-day-zero-decides-the-shortlist/588593/"
+    },
     "search-engine-journal:f811b7ba12d0c400796c3a808ade4995114ae779": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-29/How Perplexity Actually Picks Sources (I Read The Stream, Not The Answers) via @sejournal, @suganthan.md",
@@ -4055,6 +4127,14 @@
       "source": "Search Engine Journal",
       "title": "Google’s Ex-AI Chief Jeff Dean Explains How To Improve Context Engineering via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/googles-ex-ai-chief-jeff-dean-explains-how-to-improve-context-engineering/584955/"
+    },
+    "semrush-blog:007662e0fbb38caba46a9ec746985ae2d5d30a78": {
+      "first_seen": "2026-09-22T23:40:24.283022+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-09-22/Google's AI contribution pilot pays publishers.md",
+      "published": "2026-09-22T10:22:00+00:00",
+      "source": "Semrush Blog",
+      "title": "Google's AI contribution pilot pays publishers",
+      "url": "https://www.semrush.com/blog/google-launches-ai-contribution-pilot/"
     },
     "semrush-blog:00f8017927cf02f17b90b36c664f037c8dae5291": {
       "first_seen": "2026-09-10T23:17:04.219816+00:00",
@@ -4409,6 +4489,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-22T00:11:50.118725+00:00",
+  "last_run_at": "2026-09-22T23:40:24.283022+00:00",
   "version": 1
 }

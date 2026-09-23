@@ -136,6 +136,14 @@
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/"
     },
+    "google-ai-blog:8a86c97089bb6492a0d56ae3b57839b4eba255f2": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-09-23/Google Beam expands with new regions, partners, and customers.md",
+      "published": "2026-09-23T18:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"
+    },
     "google-ai-blog:928c08785b292a8ecd7d202678538c3af74e07a2": {
       "first_seen": "2026-08-04T22:33:41.749245+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-08-03/Inside our 353,000-person vibe coding course.md",
@@ -312,6 +320,14 @@
       "title": "Introducing ChatGPT for Financial Services",
       "url": "https://openai.com/index/introducing-chatgpt-financial-services"
     },
+    "openai-news:01d4e543c9419cead77e21595bfd0d3a6b2682b8": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-23/Sam Altman’s remarks at the United Nations Security Council.md",
+      "published": "2026-09-23T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks"
+    },
     "openai-news:027379c08484bed24af91415c1d7d96dc8273daa": {
       "first_seen": "2026-08-20T21:50:44.537440+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-20/Introducing AI Futures.md",
@@ -343,6 +359,14 @@
       "source": "OpenAI News",
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+    },
+    "openai-news:09a0c6dbf1c6c00d5fb73a47cc29663a5b36542b": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-23/Grab and OpenAI bring practical AI skills to Southeast Asia.md",
+      "published": "2026-09-23T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
     },
     "openai-news:0b00c80d502cc3ab98e0f64ac864e5a386422b64": {
       "first_seen": "2026-08-29T03:12:57.517440+00:00",
@@ -407,6 +431,22 @@
       "source": "OpenAI News",
       "title": "Research acceleration: The view inside OpenAI",
       "url": "https://openai.com/index/research-acceleration-view-inside-openai"
+    },
+    "openai-news:1d5a9cc2d9509da81910cada203eb369287e9e13": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-23/Introducing MentalHealthBench.md",
+      "published": "2026-09-23T10:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Introducing MentalHealthBench",
+      "url": "https://openai.com/index/introducing-mentalhealthbench"
+    },
+    "openai-news:1d77064cbebb782f18a0731cbc2f9d09624e05c9": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-23/OpenAI extends cyber access to Ukraine for civilian defense.md",
+      "published": "2026-09-23T13:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
     },
     "openai-news:1e97faa490facd0c80775009cd29953c3036ce5c": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -776,6 +816,22 @@
       "title": "How workers are unlocking new ways of working",
       "url": "https://openai.com/index/unlocking-new-ways-of-working"
     },
+    "openai-news:7357353a1f1d61a65439dd9d37ded36b9953529a": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-23/How invideo improves color grading 3x with GPT‑6 Astra.md",
+      "published": "2026-09-23T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
+    },
+    "openai-news:73fafdf6f45f6a4122d4bc25473c2af16ea942de": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-23/Airbnb widens access to GPT-6 Astra and OpenAI frontier models.md",
+      "published": "2026-09-23T01:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "url": "https://openai.com/index/airbnb-gpt-6-astra"
+    },
     "openai-news:7569338ee0d35289de5fa0da2edc1227182b6ccd": {
       "first_seen": "2026-07-23T22:31:00.448317+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-23/Launching Health in ChatGPT.md",
@@ -807,6 +863,14 @@
       "source": "OpenAI News",
       "title": "Polimill builds Japan's next-generation public AI infrastructure",
       "url": "https://openai.com/index/polimill"
+    },
+    "openai-news:7cff1964bf19497febe21e95b7591534842c3957": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-23/Ringg’s AI agents resolve up to 65% of customer calls with OpenAI.md",
+      "published": "2026-09-23T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg"
     },
     "openai-news:7d7eacff40aa330cc400a4c439db24d8cf9fbfbf": {
       "first_seen": "2026-08-18T21:44:32.657208+00:00",
@@ -959,6 +1023,14 @@
       "source": "OpenAI News",
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
       "url": "https://openai.com/index/jalapeno-first-results"
+    },
+    "openai-news:9d02eeb8cef10808bb224046e0ec327197d56b1e": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-23/Two years of OpenAI Academy.md",
+      "published": "2026-09-23T16:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy"
     },
     "openai-news:9e022b7caa78cba45b7169b8166de7df4a2b0d6e": {
       "first_seen": "2026-08-13T22:08:47.953145+00:00",
@@ -1328,6 +1400,14 @@
       "title": "How AI is expanding what people do at work",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
     },
+    "openai-news:f7558dc5c9de5bb5fdc77d93f9ea026683eaa31f": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-23/Harvey turns legal context into stronger drafts with GPT-6 Astra.md",
+      "published": "2026-09-23T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+    },
     "openai-news:fb21820d806b1b78d97fc2960a75ac211fb61114": {
       "first_seen": "2026-08-12T22:08:28.212173+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-12/From assistance to execution How enterprises put AI to work.md",
@@ -1479,6 +1559,14 @@
       "source": "Search Engine Journal",
       "title": "Indexed Claude Chats Show Why Disallow Is Not Noindex via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/indexed-claude-chats-show-why-disallow-is-not-noindex/583852/"
+    },
+    "search-engine-journal:08a9c61e440cb9e7d4e08376d3ed6f3e21a3fc40": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-23/Baidu Now Measures AI Citations Here’s What SEOs Should (And Shouldn’t) Read Into It via @sejournal, @MPentzek.md",
+      "published": "2026-09-23T12:00:37+00:00",
+      "source": "Search Engine Journal",
+      "title": "Baidu Now Measures AI Citations: Here’s What SEOs Should (And Shouldn’t) Read Into It via @sejournal, @MPentzek",
+      "url": "https://www.searchenginejournal.com/baidu-now-measures-ai-citations-heres-what-seos-should-and-shouldnt-read-into-it/590276/"
     },
     "search-engine-journal:0a22aa2cccf600f6a143788f56206ff2eb60d668": {
       "first_seen": "2026-09-16T23:41:51.317632+00:00",
@@ -1872,6 +1960,14 @@
       "title": "Meta Published 2 Documents About Muse And Only One Mentions Attacks via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/meta-published-2-documents-about-muse-and-only-one-mentions-attacks/589071/"
     },
+    "search-engine-journal:2c954ced04b376709efbcaabaf18ce5395c9f372": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-23/Amazon Marketing Cloud’s 5-Year Dataset 6 Use Cases Worth Building Now.md",
+      "published": "2026-09-23T19:00:57+00:00",
+      "source": "Search Engine Journal",
+      "title": "Amazon Marketing Cloud’s 5-Year Dataset: 6 Use Cases Worth Building Now",
+      "url": "https://www.searchenginejournal.com/amazon-marketing-clouds-5-year-dataset-6-use-cases-worth-building-now/589137/"
+    },
     "search-engine-journal:2cc7131c3c10ed44e4132d48e0ae33597325306f": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-20/Google Must Share Anonymized Search Data With Rivals via @sejournal, @MattGSouthern.md",
@@ -2015,6 +2111,14 @@
       "source": "Search Engine Journal",
       "title": "Why International SEO Needs Machine-Recognizable E-E-A-T via @sejournal, @motokohunt",
       "url": "https://www.searchenginejournal.com/why-international-seo-needs-machine-recognizable-e-e-a-t/583439/"
+    },
+    "search-engine-journal:3dae3e6bc2f50c4227ef561bca78994f0e9f3cf1": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-23/AI Agents Will Game Your SEO Metrics, MIT & Stanford Research Points To The Risk via @sejournal, @gregjarboe.md",
+      "published": "2026-09-23T14:30:15+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Agents Will Game Your SEO Metrics, MIT & Stanford Research Points To The Risk via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/ai-agents-will-game-your-seo-metrics-mit-stanford-research-points-to-the-risk/589948/"
     },
     "search-engine-journal:3e072811e672dbde442c6e6a7ec1846dd91a9025": {
       "first_seen": "2026-08-05T22:33:14.053208+00:00",
@@ -2992,6 +3096,14 @@
       "title": "How To Build Local Pages AI Systems Can Find And Trust via @sejournal, @lorenbaker",
       "url": "https://www.searchenginejournal.com/how-to-build-local-pages-ai-systems-can-find-and-trust/588097/"
     },
+    "search-engine-journal:9321cea0de48f763f7687b7e4f9ccb0a9e047fee": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-23/YouTube Adds Shopping Features To Ask YouTube AI Search via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-23T22:37:15+00:00",
+      "source": "Search Engine Journal",
+      "title": "YouTube Adds Shopping Features To Ask YouTube AI Search via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/youtube-shopping-ask-youtube-ai-search/590662/"
+    },
     "search-engine-journal:9322b9b572e5229c72c9e38bcfc6f7f0634ec80e": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-11/ChatGPT’s Search Index Serves Small Sites Too, Data Shows via @sejournal, @MattGSouthern.md",
@@ -3239,6 +3351,14 @@
       "source": "Search Engine Journal",
       "title": "Google Launches Meridian GeoX Globally via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/google-launches-meridian-geox-globally/589030/"
+    },
+    "search-engine-journal:a9c2b57c97fc2d6607d341750aa1744ff137d70c": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-23/ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-23T07:00:33+00:00",
+      "source": "Search Engine Journal",
+      "title": "ChatGPT Ads Appeared In 47% Of Video Gaming Chats, Data Shows via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-ads-appeared-in-47-of-video-gaming-chats-data-shows/590481/"
     },
     "search-engine-journal:aa3e9b984da91460207554913c976d6cc33caa4b": {
       "first_seen": "2026-09-15T23:33:47.182666+00:00",
@@ -4088,6 +4208,14 @@
       "title": "How Google AIOs Use Facebook, Instagram & TikTok From 300 Million US Searches",
       "url": "https://www.searchenginejournal.com/how-google-aios-use-facebook-instagram-tiktok-from-300-million-us-searches/585244/"
     },
+    "search-engine-journal:fc1a058e9106ff79081c9e4d18bc408e57af496d": {
+      "first_seen": "2026-09-23T23:48:48.617752+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-23/ChatGPT Ads And GEO Where Paid And Earned AI Visibility Fit Together via @sejournal, @hethr_campbell.md",
+      "published": "2026-09-23T19:08:12+00:00",
+      "source": "Search Engine Journal",
+      "title": "ChatGPT Ads And GEO: Where Paid And Earned AI Visibility Fit Together via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/chatgpt-ads-and-geo-where-paid-and-earned-ai-visibility-fit-together/590537/"
+    },
     "search-engine-journal:fd7a9d7a8de15d6f888750e169001bf0ce2d86ef": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-22/Anthropic’s Claude Can Now Watch A Video And Learn Your Job via @sejournal, @martinibuster.md",
@@ -4489,6 +4617,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-22T23:40:24.283022+00:00",
+  "last_run_at": "2026-09-23T23:48:48.617752+00:00",
   "version": 1
 }

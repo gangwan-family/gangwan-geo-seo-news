@@ -213,16 +213,16 @@
             "day": 23,
             "in_month": true,
             "has_posts": true,
-            "count": 16,
+            "count": 17,
             "url": "/date/2026-09-23/"
           },
           {
             "date": "2026-09-24",
             "day": 24,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 8,
+            "url": "/date/2026-09-24/"
           },
           {
             "date": "2026-09-25",
@@ -310,9 +310,19 @@
       ],
       "days": [
         {
+          "date": "2026-09-24",
+          "day": 24,
+          "count": 8,
+          "url": "/date/2026-09-24/",
+          "sources": [
+            "Google Search Central Blog",
+            "Search Engine Journal"
+          ]
+        },
+        {
           "date": "2026-09-23",
           "day": 23,
-          "count": 16,
+          "count": 17,
           "url": "/date/2026-09-23/",
           "sources": [
             "Google AI Blog",

@@ -272,6 +272,14 @@
       "title": "Search Central Live is coming to Bogota and Ciudad de México",
       "url": "https://developers.google.com/search/blog/2026/09/search-central-live-mexico-and-colombia"
     },
+    "google-search-central-blog:188ed2231bfcaa50ee027e18989fad6204183019": {
+      "first_seen": "2026-09-24T23:55:23.995738+00:00",
+      "path": "GEO-SEO News/Google Search Central Blog/2026-09-24/Announcing web multimodal Search performance reporting in Search Console.md",
+      "published": "2026-09-24T00:00:00+00:00",
+      "source": "Google Search Central Blog",
+      "title": "Announcing web multimodal Search performance reporting in Search Console",
+      "url": "https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc"
+    },
     "google-search-central-blog:597fb6718696bdf35a54aa1dc041d61108780b31": {
       "first_seen": "2026-09-14T23:55:09.799509+00:00",
       "path": "GEO-SEO News/Google Search Central Blog/2026-09-14/Search Central Live India 2026 Bengaluru, We're Coming (For Real This Time).md",
@@ -447,6 +455,14 @@
       "source": "OpenAI News",
       "title": "OpenAI extends cyber access to Ukraine for civilian defense",
       "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
+    },
+    "openai-news:1dd9ce125c6e0e6007fa40c2f3cbd36d227c92c3": {
+      "first_seen": "2026-09-24T23:55:23.995738+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-23/ChatGPT Ads expands to Southeast Asia and Taiwan.md",
+      "published": "2026-09-23T02:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan"
     },
     "openai-news:1e97faa490facd0c80775009cd29953c3036ce5c": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -2032,6 +2048,14 @@
       "title": "Harvard Found The Public Has Little Objection To AI Taking Search Marketers’ Jobs via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/harvard-found-the-public-has-little-objection-to-ai-taking-search-marketers-jobs/587715/"
     },
+    "search-engine-journal:33cc9193187aed14fdc51e912d37abb2f1546e0b": {
+      "first_seen": "2026-09-24T23:55:23.995738+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-24/Google Announces New Query Fan-Out Framework R4T-Diffusion via @sejournal, @martinibuster.md",
+      "published": "2026-09-24T11:42:47+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Announces New Query Fan-Out Framework: R4T-Diffusion via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/"
+    },
     "search-engine-journal:3568f8ac61b89d83aae35ceb07f6cf1cbc95025b": {
       "first_seen": "2026-07-21T09:02:00.061153+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-21/Google AI Mode Shows Ads On 1 In 3 Commercial Keywords via @sejournal, @MattGSouthern.md",
@@ -2095,6 +2119,14 @@
       "source": "Search Engine Journal",
       "title": "AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/"
+    },
+    "search-engine-journal:3b9412ef899bd0b3e2083d964406f72e5896be8e": {
+      "first_seen": "2026-09-24T23:55:23.995738+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-24/LLMs Are Time Machines That Don’t Tell You How Far You Went via @sejournal, @DuaneForrester.md",
+      "published": "2026-09-24T19:00:37+00:00",
+      "source": "Search Engine Journal",
+      "title": "LLMs Are Time Machines That Don’t Tell You How Far You Went via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/llms-are-time-machines-that-dont-tell-you-how-far-you-went/590090/"
     },
     "search-engine-journal:3cd844d176a05f0b5c692f5ef81517237e8c5ccb": {
       "first_seen": "2026-09-13T23:16:23.434884+00:00",
@@ -2383,6 +2415,14 @@
       "source": "Search Engine Journal",
       "title": "YouTube Explains What Can Stop A Channel Getting Paid via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/youtube-explains-what-can-stop-a-channel-getting-paid/583096/"
+    },
+    "search-engine-journal:5b04937da3b33d18d8c98f3168fc8589f5fdcdab": {
+      "first_seen": "2026-09-24T23:55:23.995738+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-24/Search Console Uses Block Flattening For AIOs, Forget Position & Focus On Outcomes via @sejournal, @TaylorDanRW.md",
+      "published": "2026-09-24T12:00:06+00:00",
+      "source": "Search Engine Journal",
+      "title": "Search Console Uses Block Flattening For AIOs, Forget Position & Focus On Outcomes via @sejournal, @TaylorDanRW",
+      "url": "https://www.searchenginejournal.com/search-console-uses-block-flattening-for-aios-forget-position-focus-on-outcomes/589582/"
     },
     "search-engine-journal:5bffaeab92577514525570da3d50339a69ad1264": {
       "first_seen": "2026-09-10T23:17:04.219816+00:00",
@@ -3536,6 +3576,14 @@
       "title": "YouTube Changes How It Counts Views On Long-Form & Live via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/youtube-changes-how-it-counts-views-on-long-form-live/586166/"
     },
+    "search-engine-journal:b9afdb6db91287d165b11f05261e056473ef9947": {
+      "first_seen": "2026-09-24T23:55:23.995738+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-24/Why Agencies Lose Clients In The First 90 Days (And How To Stop It).md",
+      "published": "2026-09-24T14:30:56+00:00",
+      "source": "Search Engine Journal",
+      "title": "Why Agencies Lose Clients In The First 90 Days (And How To Stop It)",
+      "url": "https://www.searchenginejournal.com/why-agencies-lose-clients-in-the-first-90-days-and-how-to-stop-it/582895/"
+    },
     "search-engine-journal:ba7bfafaa162c48c156ae119ef3b0be7a87cddaa": {
       "first_seen": "2026-09-10T23:17:04.219816+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-10/Everyone Is Quoting The Same Number And Getting Different Answers via @sejournal, @DuaneForrester.md",
@@ -3575,6 +3623,14 @@
       "source": "Search Engine Journal",
       "title": "The Paid ‘Search’ Email Placement: Right Place, Right Time via @sejournal, @jonkagan",
       "url": "https://www.searchenginejournal.com/the-paid-search-email-placement-right-place-right-time/583613/"
+    },
+    "search-engine-journal:bdc9267c276d6b0a17ddb51a18d8f0c05e979527": {
+      "first_seen": "2026-09-24T23:55:23.995738+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-24/Google Search Decline Steepened To 40% YoY For Publishers via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-24T09:25:37+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Search Decline Steepened To 40% YoY For Publishers via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-decline-publishers-chartbeat/590681/"
     },
     "search-engine-journal:be7d782ba9197961d131ca4ed00928f636ff7dbd": {
       "first_seen": "2026-09-03T23:22:40.524144+00:00",
@@ -3671,6 +3727,14 @@
       "source": "Search Engine Journal",
       "title": "AI Slop Cleanup Job Listings Up 87%, Report Says via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/ai-slop-cleanup-job-listings-report/588235/"
+    },
+    "search-engine-journal:cd4ce30806c185d1add639b84b8e5197e72b65ab": {
+      "first_seen": "2026-09-24T23:55:23.995738+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-24/Google Rolls Out September 2026 Spam Update Globally via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-24T16:45:40+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Rolls Out September 2026 Spam Update Globally via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-september-2026-spam-update/590828/"
     },
     "search-engine-journal:cdf09239b35438a38892b665383afbd87ab69608": {
       "first_seen": "2026-08-21T21:45:39.115559+00:00",
@@ -4111,6 +4175,14 @@
       "source": "Search Engine Journal",
       "title": "New AI Search & SEO KPIs: 4 Signals That Guide Real Decisions [Watch Now] via @sejournal, @lorenbaker",
       "url": "https://www.searchenginejournal.com/new-ai-search-seo-kpis-4-signals-that-guide-real-decisions/588605/"
+    },
+    "search-engine-journal:f38272d4404fe54900152e07de04ee583600dc0f": {
+      "first_seen": "2026-09-24T23:55:23.995738+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-24/Google Search Console Adds Multimodal Filter For Image-Based Searches via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-24T14:52:48+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Search Console Adds Multimodal Filter For Image-Based Searches via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-console-multimodal-filter/590781/"
     },
     "search-engine-journal:f57dc640df11923ed9314a23ebbc0d09717befdd": {
       "first_seen": "2026-09-05T23:03:23.565432+00:00",
@@ -4617,6 +4689,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-23T23:48:48.617752+00:00",
+  "last_run_at": "2026-09-24T23:55:23.995738+00:00",
   "version": 1
 }

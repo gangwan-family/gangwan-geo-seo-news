@@ -1280,6 +1280,14 @@
       "title": "How V7 gives AI agents institutional memory",
       "url": "https://openai.com/index/v7"
     },
+    "openai-news:d2d497e5eee41848c95c5b8ff6ce37155518b6a0": {
+      "first_seen": "2026-09-25T23:59:13.886549+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-25/Proaction boosts sales 60% and saves 75+ hours with Codex.md",
+      "published": "2026-09-25T19:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "url": "https://openai.com/index/proaction"
+    },
     "openai-news:d34e82eae2f299fc3396509dda763281f9e18782": {
       "first_seen": "2026-08-27T00:55:07.763088+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-26/How loveholidays is making everyone a builder with Codex.md",
@@ -1975,6 +1983,22 @@
       "source": "Search Engine Journal",
       "title": "Meta Published 2 Documents About Muse And Only One Mentions Attacks via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/meta-published-2-documents-about-muse-and-only-one-mentions-attacks/589071/"
+    },
+    "search-engine-journal:2a4ad705dd53ff7bfe2af84e7e785596630145a7": {
+      "first_seen": "2026-09-25T23:59:13.886549+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-25/Google AI Overviews Have More Links, But Not All Reach The Web via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-25T12:00:57+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google AI Overviews Have More Links, But Not All Reach The Web via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ai-overviews-have-more-links-but-not-all-reach-the-web/590762/"
+    },
+    "search-engine-journal:2bb3174111ce10ceb052cc2b5c0b4036d6bc33b2": {
+      "first_seen": "2026-09-25T23:59:13.886549+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-25/The Text-Only Version Of Your Website Strips Out The Wrong Layer via @sejournal, @slobodanmanic.md",
+      "published": "2026-09-25T19:00:09+00:00",
+      "source": "Search Engine Journal",
+      "title": "The Text-Only Version Of Your Website Strips Out The Wrong Layer via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/the-text-only-version-of-your-website-strips-out-the-wrong-layer/590088/"
     },
     "search-engine-journal:2c954ced04b376709efbcaabaf18ce5395c9f372": {
       "first_seen": "2026-09-23T23:48:48.617752+00:00",
@@ -3488,6 +3512,14 @@
       "title": "Google Expands Generative UI Beyond AI Mode Into AI Overviews via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-expands-generative-ui-beyond-ai-mode-into-ai-overviews/586452/"
     },
+    "search-engine-journal:af7e5ec4b1a7cd077e8e20fe783d8ebec2c2bdc1": {
+      "first_seen": "2026-09-25T23:59:13.886549+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-25/Google Has Deployed A New AI Spam Detector Called SAFE via @sejournal, @martinibuster.md",
+      "published": "2026-09-25T12:47:46+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Has Deployed A New AI Spam Detector Called SAFE via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-has-deployed-a-new-ai-spam-detector-called-safe/590918/"
+    },
     "search-engine-journal:afca59161f7a5b288b6a579c598ee1b461a80688": {
       "first_seen": "2026-08-18T21:44:32.657208+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-18/Google Begins Rolling Out The August 2026 Spam Update via @sejournal, @MattGSouthern.md",
@@ -4192,6 +4224,14 @@
       "title": "Search Console AI Reports Go Global, Mueller On Recovery – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-search-console-ai-reports-go-global-mueller-recovery/588443/"
     },
+    "search-engine-journal:f678a00bca86cebaa1a98c0a8e1c0f8f65c7b0da": {
+      "first_seen": "2026-09-25T23:59:13.886549+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-25/AI Agents Won’t Fix Bad Audience Data, They’ll Amplify It via @sejournal, @gregjarboe.md",
+      "published": "2026-09-25T14:30:43+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Agents Won’t Fix Bad Audience Data, They’ll Amplify It via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/ai-agents-wont-fix-bad-audience-data-theyll-amplify-it/589792/"
+    },
     "search-engine-journal:f70ac1fcac13e4defba3551abbd99cc114b72405": {
       "first_seen": "2026-09-18T23:25:06.353737+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-18/State Of Search 2027 What To Stop, Measure & Fund.md",
@@ -4464,6 +4504,14 @@
       "title": "Claude watermarks its output: what content teams should know",
       "url": "https://www.semrush.com/blog/claude-ai-watermarks/"
     },
+    "semrush-blog:60272dfc968a5ab40ad0916c95c1d4afc0a98ea7": {
+      "first_seen": "2026-09-25T23:59:13.886549+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-09-25/B2B answer engine optimization How to show up in AI.md",
+      "published": "2026-09-25T09:06:00+00:00",
+      "source": "Semrush Blog",
+      "title": "B2B answer engine optimization: How to show up in AI",
+      "url": "https://www.semrush.com/blog/b2b-answer-engine-optimization/"
+    },
     "semrush-blog:6058891fc2aae09760149e7d73deee94bc9fe8a5": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-08-10/What is organic traffic (And how to increase it).md",
@@ -4689,6 +4737,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-24T23:55:23.995738+00:00",
+  "last_run_at": "2026-09-25T23:59:13.886549+00:00",
   "version": 1
 }

@@ -2832,6 +2832,14 @@
       "title": "Google May Be Penalizing AI-Generated Content As Thin Content via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-may-be-penalizing-ai-generated-content-as-thin-content/583773/"
     },
+    "search-engine-journal:7ab1a158d07fa2e467796e43209d8a73118d4e82": {
+      "first_seen": "2026-09-26T23:41:53.664425+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-26/Google Spam Update, Image Search Data In GSC – SEO Pulse via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-26T12:00:46+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-image-search-data/590882/"
+    },
     "search-engine-journal:7b246b766cdabd882e665891176ecfff10841f31": {
       "first_seen": "2026-08-20T21:50:44.537440+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-20/Prompt Injections Just Proved Something SEO Has Known For 25 Years via @sejournal, @theshelleywalsh.md",
@@ -4737,6 +4745,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-25T23:59:13.886549+00:00",
+  "last_run_at": "2026-09-26T23:41:53.664425+00:00",
   "version": 1
 }

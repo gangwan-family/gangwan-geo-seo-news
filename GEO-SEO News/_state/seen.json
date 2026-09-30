@@ -448,6 +448,14 @@
       "title": "Research acceleration: The view inside OpenAI",
       "url": "https://openai.com/index/research-acceleration-view-inside-openai"
     },
+    "openai-news:19db7cc5ca5cc5ea9756742a5f11d351db2a9625": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-29/DevDay 2026 Recap.md",
+      "published": "2026-09-29T10:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap"
+    },
     "openai-news:1d5a9cc2d9509da81910cada203eb369287e9e13": {
       "first_seen": "2026-09-23T23:48:48.617752+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-09-23/Introducing MentalHealthBench.md",
@@ -944,6 +952,14 @@
       "title": "The builder’s guide to GPT‑5.6",
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
     },
+    "openai-news:884977ecb8004cb31230ef13f646e2ff87ff115a": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-29/Introducing dots.md",
+      "published": "2026-09-29T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots"
+    },
     "openai-news:8f3f7b571773b5e822ac48589fc48ca4468daa35": {
       "first_seen": "2026-08-11T01:13:17.264348+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-10/Virgin Atlantic sharpens customer journeys with ChatGPT Work.md",
@@ -1288,6 +1304,14 @@
       "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
       "url": "https://openai.com/index/ntt-data"
     },
+    "openai-news:cf468ec39dd67f092816e8f2d846aee26f3a6e5e": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-28/Towards safety cases for frontier AI training.md",
+      "published": "2026-09-28T19:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+    },
     "openai-news:cfc376addf8c822433f0700057e399bca195ee0e": {
       "first_seen": "2026-08-25T21:50:45.285434+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-25/Introducing the Admin plugin for ChatGPT Work and Codex.md",
@@ -1295,6 +1319,14 @@
       "source": "OpenAI News",
       "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
       "url": "https://openai.com/index/introducing-admin-plugin"
+    },
+    "openai-news:cfe8e900401f31bb533781d0249e35adbec60569": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-28/How we will do better for Australia.md",
+      "published": "2026-09-28T19:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia"
     },
     "openai-news:d04cc35bd3ccb8a5aedf1fe70e1ec06b58d1bfcf": {
       "first_seen": "2026-08-03T22:32:31.168973+00:00",
@@ -1367,6 +1399,14 @@
       "source": "OpenAI News",
       "title": "Disrupting a new covert influence campaign from Russia",
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+    },
+    "openai-news:dd66acaed2a04b44cad22fd2bd31d13ed4bc8e27": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-29/Introducing GPT-6.1 Sol.md",
+      "published": "2026-09-29T10:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
     },
     "openai-news:de2ca3d7578dd51cbe196bf098f482b58becc321": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
@@ -2120,6 +2160,14 @@
       "title": "Google Announces New Query Fan-Out Framework: R4T-Diffusion via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/"
     },
+    "search-engine-journal:350bd446b40003a6e13fac6da381ed179daf600b": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-29/Shopify Extends WebMCP Into Checkout For Browser Agents via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-29T14:14:29+00:00",
+      "source": "Search Engine Journal",
+      "title": "Shopify Extends WebMCP Into Checkout For Browser Agents via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/shopify-extends-webmcp-into-checkout-for-browser-agents/591478/"
+    },
     "search-engine-journal:3568f8ac61b89d83aae35ceb07f6cf1cbc95025b": {
       "first_seen": "2026-07-21T09:02:00.061153+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-21/Google AI Mode Shows Ads On 1 In 3 Commercial Keywords via @sejournal, @MattGSouthern.md",
@@ -2656,6 +2704,14 @@
       "title": "We Analyzed 107 Million AI Answers. Here’s Where Each Industry’s Citations Actually Come From via @sejournal, @trendos_com",
       "url": "https://www.searchenginejournal.com/ai-search-citation-sources-trendos-spa/586289/"
     },
+    "search-engine-journal:66317c0ab2d9c800a1e7044bbbb242008da88819": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-29/Google Desktop CTR Fell In Q2 While Mobile Rose, Data Shows via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-29T13:26:52+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Desktop CTR Fell In Q2 While Mobile Rose, Data Shows via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-desktop-mobile-ctr-q2-2026/591402/"
+    },
     "search-engine-journal:667ea73bce06c3088b3857513de413ac0113a50c": {
       "first_seen": "2026-09-01T23:26:13.848773+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-01/Google Details Who Can License Its Search Data In Europe via @sejournal, @MattGSouthern.md",
@@ -2823,6 +2879,14 @@
       "source": "Search Engine Journal",
       "title": "Reddit Preserved The Part Of The Internet We Broke via @sejournal, @brentcsutoras",
       "url": "https://www.searchenginejournal.com/reddit-preserved-the-part-of-the-internet-we-broke/585485/"
+    },
+    "search-engine-journal:741abc9601652061d2baaf788d159ebd351b037c": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-29/Google Rolls Out AI Mode Info Monitoring To All Users Globally via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-29T01:11:42+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Rolls Out AI Mode Info Monitoring To All Users Globally via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ai-mode-info-monitoring-global-rollout/591312/"
     },
     "search-engine-journal:74e7930d5529c22e4c9f857401ae2e33c6312ab9": {
       "first_seen": "2026-07-31T22:32:16.940991+00:00",
@@ -3112,6 +3176,14 @@
       "title": "The AEO Playbook: How to Get Cited & Stay Visible via @sejournal, @hethr_campbell",
       "url": "https://www.searchenginejournal.com/aeo-playbook-get-cited-stay-visible-recap/584926/"
     },
+    "search-engine-journal:89e61f934293db8fe83a3aa94fb4d5691091927f": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-29/ChatGPT Ad CTR Topped 1% In 4 Markets, Not In The U.S. Report via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-29T12:10:56+00:00",
+      "source": "Search Engine Journal",
+      "title": "ChatGPT Ad CTR Topped 1% In 4 Markets, Not In The U.S.: Report via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-ad-ctr-markets-report/591384/"
+    },
     "search-engine-journal:8a16efea8c3f9dfca8e820783037bf46f9991f53": {
       "first_seen": "2026-08-17T21:47:12.415274+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-17/Llms.txt V2 Adds Formal Markdown Linking For AI Agents via @sejournal, @MattGSouthern.md",
@@ -3191,6 +3263,14 @@
       "source": "Search Engine Journal",
       "title": "Google’s ‘Generative AI’ Search Console Data Is A Trap For Marketers via @sejournal, @TaylorDanRW",
       "url": "https://www.searchenginejournal.com/googles-generative-ai-search-console-data-is-a-trap-for-marketers/584018/"
+    },
+    "search-engine-journal:8e24af311f49991e0a02f4f2cbafbe296962ab86": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-29/Google On What’s Next In AI Search + 5 Local Marketing Strategy Fixes via @sejournal, @hethr_campbell.md",
+      "published": "2026-09-29T07:45:43+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google On What’s Next In AI Search + 5 Local Marketing Strategy Fixes via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/google-on-whats-next-in-ai-search-5-local-marketing-strategy-fixes/590978/"
     },
     "search-engine-journal:8e8fd68a7f49fe447e6242534d52edd0b2e85bf5": {
       "first_seen": "2026-08-13T22:08:47.953145+00:00",
@@ -3295,6 +3375,14 @@
       "source": "Search Engine Journal",
       "title": "AI Video After Sora: 3 Updates You Should Make Before You Publish via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/ai-video-after-sora-3-updates-you-should-make-before-you-publish/583123/"
+    },
+    "search-engine-journal:971b56226a907089c18f681f905098a57e8737fb": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-29/Amazon Blocked Meta’s Muse, And Robots.txt Had Nothing To Say via @sejournal, @slobodanmanic.md",
+      "published": "2026-09-29T14:30:54+00:00",
+      "source": "Search Engine Journal",
+      "title": "Amazon Blocked Meta’s Muse, And Robots.txt Had Nothing To Say via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/amazon-blocked-metas-muse-and-robots-txt-had-nothing-to-say/590494/"
     },
     "search-engine-journal:971e2c014b37c1796fe24a3dcd2088103d6e5075": {
       "first_seen": "2026-07-22T05:14:35.177504+00:00",
@@ -3704,6 +3792,14 @@
       "title": "Why Agencies Lose Clients In The First 90 Days (And How To Stop It)",
       "url": "https://www.searchenginejournal.com/why-agencies-lose-clients-in-the-first-90-days-and-how-to-stop-it/582895/"
     },
+    "search-engine-journal:b9eca99457b60d4696f715cbdc54b71920e6c851": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-29/Yes, You Can Change AI’s Opinion. Here’s How.md",
+      "published": "2026-09-29T20:40:41+00:00",
+      "source": "Search Engine Journal",
+      "title": "Yes, You Can Change AI’s Opinion. Here’s How.",
+      "url": "https://www.searchenginejournal.com/ai-crawlers-machine-layer-answershare-spa/590837/"
+    },
     "search-engine-journal:ba7bfafaa162c48c156ae119ef3b0be7a87cddaa": {
       "first_seen": "2026-09-10T23:17:04.219816+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-10/Everyone Is Quoting The Same Number And Getting Different Answers via @sejournal, @DuaneForrester.md",
@@ -3743,6 +3839,14 @@
       "source": "Search Engine Journal",
       "title": "The Paid ‘Search’ Email Placement: Right Place, Right Time via @sejournal, @jonkagan",
       "url": "https://www.searchenginejournal.com/the-paid-search-email-placement-right-place-right-time/583613/"
+    },
+    "search-engine-journal:bce2221ee0c10cbfaa6ee79e0d1a43f8ba51d735": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-29/EmDash 1.0 Challenges WordPress Freedom With Cloudflare Lock-In via @sejournal, @martinibuster.md",
+      "published": "2026-09-29T12:17:17+00:00",
+      "source": "Search Engine Journal",
+      "title": "EmDash 1.0 Challenges WordPress Freedom With Cloudflare Lock-In via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/emdash-1-0-challenges-wordpress-freedom-with-cloudflare-lock-in/591378/"
     },
     "search-engine-journal:bdc9267c276d6b0a17ddb51a18d8f0c05e979527": {
       "first_seen": "2026-09-24T23:55:23.995738+00:00",
@@ -3791,6 +3895,14 @@
       "source": "Search Engine Journal",
       "title": "Google Analytics Adds Include Filters For Hostnames via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-analytics-include-hostname-filters/590336/"
+    },
+    "search-engine-journal:c7ca12a54d6e4e2b38a684c0059b213d93179d3f": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-29/AI Won’t Kill Us All, But It’s Rewriting How Marketers Have To Work via @sejournal, @gregjarboe.md",
+      "published": "2026-09-29T12:00:01+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Won’t Kill Us All, But It’s Rewriting How Marketers Have To Work via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/ai-wont-kill-us-all-but-its-rewriting-how-marketers-have-to-work/590378/"
     },
     "search-engine-journal:c81e5b6e322a797ef4f13306c954af3df008bf8e": {
       "first_seen": "2026-07-27T22:33:28.881080+00:00",
@@ -4199,6 +4311,14 @@
       "source": "Search Engine Journal",
       "title": "Social Search Data For All, AI-Detected Pages Rank Lower – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-social-search-data-for-all-ai-detected-pages-rank-lower/584337/"
+    },
+    "search-engine-journal:eb20d6270bb2ae30bf73cb01b86b58a729dda52f": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-29/Trust As A Conversion Lever How To Test Credibility In A Regulated Industry.md",
+      "published": "2026-09-29T19:00:11+00:00",
+      "source": "Search Engine Journal",
+      "title": "Trust As A Conversion Lever: How To Test Credibility In A Regulated Industry",
+      "url": "https://www.searchenginejournal.com/trust-as-a-conversion-lever-how-to-test-credibility-in-a-regulated-industry/589232/"
     },
     "search-engine-journal:ec83114f703734571dce8dcf1802aa3a3801d6ca": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
@@ -4712,6 +4832,14 @@
       "title": "AI search & manufacturing SEO: What the data shows [Study]",
       "url": "https://www.semrush.com/blog/manufacturing-seo-ai-search/"
     },
+    "semrush-blog:93f14418691b70d7ed723f58dad7bb495d84dd10": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-09-29/The LLM positioning lag What it is and how to avoid it.md",
+      "published": "2026-09-29T14:50:00+00:00",
+      "source": "Semrush Blog",
+      "title": "The LLM positioning lag: What it is and how to avoid it",
+      "url": "https://www.semrush.com/blog/llm-positioning-lag/"
+    },
     "semrush-blog:9a4a90853c479376244ffdd6bd0a72cced77440e": {
       "first_seen": "2026-09-01T00:41:30.291545+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-08-31/How to use AI tools for competitor analysis in 2026.md",
@@ -4751,6 +4879,14 @@
       "source": "Semrush Blog",
       "title": "Audience research: What it is & how to conduct it",
       "url": "https://www.semrush.com/blog/audience-research/"
+    },
+    "semrush-blog:c35a50e82e20f86f6ecadda5b1e58f2ab3b4ada1": {
+      "first_seen": "2026-09-30T00:37:08.848595+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-09-29/Google releases September 2026 spam update.md",
+      "published": "2026-09-29T08:26:00+00:00",
+      "source": "Semrush Blog",
+      "title": "Google releases September 2026 spam update",
+      "url": "https://www.semrush.com/blog/google-spam-update-september-2026/"
     },
     "semrush-blog:d2029b89d6f84f96e1e3f21431d33bb8556327ec": {
       "first_seen": "2026-09-09T23:23:40.610777+00:00",
@@ -4841,6 +4977,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-29T01:05:54.844618+00:00",
+  "last_run_at": "2026-09-30T00:37:08.848595+00:00",
   "version": 1
 }

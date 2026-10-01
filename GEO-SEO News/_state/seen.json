@@ -808,6 +808,14 @@
       "title": "Pacing model development in an era of cyber-critical capabilities",
       "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
     },
+    "openai-news:6a91381a429232e70fbbeaf70fa7952678ddb1b1": {
+      "first_seen": "2026-10-01T00:39:00.785820+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-30/Disrupting a coordinated model-distillation campaign.md",
+      "published": "2026-09-30T10:30:00+00:00",
+      "source": "OpenAI News",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+    },
     "openai-news:6d58997b466ca59f729e755e523db112666f9bfc": {
       "first_seen": "2026-08-01T13:06:18.701296+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-01/Ten advances in mathematics and theoretical computer science.md",
@@ -1167,6 +1175,14 @@
       "source": "OpenAI News",
       "title": "Priorities and principles for effective third party assessments",
       "url": "https://openai.com/index/priorities-principles-third-party-assessments"
+    },
+    "openai-news:b5e5e43443d214dfc5c67f06481473dd2e532493": {
+      "first_seen": "2026-10-01T00:39:00.785820+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-09-30/Helping small businesses put AI to work.md",
+      "published": "2026-09-30T10:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
     },
     "openai-news:b6b1e4118cdbb52902a3c3f3fd0aba59eb85acae": {
       "first_seen": "2026-09-22T23:40:24.283022+00:00",
@@ -1696,6 +1712,14 @@
       "title": "The Conversion Setup Errors That Break Smart Bidding",
       "url": "https://www.searchenginejournal.com/the-conversion-setup-errors-that-break-smart-bidding/584671/"
     },
+    "search-engine-journal:0df1da702a9211504b06665ab74299d84acad067": {
+      "first_seen": "2026-10-01T00:39:00.785820+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-30/Using Local (AI) Compute To Reduce Reliance On Frontier Models via @sejournal, @chrisgreenseo.md",
+      "published": "2026-09-30T19:00:04+00:00",
+      "source": "Search Engine Journal",
+      "title": "Using Local (AI) Compute To Reduce Reliance On Frontier Models via @sejournal, @chrisgreenseo",
+      "url": "https://www.searchenginejournal.com/using-local-ai-compute-to-reduce-reliance-on-frontier-models/591047/"
+    },
     "search-engine-journal:0df1de28f77c21a7277017a9615422780e47c4ef": {
       "first_seen": "2026-09-01T00:41:30.291545+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-31/Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return via @sejournal, @martinibuster.md",
@@ -1887,6 +1911,14 @@
       "source": "Search Engine Journal",
       "title": "Local Services Ads To Performance Max: What To Audit Before Migration via @sejournal, @hethr_campbell",
       "url": "https://www.searchenginejournal.com/local-services-ads-to-performance-max-what-to-audit-before-migration-recap/588906/"
+    },
+    "search-engine-journal:1f7741ec34e8af77cefc3bb1e902f296ebd44384": {
+      "first_seen": "2026-10-01T00:39:00.785820+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-30/Google Analytics Adds App Conversions To Cross-Channel Reports via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-30T14:23:27+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Analytics Adds App Conversions To Cross-Channel Reports via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-analytics-app-conversions-cross-channel-reports/591558/"
     },
     "search-engine-journal:2010f05196045daede045361267d83bca5b3c5e8": {
       "first_seen": "2026-08-22T21:43:19.607238+00:00",
@@ -2127,6 +2159,14 @@
       "source": "Search Engine Journal",
       "title": "The AI Overviews YouTube Gap: The Platform Your Team Skipped For 20 Years via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/the-ai-overviews-youtube-gap-the-platform-your-team-skipped-for-20-years/582702/"
+    },
+    "search-engine-journal:30f733f9a29f1cc67f34b94a46814aa5f4932e4c": {
+      "first_seen": "2026-10-01T00:39:00.785820+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-30/OuterBox Launches OBxFrontier to Kill Busywork With Custom AI.md",
+      "published": "2026-09-30T11:00:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "OuterBox Launches OBxFrontier to Kill Busywork With Custom AI",
+      "url": "https://www.searchenginejournal.com/outerbox-launches-obxfrontier-to-kill-busywork-with-custom-ai-spn/591288/"
     },
     "search-engine-journal:31b4969c84b73ec1d6792061f7a17887b12cd97a": {
       "first_seen": "2026-08-07T01:03:13.764774+00:00",
@@ -2512,6 +2552,14 @@
       "title": "OpenAI Adds WebMCP Site Tools To ChatGPT’s Browser via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/chatgpt-adds-webmcp-support/587237/"
     },
+    "search-engine-journal:55747570f3060a1044248e57fb0fd7e0c59d2532": {
+      "first_seen": "2026-10-01T00:39:00.785820+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-30/Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It via @sejournal, @gregjarboe.md",
+      "published": "2026-09-30T14:30:05+00:00",
+      "source": "Search Engine Journal",
+      "title": "Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/wikipedia-podcasts-reddit-now-drive-ai-citations-ask-your-pr-team-how-they-did-it/590994/"
+    },
     "search-engine-journal:566c48701261e61106f7890c9444956b233f370a": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-29/European Search Strategy Goes Beyond Google & Bing via @sejournal, @motokohunt.md",
@@ -2831,6 +2879,14 @@
       "source": "Search Engine Journal",
       "title": "Google Answers If Some Sites Can Ignore GEO And Just Focus On SEO via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-answers-if-some-sites-can-ignore-geo-and-just-focus-on-seo/586737/"
+    },
+    "search-engine-journal:6f0cfc4ae6e0eef8166db70334e7539bd1c70de2": {
+      "first_seen": "2026-10-01T00:39:00.785820+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-30/The AI Search Metrics I Use To Track Client Pipelines.md",
+      "published": "2026-09-30T12:00:13+00:00",
+      "source": "Search Engine Journal",
+      "title": "The AI Search Metrics I Use To Track Client Pipelines",
+      "url": "https://www.searchenginejournal.com/the-ai-search-metrics-i-use-to-track-client-pipelines/589123/"
     },
     "search-engine-journal:6f2ed26e5b414b66894db790dd41558ece862fd8": {
       "first_seen": "2026-09-18T23:25:06.353737+00:00",
@@ -3848,6 +3904,14 @@
       "title": "EmDash 1.0 Challenges WordPress Freedom With Cloudflare Lock-In via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/emdash-1-0-challenges-wordpress-freedom-with-cloudflare-lock-in/591378/"
     },
+    "search-engine-journal:bd15cd33ef8cd339b7fd9ee9432401ca09b95ff6": {
+      "first_seen": "2026-10-01T00:39:00.785820+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-30/How Are Enterprise SEO Pros Measuring AI Overviews & LLMs [Webinar] via @sejournal, @lorenbaker.md",
+      "published": "2026-09-30T07:45:08+00:00",
+      "source": "Search Engine Journal",
+      "title": "How Are Enterprise SEO Pros Measuring AI Overviews & LLMs? [Webinar] via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/how-are-enterprise-seo-pros-measuring-ai-overviews-llms-webinar/590971/"
+    },
     "search-engine-journal:bdc9267c276d6b0a17ddb51a18d8f0c05e979527": {
       "first_seen": "2026-09-24T23:55:23.995738+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-24/Google Search Decline Steepened To 40% YoY For Publishers via @sejournal, @MattGSouthern.md",
@@ -3935,6 +3999,14 @@
       "source": "Search Engine Journal",
       "title": ".Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/org-sites-are-34-likelier-to-generate-ecommerce-revenue-than-com/587082/"
+    },
+    "search-engine-journal:cb0a5ee3463415bf8d8b25cad83c5508cc13a7c2": {
+      "first_seen": "2026-10-01T00:39:00.785820+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-09-30/OpenAI Dots Run Read-Only Research When Nobody Is Asking via @sejournal, @MattGSouthern.md",
+      "published": "2026-09-30T14:44:15+00:00",
+      "source": "Search Engine Journal",
+      "title": "OpenAI Dots Run Read-Only Research When Nobody Is Asking via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/openai-dots-read-only-proactive-research/591565/"
     },
     "search-engine-journal:cb7aaad6605045795d48582e4ef585589f03fb90": {
       "first_seen": "2026-09-16T23:41:51.317632+00:00",
@@ -4977,6 +5049,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-09-30T00:37:08.848595+00:00",
+  "last_run_at": "2026-10-01T00:39:00.785820+00:00",
   "version": 1
 }

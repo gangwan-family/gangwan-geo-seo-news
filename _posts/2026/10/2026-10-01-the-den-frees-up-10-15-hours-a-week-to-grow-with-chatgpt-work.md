@@ -1,0 +1,125 @@
+---
+layout: post
+title: "The Den frees up 10-15 hours a week to grow with ChatGPT Work"
+date: 2026-10-01T00:00:00+00:00
+source: "OpenAI News"
+source_slug: "openai-news"
+generated_from: "GEO-SEO News/OpenAI News/2026-10-01/The Den frees up 10-15 hours a week to grow with ChatGPT Work.md"
+original_url: "https://openai.com/index/the-den-family-social"
+categories:
+  - "_src_openai-news"
+---
+
+# The Den frees up 10-15 hours a week to grow with ChatGPT Work
+
+- Source: OpenAI News
+- Published: 2026-10-01
+- URL: https://openai.com/index/the-den-family-social
+
+## RSS 摘要
+
+As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.
+
+## 原文正文
+
+The Den frees up 10-15 hours a week to grow with ChatGPT Work | OpenAI
+
+Try ChatGPT (opens in a new window)
+
+- Foundation (opens in a new window)
+
+Try ChatGPT (opens in a new window)
+
+OpenAI
+
+October 1, 2026
+
+## The Den frees up 10-15 hours a week to grow with ChatGPT Work
+
+As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.
+
+Contact sales
+
+Company size: SMB
+
+Region: North America
+
+Industry: Arts & Culture, Food & Beverage
+
+Products: ChatGPT
+
+10-15
+
+Hours a week saved by the leadership team
+
+92%
+
+less time to apply for grants
+
+91%
+
+less time to apply for liquor license
+
+Loading…
+
+The Den Family Social ⁠ (opens in a new window) is a Denver-based social club that brings together hospitality, community, work, and play to give parents a place where they can feel like themselves and their children are welcome too. The business grew from founder Chandler Lipe’s own transition into parenthood and her belief that parents deserve elevated, inspiring spaces built with their wellbeing in mind.
+
+As The Den began construction and pre-opening for a second location, Chandler turned to ChatGPT Work to help manage the increasing administrative load. Her small team now saves 10-15 hours a week and prepares licensing and grant applications in hours instead of days, giving them more capacity to grow while staying focused on the families they serve.
+
+“ChatGPT Work allows us to build the company we need before we have the size or resources of that company.”
+
+—Chandler Lipe, Founder and CEO, The Den
+
+### Turning scattered information into an action plan
+
+To open their second location, The Den’s team had to operationalize their knowledge and context from the first. Using the Gmail, Slack, and Google Drive plugins, they asked ChatGPT Work to gather and analyze information from across the business and propose next steps.
+
+Planning is now more organized, repeatable, and faster, while the team still reviews ChatGPT Work’s output for accuracy and makes the final decisions.
+
+One example is The Den’s second liquor-license application. When an earlier hearing slot suddenly became available, The Den used ChatGPT Work to quickly pull together documents, identify what was missing, and convert files into the required formats.
+
+“Work that would have taken four days of searching, sorting, formatting, and assembling was condensed into three hours of team review and completion with ChatGPT Work.”
+
+—Chandler Lipe, Founder and CEO, The Den
+
+The Den uses the same workflow to respond to time-sensitive grant opportunities. Applying for grants now takes two hours, down from three days, and that means more opportunities to support The Den’s growth.
+
+### Asking complex questions and making faster decisions
+
+The Den’s leaders also use ChatGPT to think through questions and develop proposals before bringing problems to the group. Chandler estimates that this saves her about 7 hours of exploratory conversations a week so she can focus on decision making.
+
+For example, Brooke, The Den’s Head of Programming and Partnerships, wanted a more consistent approach to partnerships as the business grew. She workshopped the problem with ChatGPT, sharing what she knew about which partnerships worked, which didn’t, and why. The result was a proposed partnership structure for the leadership team to review.
+
+The Den extends this approach to financial analysis and operational planning. Maia, the General Manager, gathered financial reports from the accountant as well as sales and inventory data from point-of-sale systems. She then used ChatGPT to organize that information into a digestible view of the business that makes it easier to forecast inventory needs and decide how purchasing and systems should work across both locations.
+
+### Supporting a growing business with OpenAI
+
+As the club expands, Chandler spends significant time traveling between locations and meetings. She’s starting to use ChatGPT Voice to turn her travel time into productive work: talking through an email and having ChatGPT draft it, capturing follow-ups from a meeting, or organizing an idea while it’s still fresh. She can then review the work and send it when she’s ready, rather than returning to her desk with a growing list of things to tackle.
+
+The Den also plans to explore Codex to build more customized systems, including a member app for check-in and class registration, better connections between its point-of-sale systems, and Slack alerts that connect the team across locations.
+
+All of this work comes back to why Chandler started The Den: giving parents a place to feel like themselves, with their children welcome alongside them.
+
+### Join the new era of work
+
+More than 1 million businesses around the world are achieving meaningful results with OpenAI.
+
+Contact sales
+
+### Keep reading
+
+The eternal complement
+
+Intelligence Age Oct 1, 2026
+
+How Albertsons Companies is reimagining retail from the inside out
+
+Company Oct 1, 2026
+
+Disrupting a coordinated model-distillation campaign
+
+Security Sep 30, 2026
+
+## 原文链接
+
+[Read original](https://openai.com/index/the-den-family-social)

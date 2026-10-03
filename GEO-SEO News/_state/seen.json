@@ -24,6 +24,14 @@
       "title": "New experts join Google’s AI & Economy team",
       "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
     },
+    "google-ai-blog:1122627a66dfc215a84f1d52c4e5ea9c692eec38": {
+      "first_seen": "2026-10-03T00:34:36.337354+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-10-02/The latest AI news we announced in September 2026.md",
+      "published": "2026-10-02T15:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
+    },
     "google-ai-blog:13d62ca6fcfd55d7fb1a2f8a98bb483af9a7ad0d": {
       "first_seen": "2026-09-18T23:25:06.353737+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-09-18/Co-creating the future of fashion with Google.md",
@@ -984,6 +992,14 @@
       "title": "Introducing dots",
       "url": "https://openai.com/index/introducing-dots"
     },
+    "openai-news:8e206c4d9ed6ea5b326e3f64cf71247a89bf9979": {
+      "first_seen": "2026-10-03T00:34:36.337354+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-02/A model guide for the GPT-6 family.md",
+      "published": "2026-10-02T16:15:00+00:00",
+      "source": "OpenAI News",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6"
+    },
     "openai-news:8f3f7b571773b5e822ac48589fc48ca4468daa35": {
       "first_seen": "2026-08-11T01:13:17.264348+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-10/Virgin Atlantic sharpens customer journeys with ChatGPT Work.md",
@@ -1143,6 +1159,14 @@
       "source": "OpenAI News",
       "title": "An Alien Mind",
       "url": "https://openai.com/index/an-alien-mind"
+    },
+    "openai-news:a97398f76ee518bf736bd99bb5eae108305b51c5": {
+      "first_seen": "2026-10-03T00:34:36.337354+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-02/Chatham scales its capital markets expertise with OpenAI.md",
+      "published": "2026-10-02T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial"
     },
     "openai-news:aaada63e998e325497b3b41a194f46cc956a11a1": {
       "first_seen": "2026-09-08T23:29:12.190870+00:00",
@@ -1824,6 +1848,14 @@
       "title": "Google Local Services Ads Are Moving To Performance Max: What To Check First",
       "url": "https://www.searchenginejournal.com/google-local-services-ads-performance-max-webinar/586879/"
     },
+    "search-engine-journal:150021d4876dc919d056d59f8fe61cc5125f338d": {
+      "first_seen": "2026-10-03T00:34:36.337354+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-02/When A Search Query Becomes A Standing Instruction via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-02T12:00:09+00:00",
+      "source": "Search Engine Journal",
+      "title": "When A Search Query Becomes A Standing Instruction via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/when-a-search-query-becomes-a-standing-instruction/591690/"
+    },
     "search-engine-journal:155376cc1a4435dd8aba9d628088fd380fda8b18": {
       "first_seen": "2026-08-03T22:32:31.168973+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-03/Snapchat Clamps Down On AI-Generated Videos via @sejournal, @martinibuster.md",
@@ -2439,6 +2471,14 @@
       "source": "Search Engine Journal",
       "title": "Judge Questions Google AI, Spam Update Fallout – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-judge-questions-google-ai-spam-update-fallout/587325/"
+    },
+    "search-engine-journal:46968ee1143bb22d19b8f9af4700d4d838bf86a3": {
+      "first_seen": "2026-10-03T00:34:36.337354+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-02/How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) via @sejournal, @coreydmorris.md",
+      "published": "2026-10-02T14:30:46+00:00",
+      "source": "Search Engine Journal",
+      "title": "How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) via @sejournal, @coreydmorris",
+      "url": "https://www.searchenginejournal.com/how-we-build-an-seo-content-roadmap-for-the-ai-search-era-step-by-step/589944/"
     },
     "search-engine-journal:46ad0c838ffce250a3dddcc0c7eb803f47b9db75": {
       "first_seen": "2026-08-28T05:30:34.018543+00:00",
@@ -3840,6 +3880,14 @@
       "title": "Google Begins Rolling Out The August 2026 Spam Update via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-begins-rolling-out-the-august-2026-spam-update/586301/"
     },
+    "search-engine-journal:b048b182874aeea4446004cadef1a7830367c827": {
+      "first_seen": "2026-10-03T00:34:36.337354+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-02/OpenAI Founding Member Make LLMs Write Like An Aircraft Manual via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-02T15:49:43+00:00",
+      "source": "Search Engine Journal",
+      "title": "OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/karpathy-llm-aircraft-manual-writing/591813/"
+    },
     "search-engine-journal:b1df692a845b2a2330e12e47f14b275c6285faa2": {
       "first_seen": "2026-08-03T22:32:31.168973+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-03/Reviews, Reputation & Listings The Local Signals AI Now Reads via @sejournal, @MattGSouthern.md",
@@ -4176,6 +4224,14 @@
       "title": "How We Earned 1,000+ Links For GEO/SEO via @sejournal, @hethr_campbell",
       "url": "https://www.searchenginejournal.com/how-we-earned-1000-links-geo-seo-recap/587850/"
     },
+    "search-engine-journal:d0ef732850038d9f20ce3d666073a85d8313838c": {
+      "first_seen": "2026-10-03T00:34:36.337354+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-02/Shopify Now Enrolls Your Store In Every New AI Shopping Channel via @sejournal, @slobodanmanic.md",
+      "published": "2026-10-02T19:00:52+00:00",
+      "source": "Search Engine Journal",
+      "title": "Shopify Now Enrolls Your Store In Every New AI Shopping Channel via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/shopify-now-enrolls-your-store-in-every-new-ai-shopping-channel/591049/"
+    },
     "search-engine-journal:d1581fd528fc47a3b526422ffbb5b7a01e5e2feb": {
       "first_seen": "2026-07-27T22:33:28.881080+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-27/How Publishers Can Monetize AI Visibility.md",
@@ -4343,6 +4399,14 @@
       "source": "Search Engine Journal",
       "title": "How Freshpet Earned AI’s Trust: A GEO & AI Visibility Playbook via @sejournal, @hethr_campbell",
       "url": "https://www.searchenginejournal.com/how-freshpet-earned-ais-trust-a-geo-ai-visibility-playbook-recap/588706/"
+    },
+    "search-engine-journal:e10f9520c0b31311db2fc1bd046fcccad221a172": {
+      "first_seen": "2026-10-03T00:34:36.337354+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-02/Google Adds Fake Author Warning To Helpful Content Guidance via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-02T15:03:06+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Adds Fake Author Warning To Helpful Content Guidance via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-fake-author-warning-site-owner-guidance/591806/"
     },
     "search-engine-journal:e12ab664f2509f5b58784320b047bf25f8abd2a6": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
@@ -5161,6 +5225,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-02T00:57:52.800074+00:00",
+  "last_run_at": "2026-10-03T00:34:36.337354+00:00",
   "version": 1
 }

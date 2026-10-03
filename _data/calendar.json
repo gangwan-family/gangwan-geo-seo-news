@@ -55,7 +55,7 @@
             "day": 2,
             "in_month": true,
             "has_posts": true,
-            "count": 1,
+            "count": 9,
             "url": "/date/2026-10-02/"
           },
           {
@@ -312,9 +312,11 @@
         {
           "date": "2026-10-02",
           "day": 2,
-          "count": 1,
+          "count": 9,
           "url": "/date/2026-10-02/",
           "sources": [
+            "Google AI Blog",
+            "OpenAI News",
             "Search Engine Journal"
           ]
         },
@@ -607,7 +609,7 @@
             "day": 2,
             "in_month": false,
             "has_posts": true,
-            "count": 1,
+            "count": 9,
             "url": "/date/2026-10-02/"
           },
           {

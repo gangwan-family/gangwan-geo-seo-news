@@ -62,9 +62,9 @@
             "date": "2026-10-03",
             "day": 3,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 1,
+            "url": "/date/2026-10-03/"
           },
           {
             "date": "2026-10-04",
@@ -309,6 +309,15 @@
         ]
       ],
       "days": [
+        {
+          "date": "2026-10-03",
+          "day": 3,
+          "count": 1,
+          "url": "/date/2026-10-03/",
+          "sources": [
+            "Search Engine Journal"
+          ]
+        },
         {
           "date": "2026-10-02",
           "day": 2,
@@ -616,9 +625,9 @@
             "date": "2026-10-03",
             "day": 3,
             "in_month": false,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 1,
+            "url": "/date/2026-10-03/"
           },
           {
             "date": "2026-10-04",

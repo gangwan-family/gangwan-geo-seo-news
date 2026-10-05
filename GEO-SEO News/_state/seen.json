@@ -3600,6 +3600,14 @@
       "title": "Why Your Pages Are Stuck In Crawled-Currently Not Indexed & What To Do About It via @sejournal, @marie_haynes",
       "url": "https://www.searchenginejournal.com/why-your-pages-are-stuck-in-crawled-currently-not-indexed-what-to-do-about-it/582585/"
     },
+    "search-engine-journal:9aabc73a79e1170efa35328ca8ff5b8770a1d002": {
+      "first_seen": "2026-10-05T00:02:02.107659+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-04/Google Shows How Long Crawling, Indexing & Recovery Can Take via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-04T20:41:36+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Shows How Long Crawling, Indexing & Recovery Can Take via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-crawling-indexing-recovery-timing-ranges/591829/"
+    },
     "search-engine-journal:9ac3207f9366adddc1a6cc8b5be51926b15e68e5": {
       "first_seen": "2026-09-01T00:41:30.291545+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-31/Google’s Mueller Shares Their Experience With Markdown For AI SEO via @sejournal, @martinibuster.md",
@@ -5233,6 +5241,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-03T23:56:32.728910+00:00",
+  "last_run_at": "2026-10-05T00:02:02.107659+00:00",
   "version": 1
 }

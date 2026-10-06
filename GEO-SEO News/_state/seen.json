@@ -632,6 +632,14 @@
       "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
       "url": "https://openai.com/index/the-den-family-social"
     },
+    "openai-news:3cbec84de8bf615536c6b0a8e25828a7b15705aa": {
+      "first_seen": "2026-10-06T01:48:26.774888+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-05/Building advertising for the way people use AI.md",
+      "published": "2026-10-05T10:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+    },
     "openai-news:3d48e529ad7a20b189a9c01e1c4d34221cb0505e": {
       "first_seen": "2026-09-22T23:40:24.283022+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-09-22/Introducing GPT-6 Sol and Luna.md",
@@ -903,6 +911,14 @@
       "source": "OpenAI News",
       "title": "Launching Health in ChatGPT",
       "url": "https://openai.com/index/health-in-chatgpt"
+    },
+    "openai-news:78ad53815846c15cf66038ceb51792507cbc3ef4": {
+      "first_seen": "2026-10-06T01:48:26.774888+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-05/Our approach to EU text provenance rules.md",
+      "published": "2026-10-05T15:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance"
     },
     "openai-news:7a45b185cff5308545e040bd4a321330824b79c8": {
       "first_seen": "2026-09-03T23:22:40.524144+00:00",
@@ -2352,6 +2368,14 @@
       "title": "LLMs Are Time Machines That Don’t Tell You How Far You Went via @sejournal, @DuaneForrester",
       "url": "https://www.searchenginejournal.com/llms-are-time-machines-that-dont-tell-you-how-far-you-went/590090/"
     },
+    "search-engine-journal:3c166287df8e0950ef2602b778b9072bc2865a16": {
+      "first_seen": "2026-10-06T01:48:26.774888+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-05/Google Is Fighting SERP Tracking. AI Agents May Make It Worse via @sejournal, @martinibuster.md",
+      "published": "2026-10-05T21:03:08+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Is Fighting SERP Tracking. AI Agents May Make It Worse via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-is-fighting-serp-tracking-ai-agents-may-make-it-worse/592000/"
+    },
     "search-engine-journal:3cd844d176a05f0b5c692f5ef81517237e8c5ccb": {
       "first_seen": "2026-09-13T23:16:23.434884+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-13/Google Admits Search Console Reporting For AI Search Is Inadequate via @sejournal, @martinibuster.md",
@@ -2519,6 +2543,14 @@
       "source": "Search Engine Journal",
       "title": "AI Workflows Outscored Human Translators In 4 Of 6 Content Types – China Benchmark Study via @sejournal, @MPentzek",
       "url": "https://www.searchenginejournal.com/humans-lost-4-of-6-content-types-in-our-localization-benchmark/589294/"
+    },
+    "search-engine-journal:4a66e4f07872b257c6630dfd4575d6724f87424e": {
+      "first_seen": "2026-10-06T01:48:26.774888+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-05/AI Cites Your Brand How to Choose Your Next Move via @sejournal, @hethr_campbell.md",
+      "published": "2026-10-05T16:16:34+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Cites Your Brand: How to Choose Your Next Move via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/ai-cites-your-brand-how-to-choose-your-next-move/589990/"
     },
     "search-engine-journal:4b3c825bbbbe9461ea31f60233006a40e09b5f17": {
       "first_seen": "2026-09-01T00:41:30.291545+00:00",
@@ -2704,6 +2736,14 @@
       "title": "Wix Introduces Symphony, An Easy Way For Local Businesses To Use AI Agents via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/wix-introduces-symphony-an-easy-way-for-local-businesses-to-use-ai-agents/587093/"
     },
+    "search-engine-journal:5a52f00f821e4521df5f15395830bf3a78313f4b": {
+      "first_seen": "2026-10-06T01:48:26.774888+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-05/How To Build A Content Distribution System That Compounds.md",
+      "published": "2026-10-05T12:00:27+00:00",
+      "source": "Search Engine Journal",
+      "title": "How To Build A Content Distribution System That Compounds",
+      "url": "https://www.searchenginejournal.com/how-to-build-a-content-distribution-system-that-compounds/590545/"
+    },
     "search-engine-journal:5af9dc652360b72042aaeed18afce1bc05516d4d": {
       "first_seen": "2026-07-23T22:31:00.448317+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-23/YouTube Explains What Can Stop A Channel Getting Paid via @sejournal, @MattGSouthern.md",
@@ -2735,6 +2775,14 @@
       "source": "Search Engine Journal",
       "title": "WebMCP Connects AI Agents To Actions Inside Websites via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/webmcp-connects-ai-agents-actions-inside-websites/587303/"
+    },
+    "search-engine-journal:5d06390418d0762fe02a004b55539f6e7d9674e3": {
+      "first_seen": "2026-10-06T01:48:26.774888+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-05/What To Expect From Google’s Next Search Ranking Update via @sejournal, @martinibuster.md",
+      "published": "2026-10-05T09:42:03+00:00",
+      "source": "Search Engine Journal",
+      "title": "What To Expect From Google’s Next Search Ranking Update via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/what-to-expect-from-googles-next-search-ranking-update/591928/"
     },
     "search-engine-journal:5dfb33856bd08892a19d813da7cd399503591b45": {
       "first_seen": "2026-09-11T23:24:12.565053+00:00",
@@ -3968,6 +4016,14 @@
       "title": "2027 Marketing Budgets: Why New Categories Beat Bigger AI Line Items via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/2027-marketing-budgets-why-new-categories-beat-bigger-ai-line-items/582688/"
     },
+    "search-engine-journal:b8b52f0b37d40ab7a58e8400461c5634518ba701": {
+      "first_seen": "2026-10-06T01:48:26.774888+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-05/Google’s Mueller Says AI Crawlers Access Sitemaps & RSS In His Logs via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-05T22:47:18+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google’s Mueller Says AI Crawlers Access Sitemaps & RSS In His Logs via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/"
+    },
     "search-engine-journal:b8fa6d7b4a7aeb1cf31791b454a50c7406a4851d": {
       "first_seen": "2026-09-03T23:22:40.524144+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-03/Google Says Ranking Recovery Takes Months After SEO Issues Are Fixed via @sejournal, @martinibuster.md",
@@ -4664,6 +4720,14 @@
       "title": "Your Brand Needs An AI Accountability Document, A School District Beat Big Tech To It via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/your-brand-needs-an-ai-accountability-document-a-school-district-beat-big-tech-to-it/589240/"
     },
+    "search-engine-journal:f2d4ed8c0cf629e105bbf6451723c4aebfac64a1": {
+      "first_seen": "2026-10-06T01:48:26.774888+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-06/OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-06T01:07:32+00:00",
+      "source": "Search Engine Journal",
+      "title": "OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/openai-to-watermark-chatgpt-text-in-the-eu-opens-api-opt-in/592014/"
+    },
     "search-engine-journal:f341a5ee8fc7cb1d6dbb04b3c6c0198a01f54043": {
       "first_seen": "2026-09-11T23:24:12.565053+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-11/New AI Search & SEO KPIs 4 Signals That Guide Real Decisions [Watch Now] via @sejournal, @lorenbaker.md",
@@ -4807,6 +4871,14 @@
       "source": "Search Engine Journal",
       "title": "ChatGPT Ads And GEO: Where Paid And Earned AI Visibility Fit Together via @sejournal, @hethr_campbell",
       "url": "https://www.searchenginejournal.com/chatgpt-ads-and-geo-where-paid-and-earned-ai-visibility-fit-together/590537/"
+    },
+    "search-engine-journal:fcaf9022a1eef07a859c97af8ba8dccd28724d3c": {
+      "first_seen": "2026-10-06T01:48:26.774888+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-05/Google’s Hidden Data Layer What Is It And What To Do About It via @sejournal, @demirie.md",
+      "published": "2026-10-05T14:30:56+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google’s Hidden Data Layer: What Is It And What To Do About It via @sejournal, @demirie",
+      "url": "https://www.searchenginejournal.com/googles-hidden-data-layer-what-is-it-and-what-to-do-about-it/590234/"
     },
     "search-engine-journal:fd7a9d7a8de15d6f888750e169001bf0ce2d86ef": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
@@ -5241,6 +5313,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-05T00:02:02.107659+00:00",
+  "last_run_at": "2026-10-06T01:48:26.774888+00:00",
   "version": 1
 }

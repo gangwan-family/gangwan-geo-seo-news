@@ -304,6 +304,14 @@
       "title": "Search Central Live India 2026: Bengaluru, We're Coming (For Real This Time)",
       "url": "https://developers.google.com/search/blog/2026/09/search-central-live-india-2026"
     },
+    "google-search-central-blog:9741aeb8d8c89e687b963170d710dae27b418570": {
+      "first_seen": "2026-10-07T00:51:35.717389+00:00",
+      "path": "GEO-SEO News/Google Search Central Blog/2026-10-06/New learning paths curated YouTube playlists for Search fundamentals and Technical SEO.md",
+      "published": "2026-10-06T00:00:00+00:00",
+      "source": "Google Search Central Blog",
+      "title": "New learning paths: curated YouTube playlists for Search fundamentals and Technical SEO",
+      "url": "https://developers.google.com/search/blog/2026/10/seo-learning-paths"
+    },
     "google-search-central-blog:be555cb543adbbd76251ae51c23a5492a13d7c9f": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
       "path": "GEO-SEO News/Google Search Central Blog/2026-07-29/Platform properties roll out globally, plus a new social and video performance guide.md",
@@ -600,6 +608,14 @@
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "url": "https://openai.com/index/path-to-astra"
     },
+    "openai-news:342677ae7eadb2eb62e4a38c30f07848c459226e": {
+      "first_seen": "2026-10-07T00:51:35.717389+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-06/How Jump Trading is scaling quant research with ChatGPT.md",
+      "published": "2026-10-06T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading"
+    },
     "openai-news:363bbead77de9f9f7dbfde1a4706ff9439e8bd8d": {
       "first_seen": "2026-09-17T23:35:21.610221+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-09-17/Introducing Astra for Law.md",
@@ -671,6 +687,14 @@
       "source": "OpenAI News",
       "title": "A milestone in expanding access to AI",
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+    },
+    "openai-news:47b9255d8fa0f8e89c91be9f3fca6f4f2b924e04": {
+      "first_seen": "2026-10-07T00:51:35.717389+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-06/Sharing AI progress in mathematics.md",
+      "published": "2026-10-06T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
     },
     "openai-news:4879819590782b03bb41bffc1653e179d4a163a4": {
       "first_seen": "2026-07-31T22:32:16.940991+00:00",
@@ -783,6 +807,14 @@
       "source": "OpenAI News",
       "title": "How to connect AI usage to business value",
       "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+    },
+    "openai-news:60ef2af305e795fe7c29ac5334b70c4a29353c7c": {
+      "first_seen": "2026-10-07T00:51:35.717389+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-06/Atlassian and OpenAI expand partnership to turn enterprise knowledge into action.md",
+      "published": "2026-10-06T16:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership"
     },
     "openai-news:61282b7420ed067525c1f91d92b2480700145654": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
@@ -1111,6 +1143,14 @@
       "source": "OpenAI News",
       "title": "1Password increases engineering productivity 21% with Codex",
       "url": "https://openai.com/index/1password"
+    },
+    "openai-news:9964af802e9c5fdee2b956b6ca12adb5b9c62816": {
+      "first_seen": "2026-10-07T00:51:35.717389+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-06/Advancing computer use with Ironclad.md",
+      "published": "2026-10-06T10:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
     },
     "openai-news:99c22bc85dd5ff7ae84bbb4ff8bba4cae907fe27": {
       "first_seen": "2026-09-08T23:29:12.190870+00:00",
@@ -2176,6 +2216,14 @@
       "title": "Meta Published 2 Documents About Muse And Only One Mentions Attacks via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/meta-published-2-documents-about-muse-and-only-one-mentions-attacks/589071/"
     },
+    "search-engine-journal:2a48431aa9b98843ab70fe0f2764f405648059f7": {
+      "first_seen": "2026-10-07T00:51:35.717389+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-06/OpenAI To Test Visual Ads In ChatGPT Image Generation via @sejournal, @brookeosmundson.md",
+      "published": "2026-10-06T17:21:56+00:00",
+      "source": "Search Engine Journal",
+      "title": "OpenAI To Test Visual Ads In ChatGPT Image Generation via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/openai-chatgpt-image-generation-visual-ads-test/591981/"
+    },
     "search-engine-journal:2a4ad705dd53ff7bfe2af84e7e785596630145a7": {
       "first_seen": "2026-09-25T23:59:13.886549+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-25/Google AI Overviews Have More Links, But Not All Reach The Web via @sejournal, @MattGSouthern.md",
@@ -2336,6 +2384,14 @@
       "title": "AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/"
     },
+    "search-engine-journal:3984135d37c7b19735c568689f6156eaca05c867": {
+      "first_seen": "2026-10-07T00:51:35.717389+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-06/WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw via @sejournal, @martinibuster.md",
+      "published": "2026-10-06T20:05:17+00:00",
+      "source": "Search Engine Journal",
+      "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/wordpress-7-1-3-fixes-7-vulnerabilities-and-1-critical-flaw/592109/"
+    },
     "search-engine-journal:39cd57a88529c1e34e4621c738504066183c110e": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-22/Beyond Brand Sovereignty How To Build An AI-Ready Source Of Truth via @sejournal, @billhunt.md",
@@ -2423,6 +2479,14 @@
       "source": "Search Engine Journal",
       "title": "Job Boards Say Google Indexing API Requests Get No Response via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-indexing-api-approval-job-sites/590316/"
+    },
+    "search-engine-journal:3eb3ae6f7226e79d2c1e52e019d21102727dbcfa": {
+      "first_seen": "2026-10-07T00:51:35.717389+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-06/Data Shows Which Negative Search Results Can Actually Be Removed via @sejournal, @EraseDotCom.md",
+      "published": "2026-10-06T17:00:45+00:00",
+      "source": "Search Engine Journal",
+      "title": "Data Shows Which Negative Search Results Can Actually Be Removed via @sejournal, @EraseDotCom",
+      "url": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/"
     },
     "search-engine-journal:3ebf39ad4f6a694434b5b7a79af9da93a5e30268": {
       "first_seen": "2026-07-31T22:32:16.940991+00:00",
@@ -2672,6 +2736,14 @@
       "title": "The Trust Signals That Get Your Brand Cited By AI Overviews, Just Like Freshpet [Webinar] via @sejournal, @hethr_campbell",
       "url": "https://www.searchenginejournal.com/the-trust-signals-that-get-your-brand-cited-by-ai-overviews-just-like-freshpet-webinar/584796/"
     },
+    "search-engine-journal:533eeae91e55b9fd75a765e40baff60ed9c05bcf": {
+      "first_seen": "2026-10-07T00:51:35.717389+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-06/Google Changed Its Helpful Content Guidelines To Emphasize Good ‘Main Content’ via @sejournal, @marie_haynes.md",
+      "published": "2026-10-06T14:30:10+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Changed Its Helpful Content Guidelines To Emphasize Good ‘Main Content’ via @sejournal, @marie_haynes",
+      "url": "https://www.searchenginejournal.com/google-changed-its-helpful-content-guidelines-to-emphasize-good-main-content/591943/"
+    },
     "search-engine-journal:5497786254cf89bd3d79f0f3f5abdc9b15c98165": {
       "first_seen": "2026-09-09T23:23:40.610777+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-09/The AI Citation Mistake Optimizing For Google, Not For Sources via @sejournal, @lorenbaker.md",
@@ -2775,6 +2847,14 @@
       "source": "Search Engine Journal",
       "title": "WebMCP Connects AI Agents To Actions Inside Websites via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/webmcp-connects-ai-agents-actions-inside-websites/587303/"
+    },
+    "search-engine-journal:5d017d20bf04d5c4afd990c57b3b93918d504f10": {
+      "first_seen": "2026-10-07T00:51:35.717389+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-06/Google Opens Search Profiles In India & Canada, Brazil Next via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-06T17:12:37+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Opens Search Profiles In India & Canada, Brazil Next via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-profiles-india-canada-brazil/592092/"
     },
     "search-engine-journal:5d06390418d0762fe02a004b55539f6e7d9674e3": {
       "first_seen": "2026-10-06T01:48:26.774888+00:00",
@@ -3976,6 +4056,14 @@
       "title": "Report That Cloudflare AI Bot Blocking Prevents Googlebot From Indexing Sites via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/report-that-cloudflare-ai-bot-blocking-prevents-googlebot-from-indexing-sites/584673/"
     },
+    "search-engine-journal:b3639d4e6dd498885911d0a12e0174e330173a40": {
+      "first_seen": "2026-10-07T00:51:35.717389+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-06/Google Search Console Lets You Filter By Multiple Countries via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-06T15:53:04+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Search Console Lets You Filter By Multiple Countries via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-console-multiple-countries-filter/592065/"
+    },
     "search-engine-journal:b3bd7d529bd4a8e8387385619dad7b568a2da005": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-17/Google Faces Class Action Over Books Used To Train Gemini via @sejournal, @MattGSouthern.md",
@@ -4432,6 +4520,14 @@
       "title": "MCP For Marketers: What To Connect First & Why Your Data Wins",
       "url": "https://www.searchenginejournal.com/how-marketers-should-use-mcp-what-to-connect-how-to-make-it-work/581171/"
     },
+    "search-engine-journal:dda10f2cb9eea4f4de8cf04d5e07b1b973117c3e": {
+      "first_seen": "2026-10-07T00:51:35.717389+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-06/How To Structure A Full-Funnel Ecommerce Account For Q4 via @sejournal, @tonyadam.md",
+      "published": "2026-10-06T12:00:36+00:00",
+      "source": "Search Engine Journal",
+      "title": "How To Structure A Full-Funnel Ecommerce Account For Q4 via @sejournal, @tonyadam",
+      "url": "https://www.searchenginejournal.com/how-to-structure-a-full-funnel-ecommerce-account-for-q4/589145/"
+    },
     "search-engine-journal:dde35d167ee3c1505c572066f0c75c19ff11eafb": {
       "first_seen": "2026-07-25T22:26:25.373734+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-25/Charging AI Bots Decides Which Agents Can Still Cite You via @sejournal, @slobodanmanic.md",
@@ -4495,6 +4591,14 @@
       "source": "Search Engine Journal",
       "title": "WordPress Announces A Proactive Security Initiative via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/wordpress-announces-a-proactive-security-initiative/587942/"
+    },
+    "search-engine-journal:e24fc2ec6660463bcbce807a3700e696f05163db": {
+      "first_seen": "2026-10-07T00:51:35.717389+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-06/Using AI To Assist With SEO Work, Not Replace The Worker via @sejournal, @chrisgreenseo.md",
+      "published": "2026-10-06T19:00:47+00:00",
+      "source": "Search Engine Journal",
+      "title": "Using AI To Assist With SEO Work, Not Replace The Worker via @sejournal, @chrisgreenseo",
+      "url": "https://www.searchenginejournal.com/using-ai-to-assist-with-seo-work-not-replace-the-worker/591045/"
     },
     "search-engine-journal:e2fcf59ac33aa3a23c6e48bd65981313e72de941": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
@@ -4671,6 +4775,14 @@
       "source": "Search Engine Journal",
       "title": "Google SEO Test Shows What Happens In 5-Second Rendering Window via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-seo-test-shows-what-happens-in-5-second-rendering-window/583878/"
+    },
+    "search-engine-journal:ee9fc9102570cff73968ee792af93a95d5ff2c15": {
+      "first_seen": "2026-10-07T00:51:35.717389+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-06/Google Explains The “Couldn’t Fetch” Sitemap Errors via @sejournal, @martinibuster.md",
+      "published": "2026-10-06T09:52:43+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Explains The “Couldn’t Fetch” Sitemap Errors via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/"
     },
     "search-engine-journal:f086751ee5b7e669a2fec7a3bfd748910d2a9067": {
       "first_seen": "2026-08-25T21:50:45.285434+00:00",
@@ -5064,6 +5176,14 @@
       "title": "Claude watermarks its output: what content teams should know",
       "url": "https://www.semrush.com/blog/claude-ai-watermarks/"
     },
+    "semrush-blog:5924899c545dd8d2da245dda511e98f946b8549c": {
+      "first_seen": "2026-10-07T00:51:35.717389+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-10-06/Google AI Overviews now appear for most major brands.md",
+      "published": "2026-10-06T09:06:00+00:00",
+      "source": "Semrush Blog",
+      "title": "Google AI Overviews now appear for most major brands",
+      "url": "https://www.semrush.com/blog/ai-overviews-appearing-for-major-brands/"
+    },
     "semrush-blog:60272dfc968a5ab40ad0916c95c1d4afc0a98ea7": {
       "first_seen": "2026-09-25T23:59:13.886549+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-09-25/B2B answer engine optimization How to show up in AI.md",
@@ -5313,6 +5433,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-06T01:48:26.774888+00:00",
+  "last_run_at": "2026-10-07T00:51:35.717389+00:00",
   "version": 1
 }

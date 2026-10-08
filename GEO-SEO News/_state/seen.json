@@ -64,6 +64,14 @@
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
     },
+    "google-ai-blog:22643d6fcb1952200807680169b39e42193943bb": {
+      "first_seen": "2026-10-08T01:07:43.184860+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-10-07/Introducing Playground Create and play custom games.md",
+      "published": "2026-10-07T12:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+    },
     "google-ai-blog:23fca7e7282563139d3420d9faf4a7e889aa9939": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-07-22/3 Google updates from Galaxy Unpacked 2026.md",
@@ -376,6 +384,14 @@
       "title": "Helping older adults use AI in everyday life",
       "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
     },
+    "openai-news:04e9dc3828b5420c0f01153ffacad571c15c3fe5": {
+      "first_seen": "2026-10-08T01:07:43.184860+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-07/Radisson Hotel Group brings hotel discovery into ChatGPT.md",
+      "published": "2026-10-07T07:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson"
+    },
     "openai-news:0703988e3a3319168a4bed769fe486164f0f87f1": {
       "first_seen": "2026-09-01T23:26:13.848773+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-31/OpenAI supports California’s bill to advance youth AI safety.md",
@@ -407,6 +423,14 @@
       "source": "OpenAI News",
       "title": "Supporting Thailand’s next generation of AI startups",
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+    },
+    "openai-news:0ca1450969b5beb55904e9fac4f7d0e7720785ad": {
+      "first_seen": "2026-10-08T01:07:43.184860+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-07/GPT-6 and Intelligent UI for everyone.md",
+      "published": "2026-10-07T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone"
     },
     "openai-news:0f0c1961f93e8e0cb939472e2748171375e397e8": {
       "first_seen": "2026-08-07T01:03:13.764774+00:00",
@@ -1232,6 +1256,14 @@
       "title": "The Work Now Within Reach",
       "url": "https://openai.com/index/the-work-now-within-reach"
     },
+    "openai-news:ad4e14640e358f44fa86e357a8b76569df2411cc": {
+      "first_seen": "2026-10-08T01:07:43.184860+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-07/Helping teens learn, plan, and shape the future of AI.md",
+      "published": "2026-10-07T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan"
+    },
     "openai-news:ad5623d5cc7091de096da3991d1163fefa52afdc": {
       "first_seen": "2026-08-17T21:47:12.415274+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-17/OpenAI joins PORTS-Pike project.md",
@@ -1976,6 +2008,14 @@
       "title": "Google Tests Paying Publishers For AI Answers Via Search Console via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-tests-paying-publishers-for-ai-answers-via-search-console/589414/"
     },
+    "search-engine-journal:1c8cf0d2283ab49d720b0144c99f81ee8c6ec1e2": {
+      "first_seen": "2026-10-08T01:07:43.184860+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-07/Google Opens Its SynthID Watermark Detector To The Public via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-07T19:38:35+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Opens Its SynthID Watermark Detector To The Public via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-opens-synthid-watermark-detector-to-public/592226/"
+    },
     "search-engine-journal:1ce64a6f7b11c95bf7a3589eb9491a4749550bee": {
       "first_seen": "2026-08-19T21:47:32.784799+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-19/Microsoft Advertising Rolls Out AI Max Globally via @sejournal, @brookeosmundson.md",
@@ -2239,6 +2279,14 @@
       "source": "Search Engine Journal",
       "title": "The Text-Only Version Of Your Website Strips Out The Wrong Layer via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/the-text-only-version-of-your-website-strips-out-the-wrong-layer/590088/"
+    },
+    "search-engine-journal:2bdc1581b76e27662da4f6887c62985423fe3888": {
+      "first_seen": "2026-10-08T01:07:43.184860+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-07/Google’s Search Antitrust Ruling What Advertisers Should Check Next.md",
+      "published": "2026-10-07T05:00:12+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google’s Search Antitrust Ruling: What Advertisers Should Check Next",
+      "url": "https://www.searchenginejournal.com/google-search-antitrust-ruling-silverarbitration-spa/591591/"
     },
     "search-engine-journal:2c954ced04b376709efbcaabaf18ce5395c9f372": {
       "first_seen": "2026-09-23T23:48:48.617752+00:00",
@@ -3640,6 +3688,22 @@
       "title": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/"
     },
+    "search-engine-journal:939feea42c0a2a1883d4610d9ef8931daf7ac118": {
+      "first_seen": "2026-10-08T01:07:43.184860+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-07/Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy.md",
+      "published": "2026-10-07T19:00:23+00:00",
+      "source": "Search Engine Journal",
+      "title": "Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy",
+      "url": "https://www.searchenginejournal.com/why-legacy-ppc-account-structures-are-sabotaging-your-smart-bidding-strategy/588832/"
+    },
+    "search-engine-journal:9559929e329afdbfc696eadb39c945f7530a5696": {
+      "first_seen": "2026-10-08T01:07:43.184860+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-07/The Business Case For SEO Is Changing; Budget Justifications Should Too via @sejournal, @cshel.md",
+      "published": "2026-10-07T12:00:32+00:00",
+      "source": "Search Engine Journal",
+      "title": "The Business Case For SEO Is Changing; Budget Justifications Should Too via @sejournal, @cshel",
+      "url": "https://www.searchenginejournal.com/the-business-case-for-seo-is-changing-budget-justifications-should-too/590358/"
+    },
     "search-engine-journal:956675a3ec174504ebf554ff5814caee87c7ed30": {
       "first_seen": "2026-09-09T23:23:40.610777+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-09/AI Visibility For Local Businesses How To Get Recommended By ChatGPT & AI Overviews In 90 Days via @sejournal, @reviewlyAI.md",
@@ -3824,6 +3888,14 @@
       "title": "The Technical Signals AI Search Uses That Most SEOs Still Aren’t Optimizing",
       "url": "https://www.searchenginejournal.com/the-technical-signals-ai-search-uses-that-most-seos-still-arent-optimizing/586381/"
     },
+    "search-engine-journal:a46fe42078448ee0d94b89d39611ed2de8b595fe": {
+      "first_seen": "2026-10-08T01:07:43.184860+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-07/WordPress Releases Canonical MCP Adapter Plugin via @sejournal, @martinibuster.md",
+      "published": "2026-10-07T10:48:53+00:00",
+      "source": "Search Engine Journal",
+      "title": "WordPress Releases Canonical MCP Adapter Plugin via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/"
+    },
     "search-engine-journal:a553e3d5b4b995b3989a8b140acd374ee7a94fb4": {
       "first_seen": "2026-08-07T01:03:13.764774+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-06/WordPress Security Release 7.0.3 Fixes High Severity XSS Vulnerability via @sejournal, @martinibuster.md",
@@ -3936,6 +4008,14 @@
       "title": "Research Shows Google AI Mode Sends Less Clicks & Is A Poor User Experience via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/research-shows-google-ai-mode-sends-less-clicks-is-a-poor-user-experience/590221/"
     },
+    "search-engine-journal:ac1e29d83821ac7264fa386b28f5a7cf62f3166e": {
+      "first_seen": "2026-10-08T01:07:43.184860+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-07/AI Search Is Changing Your Website’s Job, Here’s How To Adapt via @sejournal, @lorenbaker.md",
+      "published": "2026-10-07T13:30:50+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Search Is Changing Your Website’s Job, Here’s How To Adapt via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/ai-search-is-changing-the-websites-job-not-replacing-it/592134/"
+    },
     "search-engine-journal:acc41d7f64a00ebdd98dbce9df9d60dcbd6c5264": {
       "first_seen": "2026-08-18T21:44:32.657208+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-18/9 AI Search Myths, Debunked by 15 Million Data Points via @sejournal, @ahrefs.md",
@@ -4016,6 +4096,14 @@
       "title": "Google Begins Rolling Out The August 2026 Spam Update via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-begins-rolling-out-the-august-2026-spam-update/586301/"
     },
+    "search-engine-journal:afdc794e44932e25bae19ed5003380ea2124c2b4": {
+      "first_seen": "2026-10-08T01:07:43.184860+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-07/Prediction The Next Massive Google Update Is Around The Corner via @sejournal, @lilyraynyc.md",
+      "published": "2026-10-07T17:30:46+00:00",
+      "source": "Search Engine Journal",
+      "title": "Prediction: The Next Massive Google Update Is Around The Corner via @sejournal, @lilyraynyc",
+      "url": "https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952/"
+    },
     "search-engine-journal:b048b182874aeea4446004cadef1a7830367c827": {
       "first_seen": "2026-10-03T00:34:36.337354+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-02/OpenAI Founding Member Make LLMs Write Like An Aircraft Manual via @sejournal, @MattGSouthern.md",
@@ -4087,6 +4175,14 @@
       "source": "Search Engine Journal",
       "title": "Google Is Removing Language Targeting From Search Campaigns via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/google-is-removing-language-targeting-from-search-campaigns/585592/"
+    },
+    "search-engine-journal:b4550a70ffa76f4a217eae9911ae197d536badb5": {
+      "first_seen": "2026-10-08T01:07:43.184860+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-07/ChatGPT Gets GPT-6 And Intelligent UI For Interactive Answers via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-07T21:42:12+00:00",
+      "source": "Search Engine Journal",
+      "title": "ChatGPT Gets GPT-6 And Intelligent UI For Interactive Answers via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-gpt-6-intelligent-ui/592249/"
     },
     "search-engine-journal:b74b2569c3fe555e299dd973ed89bc983fa08c69": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -5304,6 +5400,14 @@
       "title": "How to use AI tools for competitor analysis in 2026",
       "url": "https://www.semrush.com/blog/ai-tools-for-competitor-analysis/"
     },
+    "semrush-blog:a09f1afc2dbcc34401abcc99908e486aacd58666": {
+      "first_seen": "2026-10-08T01:07:43.184860+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-10-07/Multi-location SEO How to build a scalable strategy.md",
+      "published": "2026-10-07T09:39:00+00:00",
+      "source": "Semrush Blog",
+      "title": "Multi-location SEO: How to build a scalable strategy",
+      "url": "https://www.semrush.com/blog/multi-location-seo/"
+    },
     "semrush-blog:a62eb30fc1500ac878206f640da04021ea60ce51": {
       "first_seen": "2026-08-27T00:55:07.763088+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-08-26/Reddit's citations in ChatGPT fall from 3.8% to 0.5%.md",
@@ -5327,6 +5431,14 @@
       "source": "Semrush Blog",
       "title": "Keyword cannibalization: How to find, fix, and prevent it",
       "url": "https://www.semrush.com/blog/keyword-cannibalization-guide/"
+    },
+    "semrush-blog:bc13c4dafef10d3753889319ea4733cb557fd515": {
+      "first_seen": "2026-10-08T01:07:43.184860+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-10-07/How to track your AI citations and sources with Semrush.md",
+      "published": "2026-10-07T12:01:00+00:00",
+      "source": "Semrush Blog",
+      "title": "How to track your AI citations and sources with Semrush",
+      "url": "https://www.semrush.com/blog/track-ai-citation-sources-semrush/"
     },
     "semrush-blog:be7491c6bd5e335c9cbbc356c1c5ebf2e657bd8a": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
@@ -5433,6 +5545,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-07T00:51:35.717389+00:00",
+  "last_run_at": "2026-10-08T01:07:43.184860+00:00",
   "version": 1
 }

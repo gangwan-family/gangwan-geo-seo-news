@@ -400,6 +400,14 @@
       "title": "OpenAI supports California’s bill to advance youth AI safety",
       "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
     },
+    "openai-news:077dea1e8a7adb2ecc693b38c1b71a2d4ebc694c": {
+      "first_seen": "2026-10-09T01:17:51.840578+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-08/Disrupting AI-enabled “false front” operations.md",
+      "published": "2026-10-08T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+    },
     "openai-news:092c8de02e8b135ec330a69dfe0e592abd521d97": {
       "first_seen": "2026-08-29T03:12:57.517440+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-28/Our decision on Cursor following its acquisition by SpaceX.md",
@@ -447,6 +455,14 @@
       "source": "OpenAI News",
       "title": "GPT-6 Astra: A new generation of intelligence",
       "url": "https://openai.com/index/gpt-6-astra"
+    },
+    "openai-news:112b5f00879d4fef3be367032aa59a57159f98cd": {
+      "first_seen": "2026-10-09T01:17:51.840578+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-08/How Oracle turns days of work into minutes with ChatGPT and Codex.md",
+      "published": "2026-10-08T16:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle"
     },
     "openai-news:12e9dd6851803557bf5ad9fd2920e7fa2e644576": {
       "first_seen": "2026-09-12T23:07:29.401235+00:00",
@@ -1408,6 +1424,14 @@
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
     },
+    "openai-news:ca1ec6c6a1a1314d953bafc0b010c073f56e9464": {
+      "first_seen": "2026-10-09T01:17:51.840578+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-08/Pollo AI turns creative ideas into campaigns with OpenAI.md",
+      "published": "2026-10-08T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai"
+    },
     "openai-news:cad35e6294feba2f66b3de50e2b5067385b0737a": {
       "first_seen": "2026-08-12T22:08:28.212173+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-12/How RingCentral builds AI-native work from engineering to ops.md",
@@ -1647,6 +1671,14 @@
       "source": "OpenAI News",
       "title": "How AI is expanding what people do at work",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+    },
+    "openai-news:f6d3626eb7c890d94bb50058e6f90af5d255e4a4": {
+      "first_seen": "2026-10-09T01:17:51.840578+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-08/LegalOn halves Codex costs while maintaining development speed.md",
+      "published": "2026-10-08T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs"
     },
     "openai-news:f7558dc5c9de5bb5fdc77d93f9ea026683eaa31f": {
       "first_seen": "2026-09-23T23:48:48.617752+00:00",
@@ -1999,6 +2031,14 @@
       "source": "Search Engine Journal",
       "title": "ChatGPT Links Out Most On Travel Questions via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/chatgpt-links-out-most-on-travel-questions/583824/"
+    },
+    "search-engine-journal:1bb037e397c56d8109f8896fd3afdd71d58763e4": {
+      "first_seen": "2026-10-09T01:17:51.840578+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-08/Link Building Strategies for 2027 What to Keep and Cut via @sejournal, @lorenbaker.md",
+      "published": "2026-10-08T07:45:34+00:00",
+      "source": "Search Engine Journal",
+      "title": "Link Building Strategies for 2027: What to Keep and Cut via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/link-building-strategies-for-2027-what-to-keep-and-cut/592119/"
     },
     "search-engine-journal:1c2ffd6ae15c3bc0a70290ebc283d00907580213": {
       "first_seen": "2026-09-14T23:55:09.799509+00:00",
@@ -2728,6 +2768,14 @@
       "title": "Anthropic Warns Hackers Are Stealing Claude Sessions To Hijack Accounts via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/anthropic-warns-hackers-are-stealing-claude-sessions-to-hijack-accounts/587566/"
     },
+    "search-engine-journal:4f03be1a299d5094aa90c802fc300d4c5efa260c": {
+      "first_seen": "2026-10-09T01:17:51.840578+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-08/AI In Regulated Paid Media The Default Settings That Put Compliance At Risk via @sejournal, @timothyjjensen.md",
+      "published": "2026-10-08T19:00:44+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk via @sejournal, @timothyjjensen",
+      "url": "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/"
+    },
     "search-engine-journal:508c71eca2d5b2c3173f3e966a4f249398a00d31": {
       "first_seen": "2026-10-02T00:57:52.800074+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-01/Cloudflare Moves Monetization Gateway & Pay Per Use Into Beta via @sejournal, @MattGSouthern.md",
@@ -3223,6 +3271,14 @@
       "source": "Search Engine Journal",
       "title": "Alphabet Q2 Earnings Show $5.85 Billion Negative Free Cash Flow via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-q2-earnings-show-5-85-billion-negative-free-cash-flow/583259/"
+    },
+    "search-engine-journal:72d44803de44db4f3a45bc14caa369a45c70ddb6": {
+      "first_seen": "2026-10-09T01:17:51.840578+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-08/How To Scale AI Video Ads For Small Business Clients One Storyline For TikTok, Reels & AI Search.md",
+      "published": "2026-10-08T13:49:33+00:00",
+      "source": "Search Engine Journal",
+      "title": "How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels & AI Search",
+      "url": "https://www.searchenginejournal.com/scale-ai-video-tiktok-leadzai-spa/591522/"
     },
     "search-engine-journal:73364f466e46e70868a676e765a7b3598872cc3b": {
       "first_seen": "2026-08-13T22:08:47.953145+00:00",
@@ -4424,6 +4480,14 @@
       "title": "Google Rolls Out September 2026 Spam Update Globally via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-september-2026-spam-update/590828/"
     },
+    "search-engine-journal:cda5a4194eeabdd41091fb0e240d7e84621d985c": {
+      "first_seen": "2026-10-09T01:17:51.840578+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-08/Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It via @sejournal, @DuaneForrester.md",
+      "published": "2026-10-08T14:30:43+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/google-now-has-the-math-to-rank-without-an-index-and-the-results-page-does-not-survive-it/591945/"
+    },
     "search-engine-journal:cdf09239b35438a38892b665383afbd87ab69608": {
       "first_seen": "2026-08-21T21:45:39.115559+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-21/Google’s Generated Interfaces Could Compete With Tool Pages via @sejournal, @MattGSouthern.md",
@@ -4696,6 +4760,14 @@
       "title": "Using AI To Assist With SEO Work, Not Replace The Worker via @sejournal, @chrisgreenseo",
       "url": "https://www.searchenginejournal.com/using-ai-to-assist-with-seo-work-not-replace-the-worker/591045/"
     },
+    "search-engine-journal:e2f5f85ba0a122f0c1726048d2d94ae9e1d3f379": {
+      "first_seen": "2026-10-09T01:17:51.840578+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-08/Google Completes September 2026 Spam Update After Nearly 14 Days via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-08T12:58:07+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Completes September 2026 Spam Update After Nearly 14 Days via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-september-2026-spam-update-complete/592283/"
+    },
     "search-engine-journal:e2fcf59ac33aa3a23c6e48bd65981313e72de941": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-29/89% Of AI Search Demand Has No Clear Owner Use This Before The Window Closes via @sejournal, @gregjarboe.md",
@@ -4751,6 +4823,14 @@
       "source": "Search Engine Journal",
       "title": "The 2003 Framework That Was Already Doing Query Fan-Out via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/the-2003-framework-that-was-already-doing-query-fan-out/588595/"
+    },
+    "search-engine-journal:e63c8aa40a7f56cd9158dc2a5d510dbfe9f43017": {
+      "first_seen": "2026-10-09T01:17:51.840578+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-08/Why Google Search Updates Cannot Be Judged During Early Rollout via @sejournal, @TaylorDanRW.md",
+      "published": "2026-10-08T12:00:19+00:00",
+      "source": "Search Engine Journal",
+      "title": "Why Google Search Updates Cannot Be Judged During Early Rollout via @sejournal, @TaylorDanRW",
+      "url": "https://www.searchenginejournal.com/why-google-search-updates-cannot-be-judged-during-early-rollout/591345/"
     },
     "search-engine-journal:e6ab44e59cc918682e8526dd46e69906dfc0767f": {
       "first_seen": "2026-09-01T00:41:30.291545+00:00",
@@ -5545,6 +5625,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-08T01:07:43.184860+00:00",
+  "last_run_at": "2026-10-09T01:17:51.840578+00:00",
   "version": 1
 }

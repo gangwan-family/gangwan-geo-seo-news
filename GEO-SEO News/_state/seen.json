@@ -1104,6 +1104,14 @@
       "title": "Why teens deserve access to safe AI",
       "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
     },
+    "openai-news:90995f7dbc9c26746d9c1348259bf95f75d89e72": {
+      "first_seen": "2026-10-10T01:03:05.963699+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-09/Asana cuts model costs 76x in browser tests with GPT-6.1 Sol.md",
+      "published": "2026-10-09T07:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent"
+    },
     "openai-news:9146ff1756af0f60b5f477a4d8ca11d0af20e7a2": {
       "first_seen": "2026-07-31T22:32:16.940991+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-30/How avatarin built a 24 7 retail agent with GPT-Realtime.md",
@@ -1632,6 +1640,14 @@
       "title": "ChatGPT Ads expands across Europe",
       "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
     },
+    "openai-news:edd58468d564448f5fe7e63ada47c987b79bf809": {
+      "first_seen": "2026-10-10T01:03:05.963699+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-09/Sophos cuts threat investigation time by 96% with OpenAI Daybreak.md",
+      "published": "2026-10-09T07:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos"
+    },
     "openai-news:ee230258f27f8a0de48925de53f81261735fd525": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-15/GPT-Red Unlocking Self-Improvement for Robustness.md",
@@ -1911,6 +1927,14 @@
       "source": "Search Engine Journal",
       "title": "Google NotebookLM Rebrand May Expose Your Site To More AI Scraping via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-notebooklm-rebrand-may-expose-your-site-to-more-ai-scraping/582775/"
+    },
+    "search-engine-journal:10308ac17af32d43846b7e28bdf16a1ed2dda271": {
+      "first_seen": "2026-10-10T01:03:05.963699+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-09/Jetpack 16.3 WordPress Plugin Update Is A Winner via @sejournal, @martinibuster.md",
+      "published": "2026-10-09T05:06:52+00:00",
+      "source": "Search Engine Journal",
+      "title": "Jetpack 16.3 WordPress Plugin Update Is A Winner via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/jetpack-16-3-wordpress-plugin-update-is-a-winner/592452/"
     },
     "search-engine-journal:103d32225dd099d5d4f937583760159ee8efe7b7": {
       "first_seen": "2026-08-03T22:32:31.168973+00:00",
@@ -3208,6 +3232,14 @@
       "title": "Google’s Illyes Unsure On Shifting unavailable_after Dates via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/googles-illyes-unsure-on-shifting-unavailable_after-dates/584064/"
     },
+    "search-engine-journal:6c49bff7e74235fde8e86fbcc5816289625e3bc1": {
+      "first_seen": "2026-10-10T01:03:05.963699+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-09/Google Explains How To Use HTML Sitemaps For SEO via @sejournal, @martinibuster.md",
+      "published": "2026-10-09T21:31:30+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Explains How To Use HTML Sitemaps For SEO via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-explains-how-to-use-html-sitemaps-for-seo/592508/"
+    },
     "search-engine-journal:6cb9bb43d57fca5fec4e127bd6c651ed73c50bb7": {
       "first_seen": "2026-08-20T21:50:44.537440+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-19/Why Reddit’s ChatGPT Citation Drop Isn’t Fully Explained via @sejournal, @MattGSouthern.md",
@@ -4160,6 +4192,14 @@
       "title": "Prediction: The Next Massive Google Update Is Around The Corner via @sejournal, @lilyraynyc",
       "url": "https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952/"
     },
+    "search-engine-journal:b019e225a227eabcbf4807edb6d9d6eac3e6b6ab": {
+      "first_seen": "2026-10-10T01:03:05.963699+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-09/Claude’s New Rules Target Fake Sources Built To Sway AI Answers via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-09T08:00:16+00:00",
+      "source": "Search Engine Journal",
+      "title": "Claude’s New Rules Target Fake Sources Built To Sway AI Answers via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/claude-rules-fake-sources-ai-answers/592456/"
+    },
     "search-engine-journal:b048b182874aeea4446004cadef1a7830367c827": {
       "first_seen": "2026-10-03T00:34:36.337354+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-02/OpenAI Founding Member Make LLMs Write Like An Aircraft Manual via @sejournal, @MattGSouthern.md",
@@ -4663,6 +4703,14 @@
       "source": "Search Engine Journal",
       "title": "YouTube Views Rose While Long-Form Ad Revenue Fell, Data Shows via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/youtube-views-rose-while-long-form-ad-revenue-fell-data-shows/584040/"
+    },
+    "search-engine-journal:dd04dd2079f550d3843562f2d9a23e63fca1f0bd": {
+      "first_seen": "2026-10-10T01:03:05.963699+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-09/AI Overviews Have Spread To Most Big-Brand Searches via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-09T12:00:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Overviews Have Spread To Most Big-Brand Searches via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/"
     },
     "search-engine-journal:dd67568b7f70484225ec4210057462ce2250edb7": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
@@ -5625,6 +5673,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-09T01:17:51.840578+00:00",
+  "last_run_at": "2026-10-10T01:03:05.963699+00:00",
   "version": 1
 }

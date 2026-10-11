@@ -2616,6 +2616,14 @@
       "title": "Anthropic Reveals What The Watermark Is And How It Can Be Defeated via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/anthropic-reveals-what-the-watermark-is-and-how-it-can-be-defeated/585930/"
     },
+    "search-engine-journal:40c17b4a0d8f91cc9a0e1edd5aff64fe7a99696a": {
+      "first_seen": "2026-10-11T00:17:14.156088+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-10/Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-10T12:00:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-crawl-timing-ranges/592469/"
+    },
     "search-engine-journal:421074c99a1715ee80dc98fc2a7966d980d07333": {
       "first_seen": "2026-09-02T23:26:23.154190+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-02/Google To Bring New Video Understanding Tech To Ask YouTube via @sejournal, @MattGSouthern.md",
@@ -5673,6 +5681,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-10T01:03:05.963699+00:00",
+  "last_run_at": "2026-10-11T00:17:14.156088+00:00",
   "version": 1
 }

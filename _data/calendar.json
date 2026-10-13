@@ -138,9 +138,9 @@
             "date": "2026-10-12",
             "day": 12,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 8,
+            "url": "/date/2026-10-12/"
           },
           {
             "date": "2026-10-13",
@@ -309,6 +309,16 @@
         ]
       ],
       "days": [
+        {
+          "date": "2026-10-12",
+          "day": 12,
+          "count": 8,
+          "url": "/date/2026-10-12/",
+          "sources": [
+            "Search Engine Journal",
+            "Semrush Blog"
+          ]
+        },
         {
           "date": "2026-10-11",
           "day": 11,

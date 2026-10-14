@@ -248,6 +248,14 @@
       "title": "DevFest is back",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
     },
+    "google-ai-blog:c1e94fc831365c1377e60834917c9412addc463f": {
+      "first_seen": "2026-10-14T00:25:47.157666+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-10-13/Gemini 4 Argon Built to solve your hardest problems.md",
+      "published": "2026-10-13T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+    },
     "google-ai-blog:dbc30e861442f93d6f8e9a44ec2cbacb4a0868c6": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-08-11/AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.md",
@@ -1743,6 +1751,22 @@
       "source": "OpenAI News",
       "title": "From asking to doing: How the world is putting ChatGPT to work",
       "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
+    },
+    "openai-news:ffc748cb8d88a919ca05994bbdf2a485643ad1da": {
+      "first_seen": "2026-10-14T00:25:47.157666+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-13/Higgsfield takes AI video from 1 minute to over 10.md",
+      "published": "2026-10-13T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice"
+    },
+    "search-engine-journal:00da231bd0c6a21d9d5672381ebda40b55ec7567": {
+      "first_seen": "2026-10-14T00:25:47.157666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-14/Bing Webmaster Tools Sorts AI Search Queries Into Topics via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-14T00:19:30+00:00",
+      "source": "Search Engine Journal",
+      "title": "Bing Webmaster Tools Sorts AI Search Queries Into Topics via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/bing-webmaster-tools-topics-portfolio-ai-performance/592874/"
     },
     "search-engine-journal:018eb1857410098a9a082958f3be5b869f0ea96e": {
       "first_seen": "2026-08-05T22:33:14.053208+00:00",
@@ -3368,6 +3392,14 @@
       "title": "Google Went ‘Not Provided’ In 2011 And Blinded Us, ChatGPT Just Shipped Its Version via @sejournal, @DuaneForrester",
       "url": "https://www.searchenginejournal.com/google-went-not-provided-in-2011-and-blinded-us-chatgpt-just-shipped-its-version/582839/"
     },
+    "search-engine-journal:7559a96dc2138302075e23207b021affce07a6b9": {
+      "first_seen": "2026-10-14T00:25:47.157666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-13/Google Adds Experimental Soft Navigation Metrics To CrUX via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-13T21:31:39+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Adds Experimental Soft Navigation Metrics To CrUX via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-experimental-soft-navigation-metrics-crux/592820/"
+    },
     "search-engine-journal:75ea8da1d01ce2d43f532ca9589d76fb38ec26fc": {
       "first_seen": "2026-09-09T23:23:40.610777+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-09/WordPress Co-Founder Matt Mullenweg Ousted From Automattic via @sejournal, @martinibuster.md",
@@ -3535,6 +3567,14 @@
       "source": "Search Engine Journal",
       "title": "Google Is Bringing Local Services Ads Into Google Ads via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/google-is-bringing-local-services-ads-into-google-ads/582816/"
+    },
+    "search-engine-journal:81f0deee38f590a0179d9356c648220c559db22c": {
+      "first_seen": "2026-10-14T00:25:47.157666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-13/Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-13T17:18:44+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/"
     },
     "search-engine-journal:820441e23cce1410aa25f662511610a069bcc7b8": {
       "first_seen": "2026-09-17T23:35:21.610221+00:00",
@@ -4560,6 +4600,14 @@
       "title": ".Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/org-sites-are-34-likelier-to-generate-ecommerce-revenue-than-com/587082/"
     },
+    "search-engine-journal:cac5241acf327fa4fb8d5f1a273b45414249ee0a": {
+      "first_seen": "2026-10-14T00:25:47.157666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-13/Lost In Translation How Language Changes Which Brand AI Recommends.md",
+      "published": "2026-10-13T12:00:05+00:00",
+      "source": "Search Engine Journal",
+      "title": "Lost In Translation: How Language Changes Which Brand AI Recommends",
+      "url": "https://www.searchenginejournal.com/lost-in-translation-how-language-changes-which-brand-ai-recommends/591585/"
+    },
     "search-engine-journal:cb0a5ee3463415bf8d8b25cad83c5508cc13a7c2": {
       "first_seen": "2026-10-01T00:39:00.785820+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-30/OpenAI Dots Run Read-Only Research When Nobody Is Asking via @sejournal, @MattGSouthern.md",
@@ -4735,6 +4783,14 @@
       "source": "Search Engine Journal",
       "title": "Google Announces Campaign Benchmarking In Google Analytics via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-analytics-will-benchmark-campaigns-through-ask-advisor/585213/"
+    },
+    "search-engine-journal:d3d6253a143f7d7e40e65ea1c8a1ae394a50d4f4": {
+      "first_seen": "2026-10-14T00:25:47.157666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-13/Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster.md",
+      "published": "2026-10-13T11:23:58+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-says-why-site-migrations-can-exceed-4-months/592757/"
     },
     "search-engine-journal:d4ca3fa872b05125e8b95f8b5acd1b3b6e45d54e": {
       "first_seen": "2026-09-22T23:40:24.283022+00:00",
@@ -5103,6 +5159,14 @@
       "source": "Search Engine Journal",
       "title": "Le Monde Says AI Overviews Haven’t Hurt Its Audience So Far via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/le-monde-says-ai-overviews-havent-hurt-its-audience-so-far/589018/"
+    },
+    "search-engine-journal:f0c8d96f9b13cbb2db5d951622a5ff13af4156ab": {
+      "first_seen": "2026-10-14T00:25:47.157666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-13/Test Like A Scientist 6 Mistakes That Undermine Your SEO Experiments via @sejournal, @SequinsNsearch.md",
+      "published": "2026-10-13T14:00:21+00:00",
+      "source": "Search Engine Journal",
+      "title": "Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments via @sejournal, @SequinsNsearch",
+      "url": "https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/"
     },
     "search-engine-journal:f0e255e8128573c0c16a937bdd691f8fb7077943": {
       "first_seen": "2026-10-03T23:56:32.728910+00:00",
@@ -5761,6 +5825,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-13T02:38:28.308888+00:00",
+  "last_run_at": "2026-10-14T00:25:47.157666+00:00",
   "version": 1
 }

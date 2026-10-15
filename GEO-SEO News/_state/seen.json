@@ -1280,6 +1280,14 @@
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "url": "https://openai.com/index/amp-beyond-coding"
     },
+    "openai-news:a72d1e4da6b0e1062a21232ab241fb1975aaab08": {
+      "first_seen": "2026-10-15T23:43:55.433657+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-15/Bringing GPT-Rosalind to academic research labs.md",
+      "published": "2026-10-15T19:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+    },
     "openai-news:a7ca59844a94ccd6f8fa929c5c7dfde76ca3aff0": {
       "first_seen": "2026-09-22T00:11:50.118725+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-09-21/Advisory Group on Mathematics and Artificial Intelligence.md",
@@ -1752,6 +1760,14 @@
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
       "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
     },
+    "openai-news:fa14b8f7db4605dfa58d6966f0032b53bc43f042": {
+      "first_seen": "2026-10-15T23:43:55.433657+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-15/Teaching students to think and learn through questions.md",
+      "published": "2026-10-15T13:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+    },
     "openai-news:fb21820d806b1b78d97fc2960a75ac211fb61114": {
       "first_seen": "2026-08-12T22:08:28.212173+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-12/From assistance to execution How enterprises put AI to work.md",
@@ -1959,6 +1975,14 @@
       "source": "Search Engine Journal",
       "title": "The Conversion Setup Errors That Break Smart Bidding",
       "url": "https://www.searchenginejournal.com/the-conversion-setup-errors-that-break-smart-bidding/584671/"
+    },
+    "search-engine-journal:0d7f95a16d8db937d35c1157b815da421996fcf6": {
+      "first_seen": "2026-10-15T23:43:55.433657+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-15/SERPs Stop Being The Default Between 2028 & 2030 via @sejournal, @DuaneForrester.md",
+      "published": "2026-10-15T14:00:33+00:00",
+      "source": "Search Engine Journal",
+      "title": "SERPs Stop Being The Default Between 2028 & 2030 via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/"
     },
     "search-engine-journal:0df1da702a9211504b06665ab74299d84acad067": {
       "first_seen": "2026-10-01T00:39:00.785820+00:00",
@@ -4640,6 +4664,14 @@
       "title": "Google AI Payment Pilot, Search Profiles At 10,000 – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-google-ai-payment-pilot-search-profiles-at-10000/589849/"
     },
+    "search-engine-journal:c3cd3d4133612ad5ee049616108ba5b9696f77d6": {
+      "first_seen": "2026-10-15T23:43:55.433657+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-15/Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-15T16:00:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-inline-links-higher-ai-search-responses/593089/"
+    },
     "search-engine-journal:c4574af1e368f412bd9a49fb25212ba374f0ebaa": {
       "first_seen": "2026-08-11T22:10:16.282913+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-11/How TransUnion’s AI Findings Should Change the Way SEOs Pitch GEO via @sejournal, @gregjarboe.md",
@@ -4927,6 +4959,14 @@
       "source": "Search Engine Journal",
       "title": "Facebook Groups Are Google’s No. 2 Forum Source via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/facebook-groups-are-googles-no-2-forum-source/587545/"
+    },
+    "search-engine-journal:da4c0427834f78660f8ae422f395d2f79fc831c8": {
+      "first_seen": "2026-10-15T23:43:55.433657+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-15/How Do I Measure And Attribute When Clicks Only Tell Part Of The Story – Ask A PPC via @sejournal, @navahf.md",
+      "published": "2026-10-15T19:00:58+00:00",
+      "source": "Search Engine Journal",
+      "title": "How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? – Ask A PPC via @sejournal, @navahf",
+      "url": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-measure-and-attribute-when-clicks-are-no-longer-the-whole-story/591521/"
     },
     "search-engine-journal:dac15a6924bea5989613f9b3766f552cbc683cc0": {
       "first_seen": "2026-07-29T22:28:19.968691+00:00",
@@ -5248,6 +5288,14 @@
       "title": "Webflow’s New OpenAI Codex Integration Simplifies Site Management via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/webflows-new-openai-codex-integration-simplifies-site-management/586931/"
     },
+    "search-engine-journal:f0971ffbb64d7fd3a8b79a9643055767e22dcbcc": {
+      "first_seen": "2026-10-15T23:43:55.433657+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-15/Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast via @sejournal, @martinibuster.md",
+      "published": "2026-10-15T10:32:28+00:00",
+      "source": "Search Engine Journal",
+      "title": "Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/"
+    },
     "search-engine-journal:f0a144efa34235bd8707c3b94bc67ca4366683db": {
       "first_seen": "2026-09-10T23:17:04.219816+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-10/Le Monde Says AI Overviews Haven’t Hurt Its Audience So Far via @sejournal, @MattGSouthern.md",
@@ -5312,6 +5360,14 @@
       "title": "New AI Search & SEO KPIs: 4 Signals That Guide Real Decisions [Watch Now] via @sejournal, @lorenbaker",
       "url": "https://www.searchenginejournal.com/new-ai-search-seo-kpis-4-signals-that-guide-real-decisions/588605/"
     },
+    "search-engine-journal:f34ee84e195a5ff0443a83e93a8f2279f62fd705": {
+      "first_seen": "2026-10-15T23:43:55.433657+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-15/Google’s Universal Cart Is Live How Carts Get To Your Store via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-15T20:43:38+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google’s Universal Cart Is Live: How Carts Get To Your Store via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/"
+    },
     "search-engine-journal:f38272d4404fe54900152e07de04ee583600dc0f": {
       "first_seen": "2026-09-24T23:55:23.995738+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-24/Google Search Console Adds Multimodal Filter For Image-Based Searches via @sejournal, @MattGSouthern.md",
@@ -5319,6 +5375,14 @@
       "source": "Search Engine Journal",
       "title": "Google Search Console Adds Multimodal Filter For Image-Based Searches via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-search-console-multimodal-filter/590781/"
+    },
+    "search-engine-journal:f47c60491e11f957042d925090381063ec4208d8": {
+      "first_seen": "2026-10-15T23:43:55.433657+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-15/96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals via @sejournal, @TaylorDanRW.md",
+      "published": "2026-10-15T12:00:21+00:00",
+      "source": "Search Engine Journal",
+      "title": "96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals via @sejournal, @TaylorDanRW",
+      "url": "https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/"
     },
     "search-engine-journal:f5581dc05011d035371c70bc7d019828f05b9cbb": {
       "first_seen": "2026-09-29T01:05:54.844618+00:00",
@@ -5439,6 +5503,14 @@
       "source": "Search Engine Journal",
       "title": "How Google AIOs Use Facebook, Instagram & TikTok From 300 Million US Searches",
       "url": "https://www.searchenginejournal.com/how-google-aios-use-facebook-instagram-tiktok-from-300-million-us-searches/585244/"
+    },
+    "search-engine-journal:fc13a25c3892d248f64e44dca775ee303cc61f08": {
+      "first_seen": "2026-10-15T23:43:55.433657+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-15/ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-15T21:48:30+00:00",
+      "source": "Search Engine Journal",
+      "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/"
     },
     "search-engine-journal:fc1a058e9106ff79081c9e4d18bc408e57af496d": {
       "first_seen": "2026-09-23T23:48:48.617752+00:00",
@@ -5848,6 +5920,14 @@
       "title": "What are backlinks in SEO & how do I get them?",
       "url": "https://www.semrush.com/blog/what-are-backlinks/"
     },
+    "semrush-blog:daf627b9eef24e32786eae79441a015f111414a3": {
+      "first_seen": "2026-10-15T23:43:55.433657+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-10-15/How to do an SEO audit with Claude & the Semrush MCP.md",
+      "published": "2026-10-15T12:32:00+00:00",
+      "source": "Semrush Blog",
+      "title": "How to do an SEO audit with Claude & the Semrush MCP",
+      "url": "https://www.semrush.com/blog/semrush-seo-audit-with-claude/"
+    },
     "semrush-blog:dbe6345dd83aad7d507147a3c793e57da0f6816e": {
       "first_seen": "2026-08-19T21:47:32.784799+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-08-19/Microsoft Clarity adds an AI Scrape-to-Referral Ratio.md",
@@ -5921,6 +6001,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-14T23:59:16.528335+00:00",
+  "last_run_at": "2026-10-15T23:43:55.433657+00:00",
   "version": 1
 }

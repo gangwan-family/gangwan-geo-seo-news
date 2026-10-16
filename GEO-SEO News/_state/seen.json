@@ -904,6 +904,14 @@
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
       "url": "https://openai.com/index/previewing-ultrafast"
     },
+    "openai-news:65442e708214c10b88da99a535be852d30396736": {
+      "first_seen": "2026-10-16T23:43:42.089221+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-16/How Itaú is building generative AI for its entire customer base.md",
+      "published": "2026-10-16T19:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai"
+    },
     "openai-news:671a9fed35e21548fec5a867dede918b4a923b1c": {
       "first_seen": "2026-09-08T23:29:12.190870+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-09-08/OpenAI expands initiatives to support journalism from classrooms to newsrooms.md",
@@ -1263,6 +1271,14 @@
       "source": "OpenAI News",
       "title": "Two years of OpenAI Academy",
       "url": "https://openai.com/index/two-years-of-openai-academy"
+    },
+    "openai-news:9db4940a53f868400a117abeba82d09071409b87": {
+      "first_seen": "2026-10-16T23:43:42.089221+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-16/Stack Overflow for Agents triples signups with ChatGPT plugin.md",
+      "published": "2026-10-16T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
     },
     "openai-news:9e022b7caa78cba45b7169b8166de7df4a2b0d6e": {
       "first_seen": "2026-08-13T22:08:47.953145+00:00",
@@ -1631,6 +1647,14 @@
       "source": "OpenAI News",
       "title": "Disrupting a new covert influence campaign from Russia",
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+    },
+    "openai-news:dd00c04c9b95848ea0ec2f0b57fc95409902cbbb": {
+      "first_seen": "2026-10-16T23:43:42.089221+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-15/Sullivan & Cromwell brings legal expertise into agreement review.md",
+      "published": "2026-10-15T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell"
     },
     "openai-news:dd66acaed2a04b44cad22fd2bd31d13ed4bc8e27": {
       "first_seen": "2026-09-30T00:37:08.848595+00:00",
@@ -2296,6 +2320,14 @@
       "title": "Your Biggest AI Search Risk Is Conflicting Information About Your Brand via @sejournal, @cshel",
       "url": "https://www.searchenginejournal.com/biggest-ai-search-risk-is-conflicting-information/586904/"
     },
+    "search-engine-journal:225c535976c369a31300d146f6434ecc6d441511": {
+      "first_seen": "2026-10-16T23:43:42.089221+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-16/Google Takes Applications For A UGC Pipeline Separate From Crawling via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-16T12:00:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Takes Applications For A UGC Pipeline Separate From Crawling via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/"
+    },
     "search-engine-journal:22b9e909f19f3592f005f66447bad7596aacc406": {
       "first_seen": "2026-08-29T03:12:57.517440+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-28/AI Isn’t Killing Marketing Accountability, It’s Exposing Who Never Had It via @sejournal, @gregjarboe.md",
@@ -2327,6 +2359,14 @@
       "source": "Search Engine Journal",
       "title": "Google Gemini Passes 1B Monthly Users, 63% Now Use Voice via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-gemini-passes-1b-monthly-users-63-now-use-voice/585624/"
+    },
+    "search-engine-journal:24276844372fa315b1bfdce78c9811752a6f7743": {
+      "first_seen": "2026-10-16T23:43:42.089221+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-16/It’s Possible Your Migration Issues May Be Due To Site Quality via @sejournal, @marie_haynes.md",
+      "published": "2026-10-16T14:00:20+00:00",
+      "source": "Search Engine Journal",
+      "title": "It’s Possible Your Migration Issues May Be Due To Site Quality via @sejournal, @marie_haynes",
+      "url": "https://www.searchenginejournal.com/its-possible-your-migration-issues-may-be-due-to-site-quality/592899/"
     },
     "search-engine-journal:2444d93260f9cdfb4c1ba2555c31f399a1e7c16c": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
@@ -2495,6 +2535,14 @@
       "source": "Search Engine Journal",
       "title": "Your Store Is ‘Agent-Ready’ By Default, We Tested 122 Shopify Stores To See What That Actually Means via @sejournal, @billhunt",
       "url": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/"
+    },
+    "search-engine-journal:2f8843ed1864e42673d658df936dcdf2b49b3c20": {
+      "first_seen": "2026-10-16T23:43:42.089221+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-16/Meta’s New Terms Expand Crawling Rights Beyond Advertisers via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-16T21:38:49+00:00",
+      "source": "Search Engine Journal",
+      "title": "Meta’s New Terms Expand Crawling Rights Beyond Advertisers via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/"
     },
     "search-engine-journal:2f895498c0a08eed7920aedab2c8c09c7454e0da": {
       "first_seen": "2026-08-13T22:08:47.953145+00:00",
@@ -3439,6 +3487,14 @@
       "source": "Search Engine Journal",
       "title": "The Future Of Discoverability",
       "url": "https://www.searchenginejournal.com/the-future-of-discoverability/584489/"
+    },
+    "search-engine-journal:70a7aa01eebda3b9d7354d7ef4e69335dca307a0": {
+      "first_seen": "2026-10-16T23:43:42.089221+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-16/Why The New York Times Puts Free Content First.md",
+      "published": "2026-10-16T19:00:23+00:00",
+      "source": "Search Engine Journal",
+      "title": "Why The New York Times Puts Free Content First",
+      "url": "https://www.searchenginejournal.com/why-the-new-york-times-puts-free-content-first/593021/"
     },
     "search-engine-journal:71711be66d7b8717b0952dbb88cf2b665bf50532": {
       "first_seen": "2026-07-23T22:31:00.448317+00:00",
@@ -6001,6 +6057,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-15T23:43:55.433657+00:00",
+  "last_run_at": "2026-10-16T23:43:42.089221+00:00",
   "version": 1
 }

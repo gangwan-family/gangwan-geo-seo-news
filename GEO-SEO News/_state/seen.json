@@ -768,6 +768,14 @@
       "title": "Univé builds an AI-ready workforce",
       "url": "https://openai.com/index/unive"
     },
+    "openai-news:4a2f3ca18eb9cee6e404d64432a48a189cc310da": {
+      "first_seen": "2026-10-17T23:15:02.741070+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-16/Benefit Street Partners answers questions faster with Codex.md",
+      "published": "2026-10-16T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners"
+    },
     "openai-news:4d4e7920d8a762a2dc722c2d13aa26b7d8884024": {
       "first_seen": "2026-09-10T23:17:04.219816+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-09-10/Now everyone can put data to work.md",
@@ -2144,6 +2152,14 @@
       "title": "How AI Search Trends Are Changing PPC Campaign Structures – Ask A PPC via @sejournal, @navahf",
       "url": "https://www.searchenginejournal.com/how-ai-search-trends-are-changing-ppc-campaign-structures-ask-a-ppc/584004/"
     },
+    "search-engine-journal:17413527ffa88c57c32316e7dedf1afdad898455": {
+      "first_seen": "2026-10-17T23:15:02.741070+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-17/Google’s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-17T18:15:44+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google’s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/"
+    },
     "search-engine-journal:1818656c4624a537b6a8ce544e2c3eca9cab97e1": {
       "first_seen": "2026-08-20T21:50:44.537440+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-20/The Keyword Universe Was Always Smaller Than We Thought via @sejournal, @DuaneForrester.md",
@@ -3007,6 +3023,14 @@
       "source": "Search Engine Journal",
       "title": "UK Publisher Loses 98% Of News Search Visibility After .com Move via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/uk-publisher-news-search-visibility-com-move/588840/"
+    },
+    "search-engine-journal:5109459e35c04245583d6251f613b52fde9fc5ac": {
+      "first_seen": "2026-10-17T23:15:02.741070+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-17/Rank Tracker Data, ChatGPT Tags & AI Search Links – SEO Pulse via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-17T12:00:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "Rank Tracker Data, ChatGPT Tags & AI Search Links – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171/"
     },
     "search-engine-journal:51d98db20c9ca9915de73f40f6d2b03ac259ad44": {
       "first_seen": "2026-09-10T23:17:04.219816+00:00",
@@ -6057,6 +6081,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-16T23:43:42.089221+00:00",
+  "last_run_at": "2026-10-17T23:15:02.741070+00:00",
   "version": 1
 }

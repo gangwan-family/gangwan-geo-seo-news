@@ -2552,6 +2552,14 @@
       "title": "Your Store Is ‘Agent-Ready’ By Default, We Tested 122 Shopify Stores To See What That Actually Means via @sejournal, @billhunt",
       "url": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/"
     },
+    "search-engine-journal:2f0ad1183becdb1b38dfa8bd065a82d006371678": {
+      "first_seen": "2026-10-18T23:25:02.799805+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-18/OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-18T08:00:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/"
+    },
     "search-engine-journal:2f8843ed1864e42673d658df936dcdf2b49b3c20": {
       "first_seen": "2026-10-16T23:43:42.089221+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-16/Meta’s New Terms Expand Crawling Rights Beyond Advertisers via @sejournal, @MattGSouthern.md",
@@ -6081,6 +6089,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-17T23:15:02.741070+00:00",
+  "last_run_at": "2026-10-18T23:25:02.799805+00:00",
   "version": 1
 }

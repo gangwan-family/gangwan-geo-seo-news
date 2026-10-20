@@ -1408,6 +1408,14 @@
       "title": "Daybreak models are now available on AWS",
       "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
     },
+    "openai-news:b3fcb2e42d321123382678ef1b3ee803b99778a9": {
+      "first_seen": "2026-10-20T23:59:08.859444+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-20/Franchisee reconciles cash in 94% less time with ChatGPT Work.md",
+      "published": "2026-10-20T10:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant"
+    },
     "openai-news:b4fb82cc1313a309dc9a822b7c40c5ff7131eb6d": {
       "first_seen": "2026-09-22T23:40:24.283022+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-09-22/Priorities and principles for effective third party assessments.md",
@@ -1663,6 +1671,14 @@
       "source": "OpenAI News",
       "title": "Disrupting a new covert influence campaign from Russia",
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+    },
+    "openai-news:dbaa902542534b3aef2de952931670bbaaa97f74": {
+      "first_seen": "2026-10-20T23:59:08.859444+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-20/OpenAI acquires Orchestra Bio.md",
+      "published": "2026-10-20T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
     },
     "openai-news:dd00c04c9b95848ea0ec2f0b57fc95409902cbbb": {
       "first_seen": "2026-10-16T23:43:42.089221+00:00",
@@ -2056,6 +2072,14 @@
       "title": "Google NotebookLM Rebrand May Expose Your Site To More AI Scraping via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-notebooklm-rebrand-may-expose-your-site-to-more-ai-scraping/582775/"
     },
+    "search-engine-journal:10026936e1752dc3b85d20bb322f1aa9a352de5d": {
+      "first_seen": "2026-10-20T23:59:08.859444+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-20/I Tested DeepSeek’s New Search Api, Here’s How It Ranks And Scores Websites via @sejournal, @suganthan.md",
+      "published": "2026-10-20T14:00:13+00:00",
+      "source": "Search Engine Journal",
+      "title": "I Tested DeepSeek’s New Search Api, Here’s How It Ranks And Scores Websites via @sejournal, @suganthan",
+      "url": "https://www.searchenginejournal.com/i-tested-deepseeks-new-search-api-heres-how-it-ranks-and-scores-websites/593408/"
+    },
     "search-engine-journal:10308ac17af32d43846b7e28bdf16a1ed2dda271": {
       "first_seen": "2026-10-10T01:03:05.963699+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-09/Jetpack 16.3 WordPress Plugin Update Is A Winner via @sejournal, @martinibuster.md",
@@ -2408,6 +2432,22 @@
       "title": "The House Doesn’t Publish Its Tells via @sejournal, @pedrodias",
       "url": "https://www.searchenginejournal.com/the-house-doesnt-publish-its-tells/586359/"
     },
+    "search-engine-journal:25e5e799c6b67dc8dc49e2ad580e10d4647fd328": {
+      "first_seen": "2026-10-20T23:59:08.859444+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-20/Regain Control Of Google Ads Better Tracking, Clearer Proof Of ROI via @sejournal, @CallRail.md",
+      "published": "2026-10-20T14:17:07+00:00",
+      "source": "Search Engine Journal",
+      "title": "Regain Control Of Google Ads: Better Tracking, Clearer Proof Of ROI via @sejournal, @CallRail",
+      "url": "https://www.searchenginejournal.com/rundowns/regain-control-of-google-ads-better-tracking-clearer-proof-of-roi/"
+    },
+    "search-engine-journal:25f565c8e835fec4f7baceecb383585fe288ad00": {
+      "first_seen": "2026-10-20T23:59:08.859444+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-20/Search Share Fell To 12% For North American Publishers Chartbeat via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-20T08:00:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "Search Share Fell To 12% For North American Publishers: Chartbeat via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/"
+    },
     "search-engine-journal:2639fce02a0a7e5f8475205ceff75e4480855490": {
       "first_seen": "2026-07-22T05:14:35.177504+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-21/Google’s AI Search Data Is Growing, But The Gaps Remain via @sejournal, @MattGSouthern.md",
@@ -2647,6 +2687,14 @@
       "source": "Search Engine Journal",
       "title": "Google Announces New Query Fan-Out Framework: R4T-Diffusion via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/"
+    },
+    "search-engine-journal:3440942b4e89c3c297e8127a72491332af84b91e": {
+      "first_seen": "2026-10-20T23:59:08.859444+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-20/A New Place To Look Where Your Next AI Citations & Clicks Come From via @sejournal, @hethr_campbell.md",
+      "published": "2026-10-20T07:45:18+00:00",
+      "source": "Search Engine Journal",
+      "title": "A New Place To Look: Where Your Next AI Citations & Clicks Come From via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/where-your-next-ai-citations-clicks-come-from/592892/"
     },
     "search-engine-journal:3451f350cf9211227fe0d5b79eed30c59581f32c": {
       "first_seen": "2026-10-02T00:57:52.800074+00:00",
@@ -2967,6 +3015,14 @@
       "source": "Search Engine Journal",
       "title": "Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/"
+    },
+    "search-engine-journal:4b9d000f8435e152f583ad0e360ccc849f1eac32": {
+      "first_seen": "2026-10-20T23:59:08.859444+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-20/ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-20T15:00:36+00:00",
+      "source": "Search Engine Journal",
+      "title": "ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-search-can-draw-on-more-pages-after-a-cloudflare-pilot/593720/"
     },
     "search-engine-journal:4ba6e408fa2f79c7f9b249f2f94b3689cf1883e3": {
       "first_seen": "2026-10-02T00:57:52.800074+00:00",
@@ -5360,6 +5416,14 @@
       "title": "Social Search Data For All, AI-Detected Pages Rank Lower – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-social-search-data-for-all-ai-detected-pages-rank-lower/584337/"
     },
+    "search-engine-journal:eb0ddc273c806da452faeacf8083c5c29447319b": {
+      "first_seen": "2026-10-20T23:59:08.859444+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-20/What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO via @sejournal, @slobodanmanic.md",
+      "published": "2026-10-20T12:00:04+00:00",
+      "source": "Search Engine Journal",
+      "title": "What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/"
+    },
     "search-engine-journal:eb20d6270bb2ae30bf73cb01b86b58a729dda52f": {
       "first_seen": "2026-09-30T00:37:08.848595+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-29/Trust As A Conversion Lever How To Test Credibility In A Regulated Industry.md",
@@ -5671,6 +5735,14 @@
       "source": "Search Engine Journal",
       "title": "Google’s Hidden Data Layer: What Is It And What To Do About It via @sejournal, @demirie",
       "url": "https://www.searchenginejournal.com/googles-hidden-data-layer-what-is-it-and-what-to-do-about-it/590234/"
+    },
+    "search-engine-journal:fcb7ec6a615211f43bb3cd7a2d04b1e94f04f9a0": {
+      "first_seen": "2026-10-20T23:59:08.859444+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-20/Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap via @sejournal, @gregjarboe.md",
+      "published": "2026-10-20T19:00:30+00:00",
+      "source": "Search Engine Journal",
+      "title": "Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/"
     },
     "search-engine-journal:fd7a9d7a8de15d6f888750e169001bf0ce2d86ef": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
@@ -6145,6 +6217,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-20T00:28:18.688219+00:00",
+  "last_run_at": "2026-10-20T23:59:08.859444+00:00",
   "version": 1
 }

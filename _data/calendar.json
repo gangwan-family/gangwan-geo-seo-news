@@ -204,9 +204,9 @@
             "date": "2026-10-20",
             "day": 20,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 9,
+            "url": "/date/2026-10-20/"
           },
           {
             "date": "2026-10-21",
@@ -309,6 +309,16 @@
         ]
       ],
       "days": [
+        {
+          "date": "2026-10-20",
+          "day": 20,
+          "count": 9,
+          "url": "/date/2026-10-20/",
+          "sources": [
+            "OpenAI News",
+            "Search Engine Journal"
+          ]
+        },
         {
           "date": "2026-10-19",
           "day": 19,

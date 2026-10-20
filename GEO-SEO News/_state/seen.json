@@ -1032,6 +1032,14 @@
       "title": "Our approach to EU text provenance rules",
       "url": "https://openai.com/index/eu-text-provenance"
     },
+    "openai-news:7a364f356aab49466020015082ef4122a7394f52": {
+      "first_seen": "2026-10-20T00:28:18.688219+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-19/Advancing coding in low‑resource programming languages.md",
+      "published": "2026-10-19T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Advancing coding in low‑resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages"
+    },
     "openai-news:7a45b185cff5308545e040bd4a321330824b79c8": {
       "first_seen": "2026-09-03T23:22:40.524144+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-09-03/Playco cut manual fixes 50% prototyping games with GPT-6 Astra.md",
@@ -2488,6 +2496,14 @@
       "title": "Meta Published 2 Documents About Muse And Only One Mentions Attacks via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/meta-published-2-documents-about-muse-and-only-one-mentions-attacks/589071/"
     },
+    "search-engine-journal:2a00b79c302a2cf2d94e9b88857f417f35caadc8": {
+      "first_seen": "2026-10-20T00:28:18.688219+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-19/It Knew Every Word via @sejournal, @pedrodias.md",
+      "published": "2026-10-19T14:00:20+00:00",
+      "source": "Search Engine Journal",
+      "title": "It Knew Every Word via @sejournal, @pedrodias",
+      "url": "https://www.searchenginejournal.com/it-knew-every-word/592680/"
+    },
     "search-engine-journal:2a48431aa9b98843ab70fe0f2764f405648059f7": {
       "first_seen": "2026-10-07T00:51:35.717389+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-06/OpenAI To Test Visual Ads In ChatGPT Image Generation via @sejournal, @brookeosmundson.md",
@@ -2719,6 +2735,14 @@
       "source": "Search Engine Journal",
       "title": "AI’s Impact Is Outrunning Measurement: The Trust And Attribution Gap Facing Brands via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/ais-impact-is-outrunning-measurement-the-trust-and-attribution-gap-facing-brands/584141/"
+    },
+    "search-engine-journal:3b5a1e6c0ce97aa4884109599543af80e5733fd3": {
+      "first_seen": "2026-10-20T00:28:18.688219+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-19/The New Rules Of Journalist Outreach, Based On Millions Of Emails.md",
+      "published": "2026-10-19T12:00:45+00:00",
+      "source": "Search Engine Journal",
+      "title": "The New Rules Of Journalist Outreach, Based On Millions Of Emails",
+      "url": "https://www.searchenginejournal.com/the-new-rules-of-journalist-outreach-based-on-millions-of-emails/592060/"
     },
     "search-engine-journal:3b9412ef899bd0b3e2083d964406f72e5896be8e": {
       "first_seen": "2026-09-24T23:55:23.995738+00:00",
@@ -3023,6 +3047,14 @@
       "source": "Search Engine Journal",
       "title": "ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks via @sejournal, @suganthan",
       "url": "https://www.searchenginejournal.com/chatgpt-rebuilt-its-search-tool-i-read-the-new-language-it-speaks/586710/"
+    },
+    "search-engine-journal:50b39f5821d5d7d298bbe7e44dee5022c4f64ebe": {
+      "first_seen": "2026-10-20T00:28:18.688219+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-19/Meta Drops Training From Its Crawl Clause And Keeps The Crawl via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-19T18:30:50+00:00",
+      "source": "Search Engine Journal",
+      "title": "Meta Drops Training From Its Crawl Clause And Keeps The Crawl via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/meta-removes-training-crawl-clause-commercial-terms/593584/"
     },
     "search-engine-journal:50dbc2049c77f19dc521b96a7cf9cfa0fe01ed70": {
       "first_seen": "2026-09-08T23:29:12.190870+00:00",
@@ -3552,6 +3584,14 @@
       "title": "Reddit Preserved The Part Of The Internet We Broke via @sejournal, @brentcsutoras",
       "url": "https://www.searchenginejournal.com/reddit-preserved-the-part-of-the-internet-we-broke/585485/"
     },
+    "search-engine-journal:73b372c32d075b4e9734bd7dfb5bbf573a57b76c": {
+      "first_seen": "2026-10-20T00:28:18.688219+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-19/B2B Lead Generation How To Choose Your 2027 Marketing Channels [Webinar] via @sejournal, @hethr_campbell.md",
+      "published": "2026-10-19T18:28:32+00:00",
+      "source": "Search Engine Journal",
+      "title": "B2B Lead Generation: How To Choose Your 2027 Marketing Channels [Webinar] via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/b2b-lead-generation-how-to-choose-your-2027-marketing-channels-webinar/593589/"
+    },
     "search-engine-journal:73e12cc282fc69dba235a5fd9e8f555ce61dd95b": {
       "first_seen": "2026-10-14T23:59:16.528335+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-14/Google Explains How They Rank PDFs And What It Means For SEO GEO via @sejournal, @martinibuster.md",
@@ -3951,6 +3991,14 @@
       "source": "Search Engine Journal",
       "title": "People Aren’t Leaving Google For AI. They’re Using Both via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-chatgpt-audience-search-queries-clicks/588200/"
+    },
+    "search-engine-journal:8b6fc4ab8f0bda0414dfc1b6dcd8c2ae2221073c": {
+      "first_seen": "2026-10-20T00:28:18.688219+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-19/DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-19T15:02:15+00:00",
+      "source": "Search Engine Journal",
+      "title": "DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/"
     },
     "search-engine-journal:8b9d7524041854728f03fb240df6b6616b17559e": {
       "first_seen": "2026-09-16T23:41:51.317632+00:00",
@@ -4879,6 +4927,14 @@
       "source": "Search Engine Journal",
       "title": "Google’s Generated Interfaces Could Compete With Tool Pages via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/googles-generated-interfaces-could-compete-with-tool-pages/586589/"
+    },
+    "search-engine-journal:ce5a24725552ea30eabc8f150b40f675bc0aef15": {
+      "first_seen": "2026-10-20T00:28:18.688219+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-19/AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-19T13:34:28+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/"
     },
     "search-engine-journal:ceafac5937e601358726bd3ffa21caa4308ff91f": {
       "first_seen": "2026-10-02T00:57:52.800074+00:00",
@@ -6089,6 +6145,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-18T23:25:02.799805+00:00",
+  "last_run_at": "2026-10-20T00:28:18.688219+00:00",
   "version": 1
 }

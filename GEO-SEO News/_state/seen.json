@@ -504,6 +504,14 @@
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
       "url": "https://openai.com/index/chatgpt-for-academic-researchers"
     },
+    "openai-news:15c1f8ef7a582594bf056b85165849e9f70ce0f3": {
+      "first_seen": "2026-10-23T23:53:54.096763+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-23/OpenAI and Poland’s NASK partner to advance AI safety and security.md",
+      "published": "2026-10-23T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+    },
     "openai-news:167bce5d47e71e473f604d6ca9f1ef8ddcc2d4e1": {
       "first_seen": "2026-09-08T23:29:12.190870+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-09-08/How GPT-5.6 Sol helps run quantum computing experiments.md",
@@ -631,6 +639,14 @@
       "source": "OpenAI News",
       "title": "How Fyxer built an AI executive assistant people trust",
       "url": "https://openai.com/index/fyxer"
+    },
+    "openai-news:298c8de07d18f423dad39eb2358f85464fd4cd53": {
+      "first_seen": "2026-10-23T23:53:54.096763+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-23/Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II).md",
+      "published": "2026-10-23T17:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
     },
     "openai-news:2b26a8066576cc984b3694eea8e3d3f95cde781c": {
       "first_seen": "2026-09-10T23:17:04.219816+00:00",
@@ -800,6 +816,14 @@
       "title": "Univé builds an AI-ready workforce",
       "url": "https://openai.com/index/unive"
     },
+    "openai-news:48e2274fdf2ba9fe48db533ddecc410e5cc41b05": {
+      "first_seen": "2026-10-23T23:53:54.096763+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-23/Securing our frontier model training environment.md",
+      "published": "2026-10-23T10:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+    },
     "openai-news:4a2f3ca18eb9cee6e404d64432a48a189cc310da": {
       "first_seen": "2026-10-17T23:15:02.741070+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-10-16/Benefit Street Partners answers questions faster with Codex.md",
@@ -959,6 +983,14 @@
       "source": "OpenAI News",
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
       "url": "https://openai.com/index/previewing-ultrafast"
+    },
+    "openai-news:63c31ca523f91ccfb067ba69d79f874951382164": {
+      "first_seen": "2026-10-23T23:53:54.096763+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-22/What FDE means at OpenAI.md",
+      "published": "2026-10-22T06:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means"
     },
     "openai-news:65442e708214c10b88da99a535be852d30396736": {
       "first_seen": "2026-10-16T23:43:42.089221+00:00",
@@ -2440,6 +2472,14 @@
       "title": "YouTube To Cut Reach Of Channels Reposting Barely Changed Clips via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/youtube-original-shorts-reposted-clips-reach/591774/"
     },
+    "search-engine-journal:209cdd7309c8214ac4ecfc2f70e1ece76c3c5973": {
+      "first_seen": "2026-10-23T23:53:54.096763+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-23/GEO Is A Distraction Here’s Where The Real Opportunity Is via @sejournal, @marie_haynes.md",
+      "published": "2026-10-23T19:00:43+00:00",
+      "source": "Search Engine Journal",
+      "title": "GEO Is A Distraction: Here’s Where The Real Opportunity Is via @sejournal, @marie_haynes",
+      "url": "https://www.searchenginejournal.com/geo-is-a-distraction-heres-where-the-real-opportunity-is/593870/"
+    },
     "search-engine-journal:20d8a0dff01eebf95488296efafe192797f078e5": {
       "first_seen": "2026-08-12T22:08:28.212173+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-12/Cloudflare Gives AI Agents Wallets That Pay For What They Access via @sejournal, @slobodanmanic.md",
@@ -2447,6 +2487,14 @@
       "source": "Search Engine Journal",
       "title": "Cloudflare Gives AI Agents Wallets That Pay For What They Access via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/cloudflare-gives-ai-agents-wallets-that-pay-for-what-they-access/584959/"
+    },
+    "search-engine-journal:211af3129c2bc74d1a9c5490a5325703e2250bce": {
+      "first_seen": "2026-10-23T23:53:54.096763+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-23/How Rank Trackers Say They Handle Suspect Google Results via @sejournal, @MattGSouthern.md",
+      "published": "2026-10-23T12:00:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "How Rank Trackers Say They Handle Suspect Google Results via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/rank-trackers-suspect-google-results/594049/"
     },
     "search-engine-journal:21a76508e5a4eb61e6e09af07c4181bbe8808c2f": {
       "first_seen": "2026-08-03T22:32:31.168973+00:00",
@@ -3919,6 +3967,14 @@
       "source": "Search Engine Journal",
       "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-image-search-data/590882/"
+    },
+    "search-engine-journal:7b2422c238fa3a7397cc5356e9d06b687537f723": {
+      "first_seen": "2026-10-23T23:53:54.096763+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-23/The Junior Hiring Gap Your 2027 Marketing Budget Should Name via @sejournal, @gregjarboe.md",
+      "published": "2026-10-23T14:00:53+00:00",
+      "source": "Search Engine Journal",
+      "title": "The Junior Hiring Gap Your 2027 Marketing Budget Should Name via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/the-junior-hiring-gap-your-2027-marketing-budget-should-name/592944/"
     },
     "search-engine-journal:7b246b766cdabd882e665891176ecfff10841f31": {
       "first_seen": "2026-08-20T21:50:44.537440+00:00",
@@ -6408,6 +6464,14 @@
       "title": "How to do an SEO audit with Claude & the Semrush MCP",
       "url": "https://www.semrush.com/blog/semrush-seo-audit-with-claude/"
     },
+    "semrush-blog:db121b83d2297f37c3870809512f7f08c798b722": {
+      "first_seen": "2026-10-23T23:53:54.096763+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-10-23/AI search strategy 4 layers of brand visibility.md",
+      "published": "2026-10-23T10:58:00+00:00",
+      "source": "Semrush Blog",
+      "title": "AI search strategy: 4 layers of brand visibility",
+      "url": "https://www.semrush.com/blog/ai-search-strategy/"
+    },
     "semrush-blog:dbe6345dd83aad7d507147a3c793e57da0f6816e": {
       "first_seen": "2026-08-19T21:47:32.784799+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-08-19/Microsoft Clarity adds an AI Scrape-to-Referral Ratio.md",
@@ -6489,6 +6553,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-23T00:02:35.809394+00:00",
+  "last_run_at": "2026-10-23T23:53:54.096763+00:00",
   "version": 1
 }

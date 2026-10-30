@@ -704,6 +704,14 @@
       "title": "Building standards for the next phase of AI",
       "url": "https://openai.com/index/building-standards-next-phase-ai"
     },
+    "openai-news:2d9928289658e98658f7f3e71e7d1e4d989180d1": {
+      "first_seen": "2026-10-30T01:11:20.462555+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-29/How Ropes & Gray is developing AI for transactional diligence.md",
+      "published": "2026-10-29T07:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence"
+    },
     "openai-news:2e155b11d8093d3e923c92601684a4b68a9cbd1e": {
       "first_seen": "2026-09-03T23:22:40.524144+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-09-03/Safety overview GPT-6 Astra.md",
@@ -1215,6 +1223,14 @@
       "source": "OpenAI News",
       "title": "Polimill builds Japan's next-generation public AI infrastructure",
       "url": "https://openai.com/index/polimill"
+    },
+    "openai-news:7bf0065ceb1646f57aedf5f7d913738e013e364b": {
+      "first_seen": "2026-10-30T01:11:20.462555+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-29/An updated Model Spec for more capable and beneficial AI.md",
+      "published": "2026-10-29T17:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec"
     },
     "openai-news:7cff1964bf19497febe21e95b7591534842c3957": {
       "first_seen": "2026-09-23T23:48:48.617752+00:00",
@@ -1831,6 +1847,14 @@
       "source": "OpenAI News",
       "title": "How V7 gives AI agents institutional memory",
       "url": "https://openai.com/index/v7"
+    },
+    "openai-news:d28967fce9c692cd06eccf3709b27a584532abf2": {
+      "first_seen": "2026-10-30T01:11:20.462555+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-10-29/How we detect frontier model misalignment.md",
+      "published": "2026-10-29T09:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
     },
     "openai-news:d2d497e5eee41848c95c5b8ff6ce37155518b6a0": {
       "first_seen": "2026-09-25T23:59:13.886549+00:00",
@@ -2463,6 +2487,14 @@
       "source": "Search Engine Journal",
       "title": "Google Expands Review Guidelines And Warns Of Manual Actions via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-expands-review-guidelines-and-warns-of-manual-actions/583674/"
+    },
+    "search-engine-journal:15d89db62ccc44b6ad271f6e19273aa947714c6f": {
+      "first_seen": "2026-10-30T01:11:20.462555+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-29/Google’s Ads Decoded Explores How AI Is Changing Search Behavior via @sejournal, @brookeosmundson.md",
+      "published": "2026-10-29T20:24:25+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google’s Ads Decoded Explores How AI Is Changing Search Behavior via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-search-behavior-shifts-2027-ads-strategy/594971/"
     },
     "search-engine-journal:15f745eb856be90842dfd6013ef92d071d9309c9": {
       "first_seen": "2026-08-07T01:03:13.764774+00:00",
@@ -3247,6 +3279,14 @@
       "source": "Search Engine Journal",
       "title": "Bitly’s New Data Says SEOs Are Half Right About Short Links via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/"
+    },
+    "search-engine-journal:41b9822c15dfc00c714a5b89fff07d07f9fbcbe0": {
+      "first_seen": "2026-10-30T01:11:20.462555+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-29/HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing via @sejournal, @gregjarboe.md",
+      "published": "2026-10-29T12:00:46+00:00",
+      "source": "Search Engine Journal",
+      "title": "HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/"
     },
     "search-engine-journal:421074c99a1715ee80dc98fc2a7966d980d07333": {
       "first_seen": "2026-09-02T23:26:23.154190+00:00",
@@ -5072,6 +5112,14 @@
       "title": "Google Expands Generative UI Beyond AI Mode Into AI Overviews via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-expands-generative-ui-beyond-ai-mode-into-ai-overviews/586452/"
     },
+    "search-engine-journal:af21dc2b8d9712c304a6268c74ca5c09c807c3d9": {
+      "first_seen": "2026-10-30T01:11:20.462555+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-29/Technical SEO Audit For AI Search Watch Us Do It Live [Webinar] via @sejournal, @hethr_campbell.md",
+      "published": "2026-10-29T07:45:03+00:00",
+      "source": "Search Engine Journal",
+      "title": "Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/technical-seo-audit-for-ai-search-watch-us-do-it-live/594766/"
+    },
     "search-engine-journal:af3d847a1fd3ba376d11f04636b8d1bfc1a74dca": {
       "first_seen": "2026-10-27T00:38:14.123295+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-26/Google Adds Indexing Advice For Shareable Pages To Spam Guide via @sejournal, @MattGSouthern.md",
@@ -5648,6 +5696,14 @@
       "title": "Pichai Says Google Needs Gemini 4 To Compete At The Frontier via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/pichai-says-google-needs-gemini-4-to-compete-at-the-frontier/583214/"
     },
+    "search-engine-journal:d34fcd93f65ad70d1829c14e5bc053a23c626c19": {
+      "first_seen": "2026-10-30T01:11:20.462555+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-29/Accurate Facts Can Still Produce A False AI Answer, And Courts Are Starting To Hold The Platform Responsible via @sejournal, @DuaneForrester.md",
+      "published": "2026-10-29T19:00:31+00:00",
+      "source": "Search Engine Journal",
+      "title": "Accurate Facts Can Still Produce A False AI Answer, And Courts Are Starting To Hold The Platform Responsible via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/accurate-facts-can-still-produce-a-false-ai-answer-and-courts-are-starting-to-hold-the-platform-responsible/594296/"
+    },
     "search-engine-journal:d3581b54720e58f9dbb8f63a1c02600feb51ab36": {
       "first_seen": "2026-08-18T21:44:32.657208+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-18/Why Search Volume Is Screening Out Your Best Content Opportunities.md",
@@ -5664,6 +5720,14 @@
       "title": "Google Announces Campaign Benchmarking In Google Analytics via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-analytics-will-benchmark-campaigns-through-ask-advisor/585213/"
     },
+    "search-engine-journal:d3c70c84045efd1a9eced10050c2ef5c46907173": {
+      "first_seen": "2026-10-30T01:11:20.462555+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-29/Google’s Q3 Selloff Raises Advertiser Concerns About AI Search via @sejournal, @brookeosmundson.md",
+      "published": "2026-10-29T19:47:55+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google’s Q3 Selloff Raises Advertiser Concerns About AI Search via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/googles-q3-selloff-raises-advertiser-concerns-about-ai-search/595005/"
+    },
     "search-engine-journal:d3d6253a143f7d7e40e65ea1c8a1ae394a50d4f4": {
       "first_seen": "2026-10-14T00:25:47.157666+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-13/Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster.md",
@@ -5679,6 +5743,14 @@
       "source": "Search Engine Journal",
       "title": "Customer Lifecycle Goals: The Good, The Bad, The Ugly",
       "url": "https://www.searchenginejournal.com/customer-lifecycle-goals-the-good-the-bad-the-ugly/588192/"
+    },
+    "search-engine-journal:d52ddd8559bf1125c023e6a30ec83c550f79386e": {
+      "first_seen": "2026-10-30T01:11:20.462555+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-29/Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster.md",
+      "published": "2026-10-29T11:07:37+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/"
     },
     "search-engine-journal:d5de6791943840ae73dbaf5744b6f46a25bf3939": {
       "first_seen": "2026-08-18T21:44:32.657208+00:00",
@@ -5959,6 +6031,14 @@
       "source": "Search Engine Journal",
       "title": "ChatGPT’s Index, GA Benchmarks, Google Refiles Complaint – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-chatgpts-index-ga-benchmarks-google-refiles-complaint/585748/"
+    },
+    "search-engine-journal:e7dcc536a1456f92821eb19e7366e802177fceca": {
+      "first_seen": "2026-10-30T01:11:20.462555+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-29/How Can I Tell If My Images Are Optimized For Multimodal Search – Ask an SEO via @sejournal, @HelenPollitt1.md",
+      "published": "2026-10-29T15:30:40+00:00",
+      "source": "Search Engine Journal",
+      "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO via @sejournal, @HelenPollitt1",
+      "url": "https://www.searchenginejournal.com/ask-an-seo-how-can-i-tell-if-my-images-are-optimised-for-multimodal-search/593861/"
     },
     "search-engine-journal:e87293ea7d9f31f25714a8377a840a7ca9be48c3": {
       "first_seen": "2026-09-12T23:07:29.401235+00:00",
@@ -6304,6 +6384,14 @@
       "title": "Where to Find the Exact Phrases That Get Your Content Cited in AI Search via @sejournal, @hethr_campbell",
       "url": "https://www.searchenginejournal.com/where-to-find-the-exact-phrases-that-get-your-content-cited-in-ai-search/591562/"
     },
+    "search-engine-journal:fb40fe8f23a0a0f3dc3a27ff2a7ba09ef70e7bfd": {
+      "first_seen": "2026-10-30T01:11:20.462555+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-28/GA4 Missed 66% Of One Retailer’s Holiday Orders Check Yours Before Peak Season-fb40fe8f23.md",
+      "published": "2026-10-28T12:00:45+00:00",
+      "source": "Search Engine Journal",
+      "title": "GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season",
+      "url": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-season/593007/"
+    },
     "search-engine-journal:fb8f447fd5fddf8147e34aac34d3d172e065650a": {
       "first_seen": "2026-07-21T09:02:00.061153+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-21/AI Overviews Visibility A Reliable Way To Track What Spot-Checks Miss via @sejournal, @hethr_campbell.md",
@@ -6383,6 +6471,14 @@
       "source": "Search Engine Journal",
       "title": "Court Filing Quotes OpenAI Engineer: Users “Won’t Click” Links via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/openai-engineer-users-wont-click-links-court-filing/591303/"
+    },
+    "search-engine-journal:feea46d36588d64f5525410394e8252d06029677": {
+      "first_seen": "2026-10-30T01:11:20.462555+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-10-29/OpenAI’s Aura Safety Check Can Block Your Site From ChatGPT Browsing via @sejournal, @TaylorDanRW.md",
+      "published": "2026-10-29T14:00:06+00:00",
+      "source": "Search Engine Journal",
+      "title": "OpenAI’s Aura Safety Check Can Block Your Site From ChatGPT Browsing via @sejournal, @TaylorDanRW",
+      "url": "https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/"
     },
     "search-engine-journal:ff00c295d7fa61b9e54ba2fd12f4f1c6030f080a": {
       "first_seen": "2026-08-04T22:33:41.749245+00:00",
@@ -6897,6 +6993,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-10-29T01:06:07.336572+00:00",
+  "last_run_at": "2026-10-30T01:11:20.462555+00:00",
   "version": 1
 }

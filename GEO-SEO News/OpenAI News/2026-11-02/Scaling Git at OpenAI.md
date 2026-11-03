@@ -1,0 +1,29 @@
+---
+title: "Scaling Git at OpenAI"
+source: "OpenAI News"
+published: 2026-11-02T15:30:00+00:00
+fetched_at: 2026-11-03T02:58:27.658115+00:00
+url: "https://openai.com/index/scaling-git-at-openai"
+guid: "https://openai.com/index/scaling-git-at-openai"
+categories:
+  - "Engineering"
+---
+
+# Scaling Git at OpenAI
+
+- Source: OpenAI News
+- Published: 2026-11-02
+- URL: https://openai.com/index/scaling-git-at-openai
+- Categories: Engineering
+
+## RSS 摘要
+
+How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.
+
+## 原文正文
+
+原文正文抓取失败：article text not found
+
+## 原文链接
+
+[Read original](https://openai.com/index/scaling-git-at-openai)

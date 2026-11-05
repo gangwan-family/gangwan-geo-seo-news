@@ -336,6 +336,14 @@
       "title": "Announcing web multimodal Search performance reporting in Search Console",
       "url": "https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc"
     },
+    "google-search-central-blog:4bb4d1b14ebdfde668036575fe7ab2590d675bc8": {
+      "first_seen": "2026-11-05T01:33:38.238538+00:00",
+      "path": "GEO-SEO News/Google Search Central Blog/2026-11-04/Search Central Live in Zurich is back!.md",
+      "published": "2026-11-04T00:00:00+00:00",
+      "source": "Google Search Central Blog",
+      "title": "Search Central Live in Zurich is back!",
+      "url": "https://developers.google.com/search/blog/2026/11/search-central-live-zurich-2026"
+    },
     "google-search-central-blog:597fb6718696bdf35a54aa1dc041d61108780b31": {
       "first_seen": "2026-09-14T23:55:09.799509+00:00",
       "path": "GEO-SEO News/Google Search Central Blog/2026-09-14/Search Central Live India 2026 Bengaluru, We're Coming (For Real This Time).md",
@@ -471,6 +479,14 @@
       "source": "OpenAI News",
       "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
       "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
+    },
+    "openai-news:0a437d67f2effbc5f98d2d1d1dd7d2cef925d7b4": {
+      "first_seen": "2026-11-05T01:33:38.238538+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-04/Introducing Images 2.6.md",
+      "published": "2026-11-04T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6"
     },
     "openai-news:0b00c80d502cc3ab98e0f64ac864e5a386422b64": {
       "first_seen": "2026-08-29T03:12:57.517440+00:00",
@@ -839,6 +855,14 @@
       "source": "OpenAI News",
       "title": "Introducing Astra for Law",
       "url": "https://openai.com/index/astra-for-law"
+    },
+    "openai-news:3a06f84c0f51a102b02f8b5a5ff865c2013898ad": {
+      "first_seen": "2026-11-05T01:33:38.238538+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-04/OpenAI to acquire Pierre Computer Company, Inc.md",
+      "published": "2026-11-04T14:30:00+00:00",
+      "source": "OpenAI News",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre"
     },
     "openai-news:3a8585570cab21df194c4115cce4c90cdf272f31": {
       "first_seen": "2026-08-10T22:04:56.121490+00:00",
@@ -1256,6 +1280,14 @@
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
     },
+    "openai-news:75679f5aa60bfcf88cfee2650e1fad6a696bd2d7": {
+      "first_seen": "2026-11-05T01:33:38.238538+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-04/Daybreak Red is now available in AWS GovCloud (US-East).md",
+      "published": "2026-11-04T07:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+    },
     "openai-news:7569338ee0d35289de5fa0da2edc1227182b6ccd": {
       "first_seen": "2026-07-23T22:31:00.448317+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-23/Launching Health in ChatGPT.md",
@@ -1608,6 +1640,14 @@
       "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
       "url": "https://openai.com/index/oracle-apps-in-chatgpt"
     },
+    "openai-news:a4f4c423c54260333db70d9834764f1b9740c579": {
+      "first_seen": "2026-11-05T01:33:38.238538+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-04/A thousand fewer paths to root.md",
+      "published": "2026-11-04T08:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+    },
     "openai-news:a72d1e4da6b0e1062a21232ab241fb1975aaab08": {
       "first_seen": "2026-10-15T23:43:55.433657+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-10-15/Bringing GPT-Rosalind to academic research labs.md",
@@ -1807,6 +1847,14 @@
       "source": "OpenAI News",
       "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
       "url": "https://openai.com/index/basis-tax-workbook-with-astra"
+    },
+    "openai-news:bf25be8f87794d7d4a5b1b85f0196d4373afd49a": {
+      "first_seen": "2026-11-05T01:33:38.238538+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-04/DevRev delivers autonomous self-service with GPT-6.1 Sol.md",
+      "published": "2026-11-04T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service"
     },
     "openai-news:c3aa33826442d0f0cc3fa5d142dd086e756ace1e": {
       "first_seen": "2026-09-12T23:07:29.401235+00:00",
@@ -2360,6 +2408,14 @@
       "title": "Google Ads Launches New Search and AI Max Experimentation Tools via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/google-ads-launches-new-search-and-ai-max-experimentation-tools/586549/"
     },
+    "search-engine-journal:0434f1a10486fe0402df31b6fa6c30a88577bef6": {
+      "first_seen": "2026-11-05T01:33:38.238538+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-04/The 11 SEO Features Every CMS Should Ship With (Most Still Don’t) via @sejournal, @sallymills.md",
+      "published": "2026-11-04T15:00:12+00:00",
+      "source": "Search Engine Journal",
+      "title": "The 11 SEO Features Every CMS Should Ship With (Most Still Don’t) via @sejournal, @sallymills",
+      "url": "https://www.searchenginejournal.com/the-11-seo-features-every-cms-should-ship-with-most-still-dont/594074/"
+    },
     "search-engine-journal:0460e4e19b5c0ab4f4404389fe217b26727f7762": {
       "first_seen": "2026-08-05T22:33:14.053208+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-05/When AI Takes The Click, Click Worthiness Should Guide Your Strategy via @sejournal, @billhunt.md",
@@ -2608,6 +2664,14 @@
       "title": "Google Launches A Video Series For Odd Technical SEO Questions via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-launches-a-video-series-for-odd-technical-seo-questions/592952/"
     },
+    "search-engine-journal:134f1e036f141921883593be6989585ff44d69e1": {
+      "first_seen": "2026-11-05T01:33:38.238538+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-04/Reddit Begins Testing Ads In Its Own Search Results via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-04T21:00:39+00:00",
+      "source": "Search Engine Journal",
+      "title": "Reddit Begins Testing Ads In Its Own Search Results via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/reddit-begins-testing-ads-in-its-own-search-results/595935/"
+    },
     "search-engine-journal:138a21873e564f1dcfee79ac4781e24ed5adc8de": {
       "first_seen": "2026-07-22T22:32:54.477338+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-22/Designing A Measurement Framework Before You Touch GA4 via @sejournal, @bngsrc.md",
@@ -2687,6 +2751,14 @@
       "source": "Search Engine Journal",
       "title": "The Keyword Universe Was Always Smaller Than We Thought via @sejournal, @DuaneForrester",
       "url": "https://www.searchenginejournal.com/the-keyword-universe-was-always-smaller-than-we-thought/586065/"
+    },
+    "search-engine-journal:1891c2f39e278c09e4be6c018bed55ca2a702fc6": {
+      "first_seen": "2026-11-05T01:33:38.238538+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-04/Businesses Treat Your AI Agent 3 Different Ways via @sejournal, @slobodanmanic.md",
+      "published": "2026-11-04T20:00:33+00:00",
+      "source": "Search Engine Journal",
+      "title": "Businesses Treat Your AI Agent 3 Different Ways via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/businesses-treat-your-ai-agent-3-different-ways/595483/"
     },
     "search-engine-journal:18e1c744a922d70165f45a05ae8063bc8081328a": {
       "first_seen": "2026-09-18T23:25:06.353737+00:00",
@@ -2783,6 +2855,14 @@
       "source": "Search Engine Journal",
       "title": "Agentic Commerce Is Not The Next Voice Shopping, But It Is Still Unproven via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/agentic-commerce-is-not-the-next-voice-shopping-but-it-is-still-unproven/589439/"
+    },
+    "search-engine-journal:1ebee6415c4afbc83410f02e26466dd778b57c00": {
+      "first_seen": "2026-11-05T01:33:38.238538+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-04/Google AI Mode Adds Booking & Quote Links For Home Services via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-04T19:34:49+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google AI Mode Adds Booking & Quote Links For Home Services via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ai-mode-home-services-booking-quote-links/595871/"
     },
     "search-engine-journal:1f412834d3a3ae23dc5edead0a49105904b5e036": {
       "first_seen": "2026-09-15T23:33:47.182666+00:00",
@@ -4624,6 +4704,14 @@
       "title": "Details Emerge About Google Discover’s SDF Freshness Algorithm via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/details-emerge-about-google-discovers-sdf-freshness-algorithm/593774/"
     },
+    "search-engine-journal:81b402d189c42ab4ada12210561a20e885e16c93": {
+      "first_seen": "2026-11-05T01:33:38.238538+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-04/Reddit Is Going Logged-In Only – Brands Still Need To Be In The Conversation via @sejournal, @brentcsutoras.md",
+      "published": "2026-11-04T13:00:52+00:00",
+      "source": "Search Engine Journal",
+      "title": "Reddit Is Going Logged-In Only – Brands Still Need To Be In The Conversation via @sejournal, @brentcsutoras",
+      "url": "https://www.searchenginejournal.com/reddit-is-going-logged-in-only-brands-still-need-to-be-in-the-conversation/595765/"
+    },
     "search-engine-journal:81b60931bf7b433f34da4c8dce78a4bedd4e307b": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-20/Google Is Bringing Local Services Ads Into Google Ads via @sejournal, @brookeosmundson.md",
@@ -5840,6 +5928,14 @@
       "title": "Google Analytics Adds Include Filters For Hostnames via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-analytics-include-hostname-filters/590336/"
     },
+    "search-engine-journal:c78372ce5d4583eea8efe41588b7a05d998457e7": {
+      "first_seen": "2026-11-05T01:33:38.238538+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-04/Reach Is Losing As A Paid Media KPI 4 Signals From Jupiter Festival Miami For 2027 via @sejournal, @gregjarboe.md",
+      "published": "2026-11-04T18:00:49+00:00",
+      "source": "Search Engine Journal",
+      "title": "Reach Is Losing As A Paid Media KPI: 4 Signals From Jupiter Festival Miami For 2027 via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/reach-is-losing-as-a-paid-media-kpi-4-signals-from-jupiter-festival-miami-for-2027/595221/"
+    },
     "search-engine-journal:c7ca12a54d6e4e2b38a684c0059b213d93179d3f": {
       "first_seen": "2026-09-30T00:37:08.848595+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-29/AI Won’t Kill Us All, But It’s Rewriting How Marketers Have To Work via @sejournal, @gregjarboe.md",
@@ -6952,6 +7048,14 @@
       "title": "AI Overviews have nearly doubled across five commercial search modifiers",
       "url": "https://www.semrush.com/blog/ai-overviews-commercial-modifiers-study/"
     },
+    "semrush-blog:14c538c9f7bafb6fdfcdb387ab5c5c378169bcb7": {
+      "first_seen": "2026-11-05T01:33:38.238538+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-11-04/AI for product marketing (7 actionable use cases).md",
+      "published": "2026-11-04T10:22:00+00:00",
+      "source": "Semrush Blog",
+      "title": "AI for product marketing (7 actionable use cases)",
+      "url": "https://www.semrush.com/blog/ai-for-product-marketing/"
+    },
     "semrush-blog:19ecb84ee6c8184fed7580b7fb2f344ad6aa6bd6": {
       "first_seen": "2026-10-22T00:03:56.030283+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-10-21/Semrush Starter vs. Pro+ Which plan is right for you.md",
@@ -7408,6 +7512,14 @@
       "title": "AI citation outreach: a Semrush & Claude workflow",
       "url": "https://www.semrush.com/blog/ai-citation-outreach/"
     },
+    "semrush-blog:faaf1da7bbda790945895b4a340e32acf7f59b3b": {
+      "first_seen": "2026-11-05T01:33:38.238538+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-11-04/How to optimize for ChatGPT shopping.md",
+      "published": "2026-11-04T10:36:00+00:00",
+      "source": "Semrush Blog",
+      "title": "How to optimize for ChatGPT shopping",
+      "url": "https://www.semrush.com/blog/optimize-for-chatgpt-shopping/"
+    },
     "semrush-blog:faf945f9a33f9ceacdf034c9ae2e5ff01035387e": {
       "first_seen": "2026-09-02T23:26:23.154190+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-09-02/How to prepare your site for AI agents.md",
@@ -7417,6 +7529,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-11-04T01:31:25.865426+00:00",
+  "last_run_at": "2026-11-05T01:33:38.238538+00:00",
   "version": 1
 }

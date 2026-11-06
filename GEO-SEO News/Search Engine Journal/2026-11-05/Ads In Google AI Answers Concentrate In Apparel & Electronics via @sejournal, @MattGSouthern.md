@@ -1,0 +1,114 @@
+---
+title: "Ads In Google AI Answers Concentrate In Apparel & Electronics via @sejournal, @MattGSouthern"
+source: "Search Engine Journal"
+published: 2026-11-05T15:15:08+00:00
+fetched_at: 2026-11-06T01:40:26.846492+00:00
+url: "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/"
+guid: "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/"
+author: "Matt G. Southern"
+categories:
+  - "News"
+  - "PPC"
+---
+
+# Ads In Google AI Answers Concentrate In Apparel & Electronics via @sejournal, @MattGSouthern
+
+- Source: Search Engine Journal
+- Published: 2026-11-05
+- URL: https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/
+- Author: Matt G. Southern
+- Categories: News, PPC
+
+## RSS 摘要
+
+New holiday data counts ads inside Google AI Overviews, AI Mode and ChatGPT across five shopping categories and shows which prompts ChatGPT ads ran on. The post Ads In Google AI Answers Concentrate In Apparel & Electronics appeared first on Search Engine Journal .
+
+## 原文正文
+
+Ads In Google AI Answers Concentrate In Apparel & Electronics Skip to content
+
+Webinar: 9 AI Workflows For Better Content. Nov 18, 2 PM ET.
+
+Save Your Spot
+
+- SEJ
+
+- ⋅
+
+- PPC
+
+## Ads In Google AI Answers Concentrate In Apparel & Electronics
+
+- A report counted U.S. ads in Google's AI answers across five holiday categories.
+
+- In the vendor's data, ChatGPT ads leaned toward research prompts in beauty, travel and toys.
+
+- Existing Search, Shopping and Performance Max campaigns can already serve inside Google's AI answers.
+
+New holiday data counts ads inside Google AI Overviews, AI Mode and ChatGPT across five shopping categories and shows which prompts ChatGPT ads ran on.
+
+Adthena reported that approximately 175,100 paid ad placements were found within Google’s AI Overview panel as well as AI Mode panels inside the U.S. during the period of June to September. This included five holiday shopping categories; however, the majority of these paid placements belonged to apparel and consumer electronics.
+
+The Holiday AI Paid Search Report also counts 204,489 ChatGPT ad placements in the same five categories over the same months. Adthena sells ad tracking for Google and ChatGPT, and the report closes with an offer for a free trial of its ChatGPT Ads product.
+
+Some U.S. apparel and electronics advertisers may already be using portions of their existing campaigns to serve ads to users who see AI Overviews and AI Mode. The report identifies where the ads appeared, but does not track which ads were clicked, how much was spent, nor what conversions were achieved on either surface.
+
+### Ads Inside Google’s AI Answers
+
+The total number of ads in Google’s AI Answers (in the U.S.) in this report is based upon a combined total for both AI Overviews and AI Mode. In that count, apparel has approximately 111,000 placements; consumer electronics have about 55,000; travel has roughly 6,500; beauty has about 2,100; and toys and games have around 685.
+
+There are no separate ad buys for these placement types. According to Google’s Help Page regarding Ads in AI-Powered Experiences , all Search, Shopping, and Performance Max campaigns that exist are automatically eligible to appear in AI-Answers. Although advertisers cannot specifically target only AI Overviews or AI Mode, or opt out of those placements apart from Search, they may still utilize negative keyword targeting and/or brand exclusions.
+
+The report also reviewed how many times AI Overviews appeared in Google Results for both August of 2025 and August of 2026. Going from 304 million to 575 million, U.S. appearances saw an 89% increase over that period. The UK/EU saw an increase of 160%, while Australia saw an increase of 536%. The report doesn’t describe the queries behind those counts or say whether the set stayed the same across both years.
+
+### ChatGPT Ads In Five Holiday Categories
+
+The report counts 204,489 ChatGPT Ads placements across five categories, Apparel, Consumer Electronics, Travel, Toys & Games and Beauty, from June through September 2026.
+
+Adthena’s press release frames it more broadly, stating more than 200,000 advertisement placements occurred since OpenAI started allowing others to buy advertising space on the chatbot.
+
+In the report’s count, apparel accounted for the largest number of advertisement placements at 90,517. Next was Consumer Electronics with 56,569; then Travel with 48,134; followed by Toys and Games with 4,694 and lastly Beauty with 4,575.
+
+In addition, the company reported that there were 1,082 different advertisers in those five categories using the service in June, 3,741 advertisers in July, and 6,333 advertisers in August. The company projected the number of advertisers in September.
+
+According to the report, the advertisers in its data in Toys and Games increased the most during that time frame from June to August, increasing 13 fold, from what the company calls a relatively low base.
+
+The report states that the total number of advertiser placements included in their research covered all markets, but does not identify which markets or state whether they continued to monitor the same market(s)/queries throughout the entire four-month period. In addition, OpenAI expanded its footprint during that time.
+
+On August 18, OpenAI announced that ChatGPT Ads would be available in 31 European countries . The company began offering this service one week later. Additionally, on September 23, OpenAI began rolling out ChatGPT Ads to seven additional Asian markets .
+
+For perspective, on October 21 OpenAI stated that more than 100,000 advertisers have run campaigns on ChatGPT Ads since the advertising capability was opened up to outside parties just over eight months earlier. This figure represents all categories and the complete period of time that ChatGPT Ads has been open to third-party advertisers, so it isn’t directly comparable to the report’s monthly counts.
+
+### Which ChatGPT Prompts Carried Ads
+
+In addition to that, the report groups ChatGPT ads based on the nature of the search that an ad was run against. It describes research and discovery queries as “people comparing or asking what’s best rather than naming a product.”
+
+In beauty, 83% of ads ran on those queries, while travel and toys & games were at 69% and 67% respectively. Apparel and consumer electronics came in under half, at 48% and 42% respectively.
+
+Again, the press release references only the data related to beauty, travel and toys. The report provides no information about how questions were categorized.
+
+### Why This Matters
+
+Since Google includes searches that prompt ads in AI Overviews and AI Mode in aggregate in its standard reports for all of Search, they are intermingled throughout your search terms report.
+
+In ChatGPT, best-of and comparison prompts carried most of the observed ads in beauty, travel & toys, and less than 50% of those seen in apparel and electronics.
+
+### Looking Ahead
+
+After the report’s time frame closed, Google’s ads within their AI answers continued to evolve. Google announced that they were launching multi-turn ads in the United States on October 28. These allow advertisers’ ads to show up on subsequent searches (queries) in AI Mode. In addition, Google stated that ads in AI Mode are scaling to ten additional countries including Canada and Australia. They further stated that Brazil, Mexico and the United Kingdom were planned for Q4 2026.
+
+OpenAI’s October 21 announcement expanded ChatGPT Ads to 89 countries. The most recent Adthena data is from September so does not include these new developments nor the weeks surrounding Black Friday.
+
+Featured Image: Spiximcreation/Shutterstock. Source: Google.
+
+Category News PPC
+
+Read Full Bio
+
+SEJ STAFF Matt G. Southern Senior News Writer at Search Engine Journal
+
+Follow on YouTube. Matt G. Southern is the Senior News Writer at Search Engine Journal, where he’s covered Google, SEO, ...
+
+## 原文链接
+
+[Read original](https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/)

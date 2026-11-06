@@ -144,6 +144,14 @@
       "title": "5 ways to host the ultimate dinner party with Google Search",
       "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/"
     },
+    "google-ai-blog:63c3d56bc72bc9e8d1c76d129dbfda82a7ed7bfa": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-11-05/Gemini Omni 1.2 Flash Fast and cost-effective with longer clips.md",
+      "published": "2026-11-05T17:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+    },
     "google-ai-blog:66eabab6976f3ac7c05cb437c4829db4a70dee7f": {
       "first_seen": "2026-09-01T23:26:13.848773+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-09-01/The latest AI news we announced in August 2026.md",
@@ -672,6 +680,14 @@
       "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
       "url": "https://openai.com/index/expanding-ai-access-us-government"
     },
+    "openai-news:1f9981de57006417a4ebd14accd44878c1e9d158": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-05/Flipsnack grows product signups with conversion optimization.md",
+      "published": "2026-11-05T00:45:15+00:00",
+      "source": "OpenAI News",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "url": "https://openai.com/ads/customers/flipsnack"
+    },
     "openai-news:20b0eb2d5c1499740c7eb0c94f0e2e59fcb04e9d": {
       "first_seen": "2026-07-22T05:14:35.177504+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-21/OpenAI and Hugging Face partner to address security incident during model evaluation.md",
@@ -815,6 +831,14 @@
       "source": "OpenAI News",
       "title": "The EU’s next chapter in AI is agentic",
       "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+    },
+    "openai-news:300d91101f21ec1db57e65e8d8390a93f01c350b": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-05/Merge builds product and business tools with OpenAI technology.md",
+      "published": "2026-11-05T08:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai"
     },
     "openai-news:305f03a4aa6aa16d7e1ec597ef4e03503e16523b": {
       "first_seen": "2026-09-08T23:29:12.190870+00:00",
@@ -1047,6 +1071,14 @@
       "source": "OpenAI News",
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
+    },
+    "openai-news:53c56afbaf05f856eba574dee155263173cd7748": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-05/GPT‑6 Cyber Advancing the frontier of aligned cybersecurity agents.md",
+      "published": "2026-11-05T09:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber"
     },
     "openai-news:54e616a32e5ede38b908269b87c96f01d007be0c": {
       "first_seen": "2026-08-04T22:33:41.749245+00:00",
@@ -1856,6 +1888,14 @@
       "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
       "url": "https://openai.com/index/devrev-enterprise-self-service"
     },
+    "openai-news:c0d7b0808284d1827cd12b53f4900061f689915d": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-05/Franklin Templeton uses OpenAI to support investment research.md",
+      "published": "2026-11-05T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "url": "https://openai.com/index/franklin-templeton"
+    },
     "openai-news:c3aa33826442d0f0cc3fa5d142dd086e756ace1e": {
       "first_seen": "2026-09-12T23:07:29.401235+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-09-11/Cognition helps Devin test its own work with GPT‑6 Astra.md",
@@ -1911,6 +1951,14 @@
       "source": "OpenAI News",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+    },
+    "openai-news:c88b52d0b21039c72dea8f05c76e66a260655c3b": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-05/Cult.fit builds operational muscle with Codex.md",
+      "published": "2026-11-05T20:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex"
     },
     "openai-news:ca1ec6c6a1a1314d953bafc0b010c073f56e9464": {
       "first_seen": "2026-10-09T01:17:51.840578+00:00",
@@ -2279,6 +2327,14 @@
       "source": "OpenAI News",
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
       "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+    },
+    "openai-news:f93567576105c7139347931d4fd5aa66d92f2c44": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-05/Setting a new standard for responsible AI infrastructure.md",
+      "published": "2026-11-05T02:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
     },
     "openai-news:fa14b8f7db4605dfa58d6966f0032b53bc43f042": {
       "first_seen": "2026-10-15T23:43:55.433657+00:00",
@@ -3160,6 +3216,14 @@
       "title": "Google AI Overviews Have More Links, But Not All Reach The Web via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-ai-overviews-have-more-links-but-not-all-reach-the-web/590762/"
     },
+    "search-engine-journal:2b52da8177837710e7fc1e9b90b923a7467eda3a": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-05/Google Search Queries Hit A 5-Year High, And Search Revenue Didn’t Follow via @sejournal, @DuaneForrester.md",
+      "published": "2026-11-05T20:00:58+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Search Queries Hit A 5-Year High, And Search Revenue Didn’t Follow via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/google-search-queries-hit-a-5-year-high-and-search-revenue-didnt-follow/595485/"
+    },
     "search-engine-journal:2bb3174111ce10ceb052cc2b5c0b4036d6bc33b2": {
       "first_seen": "2026-09-25T23:59:13.886549+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-25/The Text-Only Version Of Your Website Strips Out The Wrong Layer via @sejournal, @slobodanmanic.md",
@@ -3560,6 +3624,14 @@
       "title": "Anthropic Reveals What The Watermark Is And How It Can Be Defeated via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/anthropic-reveals-what-the-watermark-is-and-how-it-can-be-defeated/585930/"
     },
+    "search-engine-journal:40112c92b09c5792189864803400ae42261623d9": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-05/SERP Data Providers Say Google Is Throttling Goto Result Links via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-05T11:48:21+00:00",
+      "source": "Search Engine Journal",
+      "title": "SERP Data Providers Say Google Is Throttling Goto Result Links via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-goto-result-links-throttling/595959/"
+    },
     "search-engine-journal:40c17b4a0d8f91cc9a0e1edd5aff64fe7a99696a": {
       "first_seen": "2026-10-11T00:17:14.156088+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-10/Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse via @sejournal, @MattGSouthern.md",
@@ -3639,6 +3711,14 @@
       "source": "Search Engine Journal",
       "title": "How To Advertise In Google AI Mode For Ecommerce via @sejournal, @tonyadam",
       "url": "https://www.searchenginejournal.com/how-to-advertise-in-google-ai-mode-for-ecommerce/582810/"
+    },
+    "search-engine-journal:45e37e8436a880ae4758123c25815d5265fb82bc": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-05/Ads In Google AI Answers Concentrate In Apparel & Electronics via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-05T15:15:08+00:00",
+      "source": "Search Engine Journal",
+      "title": "Ads In Google AI Answers Concentrate In Apparel & Electronics via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/"
     },
     "search-engine-journal:4685b0edaaf8003a5b6285502841f9607b1159ee": {
       "first_seen": "2026-08-29T23:27:51.664304+00:00",
@@ -4176,6 +4256,14 @@
       "title": "OpenAI Says Robots.txt May Not Apply To ChatGPT’s Fetch Bot via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/openai-says-robots-txt-may-not-apply-to-chatgpts-fetch-bot/585864/"
     },
+    "search-engine-journal:64c2aa07d3eaed4b13e1bc0e1489d3f48d7c6155": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-05/AI Visibility vs. Search Rankings Is Your Agency Measuring the Wrong Thing For 2027.md",
+      "published": "2026-11-05T06:03:53+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Visibility vs. Search Rankings: Is Your Agency Measuring the Wrong Thing For 2027?",
+      "url": "https://www.searchenginejournal.com/ai-visibility-vs-search-rankings-is-your-agency-measuring-the-wrong-thing-for-2027-spa/594163/"
+    },
     "search-engine-journal:652a2088b7915760a4e19751248a8d5fca95049e": {
       "first_seen": "2026-08-28T05:30:34.018543+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-27/We Analyzed 107 Million AI Answers. Here’s Where Each Industry’s Citations Actually Come From via @sejournal, @trendos_com.md",
@@ -4463,6 +4551,14 @@
       "source": "Search Engine Journal",
       "title": "Google Rolls Out AI Mode Info Monitoring To All Users Globally via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-ai-mode-info-monitoring-global-rollout/591312/"
+    },
+    "search-engine-journal:74b75eb9f8493fc933c74aec35674631f6bc849a": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-05/Google Explains How Redirects Affect Ranking Signals via @sejournal, @martinibuster.md",
+      "published": "2026-11-05T12:23:47+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Explains How Redirects Affect Ranking Signals via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-explains-how-redirects-affect-ranking-signals/595967/"
     },
     "search-engine-journal:74d68ad371152c76697e462c9d7a2fe915fac9f8": {
       "first_seen": "2026-10-29T01:06:07.336572+00:00",
@@ -4792,6 +4888,14 @@
       "title": "ChatGPT Already Knows Who It’ll Recommend Before It Searches via @sejournal, @suganthan",
       "url": "https://www.searchenginejournal.com/chatgpt-already-knows-who-itll-recommend-before-it-searches/585162/"
     },
+    "search-engine-journal:856bc8e67a82722fe1c09edb78f97f1161e4def4": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-05/GEO Isn’t A Distraction – Referral Data Misses Where AI Shapes Buying Decisions via @sejournal, @TaylorDanRW.md",
+      "published": "2026-11-05T13:00:43+00:00",
+      "source": "Search Engine Journal",
+      "title": "GEO Isn’t A Distraction – Referral Data Misses Where AI Shapes Buying Decisions via @sejournal, @TaylorDanRW",
+      "url": "https://www.searchenginejournal.com/geo-isnt-a-distraction-referral-data-misses-where-ai-shapes-buying-decisions/595730/"
+    },
     "search-engine-journal:859454922c539a23408f41fc49ee56d0f40dd4ac": {
       "first_seen": "2026-07-26T22:29:23.689020+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-26/X Live-Tweets Its Fight Against Chatbot Spam In Real-Time via @sejournal, @martinibuster.md",
@@ -5071,6 +5175,14 @@
       "source": "Search Engine Journal",
       "title": "AI Visibility For Local Businesses: How To Get Recommended By ChatGPT & AI Overviews In 90 Days via @sejournal, @reviewlyAI",
       "url": "https://www.searchenginejournal.com/ai-overview-recommendation-plan-reviewly-spa/587030/"
+    },
+    "search-engine-journal:957c6ba16dff6ecc9df8a4c2c98d657f2bfde10f": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-05/November Click Spikes In Google Search Console Are Bot Traffic – How To Filter Your Reports via @sejournal, @marie_haynes.md",
+      "published": "2026-11-05T18:00:28+00:00",
+      "source": "Search Engine Journal",
+      "title": "November Click Spikes In Google Search Console Are Bot Traffic – How To Filter Your Reports via @sejournal, @marie_haynes",
+      "url": "https://www.searchenginejournal.com/november-click-spikes-in-google-search-console-are-bot-traffic-how-to-filter-your-reports/595834/"
     },
     "search-engine-journal:95da4a5ee24fda41ef603618e751a13280e7cea2": {
       "first_seen": "2026-09-01T00:41:30.291545+00:00",
@@ -5888,6 +6000,14 @@
       "title": "Google AI Payment Pilot, Search Profiles At 10,000 – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-google-ai-payment-pilot-search-profiles-at-10000/589849/"
     },
+    "search-engine-journal:c39e0ebc9731649405d32551c1cb9251141dd805": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-05/Google Brings UCP Direct Checkout To AI Mode In Canada via @sejournal, @brookeosmundson.md",
+      "published": "2026-11-05T03:38:11+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Brings UCP Direct Checkout To AI Mode In Canada via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-brings-ucp-direct-checkout-to-ai-mode-in-canada/595882/"
+    },
     "search-engine-journal:c3cd3d4133612ad5ee049616108ba5b9696f77d6": {
       "first_seen": "2026-10-15T23:43:55.433657+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-15/Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern.md",
@@ -6415,6 +6535,14 @@
       "source": "Search Engine Journal",
       "title": "Using AI To Assist With SEO Work, Not Replace The Worker via @sejournal, @chrisgreenseo",
       "url": "https://www.searchenginejournal.com/using-ai-to-assist-with-seo-work-not-replace-the-worker/591045/"
+    },
+    "search-engine-journal:e2dd735ab2181f92b2f20b1a7196f6efb2e4ec16": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-05/How To Optimize For Better Campaign Leads, Not Just Conversions – Ask A PPC via @sejournal, @navahf.md",
+      "published": "2026-11-05T15:00:32+00:00",
+      "source": "Search Engine Journal",
+      "title": "How To Optimize For Better Campaign Leads, Not Just Conversions – Ask A PPC via @sejournal, @navahf",
+      "url": "https://www.searchenginejournal.com/ask-a-ppc-how-to-optimize-for-better-outcomes-not-just-conversions/594569/"
     },
     "search-engine-journal:e2f5f85ba0a122f0c1726048d2d94ae9e1d3f379": {
       "first_seen": "2026-10-09T01:17:51.840578+00:00",
@@ -7016,6 +7144,14 @@
       "title": "Critical PHP Core Security Flaws Affect Websites, Including WordPress via @sejournal, @vahandev",
       "url": "https://www.searchenginejournal.com/critical-php-core-security-flaws-affect-websites-including-wordpress/593812/"
     },
+    "search-engine-journal:fffd7234dda959cb583558e4d83be7fa885de5c5": {
+      "first_seen": "2026-11-06T01:40:26.846492+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-05/FTC Unseals Details In Amazon Ads Auction Surcharge Suit via @sejournal, @brookeosmundson.md",
+      "published": "2026-11-05T21:23:01+00:00",
+      "source": "Search Engine Journal",
+      "title": "FTC Unseals Details In Amazon Ads Auction Surcharge Suit via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/ftc-unseals-details-amazon-ads-auction-surcharge-suit/596010/"
+    },
     "semrush-blog:007662e0fbb38caba46a9ec746985ae2d5d30a78": {
       "first_seen": "2026-09-22T23:40:24.283022+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-09-22/Google's AI contribution pilot pays publishers.md",
@@ -7529,6 +7665,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-11-05T01:33:38.238538+00:00",
+  "last_run_at": "2026-11-06T01:40:26.846492+00:00",
   "version": 1
 }

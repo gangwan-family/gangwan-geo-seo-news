@@ -184,6 +184,14 @@
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/"
     },
+    "google-ai-blog:7e65614cc89aac7b14f8654a5f6e002a39f36cc4": {
+      "first_seen": "2026-11-12T02:20:23.221991+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-11-11/Experience the art and legacy of Dr. Esther Mahlangu.md",
+      "published": "2026-11-11T09:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"
+    },
     "google-ai-blog:8a86c97089bb6492a0d56ae3b57839b4eba255f2": {
       "first_seen": "2026-09-23T23:48:48.617752+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-09-23/Google Beam expands with new regions, partners, and customers.md",
@@ -192,6 +200,14 @@
       "title": "Google Beam expands with new regions, partners, and customers",
       "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"
     },
+    "google-ai-blog:8e4104a923ec61a4f8ae359a46bd4c4e09f17425": {
+      "first_seen": "2026-11-12T02:20:23.221991+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-11-11/Gemini Decisions API Fast, calibrated multimodal decisions.md",
+      "published": "2026-11-11T18:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    },
     "google-ai-blog:928c08785b292a8ecd7d202678538c3af74e07a2": {
       "first_seen": "2026-08-04T22:33:41.749245+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-08-03/Inside our 353,000-person vibe coding course.md",
@@ -199,6 +215,14 @@
       "source": "Google AI Blog",
       "title": "Inside our 353,000-person vibe coding course",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
+    },
+    "google-ai-blog:97adab01dbf7344a43764710f8e68c35240ed3b8": {
+      "first_seen": "2026-11-12T02:20:23.221991+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-11-11/Try Tabletop Customizable, collaborative spaces for groups to plan, play and do more together.md",
+      "published": "2026-11-11T16:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
     },
     "google-ai-blog:a243976a4aeffe7860e7187de6b5143672c61ef6": {
       "first_seen": "2026-09-15T23:33:47.182666+00:00",
@@ -383,6 +407,14 @@
       "source": "Google Search Central Blog",
       "title": "Search Central Live India 2026: Bengaluru, We're Coming (For Real This Time)",
       "url": "https://developers.google.com/search/blog/2026/09/search-central-live-india-2026"
+    },
+    "google-search-central-blog:637f8dce3443d1fb830c4682d64cc1f6ece078f3": {
+      "first_seen": "2026-11-12T02:20:23.221991+00:00",
+      "path": "GEO-SEO News/Google Search Central Blog/2026-11-11/Moving to a CDN without overwhelming your origin (or blocking Googlebot).md",
+      "published": "2026-11-11T00:00:00+00:00",
+      "source": "Google Search Central Blog",
+      "title": "Moving to a CDN without overwhelming your origin (or blocking Googlebot)",
+      "url": "https://developers.google.com/search/blog/2026/11/crawling-cdn"
     },
     "google-search-central-blog:8e130528dca2069d0328df6d790b59eda66fe0fb": {
       "first_seen": "2026-10-31T00:54:29.454493+00:00",
@@ -719,6 +751,14 @@
       "source": "OpenAI News",
       "title": "Flipsnack grows product signups with conversion optimization",
       "url": "https://openai.com/ads/customers/flipsnack"
+    },
+    "openai-news:1ff74ee2cb1066374d17a7df61ac63f71f255a67": {
+      "first_seen": "2026-11-12T02:20:23.221991+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-10/Cogent and OpenAI build cyber defense factories for enterprises.md",
+      "published": "2026-11-10T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security"
     },
     "openai-news:20b0eb2d5c1499740c7eb0c94f0e2e59fcb04e9d": {
       "first_seen": "2026-07-22T05:14:35.177504+00:00",
@@ -1071,6 +1111,14 @@
       "source": "OpenAI News",
       "title": "Now everyone can put data to work",
       "url": "https://openai.com/index/put-data-to-work"
+    },
+    "openai-news:4e3e5904c85ae763182dbf1ae7b78b867d5f7268": {
+      "first_seen": "2026-11-12T02:20:23.221991+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-10/Singapore Airlines elevates travel & work with OpenAI technology.md",
+      "published": "2026-11-10T08:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work"
     },
     "openai-news:4e410dad70fb92989558aa8ff122fdd9cabd1589": {
       "first_seen": "2026-09-10T23:17:04.219816+00:00",
@@ -1488,6 +1536,14 @@
       "title": "Putting frontier cyber models in more trusted hands",
       "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
     },
+    "openai-news:80b38ea7da372c49e059a0a93b8b44c1ad9ac0e2": {
+      "first_seen": "2026-11-12T02:20:23.221991+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-11/ChatGPT Plus for veterans and servicemembers.md",
+      "published": "2026-11-11T08:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+    },
     "openai-news:829e237a888dfb1db7a5721c66a265431ed0f320": {
       "first_seen": "2026-08-25T21:50:45.285434+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-25/The full stack behind abundant intelligence.md",
@@ -1519,6 +1575,14 @@
       "source": "OpenAI News",
       "title": "Introducing dots",
       "url": "https://openai.com/index/introducing-dots"
+    },
+    "openai-news:8c999d6885d24711e9176d230ab5bde4e8521195": {
+      "first_seen": "2026-11-12T02:20:23.221991+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-11/JioStar’s chief architect on AI discovery at 500M-user scale.md",
+      "published": "2026-11-11T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri"
     },
     "openai-news:8cb333260a17a324432715cb9b46155f1d0d6a44": {
       "first_seen": "2026-10-28T00:36:07.961291+00:00",
@@ -3903,6 +3967,14 @@
       "source": "Search Engine Journal",
       "title": "How To Audit Publisher Websites In 2026",
       "url": "https://www.searchenginejournal.com/how-to-audit-publisher-websites-in-2026/586349/"
+    },
+    "search-engine-journal:485eb07de89403b36d6df196b1acecd841041f78": {
+      "first_seen": "2026-11-12T02:20:23.221991+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-11/Visibility Gets You On The List, Evidence Helps You Stay There via @sejournal, @billhunt.md",
+      "published": "2026-11-11T15:00:59+00:00",
+      "source": "Search Engine Journal",
+      "title": "Visibility Gets You On The List, Evidence Helps You Stay There via @sejournal, @billhunt",
+      "url": "https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/"
     },
     "search-engine-journal:48892536edbf8aec609fca0488d2273b6f6b0a65": {
       "first_seen": "2026-09-29T01:05:54.844618+00:00",
@@ -6448,6 +6520,14 @@
       "title": "What Opting Out Of Google’s AI Search Features Means Now via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/what-opting-out-of-googles-ai-search-features-means-now/584321/"
     },
+    "search-engine-journal:cf3ab5dddf474e160bbe1693d60c8b8513e86cff": {
+      "first_seen": "2026-11-12T02:20:23.221991+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-11/Google Ads Gives You More Channel Control – But Not As Much As You Think via @sejournal, @brookeosmundson.md",
+      "published": "2026-11-11T13:00:37+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Ads Gives You More Channel Control – But Not As Much As You Think via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/"
+    },
     "search-engine-journal:cffacb4ae3c8d93109574153fce86ef88aee6ed1": {
       "first_seen": "2026-10-02T00:57:52.800074+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-01/Judge Acknowledges Publisher Harm But Dismisses Google Antitrust Claims via @sejournal, @martinibuster.md",
@@ -7232,6 +7312,14 @@
       "title": "State Of Search 2027: What To Stop, Measure & Fund",
       "url": "https://www.searchenginejournal.com/state-of-search-2027-what-to-stop-measure-fund/589617/"
     },
+    "search-engine-journal:f714fa17d81aac31753e5830bc842dcbbe69bc70": {
+      "first_seen": "2026-11-12T02:20:23.221991+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-11/Google Discovers Unexpected Patterns In AI Image Generation via @sejournal, @martinibuster.md",
+      "published": "2026-11-11T14:18:51+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Discovers Unexpected Patterns In AI Image Generation via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-discovers-unexpected-patterns-in-ai-image-generation/596745/"
+    },
     "search-engine-journal:f774dea54f31a6ee43798368c5dc0855ec1cff54": {
       "first_seen": "2026-09-15T23:33:47.182666+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-15/Selling On ChatGPT How Brands Are Driving Revenue Through Ads & GEO [Webinar] via @sejournal, @lorenbaker.md",
@@ -7704,6 +7792,14 @@
       "title": "What is zero-click marketing? How to execute and measure it",
       "url": "https://www.semrush.com/blog/zero-click-marketing/"
     },
+    "semrush-blog:7433c3901347243fa64c9f1b3635853775f62bc3": {
+      "first_seen": "2026-11-12T02:20:23.221991+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-11-11/How to use Semrush with Google Search Console.md",
+      "published": "2026-11-11T11:40:00+00:00",
+      "source": "Semrush Blog",
+      "title": "How to use Semrush with Google Search Console",
+      "url": "https://www.semrush.com/blog/semrush-google-search-console/"
+    },
     "semrush-blog:7a5fc5e1fc323a78639935aa0e974f1d90ba3dea": {
       "first_seen": "2026-09-01T23:26:13.848773+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-09-01/Where does AI get its information And how to get cited.md",
@@ -8001,6 +8097,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-11-11T01:20:18.889909+00:00",
+  "last_run_at": "2026-11-12T02:20:23.221991+00:00",
   "version": 1
 }

@@ -112,6 +112,14 @@
       "title": "The latest AI news we announced in July 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
     },
+    "google-ai-blog:459a57b4750adf481f4fa55659448bcf83789fd8": {
+      "first_seen": "2026-11-13T01:59:13.004788+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-11-12/Google Search gets a major upgrade with Gemini 4 Hydrogen.md",
+      "published": "2026-11-12T18:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+    },
     "google-ai-blog:4a94e64db0fdd119f9dd1abbae7ddcfc6351311e": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-07-14/Celebrating 25 years of visual search innovation.md",
@@ -543,6 +551,14 @@
       "source": "OpenAI News",
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+    },
+    "openai-news:0990939c7d6ea9f7b924e5d425b1951c897f11ae": {
+      "first_seen": "2026-11-13T01:59:13.004788+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-12/Holiday Extras is rethinking what it can build with Codex.md",
+      "published": "2026-11-12T09:30:00+00:00",
+      "source": "OpenAI News",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
     },
     "openai-news:09a0c6dbf1c6c00d5fb73a47cc29663a5b36542b": {
       "first_seen": "2026-09-23T23:48:48.617752+00:00",
@@ -1224,6 +1240,14 @@
       "title": "Qodo builds context into AI code review with Codex",
       "url": "https://openai.com/index/qodo-codex-plugin"
     },
+    "openai-news:5b0f73df89a6e31055eee70c9f8e540f23e75376": {
+      "first_seen": "2026-11-13T01:59:13.004788+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-12/How Amplitude ships product improvements in 1–2 days with OpenAI.md",
+      "published": "2026-11-12T20:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude"
+    },
     "openai-news:5ca4dc7b6d88cb31d41f9b1c287b0178583121a9": {
       "first_seen": "2026-11-11T01:20:18.889909+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-11-10/Introducing Businesses in ChatGPT.md",
@@ -1632,6 +1656,14 @@
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "url": "https://openai.com/index/asana-browser-agent"
     },
+    "openai-news:90d79223706ea3abe78dd2ccec4a9d94005b5123": {
+      "first_seen": "2026-11-13T01:59:13.004788+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-12/Gondola doubles revenue as its team builds more with Codex.md",
+      "published": "2026-11-12T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola"
+    },
     "openai-news:9146ff1756af0f60b5f477a4d8ca11d0af20e7a2": {
       "first_seen": "2026-07-31T22:32:16.940991+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-30/How avatarin built a 24 7 retail agent with GPT-Realtime.md",
@@ -1903,6 +1935,14 @@
       "source": "OpenAI News",
       "title": "Introducing Intelligence Age",
       "url": "https://openai.com/index/introducing-intelligence-age"
+    },
+    "openai-news:b06379671ede1f625c58d8bbc9930e4829995069": {
+      "first_seen": "2026-11-13T01:59:13.004788+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-12/Supporting research on AI and children’s safety.md",
+      "published": "2026-11-12T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration"
     },
     "openai-news:b07b0b2b4d66deeda36a76840fc2bf5e800c8111": {
       "first_seen": "2026-09-02T23:26:23.154190+00:00",
@@ -2928,6 +2968,14 @@
       "title": "Google Downplays Search Console “Error” Reports. Says Many Aren’t Real Problems via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-downplays-search-console-error-reports-says-many-arent-real-problems/582890/"
     },
+    "search-engine-journal:14d401bca6113812db9d3e4b2c1f57af97ff5eb7": {
+      "first_seen": "2026-11-13T01:59:13.004788+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-12/How to Submit Your Website to ChatGPT Business Hub via @sejournal, @vahandev.md",
+      "published": "2026-11-12T13:10:15+00:00",
+      "source": "Search Engine Journal",
+      "title": "How to Submit Your Website to ChatGPT Business Hub via @sejournal, @vahandev",
+      "url": "https://www.searchenginejournal.com/submit-website-chatgpt/596785/"
+    },
     "search-engine-journal:150015459bf3eee1a425fd7a774cff47619c684f": {
       "first_seen": "2026-08-25T21:50:45.285434+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-25/Google Local Services Ads Are Moving To Performance Max What To Check First.md",
@@ -3119,6 +3167,14 @@
       "source": "Search Engine Journal",
       "title": "Local Services Ads To Performance Max: What To Audit Before Migration via @sejournal, @hethr_campbell",
       "url": "https://www.searchenginejournal.com/local-services-ads-to-performance-max-what-to-audit-before-migration-recap/588906/"
+    },
+    "search-engine-journal:1f5cc4d2d133b82bd45f5e35173cecdf42c8da6e": {
+      "first_seen": "2026-11-13T01:59:13.004788+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-12/Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson.md",
+      "published": "2026-11-12T21:01:44+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/"
     },
     "search-engine-journal:1f7741ec34e8af77cefc3bb1e902f296ebd44384": {
       "first_seen": "2026-10-01T00:39:00.785820+00:00",
@@ -4000,6 +4056,14 @@
       "title": "AI Workflows Outscored Human Translators In 4 Of 6 Content Types – China Benchmark Study via @sejournal, @MPentzek",
       "url": "https://www.searchenginejournal.com/humans-lost-4-of-6-content-types-in-our-localization-benchmark/589294/"
     },
+    "search-engine-journal:4a5e1e300c58b9fa2d28cf9a5be9b3021b2de62b": {
+      "first_seen": "2026-11-13T01:59:13.004788+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-12/The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think via @sejournal, @DuaneForrester.md",
+      "published": "2026-11-12T15:00:53+00:00",
+      "source": "Search Engine Journal",
+      "title": "The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/the-traffic-pool-is-shrinking-and-which-channel-fills-it-matters-less-than-we-think/596346/"
+    },
     "search-engine-journal:4a66e4f07872b257c6630dfd4575d6724f87424e": {
       "first_seen": "2026-10-06T01:48:26.774888+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-05/AI Cites Your Brand How to Choose Your Next Move via @sejournal, @hethr_campbell.md",
@@ -4728,6 +4792,14 @@
       "title": "70% Of Top Retailers Are Invisible To Agentic Commerce – Here’s Why",
       "url": "https://www.searchenginejournal.com/70-of-top-retailers-are-invisible-to-agentic-commerce-heres-why/581198/"
     },
+    "search-engine-journal:7028dbae7c6364c9a651f26f79dc0da258bb73fd": {
+      "first_seen": "2026-11-13T01:59:13.004788+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-12/Microsoft Advertising Updates UI Following Advertiser Feedback via @sejournal, @brookeosmundson.md",
+      "published": "2026-11-12T17:45:26+00:00",
+      "source": "Search Engine Journal",
+      "title": "Microsoft Advertising Updates UI Following Advertiser Feedback via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/microsoft-advertising-updates-ui-following-advertiser-feedback/597078/"
+    },
     "search-engine-journal:707ea782ddcf38643694ffc2cef818e011a20b46": {
       "first_seen": "2026-08-05T22:33:14.053208+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-05/The Future Of Discoverability.md",
@@ -4839,6 +4911,14 @@
       "source": "Search Engine Journal",
       "title": "Google Adds Experimental Soft Navigation Metrics To CrUX via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-experimental-soft-navigation-metrics-crux/592820/"
+    },
+    "search-engine-journal:7596e70b9ae3ae3bd00974c28d38563ee4ae75cf": {
+      "first_seen": "2026-11-13T01:59:13.004788+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-12/Don’t Let A Tool Lead Your AI Search Strategy – Own Your Data Instead via @sejournal, @TaylorDanRW.md",
+      "published": "2026-11-12T13:00:43+00:00",
+      "source": "Search Engine Journal",
+      "title": "Don’t Let A Tool Lead Your AI Search Strategy – Own Your Data Instead via @sejournal, @TaylorDanRW",
+      "url": "https://www.searchenginejournal.com/dont-let-a-tool-lead-your-ai-search-strategy-own-your-data-instead/596538/"
     },
     "search-engine-journal:75ea8da1d01ce2d43f532ca9589d76fb38ec26fc": {
       "first_seen": "2026-09-09T23:23:40.610777+00:00",
@@ -5647,6 +5727,22 @@
       "source": "Search Engine Journal",
       "title": "Claude Searches Web Differently From Claude Code, Data Shows via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/claude-code-rarely-searches-web-compared-claude-data/587584/"
+    },
+    "search-engine-journal:a123a9330220d9b29323f79695913174662b367b": {
+      "first_seen": "2026-11-13T01:59:13.004788+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-12/Google Makes Gemini 4 Hydrogen The Default Model In AI Mode via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-12T20:09:18+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Makes Gemini 4 Hydrogen The Default Model In AI Mode via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-gemini-4-hydrogen-default-ai-mode/597096/"
+    },
+    "search-engine-journal:a233907c990a81733c871505dde811c209b2cbda": {
+      "first_seen": "2026-11-13T01:59:13.004788+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-12/Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini – Ask An SEO via @sejournal, @rollerblader.md",
+      "published": "2026-11-12T20:00:07+00:00",
+      "source": "Search Engine Journal",
+      "title": "Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO via @sejournal, @rollerblader",
+      "url": "https://www.searchenginejournal.com/does-the-affiliate-model-survive-checkout-inside-ai-mode-and-gemini-ask-an-seo/585080/"
     },
     "search-engine-journal:a2bd161fde8979870d5a838dec27b27f79446d98": {
       "first_seen": "2026-11-01T00:14:56.606962+00:00",
@@ -6920,6 +7016,14 @@
       "title": "89% Of AI Search Demand Has No Clear Owner: Use This Before The Window Closes via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/89-of-ai-search-demand-has-no-clear-owner-use-this-before-the-window-closes/583255/"
     },
+    "search-engine-journal:e3565c75cc93518a3dc0e601a551daa6e6ed0f4c": {
+      "first_seen": "2026-11-13T01:59:13.004788+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-12/Visits To The Top Million Websites Fell 12%, Data Shows via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-12T18:43:03+00:00",
+      "source": "Search Engine Journal",
+      "title": "Visits To The Top Million Websites Fell 12%, Data Shows via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/visits-to-the-top-million-websites-fell-12-data-shows/597085/"
+    },
     "search-engine-journal:e3f3cf44708e07967cda6649327806e3cda024b8": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-16/Google Delays Gemini 3.5 Pro Over Coding Issues Report via @sejournal, @MattGSouthern.md",
@@ -7215,6 +7319,14 @@
       "source": "Search Engine Journal",
       "title": "AI Is Changing Website Security. Here’s What SEO Teams Should Know via @sejournal, @vahandev",
       "url": "https://www.searchenginejournal.com/ai-changing-website-security-seo-teams-should-know/587352/"
+    },
+    "search-engine-journal:f1b92e170b71c6f6e2c2486d0389836b85fe392c": {
+      "first_seen": "2026-11-13T01:59:13.004788+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-12/AI Shopping Errors What To Fix To Help Shoppers Choose Your Products.md",
+      "published": "2026-11-12T06:00:23+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products",
+      "url": "https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/"
     },
     "search-engine-journal:f2781ef91590595ca37bd96f29578736023948f8": {
       "first_seen": "2026-09-18T23:25:06.353737+00:00",
@@ -7976,6 +8088,14 @@
       "title": "What are backlinks in SEO & how do I get them?",
       "url": "https://www.semrush.com/blog/what-are-backlinks/"
     },
+    "semrush-blog:d859df75a88608c46a8bee2f372120a1d7babe80": {
+      "first_seen": "2026-11-13T01:59:13.004788+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-11-12/AI traffic quality Look past the industry benchmarks and measure ROI.md",
+      "published": "2026-11-12T11:21:00+00:00",
+      "source": "Semrush Blog",
+      "title": "AI traffic quality: Look past the industry benchmarks and measure ROI",
+      "url": "https://www.semrush.com/blog/ai-traffic-quality/"
+    },
     "semrush-blog:d85a57e16746e3fdbbbe51a130e9acc4d91cadb4": {
       "first_seen": "2026-11-04T01:31:25.865426+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-11-03/How to track your Gemini visibility with and without Semrush.md",
@@ -8097,6 +8217,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-11-12T02:20:23.221991+00:00",
+  "last_run_at": "2026-11-13T01:59:13.004788+00:00",
   "version": 1
 }

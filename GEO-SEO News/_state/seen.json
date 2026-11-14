@@ -1248,6 +1248,14 @@
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "url": "https://openai.com/business/customer-stories/amplitude"
     },
+    "openai-news:5bf4951adbe9698dd9e45df17c29fd95e4f30a2d": {
+      "first_seen": "2026-11-14T01:31:15.977411+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-13/Introducing ChatGPT Wallet.md",
+      "published": "2026-11-13T15:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
     "openai-news:5ca4dc7b6d88cb31d41f9b1c287b0178583121a9": {
       "first_seen": "2026-11-11T01:20:18.889909+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-11-10/Introducing Businesses in ChatGPT.md",
@@ -2255,6 +2263,14 @@
       "source": "OpenAI News",
       "title": "How we built a realtime system for responsive voice AI in six months",
       "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+    },
+    "openai-news:d1318183fe172893638959c7661c0c781ed07c8d": {
+      "first_seen": "2026-11-14T01:31:15.977411+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-13/Shield helps technicians hand off legacy portal work with OpenAI.md",
+      "published": "2026-11-13T08:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield"
     },
     "openai-news:d1749ba76a98e7a548545e88aab7e9020497049a": {
       "first_seen": "2026-09-22T00:11:50.118725+00:00",
@@ -4080,6 +4096,14 @@
       "title": "Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/"
     },
+    "search-engine-journal:4b5425a196640c7e12da4d6ab3f191d09e8614c4": {
+      "first_seen": "2026-11-14T01:31:15.977411+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-13/72% Of Worker’s Say Their AI Skills Are Untested – Here’s How PPC Managers Prove Theirs via @sejournal, @gregjarboe.md",
+      "published": "2026-11-13T18:00:02+00:00",
+      "source": "Search Engine Journal",
+      "title": "72% Of Worker’s Say Their AI Skills Are Untested – Here’s How PPC Managers Prove Theirs via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/72-of-workers-say-their-ai-skills-are-untested-heres-how-ppc-managers-prove-theirs/596205/"
+    },
     "search-engine-journal:4b9d000f8435e152f583ad0e360ccc849f1eac32": {
       "first_seen": "2026-10-20T23:59:08.859444+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-20/ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot via @sejournal, @MattGSouthern.md",
@@ -4119,6 +4143,14 @@
       "source": "Search Engine Journal",
       "title": "Microsoft Ads Is Removing Max CPC From New Campaigns via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/microsoft-ads-is-removing-max-cpc-from-new-campaigns/586527/"
+    },
+    "search-engine-journal:4cfa96a10157f8f345993066c5c9b88fd96cade9": {
+      "first_seen": "2026-11-14T01:31:15.977411+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-13/What Reddit Reviews Reveals About Your Products via @sejournal, @brentcsutoras.md",
+      "published": "2026-11-13T13:00:09+00:00",
+      "source": "Search Engine Journal",
+      "title": "What Reddit Reviews Reveals About Your Products via @sejournal, @brentcsutoras",
+      "url": "https://www.searchenginejournal.com/what-reddit-reviews-reveals-about-your-products/596963/"
     },
     "search-engine-journal:4d30c772f39b0daee222dee93a794b9db7d75940": {
       "first_seen": "2026-09-02T23:26:23.154190+00:00",
@@ -5368,6 +5400,14 @@
       "title": "Google Lost Its Scraping Case – Now You Have To Pick A Side On The Open Web via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/google-lost-its-scraping-case-now-you-have-to-pick-a-side-on-the-open-web/583066/"
     },
+    "search-engine-journal:8d54fca7879185bf508054bbb8777b0f39d7b744": {
+      "first_seen": "2026-11-14T01:31:15.977411+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-13/AI Bot Management Why SEOs Need More Than Block Lists via @sejournal, @chrisgreenseo.md",
+      "published": "2026-11-13T20:00:48+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Bot Management: Why SEOs Need More Than Block Lists via @sejournal, @chrisgreenseo",
+      "url": "https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/"
+    },
     "search-engine-journal:8d8e9081e5ecc8eacd2528c4ef92b56945721403": {
       "first_seen": "2026-07-23T22:31:00.448317+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-07-23/AI Search is Working. How to Prove It With Real Tests. via @sejournal, @hethr_campbell.md",
@@ -5807,6 +5847,14 @@
       "source": "Search Engine Journal",
       "title": "Google DeepMind Develops New AI Search Ranking Model via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-deepmind-develops-new-ai-search-ranking-model/589062/"
+    },
+    "search-engine-journal:a7bd8cf6862c3a05e63788aa2d3ba0d992989168": {
+      "first_seen": "2026-11-14T01:31:15.977411+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-13/Google Says Target Frequency Can Mix Non-Skippable Ads & Shorts via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-13T18:26:51+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Says Target Frequency Can Mix Non-Skippable Ads & Shorts via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-target-frequency-non-skippable-shorts/597333/"
     },
     "search-engine-journal:a7f5cec4d99f59f0ab05bc3ca5409083ee0e83c4": {
       "first_seen": "2026-09-09T23:23:40.610777+00:00",
@@ -7144,6 +7192,14 @@
       "title": "Anthropic Shares Power Prompts That Improve AI Results via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/anthropic-shares-power-prompts-that-improve-ai-results/589448/"
     },
+    "search-engine-journal:e8b9c9bc551038091d99f9cc4b84467b118ec0ca": {
+      "first_seen": "2026-11-14T01:31:15.977411+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-14/Google Explains How To Find Search Traffic In Analytics & Logs via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-14T00:02:10+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google Explains How To Find Search Traffic In Analytics & Logs via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-traffic-analytics-logs/597382/"
+    },
     "search-engine-journal:e9121038742b6f7921867fe3330c16c80e969014": {
       "first_seen": "2026-10-28T00:36:07.961291+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-27/How I Decide Where The Next $100,000 Of Marketing Budget Should Go.md",
@@ -7720,6 +7776,14 @@
       "title": "How topical authority spreads (and where it doesn’t) in ChatGPT [Study]",
       "url": "https://www.semrush.com/blog/chatgpt-topical-focus-study/"
     },
+    "semrush-blog:22246ceb332b44657ea47c5b09f5830a78549316": {
+      "first_seen": "2026-11-14T01:31:15.977411+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-11-13/How to do an SEO competitor analysis with the Semrush MCP.md",
+      "published": "2026-11-13T12:24:00+00:00",
+      "source": "Semrush Blog",
+      "title": "How to do an SEO competitor analysis with the Semrush MCP",
+      "url": "https://www.semrush.com/blog/competitor-analysis-semrush-mcp/"
+    },
     "semrush-blog:2406e511a33fd87312ac724ed091a8d3f0ee56ef": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-07-17/Link building for SEO What works in 2026.md",
@@ -8217,6 +8281,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-11-13T01:59:13.004788+00:00",
+  "last_run_at": "2026-11-14T01:31:15.977411+00:00",
   "version": 1
 }

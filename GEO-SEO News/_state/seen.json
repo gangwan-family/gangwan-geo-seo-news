@@ -2872,6 +2872,14 @@
       "title": "ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/"
     },
+    "search-engine-journal:0fdea0dfad4a62db7eab951181ff2818a0ac7f06": {
+      "first_seen": "2026-11-15T01:08:49.704350+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-14/Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-14T13:00:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/"
+    },
     "search-engine-journal:0fe00919b45737a7091413453f98ebfd436f91e7": {
       "first_seen": "2026-08-04T22:33:41.749245+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-04/What Top Stories Inside AI Overviews Means For Publishers And Brands In 2026 And Beyond via @sejournal, @gregjarboe.md",
@@ -5504,6 +5512,14 @@
       "title": "Anthropic Says Claude Bypassed Site Limits During Internal Tests via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/anthropic-cuts-live-web-access-internal-tests/592534/"
     },
+    "search-engine-journal:92c4631d1f85ba9d9eaa8750be25c6ac2c5f7302": {
+      "first_seen": "2026-11-15T01:08:49.704350+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-14/United Lets Search Engines Index Its Site, Makes AI Agents Ask First via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-14T10:00:14+00:00",
+      "source": "Search Engine Journal",
+      "title": "United Lets Search Engines Index Its Site, Makes AI Agents Ask First via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/united-ai-agents-permission-search-indexing/597418/"
+    },
     "search-engine-journal:92efb1b60b3c1839396c67a82efa3393db9dff9e": {
       "first_seen": "2026-11-04T01:31:25.865426+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-11-03/How To Create Demand You Can Actually Convert (And Prove) via @sejournal, @duchessjenm.md",
@@ -5975,6 +5991,14 @@
       "source": "Search Engine Journal",
       "title": "AI Referrals Are Recreating The Oldest Mistake In Conversion Optimization via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/ai-referrals-are-recreating-the-oldest-mistake-in-conversion-optimization/584331/"
+    },
+    "search-engine-journal:ab060b4cd8b3e867ee2a8ddb5eb591c8fbb736ea": {
+      "first_seen": "2026-11-15T01:08:49.704350+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-14/Meta’s Muse Now Sends Most AI Agent Requests One Security Firm Sees via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-14T08:00:52+00:00",
+      "source": "Search Engine Journal",
+      "title": "Meta’s Muse Now Sends Most AI Agent Requests One Security Firm Sees via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/meta-muse-ai-agent-requests-human-security/597388/"
     },
     "search-engine-journal:ab1737e29619d28cf25ba3a50c6b45406b0b61bc": {
       "first_seen": "2026-09-22T00:11:50.118725+00:00",
@@ -8281,6 +8305,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-11-14T01:31:15.977411+00:00",
+  "last_run_at": "2026-11-15T01:08:49.704350+00:00",
   "version": 1
 }

@@ -1120,6 +1120,14 @@
       "title": "How AT&T is rethinking in-house legal work with OpenAI",
       "url": "https://openai.com/index/att-legal"
     },
+    "openai-news:4b0fc5b701ffd77dc12523f912000158b7c589e6": {
+      "first_seen": "2026-11-16T01:12:40.775071+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-15/Our new blog for science.md",
+      "published": "2026-11-15T22:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science"
+    },
     "openai-news:4d4e7920d8a762a2dc722c2d13aa26b7d8884024": {
       "first_seen": "2026-09-10T23:17:04.219816+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-09-10/Now everyone can put data to work.md",
@@ -1599,6 +1607,14 @@
       "source": "OpenAI News",
       "title": "The builder’s guide to GPT‑5.6",
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
+    },
+    "openai-news:87d7014c15ee68a3a258e4931bcaef4b31534b44": {
+      "first_seen": "2026-11-16T01:12:40.775071+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-15/A step toward defining the Standard Model on a lattice.md",
+      "published": "2026-11-15T22:00:01+00:00",
+      "source": "OpenAI News",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model"
     },
     "openai-news:884977ecb8004cb31230ef13f646e2ff87ff115a": {
       "first_seen": "2026-09-30T00:37:08.848595+00:00",
@@ -3887,6 +3903,14 @@
       "source": "Search Engine Journal",
       "title": "Reddit CEO Intends To Show More Reviews And Recommendations via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/reddit-ceo-intends-to-show-more-reviews-and-recommendations/584731/"
+    },
+    "search-engine-journal:3e25fa76b6ba7c558ca85afb127218d5c62f4897": {
+      "first_seen": "2026-11-16T01:12:40.775071+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-15/Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-15T11:30:33+00:00",
+      "source": "Search Engine Journal",
+      "title": "Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/"
     },
     "search-engine-journal:3e5bafb18e37cb35ad0745fc62b816a93d52138b": {
       "first_seen": "2026-09-22T00:11:50.118725+00:00",
@@ -6688,6 +6712,14 @@
       "title": "What Opting Out Of Google’s AI Search Features Means Now via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/what-opting-out-of-googles-ai-search-features-means-now/584321/"
     },
+    "search-engine-journal:cf161421868d051b2be8a9d00501de61dbddaba9": {
+      "first_seen": "2026-11-16T01:12:40.775071+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-15/YouTube’s Clips Tool Turns Podcast Episodes Into Shorts via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-15T10:00:48+00:00",
+      "source": "Search Engine Journal",
+      "title": "YouTube’s Clips Tool Turns Podcast Episodes Into Shorts via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/youtube-studio-clips-podcast-episodes-shorts/597408/"
+    },
     "search-engine-journal:cf3ab5dddf474e160bbe1693d60c8b8513e86cff": {
       "first_seen": "2026-11-12T02:20:23.221991+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-11-11/Google Ads Gives You More Channel Control – But Not As Much As You Think via @sejournal, @brookeosmundson.md",
@@ -8305,6 +8337,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-11-15T01:08:49.704350+00:00",
+  "last_run_at": "2026-11-16T01:12:40.775071+00:00",
   "version": 1
 }

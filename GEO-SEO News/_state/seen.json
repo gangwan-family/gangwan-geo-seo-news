@@ -176,6 +176,14 @@
       "title": "The latest AI news we announced in August 2026",
       "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/"
     },
+    "google-ai-blog:717626b76ea030ce145691eda9db12881e59924f": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-11-16/New Ask Maps features to help with holiday travel and prep.md",
+      "published": "2026-11-16T14:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/"
+    },
     "google-ai-blog:77cd2a6a82f1c4f3f7d9e424ae1e3c91880aa47d": {
       "first_seen": "2026-09-01T23:26:13.848773+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-09-01/Try Google Pics Easy image creation and editing in Google Workspace.md",
@@ -447,6 +455,14 @@
       "source": "Google Search Central Blog",
       "title": "Platform properties roll out globally, plus a new social and video performance guide",
       "url": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide"
+    },
+    "google-search-central-blog:cb5103cfcc11358c5fbe9665ac04a76906278c04": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/Google Search Central Blog/2026-11-16/New filtering and reporting capabilities in the Search Analytics API.md",
+      "published": "2026-11-16T00:00:00+00:00",
+      "source": "Google Search Central Blog",
+      "title": "New filtering and reporting capabilities in the Search Analytics API",
+      "url": "https://developers.google.com/search/blog/2026/11/search-analytics-api-update"
     },
     "google-search-central-blog:ece209ba23a89884da6ecbd8ae3eac5e0f89d41b": {
       "first_seen": "2026-08-29T03:12:57.517440+00:00",
@@ -983,6 +999,14 @@
       "source": "OpenAI News",
       "title": "Introducing Astra for Law",
       "url": "https://openai.com/index/astra-for-law"
+    },
+    "openai-news:3899b6e8ee3cc1f1e22e1d88662f051be1f7932a": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-16/At Holiday Extras, dots get to work before anyone asks.md",
+      "published": "2026-11-16T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots"
     },
     "openai-news:3a06f84c0f51a102b02f8b5a5ff865c2013898ad": {
       "first_seen": "2026-11-05T01:33:38.238538+00:00",
@@ -1704,6 +1728,14 @@
       "title": "Are you a Codex Original?",
       "url": "https://openai.com/form/codex-originals"
     },
+    "openai-news:91e58e2ea930c2fabc271a22401b1d1a40419d3b": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-16/LVMH’s Media Division announces strategic partnership with OpenAI.md",
+      "published": "2026-11-16T09:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership"
+    },
     "openai-news:9201054eeb4c743a362c75cf2659f9f4fa5831f6": {
       "first_seen": "2026-10-23T00:02:35.809394+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-10-21/Cloudflare links vulnerability discovery to defense with OpenAI.md",
@@ -1975,6 +2007,22 @@
       "source": "OpenAI News",
       "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
       "url": "https://openai.com/index/atv-big-air-tour"
+    },
+    "openai-news:b0ded74e06b06613ea577f6c99012354ee06d70e": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-16/Advancing computer-use agents for healthcare teams.md",
+      "published": "2026-11-16T06:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
+    },
+    "openai-news:b1c71d07875ac772d826f89afdf2886a79e196cc": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-16/Strengthening the fight against online child sexual abuse with new tools and support.md",
+      "published": "2026-11-16T17:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety"
     },
     "openai-news:b274d6785ee9abb7902c6d66edf9f8661ee29cd4": {
       "first_seen": "2026-08-04T22:33:41.749245+00:00",
@@ -2256,6 +2304,14 @@
       "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
       "url": "https://openai.com/index/introducing-admin-plugin"
     },
+    "openai-news:cfcc7acb02e9ca7944d1e900e1dedbf4b8c78667": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-16/More ways to move care forward with ChatGPT for Healthcare.md",
+      "published": "2026-11-16T06:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+    },
     "openai-news:cfd4354afa14004ff8c17d4a4b75c8d4f470f086": {
       "first_seen": "2026-11-07T01:00:07.677181+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-11-06/Measuring how AI agents handle everyday wet-lab science.md",
@@ -2464,6 +2520,14 @@
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "url": "https://openai.com/index/third-moment-research"
     },
+    "openai-news:e3915f7e4cf071c4232933d2f6f49995917fa34a": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-16/The King’s Trust and OpenAI launch £1m partnership.md",
+      "published": "2026-11-16T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai"
+    },
     "openai-news:e4563871866d3a635b91bc2e29178f947db9e1c3": {
       "first_seen": "2026-08-19T21:47:32.784799+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-18/ChatGPT Ads expands across Europe.md",
@@ -2479,6 +2543,14 @@
       "source": "OpenAI News",
       "title": "How Fanatics and OpenAI streamline the fan experience",
       "url": "https://openai.com/index/fanatics-streamline-fan-experience"
+    },
+    "openai-news:ebd9eb94963902d268e98b387f55dc19a0c20460": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-16/Our first phase of embedded assessments.md",
+      "published": "2026-11-16T08:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments"
     },
     "openai-news:ed4b58253682640ff9708a383e764387bd065216": {
       "first_seen": "2026-11-03T02:58:27.658115+00:00",
@@ -2552,6 +2624,14 @@
       "title": "Working with academic communities to build scientific understanding",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
     },
+    "openai-news:f26f2a4dfd6b9b957c1544d02f570339b8f668d2": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-16/Broadening access to AI for scientists.md",
+      "published": "2026-11-16T17:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+    },
     "openai-news:f28f90d2895a812ca579d518fcae44bbc0ce22af": {
       "first_seen": "2026-11-11T01:20:18.889909+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-11-12/Gilbert + Tobin rethinks the business of law with AI.md",
@@ -2583,6 +2663,14 @@
       "source": "OpenAI News",
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
       "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+    },
+    "openai-news:f891bd93f3d21469060271c5a85b2a7a2e8b4138": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-16/Science at the Frontier How scientists use ChatGPT.md",
+      "published": "2026-11-16T12:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier"
     },
     "openai-news:f93567576105c7139347931d4fd5aa66d92f2c44": {
       "first_seen": "2026-11-06T01:40:26.846492+00:00",
@@ -3767,6 +3855,14 @@
       "source": "Search Engine Journal",
       "title": "AI Mode Queries Are 3X Longer – Why Your Page Should Lead With The Answer via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/ai-mode-queries-are-3x-longer-the-case-for-leading-with-the-answer/585990/"
+    },
+    "search-engine-journal:3968862c28e6a01600f3cd75353a7518f616ff64": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-17/Google’s Ask Maps Starts Finding Appointments & Calling Businesses via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-17T01:13:51+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google’s Ask Maps Starts Finding Appointments & Calling Businesses via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ask-maps-appointments-business-calls/597678/"
     },
     "search-engine-journal:3984135d37c7b19735c568689f6156eaca05c867": {
       "first_seen": "2026-10-07T00:51:35.717389+00:00",
@@ -5576,6 +5672,14 @@
       "title": "Getting Your Product Into ChatGPT Isn’t The Hard Part, Getting It Through Checkout Is via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/getting-your-product-into-chatgpt-isnt-the-hard-part-getting-it-through-checkout-is/587470/"
     },
+    "search-engine-journal:939fe7ae108819c8b2a07b81235c39dd783aff80": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-16/CMS Market Share Trends Top Content Management Systems (Nov 2026) via @sejournal, @theshelleywalsh.md",
+      "published": "2026-11-16T20:00:27+00:00",
+      "source": "Search Engine Journal",
+      "title": "CMS Market Share Trends: Top Content Management Systems (Nov 2026) via @sejournal, @theshelleywalsh",
+      "url": "https://www.searchenginejournal.com/cms-market-share-trends-top-content-management-systems-nov-2026/596729/"
+    },
     "search-engine-journal:939feea42c0a2a1883d4610d9ef8931daf7ac118": {
       "first_seen": "2026-10-08T01:07:43.184860+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-07/Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy.md",
@@ -6472,6 +6576,14 @@
       "title": "Google Says Technical SEO Remains Key For AI SEO via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/"
     },
+    "search-engine-journal:c168d4efc4830d52f02dcfc8579632034064838c": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-16/ChatGPT Ads Vs. Google Search Ads What Early Data Shows via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-16T13:00:58+00:00",
+      "source": "Search Engine Journal",
+      "title": "ChatGPT Ads Vs. Google Search Ads: What Early Data Shows via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-ads-vs-google-search-ads-early-data/597125/"
+    },
     "search-engine-journal:c1a56fcf1ea8c1ab231de9f7f80cd5144100b068": {
       "first_seen": "2026-11-10T03:40:11.079103+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-11-09/Google Ads Tests Asset Activity Page With Weekly AI Insights via @sejournal, @MattGSouthern.md",
@@ -7320,6 +7432,14 @@
       "title": "Google On Canonical Fixes, Mueller On Hidden Link Pitfalls – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-google-on-canonical-fixes-mueller-on-hidden-links/582671/"
     },
+    "search-engine-journal:ed198e7ebbcf41d7009b9196267576438b125aad": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-16/When The WordPress Plugin Update Is The Security Risk Why SEOs Should Pay Attention via @sejournal, @cshel.md",
+      "published": "2026-11-16T15:00:34+00:00",
+      "source": "Search Engine Journal",
+      "title": "When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention via @sejournal, @cshel",
+      "url": "https://www.searchenginejournal.com/when-the-wordpress-plugin-update-is-the-security-risk-why-seos-should-pay-attention/595622/"
+    },
     "search-engine-journal:ed5814f8ac783232fdeac9f3a00e7f3eb95da5a2": {
       "first_seen": "2026-09-02T23:26:23.154190+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-02/Google DeepMind Says Gemini Is Evolving From Chatbot To AI Agent via @sejournal, @martinibuster.md",
@@ -8000,6 +8120,14 @@
       "title": "What is a landing page? What to know + examples",
       "url": "https://www.semrush.com/blog/what-is-a-landing-page/"
     },
+    "semrush-blog:6c7e46da2288e61fb554ce27b9d35870ab8fd4a0": {
+      "first_seen": "2026-11-17T04:02:00.145005+00:00",
+      "path": "GEO-SEO News/Semrush Blog/2026-11-16/What is citation core A guide to AI search visibility.md",
+      "published": "2026-11-16T12:38:00+00:00",
+      "source": "Semrush Blog",
+      "title": "What is citation core? A guide to AI search visibility",
+      "url": "https://www.semrush.com/blog/citation-core/"
+    },
     "semrush-blog:6e24be7d05159cf0bdd9a4c26ebe207032d7d478": {
       "first_seen": "2026-11-11T01:20:18.889909+00:00",
       "path": "GEO-SEO News/Semrush Blog/2026-11-10/How to use AI for competitive intelligence (10 prompts to try).md",
@@ -8337,6 +8465,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-11-16T01:12:40.775071+00:00",
+  "last_run_at": "2026-11-17T04:02:00.145005+00:00",
   "version": 1
 }

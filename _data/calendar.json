@@ -196,17 +196,17 @@
             "date": "2026-11-16",
             "day": 16,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 15,
+            "url": "/date/2026-11-16/"
           },
           {
             "date": "2026-11-17",
             "day": 17,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 1,
+            "url": "/date/2026-11-17/"
           },
           {
             "date": "2026-11-18",
@@ -367,6 +367,28 @@
         ]
       ],
       "days": [
+        {
+          "date": "2026-11-17",
+          "day": 17,
+          "count": 1,
+          "url": "/date/2026-11-17/",
+          "sources": [
+            "Search Engine Journal"
+          ]
+        },
+        {
+          "date": "2026-11-16",
+          "day": 16,
+          "count": 15,
+          "url": "/date/2026-11-16/",
+          "sources": [
+            "Google AI Blog",
+            "Google Search Central Blog",
+            "OpenAI News",
+            "Search Engine Journal",
+            "Semrush Blog"
+          ]
+        },
         {
           "date": "2026-11-15",
           "day": 15,

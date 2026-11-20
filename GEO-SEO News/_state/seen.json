@@ -152,6 +152,14 @@
       "title": "Bring your spreadsheet data to life with Sheets canvas",
       "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
     },
+    "google-ai-blog:57728669e04868aebe5c928904087b20a189fa58": {
+      "first_seen": "2026-11-20T02:27:00.572489+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-11-19/Introducing Tool Retrieval in the Gemini API.md",
+      "published": "2026-11-19T18:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
+    },
     "google-ai-blog:5a6b85529262921a7e71de80eb1b656c936344f4": {
       "first_seen": "2026-08-28T05:30:34.018543+00:00",
       "path": "GEO-SEO News/Google AI Blog/2026-08-27/3 new ways to plan and book travel in Search.md",
@@ -359,6 +367,14 @@
       "source": "Google AI Blog",
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+    },
+    "google-ai-blog:c3e7758a237362e25e13d09d3dba0d694a9b4333": {
+      "first_seen": "2026-11-20T02:27:00.572489+00:00",
+      "path": "GEO-SEO News/Google AI Blog/2026-11-19/Walter Isaacson on curiosity and creativity in the AI age.md",
+      "published": "2026-11-19T17:00:00+00:00",
+      "source": "Google AI Blog",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
     },
     "google-ai-blog:c5fffc8a0cbdc3d4510903dc0c0d4166f6720aea": {
       "first_seen": "2026-11-11T01:20:18.889909+00:00",
@@ -1168,6 +1184,14 @@
       "title": "How AT&T is rethinking in-house legal work with OpenAI",
       "url": "https://openai.com/index/att-legal"
     },
+    "openai-news:4b08ec50268e04a4eb3cb57ed8baf78fd82cefe6": {
+      "first_seen": "2026-11-20T02:27:00.572489+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-19/Deploying Daybreak Red.md",
+      "published": "2026-11-19T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red"
+    },
     "openai-news:4b0fc5b701ffd77dc12523f912000158b7c589e6": {
       "first_seen": "2026-11-16T01:12:40.775071+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-11-15/Our new blog for science.md",
@@ -1423,6 +1447,14 @@
       "source": "OpenAI News",
       "title": "How Itaú is building generative AI for its entire customer base",
       "url": "https://openai.com/index/itau-generative-ai"
+    },
+    "openai-news:6687f7be62c34e4af8b14ad1fa0bb36ceef40b28": {
+      "first_seen": "2026-11-20T02:27:00.572489+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-19/How OpenAI’s Performance Factory keeps ChatGPT fast.md",
+      "published": "2026-11-19T08:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
     },
     "openai-news:671a9fed35e21548fec5a867dede918b4a923b1c": {
       "first_seen": "2026-09-08T23:29:12.190870+00:00",
@@ -1976,6 +2008,14 @@
       "title": "How Cisco defends at machine speed with OpenAI",
       "url": "https://openai.com/index/cisco-cyber"
     },
+    "openai-news:a2fb00344062975fa7ac8b40f7787e8b1769674a": {
+      "first_seen": "2026-11-20T02:27:00.572489+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-19/Get started with Daybreak Blue.md",
+      "published": "2026-11-19T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
+    },
     "openai-news:a3a879144b2984ac94bfd6f21f2a919716019c6d": {
       "first_seen": "2026-10-28T00:36:07.961291+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-10-27/OpenAI expands partnership with Oracle to bring its apps to ChatGPT.md",
@@ -2360,6 +2400,14 @@
       "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "url": "https://openai.com/index/stampli"
     },
+    "openai-news:cb99e2baa62e786645f381f533d6d9f307017a54": {
+      "first_seen": "2026-11-20T02:27:00.572489+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-19/See PR scans in action.md",
+      "published": "2026-11-19T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo"
+    },
     "openai-news:cc8e132c619995d199d338076bd693d216fb9d56": {
       "first_seen": "2026-07-30T22:35:14.611250+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-29/How enabling two settings tripled our scores on the ARC-AGI-3 benchmark.md",
@@ -2623,6 +2671,14 @@
       "source": "OpenAI News",
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "url": "https://openai.com/index/third-moment-research"
+    },
+    "openai-news:e29ac258c013c12c7631d54deada12189b653035": {
+      "first_seen": "2026-11-20T02:27:00.572489+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-19/Explore the Codex Security Plugin.md",
+      "published": "2026-11-19T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo"
     },
     "openai-news:e3915f7e4cf071c4232933d2f6f49995917fa34a": {
       "first_seen": "2026-11-17T04:02:00.145005+00:00",
@@ -3992,6 +4048,14 @@
       "title": "Google Brings Gemini 3.7 Flash To AI Mode In Search via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-brings-gemini-3-7-flash-to-ai-mode-in-search/585923/"
     },
+    "search-engine-journal:3810f4542ce8816aabdf6d0d729be3938f25964b": {
+      "first_seen": "2026-11-20T02:27:00.572489+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-19/WordPress 7.2 Arrives Dec. 8 – Last-Minute Changes Still Being Made via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-19T13:00:50+00:00",
+      "source": "Search Engine Journal",
+      "title": "WordPress 7.2 Arrives Dec. 8 – Last-Minute Changes Still Being Made via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/wordpress-7-2-seo-ai-changes/597616/"
+    },
     "search-engine-journal:384c34fb8f73cd33c54cd8a5df7f0276f64a6857": {
       "first_seen": "2026-10-28T00:36:07.961291+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-27/Google Disabled Discover Clicks Were A Bug In An Experiment via @sejournal, @MattGSouthern.md",
@@ -4535,6 +4599,14 @@
       "source": "Search Engine Journal",
       "title": "Rank Tracker Data, ChatGPT Tags & AI Search Links – SEO Pulse via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171/"
+    },
+    "search-engine-journal:515f49504790126e0428f442aab0ca1203c7f5c5": {
+      "first_seen": "2026-11-20T02:27:00.572489+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-19/Your WordPress Sitemap Isn’t Broken – Chrome 158 Has Dropped XSLT via @sejournal, @TaylorDanRW.md",
+      "published": "2026-11-19T15:00:06+00:00",
+      "source": "Search Engine Journal",
+      "title": "Your WordPress Sitemap Isn’t Broken – Chrome 158 Has Dropped XSLT via @sejournal, @TaylorDanRW",
+      "url": "https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/"
     },
     "search-engine-journal:51d98db20c9ca9915de73f40f6d2b03ac259ad44": {
       "first_seen": "2026-09-10T23:17:04.219816+00:00",
@@ -6008,6 +6080,14 @@
       "title": "Google’s Mueller Shares Their Experience With Markdown For AI SEO via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/googles-mueller-shares-their-experience-with-markdown-for-ai-seo/587671/"
     },
+    "search-engine-journal:9ae46f12420f82f3099d6596778856c469b36031": {
+      "first_seen": "2026-11-20T02:27:00.572489+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-19/Google’s Next Update Won’t Touch The Index, And Nobody Will Announce It via @sejournal, @DuaneForrester.md",
+      "published": "2026-11-19T18:00:31+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google’s Next Update Won’t Touch The Index, And Nobody Will Announce It via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/"
+    },
     "search-engine-journal:9b3490c664df2d766ad2bc88c16678b29ec1357b": {
       "first_seen": "2026-10-22T00:03:56.030283+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-21/Google Images & Discover Previews Don’t Support JPEG XL via @sejournal, @MattGSouthern.md",
@@ -7256,6 +7336,14 @@
       "title": "Everyone Is Negotiating With Google While Meta Reads The Web For Free via @sejournal, @slobodanmanic",
       "url": "https://www.searchenginejournal.com/everyone-is-negotiating-with-google-while-meta-reads-the-web-for-free/584465/"
     },
+    "search-engine-journal:d619305d53d0802ffa63a4f7cf453ad2aa9f9cb1": {
+      "first_seen": "2026-11-20T02:27:00.572489+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-19/WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities via @sejournal, @martinibuster.md",
+      "published": "2026-11-19T14:40:05+00:00",
+      "source": "Search Engine Journal",
+      "title": "WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/wordpress-7-1-5-security-release-fixes-18-vulnerabilities/598080/"
+    },
     "search-engine-journal:d74fdbd3908c38a2bd0b3cf824d583357d3cd803": {
       "first_seen": "2026-09-16T23:41:51.317632+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-16/MIT, Anthropic & OpenAI Sent The Same Warning, Get Your Evidence House In Order Now via @sejournal, @gregjarboe.md",
@@ -7575,6 +7663,14 @@
       "source": "Search Engine Journal",
       "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO via @sejournal, @HelenPollitt1",
       "url": "https://www.searchenginejournal.com/ask-an-seo-how-can-i-tell-if-my-images-are-optimised-for-multimodal-search/593861/"
+    },
+    "search-engine-journal:e80411589627cbc1cc4582b90ae5f78f4c80748e": {
+      "first_seen": "2026-11-20T02:27:00.572489+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-19/21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker.md",
+      "published": "2026-11-19T20:00:05+00:00",
+      "source": "Search Engine Journal",
+      "title": "21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/"
     },
     "search-engine-journal:e87293ea7d9f31f25714a8377a840a7ca9be48c3": {
       "first_seen": "2026-09-12T23:07:29.401235+00:00",
@@ -8753,6 +8849,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-11-19T02:41:06.811446+00:00",
+  "last_run_at": "2026-11-20T02:27:00.572489+00:00",
   "version": 1
 }

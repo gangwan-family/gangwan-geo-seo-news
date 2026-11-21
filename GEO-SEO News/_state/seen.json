@@ -1104,6 +1104,14 @@
       "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
       "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
     },
+    "openai-news:3ea993db7e3c60d1925ec70cc8db101a60f4b500": {
+      "first_seen": "2026-11-21T02:37:14.493666+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-20/Combatting adversarial distillation.md",
+      "published": "2026-11-20T10:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
+    },
     "openai-news:3ebda52fc80ebe33165f5f415dd9c032d4c031d4": {
       "first_seen": "2026-07-21T03:32:10.214983+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-07-17/A scorecard for the AI age.md",
@@ -2496,6 +2504,14 @@
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
       "url": "https://openai.com/business/customer-stories/shield"
     },
+    "openai-news:d15c45643214b444b1cb96cd45e0688c83d72ca2": {
+      "first_seen": "2026-11-21T02:37:14.493666+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-20/Hebbia sees improvements in financial research with GPT-6 Astra.md",
+      "published": "2026-11-20T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia"
+    },
     "openai-news:d1749ba76a98e7a548545e88aab7e9020497049a": {
       "first_seen": "2026-09-22T00:11:50.118725+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-09-21/How V7 gives AI agents institutional memory.md",
@@ -2823,6 +2839,14 @@
       "source": "OpenAI News",
       "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
       "url": "https://openai.com/index/control-room"
+    },
+    "openai-news:f4784c30400364a228812ba2da28667f08ec2e59": {
+      "first_seen": "2026-11-21T02:37:14.493666+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-20/Can AI help scientists identify promising drug candidates.md",
+      "published": "2026-11-20T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench"
     },
     "openai-news:f6d3626eb7c890d94bb50058e6f90af5d255e4a4": {
       "first_seen": "2026-10-09T01:17:51.840578+00:00",
@@ -3599,6 +3623,14 @@
       "source": "Search Engine Journal",
       "title": "Your Biggest AI Search Risk Is Conflicting Information About Your Brand via @sejournal, @cshel",
       "url": "https://www.searchenginejournal.com/biggest-ai-search-risk-is-conflicting-information/586904/"
+    },
+    "search-engine-journal:224ebd2269890c423be80f9ee1e01f0c220bf775": {
+      "first_seen": "2026-11-21T02:37:14.493666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-20/A Charity Rescue Dog Outscored Amazon’s Christmas Ad – PPC Accounts Need A Story Before Cyber Week via @sejournal, @gregjarboe.md",
+      "published": "2026-11-20T15:00:09+00:00",
+      "source": "Search Engine Journal",
+      "title": "A Charity Rescue Dog Outscored Amazon’s Christmas Ad – PPC Accounts Need A Story Before Cyber Week via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/a-charity-rescue-dog-outscored-amazons-christmas-ad-ppc-accounts-need-a-story-before-cyber-week/597789/"
     },
     "search-engine-journal:225c535976c369a31300d146f6434ecc6d441511": {
       "first_seen": "2026-10-16T23:43:42.089221+00:00",
@@ -4520,6 +4552,14 @@
       "title": "Entities Are The Foundation Of Modern SEO",
       "url": "https://www.searchenginejournal.com/entities-are-the-foundation-of-modern-seo/587886/"
     },
+    "search-engine-journal:4d73a30daf02e7c15ae6f8e373acba557ae046ce": {
+      "first_seen": "2026-11-21T02:37:14.493666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-20/AI Citations What To Check Before Reacting To A Lost One via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-20T13:00:00+00:00",
+      "source": "Search Engine Journal",
+      "title": "AI Citations: What To Check Before Reacting To A Lost One via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/"
+    },
     "search-engine-journal:4ddfa8d56cce6a8a60729d272ae033b92657ed87": {
       "first_seen": "2026-09-29T01:05:54.844618+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-09-28/Automattic & Matt Mullenweg Fail To Dismiss WP Engine Antitrust Claims via @sejournal, @martinibuster.md",
@@ -4535,6 +4575,14 @@
       "source": "Search Engine Journal",
       "title": "Google Lets Restaurants Directly Opt Out Of Ordering Providers via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/"
+    },
+    "search-engine-journal:4e5c87a511e7aaaa9f420af842de81df03bab9f2": {
+      "first_seen": "2026-11-21T02:37:14.493666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-20/Google’s ‘Top 10’ Line For CMOs Points At Generic Tips Posts via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-20T16:17:43+00:00",
+      "source": "Search Engine Journal",
+      "title": "Google’s ‘Top 10’ Line For CMOs Points At Generic Tips Posts via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/"
     },
     "search-engine-journal:4e93fcc42ebb255b327dc090694e644fc06d561f": {
       "first_seen": "2026-10-02T00:57:52.800074+00:00",
@@ -7016,6 +7064,14 @@
       "title": "YouTube Says Bigger Thumbnails Drove More Long-Form Views via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/youtube-bigger-thumbnails-long-form-engagement/588102/"
     },
+    "search-engine-journal:c94e241c69d6e796f22c25a58ff6de3eddefaf12": {
+      "first_seen": "2026-11-21T02:37:14.493666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-20/Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-20T20:20:52+00:00",
+      "source": "Search Engine Journal",
+      "title": "Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/"
+    },
     "search-engine-journal:ca68c8dfe328b4bef8ced686900d4d36c9b1cc1c": {
       "first_seen": "2026-08-27T00:55:07.763088+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-08-25/Org Sites Are 34% Likelier To Generate Ecommerce Revenue Than .Com via @sejournal, @martinibuster.md",
@@ -7471,6 +7527,14 @@
       "source": "Search Engine Journal",
       "title": "How Freshpet Earned AI’s Trust: A GEO & AI Visibility Playbook via @sejournal, @hethr_campbell",
       "url": "https://www.searchenginejournal.com/how-freshpet-earned-ais-trust-a-geo-ai-visibility-playbook-recap/588706/"
+    },
+    "search-engine-journal:e06ad98a3452028bb3c4f086dc98d7f5177b5ae6": {
+      "first_seen": "2026-11-21T02:37:14.493666+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-20/Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search via @sejournal, @lilyraynyc.md",
+      "published": "2026-11-20T20:00:34+00:00",
+      "source": "Search Engine Journal",
+      "title": "Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search via @sejournal, @lilyraynyc",
+      "url": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/"
     },
     "search-engine-journal:e09763ddd51ea1619153841ae73befe8f1b31966": {
       "first_seen": "2026-10-27T00:38:14.123295+00:00",
@@ -8849,6 +8913,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-11-20T02:27:00.572489+00:00",
+  "last_run_at": "2026-11-21T02:37:14.493666+00:00",
   "version": 1
 }

@@ -2,7 +2,7 @@
 title: "Deploying Daybreak Red"
 source: "OpenAI News"
 published: 2026-11-19T00:00:00+00:00
-fetched_at: 2026-11-20T02:27:00.572489+00:00
+fetched_at: 2026-11-21T02:37:14.493666+00:00
 url: "https://openai.com/business/learn/deploying-daybreak-red"
 guid: "https://openai.com/business/learn/deploying-daybreak-red"
 categories:

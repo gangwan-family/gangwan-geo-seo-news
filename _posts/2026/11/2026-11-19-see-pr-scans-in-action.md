@@ -24,7 +24,23 @@ Watch a walkthrough of PR scans and see how the presenter reviews scan results i
 
 ## 原文正文
 
-原文正文抓取失败：article text not found
+See PR scans in action | OpenAI
+
+Contact sales
+
+- Customers
+
+- Pricing
+
+Contact sales
+
+OpenAI
+
+Product demo
+
+## See PR scans in action
+
+Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.
 
 ## 原文链接
 

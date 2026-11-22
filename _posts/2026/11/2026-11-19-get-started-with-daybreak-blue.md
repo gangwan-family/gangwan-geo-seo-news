@@ -24,7 +24,23 @@ Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the se
 
 ## 原文正文
 
-原文正文抓取失败：article text not found
+Get started with Daybreak Blue | OpenAI
+
+Contact sales
+
+- Customers
+
+- Pricing
+
+Contact sales
+
+OpenAI
+
+Product demo
+
+## Get started with Daybreak Blue
+
+Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.
 
 ## 原文链接
 

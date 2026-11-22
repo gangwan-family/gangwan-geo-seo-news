@@ -2,7 +2,7 @@
 title: "Deploying Daybreak Red"
 source: "OpenAI News"
 published: 2026-11-19T00:00:00+00:00
-fetched_at: 2026-11-21T02:37:14.493666+00:00
+fetched_at: 2026-11-22T01:27:45.625038+00:00
 url: "https://openai.com/business/learn/deploying-daybreak-red"
 guid: "https://openai.com/business/learn/deploying-daybreak-red"
 categories:
@@ -22,7 +22,51 @@ Explore a reference architecture for supervised security investigations with Day
 
 ## 原文正文
 
-原文正文抓取失败：article text not found
+Deploying Daybreak Red | OpenAI
+
+Contact sales
+
+- Customers
+
+- Pricing
+
+Contact sales
+
+OpenAI
+
+November 19, 2026
+
+Guides
+
+## Deploying Daybreak Red
+
+A reference architecture for supervised security investigations.
+
+Read the guide (opens in a new window)
+
+Learn how to set up an isolated environment for supervised security investigations with Daybreak Red. This guide covers architecture, safety controls, environment configuration, and how to run and monitor an investigation.
+
+Read the full guide (PDF). ⁠ (opens in a new window)
+
+### Author
+
+OpenAI
+
+### Keep reading
+
+View all
+
+ChatGPT’s expanding world of work
+
+Research Oct 26, 2026
+
+What forward deployed engineering means at OpenAI
+
+AI Adoption Oct 22, 2026
+
+A practical guide to building with GPT-6
+
+Product Oct 2, 2026
 
 ## 原文链接
 

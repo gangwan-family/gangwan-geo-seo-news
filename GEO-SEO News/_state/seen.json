@@ -2648,6 +2648,14 @@
       "title": "Scaling Git at OpenAI",
       "url": "https://openai.com/index/scaling-git-at-openai"
     },
+    "openai-news:de5cd1a6d51dc917ab910942b7b9fe70d73cd78c": {
+      "first_seen": "2026-11-23T01:52:35.489779+00:00",
+      "path": "GEO-SEO News/OpenAI News/2026-11-22/Perplexity and Intelligence.md",
+      "published": "2026-11-22T00:00:00+00:00",
+      "source": "OpenAI News",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence"
+    },
     "openai-news:df015003760c1205d1ecb2a52df5318737a517cb": {
       "first_seen": "2026-08-24T21:51:14.761050+00:00",
       "path": "GEO-SEO News/OpenAI News/2026-08-24/Advancing price-performance for developers with GPT‑5.6 in Kiro.md",
@@ -8921,6 +8929,6 @@
       "url": "https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/"
     }
   },
-  "last_run_at": "2026-11-22T01:27:45.625038+00:00",
+  "last_run_at": "2026-11-23T01:52:35.489779+00:00",
   "version": 1
 }

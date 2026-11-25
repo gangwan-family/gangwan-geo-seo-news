@@ -24,7 +24,25 @@ Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Coo
 
 ## 原文正文
 
-原文正文抓取失败：article text not found
+Connected intelligence for in-house legal | OpenAI
+
+Contact sales
+
+- Customers
+
+- Pricing
+
+Contact sales
+
+OpenAI
+
+November 23, 2026
+
+Webinars
+
+## Connected intelligence for in-house legal
+
+Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.
 
 ## 原文链接
 

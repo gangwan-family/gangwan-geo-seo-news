@@ -270,17 +270,17 @@
             "date": "2026-11-25",
             "day": 25,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 4,
+            "url": "/date/2026-11-25/"
           },
           {
             "date": "2026-11-26",
             "day": 26,
             "in_month": true,
-            "has_posts": false,
-            "count": 0,
-            "url": ""
+            "has_posts": true,
+            "count": 1,
+            "url": "/date/2026-11-26/"
           },
           {
             "date": "2026-11-27",
@@ -367,6 +367,24 @@
         ]
       ],
       "days": [
+        {
+          "date": "2026-11-26",
+          "day": 26,
+          "count": 1,
+          "url": "/date/2026-11-26/",
+          "sources": [
+            "Search Engine Journal"
+          ]
+        },
+        {
+          "date": "2026-11-25",
+          "day": 25,
+          "count": 4,
+          "url": "/date/2026-11-25/",
+          "sources": [
+            "Search Engine Journal"
+          ]
+        },
         {
           "date": "2026-11-24",
           "day": 24,

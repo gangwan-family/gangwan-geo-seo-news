@@ -4264,6 +4264,14 @@
       "title": "The Final Ad Checklist Before BFCM – What To Fix Now & What To Leave via @sejournal, @tonyadam",
       "url": "https://www.searchenginejournal.com/the-final-ad-checklist-before-bfcm-what-to-fix-now-what-to-leave/597701/"
     },
+    "search-engine-journal:3a04b44bda849a75113407c82b4421a75a4f03eb": {
+      "first_seen": "2026-11-27T03:41:29.732829+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-26/The Missing Step In Prompt Tracking Was Written Down In 1995 via @sejournal, @DuaneForrester.md",
+      "published": "2026-11-26T15:00:36+00:00",
+      "source": "Search Engine Journal",
+      "title": "The Missing Step In Prompt Tracking Was Written Down In 1995 via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/the-missing-step-in-prompt-tracking-was-written-down-in-1995/598461/"
+    },
     "search-engine-journal:3a2143bfc9c8b2d855b77e04adff72746418c926": {
       "first_seen": "2026-10-23T00:02:35.809394+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-10-22/Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer via @sejournal, @martinibuster.md",
@@ -4503,6 +4511,14 @@
       "source": "Search Engine Journal",
       "title": "Google Lighthouse Adds Audit For AI Agent Resource Discovery via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-lighthouse-ai-agent-resource-discovery-audit/590274/"
+    },
+    "search-engine-journal:448936253e2dab3e0998e9cbaa668ac102821414": {
+      "first_seen": "2026-11-27T03:41:29.732829+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-26/OpenAI Has No Plans For Prompt-Level ChatGPT Ads Reports via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-26T04:15:54+00:00",
+      "source": "Search Engine Journal",
+      "title": "OpenAI Has No Plans For Prompt-Level ChatGPT Ads Reports via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/openai-isnt-planning-prompt-level-reports-for-chatgpt-ads/599126/"
     },
     "search-engine-journal:44b28750e54b118fd0969162bc6c96655153c6d0": {
       "first_seen": "2026-08-27T00:55:07.763088+00:00",
@@ -6960,6 +6976,14 @@
       "title": "ChatGPT Gets GPT-6 And Intelligent UI For Interactive Answers via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/chatgpt-gpt-6-intelligent-ui/592249/"
     },
+    "search-engine-journal:b470de8fadcec5a37135538d8b4ded1100111784": {
+      "first_seen": "2026-11-27T03:41:29.732829+00:00",
+      "path": "GEO-SEO News/Search Engine Journal/2026-11-26/What SEOs Can Be Thankful For 8 Wins To Celebrate In 2026 via @sejournal, @MattGSouthern.md",
+      "published": "2026-11-26T13:00:22+00:00",
+      "source": "Search Engine Journal",
+      "title": "What SEOs Can Be Thankful For: 8 Wins To Celebrate In 2026 via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/what-seos-can-be-thankful-for-2026/598921/"
+    },
     "search-engine-journal:b5314655a7a5fc6d6228fa696aec51dad988cac2": {
       "first_seen": "2026-11-19T02:41:06.811446+00:00",
       "path": "GEO-SEO News/Search Engine Journal/2026-11-18/Your Schema Markup Has a New Job. Is It Ready via @sejournal, @marthavanberkel.md",
@@ -9185,6 +9209,6 @@
       "url": "https://www.semrush.com/blog/measure-seo-ai-visibility-by-topic/"
     }
   },
-  "last_run_at": "2026-11-26T03:40:40.847232+00:00",
+  "last_run_at": "2026-11-27T03:41:29.732829+00:00",
   "version": 1
 }

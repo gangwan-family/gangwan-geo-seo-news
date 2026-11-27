@@ -279,7 +279,7 @@
             "day": 26,
             "in_month": true,
             "has_posts": true,
-            "count": 1,
+            "count": 4,
             "url": "/date/2026-11-26/"
           },
           {
@@ -370,7 +370,7 @@
         {
           "date": "2026-11-26",
           "day": 26,
-          "count": 1,
+          "count": 4,
           "url": "/date/2026-11-26/",
           "sources": [
             "Search Engine Journal"
